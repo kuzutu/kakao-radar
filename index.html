@@ -646,6 +646,32 @@ async function canliTara(){
    Bunun yerine sayfayi Google'in ceviri aynasi uzerinden aciyoruz:
    aip.ci/haber  ->  aip-ci.translate.goog/haber?_x_tr_tl=tr
    Yayincinin kendi sayfasi, uzerine Turkce cevrilmis halde gelir. */
+/* Ceviri aynasi YALNIZCA yabanci dilli kaynaklara uygulanir.
+   Iki sebep:
+     1. Ingilizce haberi cevirmenin bir faydasi yok.
+     2. Barchart gibi agir JavaScript kullanan siteler aynadan
+        gecince bozuluyor — sablon kodu ham halde ekrana dokuluyor.
+        Bu sitelerin hepsi zaten Ingilizce, yani liste ikisini de
+        cozuyor. Yeni bir yabanci kaynak eklersen alan adini buraya
+        da ekle. */
+const CEVRILECEK_ALANLAR=[
+  'fratmat.info','aip.ci','sikafinance.com','agenceecofin.com',   // Fransizca
+  'investiraucameroun.com',
+  'anecacao.com','primicias.ec',                                  // Ispanyolca
+  'noticiasagricolas.com.br',                                     // Portekizce
+  'thejakartapost.com'                                            // Endonezce/Ingilizce karisik
+];
+/* Ayna bu sitelerde bozuluyor: dili ne olursa olsun cevrilmez. */
+const AYNA_BOZUK=['barchart.com'];
+
+function cevrilsinMi(u){
+  try{
+    const a=new URL(u).hostname.replace(/^www\./,'').toLowerCase();
+    if(AYNA_BOZUK.some(function(x){return a===x||a.endsWith('.'+x);})) return false;
+    return CEVRILECEK_ALANLAR.some(function(x){return a===x||a.endsWith('.'+x);});
+  }catch(e){ return false; }
+}
+
 function ceviriAdresi(u){
   try{
     const p=new URL(u);
@@ -802,7 +828,7 @@ function ac(x,el){
   // cogu iframe'i reddeder ve telefonda bos ekran kalir.
   if(!YEREL_VAR){
     kapatGorunum(false);
-    window.open(TR_GOSTER?ceviriAdresi(u):u,'_blank','noopener');
+    window.open((TR_GOSTER&&cevrilsinMi(u))?ceviriAdresi(u):u,'_blank','noopener');
     return;
   }
   const c=document.getElementById('cerceve');
@@ -818,7 +844,7 @@ document.getElementById('kapat').addEventListener('click',function(){ kapatGorun
 document.getElementById('yeniSekme').addEventListener('click',function(){
   if(!SECILI) return;
   const u=guvenliURL(SECILI.link);
-  window.open(TR_GOSTER?ceviriAdresi(u):u,'_blank','noopener');
+  window.open((TR_GOSTER&&cevrilsinMi(u))?ceviriAdresi(u):u,'_blank','noopener');
 });
 
 /* Bölmeyi sürükleyerek boyutlandır */
@@ -1319,6 +1345,10 @@ function trDugmeGoster(){
   b.classList.toggle('ac',TR_GOSTER);
   b.classList.toggle('sec',!TR_GOSTER);
   b.textContent=TR_GOSTER?'🌐 Türkçe':'🌐 Orijinal';
+  b.title=TR_GOSTER
+    ? 'Başlıklar Türkçe. Yabancı dilli haberler çevrilmiş açılır; '+
+      'İngilizce olanlar kendi sitesinde açılır.'
+    : 'Her şey orijinal dilinde.';
 }
 document.getElementById('trBtn').addEventListener('click',function(){
   TR_GOSTER=!TR_GOSTER; depo('trGoster',TR_GOSTER);
