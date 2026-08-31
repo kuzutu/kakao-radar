@@ -1,10 +1,36 @@
 {
- "uretim": "2026-08-31T17:49:37.170953+00:00",
+ "uretim": "2026-08-31T22:17:23.634099+00:00",
  "kaynakSayisi": 38,
- "calisanKaynak": 19,
- "haberSayisi": 96,
+ "calisanKaynak": 18,
+ "haberSayisi": 95,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "August 2026 Quarterly Bulletin of Cocoa Statistics",
+   "link": "https://www.icco.org/august-2026-quarterly-bulletin-of-cocoa-statistics/",
+   "tarih": "2026-08-31T19:47:05+00:00",
+   "ozet": "Abidjan, Côte d’Ivoire, 29 May 2026 – The International Cocoa Organization today releases Issue No. 3 – Volume LII of the Quarterly Bulletin of Cocoa Statistics, for the 2025/26 cocoa year. This issue reflects the most recent information available to the Secre",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "Ağustos 2026 Üç Aylık Kakao İstatistikleri Bülteni",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Prices Rise on Concern Over West African Cocoa Quality",
+   "link": "https://www.barchart.com/story/news/4359537/cocoa-prices-rise-on-concern-over-west-african-cocoa-quality",
+   "tarih": "2026-08-31T18:22:05+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed up +123 (+1.85%) on Monday, and September ICE London cocoa #7 (CAU26 ) did not trade, with markets in the UK closed for a holiday. NY cocoa extended its sharp three-session rally on Monday and posted an 11-month high. Conc",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Fiyatları Batı Afrika Kakao Kalitesine İlişkin Endişelerle Yükseliyor",
+   "okunur": true
+  },
   {
    "baslik": "West African Cocoa Crop Concerns Underpin Prices",
    "link": "https://www.barchart.com/story/news/4357649/west-african-cocoa-crop-concerns-underpin-prices",
@@ -97,7 +123,7 @@
    "okunur": true
   },
   {
-   "baslik": "Ivory Coast Opens 2026/27 Cocoa Main Crop With Farmgate Price Expected at 1,200 CFA/kg (31 August 2026)",
+   "baslik": "Ivory Coast Opens 2026/27 Cocoa Main Crop With Farmgate Price Expected at 1,200 CFA/kg (28 August 2026)",
    "link": "https://www.cocoaintel.com/ivory-coast-opens-2026-27-cocoa-main-crop-with-farmgate-price-expected-at-1-200-cfa-kg-31-august-2026/",
    "tarih": "2026-08-31T11:27:23+00:00",
    "ozet": "Ivory Coast is expected to keep its 2026/27 cocoa farmgate price at 1,200 CFA/kg, while a delayed main crop and regional price gaps raise supply risks",
@@ -106,20 +132,7 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili 2026/27 Kakao Ana Mahsulünü Farmgate Fiyatıyla 1.200 CFA/kg olarak Bekliyor (31 Ağustos 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ JNCC 2026: les prix bord champ de la campagne café-cacao 2026-2027 seront dévoilés le 1er septembre",
-   "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-les-prix-bord-champ-de-la-campagne-cafe-cacao-2026-2027-seront-devoiles-le-1er-septembre/",
-   "tarih": "2026-08-31T10:36:03+00:00",
-   "ozet": "Abidjan, 31 août 2026 (AIP)- La campagne café-cacao 2026-2027 s’ouvre officiellement mardi 1er septembre 2026, à l’occasion de la 10ᵉ édition des Journées nationales du cacao et du chocolat (JNCC), prévue au parc des Expositions d’Abidjan, avec l’annonce des p",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ JNCC 2026: 2026-2027 kahve-kakao kampanyası saha fiyatları 1 Eylül'de açıklanacak",
+   "baslikTR": "Fildişi Sahili 2026/27 Kakao Ana Mahsulünü Farmgate Fiyatıyla 1.200 CFA/kg olarak Bekliyor (28 Ağustos 2026)",
    "okunur": true
   },
   {
@@ -136,19 +149,6 @@
    "okunur": true
   },
   {
-   "baslik": "JNCC 2026: les prix bord champ de la campagne café-cacao 2026-2027 seront connus le 1er septembre",
-   "link": "https://www.aip.ci/jncc-2026-les-prix-bord-champ-de-la-campagne-cafe-cacao-2026-2027-seront-connus-le-1er-septembre/",
-   "tarih": "2026-08-31T04:16:13+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "JNCC 2026: 2026-2027 kahve-kakao kampanyasının saha fiyatları 1 Eylül'de belli olacak",
-   "okunur": false
-  },
-  {
    "baslik": "Outlook of Ghana’s external sector remains positive for second-half of 2026",
    "link": "https://www.myjoyonline.com/outlook-of-ghanas-external-sector-remains-positive-for-second-half-of-2026-bog/",
    "tarih": "2026-08-30T19:39:53+00:00",
@@ -160,19 +160,6 @@
    "kaynakUyari": "",
    "baslikTR": "Gana'nın dış sektörünün görünümü 2026'nın ikinci yarısı için olumlu olmaya devam ediyor",
    "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le CNS appelle les producteurs d’Ananguié à renforcer la vigilance contre le travail des enfants dans la cacaoculture",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-cns-appelle-les-producteurs-dananguie-a-renforcer-la-vigilance-contre-le-travail-des-enfants-dans-la-cacaoculture/",
-   "tarih": "2026-08-30T15:36:35+00:00",
-   "ozet": "Adzopé, 30 août 2026 (AIP) – Le Comité national de surveillance des actions de lutte contre la traite, l’exploitation et le travail des enfants (CNS) a appelé, vendredi 28 août 2026, les producteurs de cacao d’Ananguié à renforcer leur vigilance pour prévenir ",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ CNS, Ananguié üreticilerini kakao tarımında çocuk işçiliğine karşı uyanıklığı güçlendirmeye çağırıyor",
-   "okunur": false
   },
   {
    "baslik": "Cocoa Prices Surge on West African Crop Risks",
@@ -1257,17 +1244,17 @@
  "rapor": [
   [
    "ICCO",
-   "5 haber",
-   1712,
+   "6 haber",
+   1527,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
-   15
+   14
   ],
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1543,
+   1569,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1276,7 +1263,7 @@
   [
    "COCOBOD · resmî",
    "codetabs: HTTP Error 522: <none>",
-   80129,
+   67086,
    "",
    "",
    null,
@@ -1285,7 +1272,7 @@
   [
    "FCC · Cocoa Commerce",
    "codetabs: HTTP Error 522: <none>",
-   83570,
+   62989,
    "",
    "",
    null,
@@ -1294,7 +1281,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4027,
+   4109,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1303,7 +1290,7 @@
   [
    "CAOBISCO · AB sanayi",
    "codetabs: HTTP Error 522: <none>",
-   135148,
+   123039,
    "",
    "",
    null,
@@ -1312,7 +1299,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   1422,
+   1479,
    "https://cocoaradar.com/archive/rss/",
    "kesif",
    null,
@@ -1321,7 +1308,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   2975,
+   2538,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "kesif",
    null,
@@ -1330,7 +1317,7 @@
   [
    "VOICE / Cocoa Barometer",
    "codetabs: HTTP Error 522: <none>",
-   56479,
+   77638,
    "",
    "",
    null,
@@ -1339,7 +1326,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   2484,
+   1072,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1348,7 +1335,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   343,
+   503,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1357,7 +1344,7 @@
   [
    "Panamir",
    "2 haber",
-   2648,
+   1716,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1365,8 +1352,8 @@
   ],
   [
    "Barchart · Softs",
-   "4 haber",
-   351,
+   "5 haber",
+   206,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1375,7 +1362,7 @@
   [
    "Hedgepoint",
    "codetabs: HTTP Error 522: <none>",
-   68867,
+   77686,
    "",
    "",
    null,
@@ -1384,7 +1371,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   199,
+   489,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1393,7 +1380,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   649,
+   234,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1402,7 +1389,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   974,
+   393,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1411,7 +1398,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   552,
+   428,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1420,7 +1407,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   2322,
+   2133,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1429,7 +1416,7 @@
   [
    "Graphic Online · GH",
    "codetabs: HTTP Error 522: <none>",
-   78960,
+   79180,
    "",
    "",
    null,
@@ -1438,7 +1425,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   979,
+   953,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1447,7 +1434,7 @@
   [
    "Citi Newsroom · GH",
    "codetabs: HTTP Error 522: <none>",
-   78432,
+   78995,
    "",
    "",
    null,
@@ -1456,7 +1443,7 @@
   [
    "B&FT Online · GH",
    "codetabs: HTTP Error 522: <none>",
-   75424,
+   67228,
    "",
    "",
    null,
@@ -1465,7 +1452,7 @@
   [
    "Ghana News Agency",
    "codetabs: HTTP Error 522: <none>",
-   83308,
+   83855,
    "",
    "",
    null,
@@ -1474,7 +1461,7 @@
   [
    "GhanaWeb · İş",
    "codetabs: HTTP Error 522: <none>",
-   78307,
+   78270,
    "",
    "",
    null,
@@ -1482,8 +1469,8 @@
   ],
   [
    "Fratmat · CI",
-   "codetabs: HTTP Error 522: <none>",
-   82010,
+   "besleme tanimsiz (38481 bayt, vekil)",
+   7928,
    "",
    "",
    null,
@@ -1491,17 +1478,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "3 haber",
-   5011,
-   "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "codetabs: HTTP Error 522: <none>",
+   63746,
+   "",
+   "",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "1 haber",
-   1701,
+   538,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "kesif",
    null,
@@ -1509,8 +1496,8 @@
   ],
   [
    "Agence Ecofin",
-   "codetabs: HTTP Error 522: <none>",
-   81997,
+   "konuya uyan haber yok (10 kayit tarandi)",
+   32126,
    "",
    "",
    null,
@@ -1519,7 +1506,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   3509,
+   5396,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1528,7 +1515,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   3344,
+   4788,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1537,7 +1524,7 @@
   [
    "BusinessDay · NG",
    "codetabs: HTTP Error 522: <none>",
-   62217,
+   81919,
    "",
    "",
    null,
@@ -1546,7 +1533,7 @@
   [
    "Vanguard · NG",
    "codetabs: HTTP Error 522: <none>",
-   49880,
+   28159,
    "",
    "",
    null,
@@ -1555,7 +1542,7 @@
   [
    "Punch · NG",
    "besleme tanimsiz (5763 bayt, vekil)",
-   4059,
+   7016,
    "",
    "",
    null,
@@ -1564,7 +1551,7 @@
   [
    "Anecacao · EC",
    "codetabs: HTTP Error 522: <none>",
-   86766,
+   52793,
    "",
    "",
    null,
@@ -1573,7 +1560,7 @@
   [
    "Primicias · EC",
    "codetabs: HTTP Error 522: <none>",
-   20099,
+   19866,
    "",
    "",
    null,
@@ -1582,7 +1569,7 @@
   [
    "Notícias Agrícolas · BR",
    "codetabs: HTTP Error 522: <none>",
-   79190,
+   35780,
    "",
    "",
    null,
@@ -1591,7 +1578,7 @@
   [
    "Jakarta Post · İş",
    "codetabs: HTTP Error 522: <none>",
-   60265,
+   79216,
    "",
    "",
    null,
