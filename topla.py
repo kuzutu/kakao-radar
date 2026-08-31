@@ -25,6 +25,7 @@ import re
 import ssl
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import zlib
@@ -63,6 +64,9 @@ TARAYICI_KIMLIGI = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
+# 403 alinca denenen ikinci kimlik. Bazi yayincilar tarayici kimligini
+# engelliyor ama besleme okuyucularina izin veriyor.
+OKUYUCU_KIMLIGI = "KakaoHaberRadari/1.0 (+RSS reader)"
 
 # GitHub Actions'in Ubuntu imajinda kok sertifikalar dolu gelir, ama
 # betik Mac'te de elle calistirilabilsin diye certifi'yi deniyoruz.
@@ -125,16 +129,9 @@ def kaynaklari_oku():
 #  Ag
 # ══════════════════════════════════════════════════════════════════
 
-def getir(url, zaman_asimi=ZAMAN_ASIMI, sayfa=False):
-    """sayfa=True ise HTML bekleniyor demektir, basliklar ona gore ayarlanir.
-
-       ONEMLI: Accept-Encoding gonderiyoruz ve gelen govdeyi ELIMIZLE
-       aciyoruz. urllib bunu kendisi yapmaz; bazi sunucular istenmese de
-       gzip gonderiyor ve sikistirilmis bayt yigini "besleme tanimsiz"
-       olarak dusuyordu. ICCO, FCC, Ghana News Agency, Primicias ve
-       World Cocoa Foundation bu yuzden hic gelmiyordu."""
+def _tek_deneme(url, zaman_asimi, sayfa, kimlik):
     basliklar = {
-        "User-Agent": TARAYICI_KIMLIGI,
+        "User-Agent": kimlik,
         "Accept-Encoding": "gzip, deflate",
         "Accept-Language": "en-US,en;q=0.9,fr;q=0.8,es;q=0.7,pt;q=0.6",
         "Connection": "close",
@@ -178,6 +175,70 @@ def getir(url, zaman_asimi=ZAMAN_ASIMI, sayfa=False):
         except UnicodeDecodeError:
             continue
     return ham.decode("utf-8", "replace")
+
+
+def getir(url, zaman_asimi=ZAMAN_ASIMI, sayfa=False):
+    """sayfa=True ise HTML bekleniyor demektir, basliklar ona gore ayarlanir.
+
+       Iki onemli davranis:
+
+       1. GZIP: Accept-Encoding gonderiyoruz ve gelen govdeyi ELIMIZLE
+          aciyoruz. urllib bunu kendisi yapmaz; bazi sunucular istenmese
+          de gzip gonderiyor ve sikistirilmis bayt yigini "besleme
+          tanimsiz" olarak dusuyordu. ICCO, FCC, Ghana News Agency ve
+          World Cocoa Foundation bu yuzden hic gelmiyordu.
+
+       2. TEKRAR: 5xx, zaman asimi ve DNS hatalari genelde geciciydi
+          (AIP bir turda 500 verip digerinde calisiyordu). Bir kez daha
+          deneniyor. 403'te ise sade bir okuyucu kimligiyle tekrar
+          deneniyor — bazi yayincilar tarayici kimligini engelliyor."""
+    son = None
+    for deneme in (1, 2):
+        try:
+            return _tek_deneme(url, zaman_asimi, sayfa, TARAYICI_KIMLIGI)
+        except urllib.error.HTTPError as e:
+            son = e
+            if e.code == 403:
+                try:
+                    return _tek_deneme(url, zaman_asimi, sayfa, OKUYUCU_KIMLIGI)
+                except Exception as e2:
+                    son = e2
+                break                      # 403 tekrarla duzelmez
+            if e.code < 500:
+                break                      # 404 gibi kalici hatalar
+        except Exception as e:
+            son = e                        # zaman asimi, DNS, baglanti
+        if deneme == 1:
+            time.sleep(1.5)
+    raise son if son else OSError("bilinmeyen hata")
+
+
+FEED_KALIBI = re.compile(
+    r'<link[^>]+(?:type=["\'](?:application/(?:rss|atom)\+xml)["\'][^>]*'
+    r'href=["\']([^"\']+)["\']|href=["\']([^"\']+)["\'][^>]*'
+    r'type=["\']application/(?:rss|atom)\+xml["\'])', re.I)
+
+
+def feed_kesfet(ornek_url):
+    """Yapilandirilmis adreslerin hepsi 404 verdiyse, sitenin ana
+       sayfasindan besleme adresini bulmayi dener. Yayincilar besleme
+       yolunu degistirdiginde (COCOBOD, Hedgepoint, Fratmat, B&FT bu
+       durumda) elle adres tahmin etmek yerine siteye kendisi sordurur."""
+    try:
+        p = urllib.parse.urlparse(ornek_url)
+        ana = "%s://%s/" % (p.scheme, p.hostname)
+        sayfa = getir(ana, 20, sayfa=True)
+    except Exception:
+        return []
+    bulunan = []
+    for m in FEED_KALIBI.finditer(sayfa):
+        y = html_kacis.unescape(m.group(1) or m.group(2) or "").strip()
+        if not y:
+            continue
+        y = urllib.parse.urljoin(ana, y)
+        if y not in bulunan:
+            bulunan.append(y)
+    return bulunan[:3]
 
 
 def bicim_bul(metin):
@@ -306,16 +367,35 @@ def kaynak_tara(k):
     muaf = k["ad"] in KONU_MUAF
     son_hata = "adres yok"
 
-    for url in k["feeds"]:
+    adresler = list(k["feeds"])
+    kesfedildi = False
+
+    while adresler:
+        url = adresler.pop(0)
+        if not adresler and not kesfedildi:
+            # Son adres de elimizde: basarisiz olursa siteye kendi
+            # besleme adresini soracagiz (asagida).
+            pass
         try:
             metin = getir(url)
         except Exception as e:
             son_hata = ("%s" % e)[:70]
+            if not adresler and not kesfedildi:
+                kesfedildi = True
+                bulunan = feed_kesfet(k["feeds"][0])
+                if bulunan:
+                    adresler = bulunan
+                    son_hata += "  (besleme aranıyor)"
             continue
 
         bicim = bicim_bul(metin)
         if not bicim:
             son_hata = "besleme tanimsiz (%d bayt)" % len(metin)
+            if not adresler and not kesfedildi:
+                kesfedildi = True
+                bulunan = feed_kesfet(k["feeds"][0])
+                if bulunan:
+                    adresler = bulunan
             continue
 
         try:
