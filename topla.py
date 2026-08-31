@@ -40,7 +40,7 @@ MAKALE_YOLU = os.path.join(KOK, "veri", "makaleler.json")
 
 AZAMI_GUN = 60           # index.html'deki AZAMI_GUN ile ayni olmali
 ZAMAN_ASIMI = 25
-ES_ZAMANLI = 8
+ES_ZAMANLI = 10
 CEVIR = os.environ.get("CEVIR", "").strip() in ("1", "true", "evet")
 # Makale govdesini cekip sadelestirme (reklamsiz okuyucu icin)
 MAKALE = os.environ.get("MAKALE", "1").strip() in ("1", "true", "evet")
@@ -213,6 +213,30 @@ def getir(url, zaman_asimi=ZAMAN_ASIMI, sayfa=False):
     raise son if son else OSError("bilinmeyen hata")
 
 
+# Yayincilarin bir kismi bulut IP'lerini engelliyor: GitHub'in
+# sunucusundan bakinca 403 donuyor ya da besleme yerine bot kontrol
+# sayfasi geliyor. Ayni adres Mac'ten sorunsuz aciliyor. Cozum:
+# dogrudan olmadiysa herkese acik bir vekil uzerinden tekrar denemek.
+# (kakao_sunucu.py'nin tarayici tarafinda yaptigi seyin aynisi.)
+VEKILLER = [
+    ("allorigins", lambda u: "https://api.allorigins.win/raw?url="
+                             + urllib.parse.quote(u, safe="")),
+    ("codetabs",   lambda u: "https://api.codetabs.com/v1/proxy/?quest="
+                             + urllib.parse.quote(u, safe="")),
+]
+
+
+def vekille_getir(url, zaman_asimi=30):
+    """Adresi vekiller uzerinden dener. Ilk isleyeni dondurur."""
+    son = None
+    for ad, f in VEKILLER:
+        try:
+            return _tek_deneme(f(url), zaman_asimi, False, TARAYICI_KIMLIGI)
+        except Exception as e:
+            son = "%s: %s" % (ad, ("%s" % e)[:40])
+    raise OSError(son or "vekil yok")
+
+
 FEED_KALIBI = re.compile(
     r'<link[^>]+(?:type=["\'](?:application/(?:rss|atom)\+xml)["\'][^>]*'
     r'href=["\']([^"\']+)["\']|href=["\']([^"\']+)["\'][^>]*'
@@ -367,35 +391,42 @@ def kaynak_tara(k):
     muaf = k["ad"] in KONU_MUAF
     son_hata = "adres yok"
 
-    adresler = list(k["feeds"])
+    # Sirayla uc yol denenir:
+    #   1. adresler dogrudan
+    #   2. site kapali/tasinmis ise ana sayfadan besleme kesfi
+    #   3. hala olmadiysa herkese acik vekil uzerinden (IP engeli icin)
+    adresler = [(u, "dogrudan") for u in k["feeds"]]
     kesfedildi = False
+    vekil_denendi = False
 
-    while adresler:
-        url = adresler.pop(0)
-        if not adresler and not kesfedildi:
-            # Son adres de elimizde: basarisiz olursa siteye kendi
-            # besleme adresini soracagiz (asagida).
-            pass
+    def sonraki_yol():
+        """Adres listesi bitince bir sonraki kurtarma yolunu kurar."""
+        nonlocal kesfedildi, vekil_denendi
+        if not kesfedildi:
+            kesfedildi = True
+            bulunan = feed_kesfet(k["feeds"][0])
+            if bulunan:
+                return [(u, "kesif") for u in bulunan]
+        if not vekil_denendi:
+            vekil_denendi = True
+            return [(u, "vekil") for u in k["feeds"][:2]]
+        return []
+
+    while True:
+        if not adresler:
+            adresler = sonraki_yol()
+            if not adresler:
+                break
+        url, yol = adresler.pop(0)
         try:
-            metin = getir(url)
+            metin = vekille_getir(url) if yol == "vekil" else getir(url)
         except Exception as e:
             son_hata = ("%s" % e)[:70]
-            if not adresler and not kesfedildi:
-                kesfedildi = True
-                bulunan = feed_kesfet(k["feeds"][0])
-                if bulunan:
-                    adresler = bulunan
-                    son_hata += "  (besleme aranıyor)"
             continue
 
         bicim = bicim_bul(metin)
         if not bicim:
-            son_hata = "besleme tanimsiz (%d bayt)" % len(metin)
-            if not adresler and not kesfedildi:
-                kesfedildi = True
-                bulunan = feed_kesfet(k["feeds"][0])
-                if bulunan:
-                    adresler = bulunan
+            son_hata = "besleme tanimsiz (%d bayt, %s)" % (len(metin), yol)
             continue
 
         try:
@@ -436,9 +467,12 @@ def kaynak_tara(k):
         ms = int((time.time() - t0) * 1000)
         if haberler:
             return haberler, [k["ad"], "%d haber" % len(haberler), ms,
-                              url, "toplayici", None, elenen]
-        son_hata = ("tum kayitlar elendi (%d tarandi)" % len(ham)) if muaf \
-                   else ("konuya uyan haber yok (%d kayit tarandi)" % len(ham))
+                              url, yol, None, elenen]
+        if muaf:
+            son_hata = ("%d kayit var ama hepsi %d gunden eski"
+                        % (len(ham), AZAMI_GUN))
+        else:
+            son_hata = "konuya uyan haber yok (%d kayit tarandi)" % len(ham)
 
     return [], [k["ad"], son_hata, int((time.time() - t0) * 1000),
                 "", "", None, 0]
