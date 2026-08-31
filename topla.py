@@ -316,34 +316,65 @@ def kaynak_tara(k):
 #  o durumda ikinciye duser. Basliklar TEK TEK degil TOPLU gonderilir
 #  (10'ar 10'ar) — hem cok daha hizli, hem kota yeme ihtimali dusuk.
 
+def _yaniti_coz(j):
+    """Iki ucun yapisi FARKLI, ayni ayristirici ikisini de karsilamali:
+         gtx      -> [[["cevrilmis","orijinal",...], [...]], ...]
+                     yani j[0] bir LISTE LISTESI, her p[0] bir parca
+         clients5 -> [["cevrilmis","en"]]
+                     yani j[0] duz bir METIN listesi, ilki cevirinin tamami
+
+       Onceki surumde ikisi ayirt edilmiyordu: clients5'te p[0] parcanin
+       degil METNIN ilk HARFINI veriyordu ve basliklar "Ke", "Ge" gibi
+       iki harfe dusuyordu (ikinci harf "en" dil kodundan geliyordu)."""
+    if not isinstance(j, list) or not j:
+        raise ValueError("bos yanit")
+    ilk = j[0]
+    if isinstance(ilk, str):
+        return ilk
+    if isinstance(ilk, list):
+        if ilk and all(isinstance(p, str) for p in ilk):
+            return ilk[0]                      # clients5
+        return "".join(p[0] for p in ilk       # gtx
+                       if isinstance(p, list) and p and isinstance(p[0], str))
+    raise ValueError("tanimsiz yapi")
+
+
+def _makul(kaynak, cevrilmis):
+    """Ceviri kaynakla kiyaslanabilir uzunlukta mi? Bozuk ayristirmadan
+       gelen kirpik metinler ('Ke') buradan gecemez."""
+    if not cevrilmis or not cevrilmis.strip():
+        return False
+    return len(cevrilmis.strip()) >= max(6, len(kaynak) * 0.35)
+
+
 def _uc_gtx(metin):
-    ham = getir("https://translate.googleapis.com/translate_a/single"
-                "?client=gtx&sl=auto&tl=tr&dt=t&q="
-                + urllib.parse.quote(metin), 25)
-    j = json.loads(ham)
-    return "".join(p[0] for p in j[0] if p and p[0])
+    return _yaniti_coz(json.loads(getir(
+        "https://translate.googleapis.com/translate_a/single"
+        "?client=gtx&sl=auto&tl=tr&dt=t&q=" + urllib.parse.quote(metin), 25)))
 
 
 def _uc_clients5(metin):
-    ham = getir("https://clients5.google.com/translate_a/t"
-                "?client=dict-chrome-ex&sl=auto&tl=tr&q="
-                + urllib.parse.quote(metin), 25)
-    j = json.loads(ham)
-    if isinstance(j, list) and j and isinstance(j[0], list):
-        return "".join(p[0] for p in j[0] if p and p[0])
-    if isinstance(j, list) and j and isinstance(j[0], str):
-        return j[0]
-    raise ValueError("beklenmeyen yanit")
+    return _yaniti_coz(json.loads(getir(
+        "https://clients5.google.com/translate_a/t"
+        "?client=dict-chrome-ex&sl=auto&tl=tr&q="
+        + urllib.parse.quote(metin), 25)))
 
 
 UCLAR = [("gtx", _uc_gtx), ("clients5", _uc_clients5)]
 
 
 def ceviri_onbellek_oku():
+    """Onbellegi okur ve bozuk kayitlari ELER. Boylece eski surumun
+       yazdigi kirpik ceviriler kendiliginden temizlenir."""
     try:
-        return json.load(open(CEVIRI_YOLU, encoding="utf-8"))
+        ham = json.load(open(CEVIRI_YOLU, encoding="utf-8"))
     except Exception:
         return {}
+    temiz = {a: b for a, b in ham.items() if _makul(a, b)}
+    atilan = len(ham) - len(temiz)
+    if atilan:
+        print("  onbellekten %d bozuk ceviri atildi" % atilan)
+    return temiz
 
 
 def cevir_metin(metin, durum):
@@ -356,7 +387,7 @@ def cevir_metin(metin, durum):
             if c and c.strip():
                 durum["iyi"] = ad
                 return c
-            son = "bos yanit"
+            son = "%s: bos yanit" % ad
         except Exception as e:
             son = "%s: %s" % (ad, ("%s" % e)[:60])
     raise OSError(son or "bilinmeyen")
@@ -380,18 +411,22 @@ def basliklari_cevir(haberler):
             hata_ornegi = hata_ornegi or ("%s" % e)
             sonuc = []
 
-        if len(sonuc) == len(grup) and all(s.strip() for s in sonuc):
+        tamam = (len(sonuc) == len(grup)
+                 and all(_makul(a, b) for a, b in zip(grup, sonuc)))
+        if tamam:
             for a, b in zip(grup, sonuc):
                 onbellek[a] = b.strip()
                 cevrilen += 1
         else:
-            # Satir sayisi tutmadi: bu grubu tek tek dene
+            # Toplu ceviri tutmadi: bu grubu tek tek dene
             for a in grup:
                 try:
                     c = cevir_metin(a, durum)
-                    if c.strip():
+                    if _makul(a, c):
                         onbellek[a] = c.strip()
                         cevrilen += 1
+                    else:
+                        hata_ornegi = hata_ornegi or ("kirpik ceviri: %r" % c[:40])
                 except Exception as e:
                     hata_ornegi = hata_ornegi or ("%s" % e)
                 time.sleep(0.2)
