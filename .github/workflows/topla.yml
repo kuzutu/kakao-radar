@@ -1,0 +1,54 @@
+name: Kakao haber topla
+
+on:
+  schedule:
+    # Her saat basi (UTC). Turkiye saati = UTC + 3.
+    # GitHub yogun saatlerde birkac dakika gecikebilir, normaldir.
+    - cron: "0 * * * *"
+  workflow_dispatch:        # Actions sekmesindeki "Run workflow" dugmesi
+  push:
+    paths:
+      - "index.html"        # kaynak listesi degisince hemen yeniden topla
+      - "topla.py"
+
+permissions:
+  contents: write
+
+# Bir onceki calisma bitmeden yenisi baslamasin (ayni dosyaya yazarlar)
+concurrency:
+  group: topla
+  cancel-in-progress: false
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklar
+        run: pip install -r requirements.txt
+
+      - name: Haberleri topla
+        env:
+          CEVIR: "1"        # basliklari Turkce'ye cevir; istemezsen "0" yap
+        run: python topla.py
+
+      - name: Sonucu isle
+        run: |
+          git config user.name  "kakao-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veri/
+          if git diff --staged --quiet; then
+            echo "Degisiklik yok, islenecek bir sey yok."
+            exit 0
+          fi
+          git commit -m "veri: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # Bu arada baska bir islem push etmis olabilir
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+          git push

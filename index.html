@@ -1,0 +1,1320 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=5">
+<meta name="theme-color" content="#1f3864">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kakao Radar">
+<meta name="description" content="Kakao piyasası haber takibi — 38 kaynak, Türkçe çeviri, piyasa tonu">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="simgeler/simge-180.png">
+<link rel="apple-touch-icon" sizes="152x152" href="simgeler/simge-152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="simgeler/simge-167.png">
+<link rel="icon" type="image/png" sizes="192x192" href="simgeler/simge-192.png">
+<title>Kakao Haber Radarı</title>
+<style>
+:root{--kenar:#e3e7ee;--metin:#1a2330;--soluk:#7a8494;--lacivert:#1f3864;--zemin:#eef1f5;color-scheme:light}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
+  background:var(--zemin);color:var(--metin);font-size:14px;display:flex;flex-direction:column;overflow:hidden}
+
+/* ── Üst çubuk ── */
+.ust{padding:12px 16px 10px;background:#fff;border-bottom:1px solid var(--kenar);flex:0 0 auto}
+.ust h1{font-size:17px;margin:0 0 8px;display:flex;align-items:center;gap:9px}
+.ust h1 small{font-size:11px;font-weight:400;color:var(--soluk)}
+.bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:6px;background:var(--lacivert);color:#fff;border:none;
+  border-radius:8px;padding:8px 13px;font-size:12.5px;font-weight:700;cursor:pointer;font-family:inherit;white-space:nowrap}
+.btn:hover{background:#294a86}
+.btn:disabled{opacity:.5;cursor:default}
+.btn.sec{background:var(--zemin);color:var(--lacivert)}
+.btn.ac{background:#1e8e4e}
+input[type=text],select{padding:7px 9px;border:1px solid #cfd6e2;border-radius:8px;font-size:12.5px;
+  color:var(--lacivert);background:#fff;font-family:inherit}
+input[type=text]{min-width:170px}
+.mini{font-size:11px;color:#98a2b3}
+
+/* ── Gövde: liste + görüntüleyici ── */
+.govde{flex:1 1 auto;display:flex;flex-direction:column;min-height:0}
+.liste{flex:1 1 auto;overflow-y:auto;padding:6px 0}
+.liste.kucuk{flex:0 0 34%}
+
+/* ── Haber satırı: sadece başlık + tarih ── */
+.satir{display:flex;align-items:baseline;gap:10px;padding:8px 16px;cursor:pointer;
+  border-left:3px solid transparent;line-height:1.4}
+.satir:hover{background:#e7ecf5}
+.satir.secili{background:#dde6f5;border-left-color:var(--lacivert)}
+.satir .bas{flex:1 1 auto;font-size:13.5px;font-weight:600;color:var(--metin)}
+.satir.okundu .bas{color:#6b7686;font-weight:500}
+.satir .trh{flex:0 0 auto;font-size:11px;color:#98a2b3;font-variant-numeric:tabular-nums;white-space:nowrap}
+.satir .kyn{flex:0 0 auto;font-size:10.5px;color:#8b95a5;background:#eef2f8;
+  border-radius:5px;padding:1px 6px;white-space:nowrap;max-width:150px;overflow:hidden;text-overflow:ellipsis}
+.satir .nokta{flex:0 0 auto;width:7px;height:7px;border-radius:50%;background:#cbd3de}
+.satir .nokta.bull{background:#c0392b}
+.satir .nokta.bear{background:#1e8e4e}
+.satir .lnk{flex:0 0 auto;font-size:11px;font-weight:800;width:16px;text-align:center}
+.satir.kirik .bas{color:#c0392b;text-decoration:line-through;text-decoration-color:#e8a8a8}
+.gun{padding:9px 16px 4px;font-size:10.5px;font-weight:800;letter-spacing:.05em;
+  text-transform:uppercase;color:#98a2b3;background:var(--zemin);position:sticky;top:0;z-index:2}
+
+/* ── Alt pencere ── */
+.izle{flex:0 0 66%;display:none;flex-direction:column;border-top:2px solid var(--lacivert);background:#fff;min-height:0}
+.izle.acik{display:flex}
+.izleUst{flex:0 0 auto;display:flex;align-items:center;gap:8px;padding:8px 12px;
+  background:#f7f9fc;border-bottom:1px solid var(--kenar)}
+.izleUst .ad{flex:1 1 auto;font-size:12.5px;font-weight:700;color:var(--lacivert);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.izle iframe{flex:1 1 auto;width:100%;border:0;background:#fff}
+.tut{flex:0 0 auto;height:6px;background:var(--kenar);cursor:ns-resize}
+.tut:hover{background:#b9c3d4}
+
+.durumCubuk{padding:5px 16px;font-size:11px;color:#98a2b3;background:#fff;border-top:1px solid var(--kenar);flex:0 0 auto}
+.bos{padding:34px 20px;text-align:center;color:#98a2b3;font-size:13px}
+.pnl{position:absolute;inset:auto 16px 44px 16px;max-height:52vh;overflow:auto;background:#fff;
+  border:1px solid var(--kenar);border-radius:10px;box-shadow:0 6px 26px rgba(20,30,50,.16);padding:14px;z-index:20}
+.pnl.gizli{display:none}
+table{border-collapse:collapse;width:100%;font-size:11.5px}
+th,td{border:1px solid var(--kenar);padding:5px 7px;text-align:left}
+th{background:#eef2f8;font-weight:800;color:#2c3e50}
+.uyari{background:#fff8e6;border:1px solid #f0e0a8;border-radius:9px;padding:10px 13px;
+  font-size:12px;color:#6b5b1f;margin:8px 16px;line-height:1.55}
+
+/* ══════════ MOBİL DÜZEN ══════════
+   Telefonda yan yana bölme çalışmaz. Liste tam ekran; bir habere
+   dokununca görüntüleyici üstten kayarak tam ekran açılır. */
+body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}
+.geri{display:none}
+@media (max-width: 780px){
+  body{font-size:15px}
+  .ust{padding:10px 12px 8px}
+  .ust h1{font-size:16px;margin-bottom:7px}
+  .ust h1 small{display:none}
+  .bar{gap:6px}
+  .btn{padding:9px 12px;font-size:13px}
+  input[type=text]{min-width:0;flex:1 1 130px}
+  select{flex:0 1 auto;font-size:13px}
+  #durum{flex:1 1 100%;margin-top:2px}
+
+  /* Liste: dokunma hedefleri büyük, tarih alta iner */
+  .satir{padding:13px 14px;align-items:flex-start;flex-wrap:wrap;gap:8px}
+  .satir .bas{flex:1 1 100%;font-size:15px;line-height:1.42;order:2}
+  .satir .nokta{order:1;margin-top:6px}
+  .satir .lnk{order:1;margin-top:2px}
+  .satir .kyn{order:3;max-width:60%}
+  .satir .trh{order:4}
+  .gun{padding:10px 14px 5px;font-size:11px}
+
+  /* Görüntüleyici: tam ekran katman */
+  .liste.kucuk{flex:1 1 auto}
+  .tut{display:none !important}
+  .izle{position:fixed;inset:0;z-index:60;flex:1 1 auto;border-top:0;
+    transform:translateY(100%);transition:transform .22s ease;display:flex}
+  .izle.acik{transform:translateY(0)}
+  .izleUst{padding:calc(9px + env(safe-area-inset-top)) 10px 9px;gap:6px;flex-wrap:wrap}
+  .izleUst .ad{flex:1 1 100%;order:2;font-size:13px;white-space:normal;
+    max-height:2.7em;overflow:hidden;line-height:1.35}
+  .izleUst .btn{order:3;flex:1 1 auto;justify-content:center;padding:10px 8px;font-size:12.5px}
+  .geri{display:inline-flex;order:1;flex:0 0 auto;background:#eef1f5;color:#1f3864;
+    border:none;border-radius:8px;padding:8px 12px;font-size:14px;font-weight:800;
+    cursor:pointer;font-family:inherit}
+  #kapat{display:none}
+  #cevirDurumu{order:4;flex:1 1 100%;text-align:center}
+
+  .durumCubuk{padding:7px 14px;font-size:11.5px;
+    padding-bottom:calc(7px + env(safe-area-inset-bottom))}
+  .pnl{inset:auto 8px 8px 8px;max-height:72vh;padding:11px}
+  table{font-size:11px}
+  th,td{padding:4px 5px}
+}
+@media (max-width: 420px){
+  .satir .kyn{font-size:10px}
+  .ust h1{font-size:15px}
+}
+/* Dokunmatik: gri vurgu kutusunu kaldır */
+*{-webkit-tap-highlight-color:transparent}
+.satir{-webkit-user-select:none;user-select:none}
+</style>
+</head>
+<body>
+
+<div class="ust">
+  <h1>📰 Kakao Haber Radarı <small id="damga"></small></h1>
+  <div class="bar">
+    <button class="btn" id="tara">🔄 Tara</button>
+    <select id="pencere">
+      <option value="7">7 gün</option>
+      <option value="14" selected>14 gün</option>
+      <option value="30">30 gün</option>
+      <option value="60">60 gün (azami)</option>
+    </select>
+    <input type="text" id="ara" placeholder="Başlıkta ara">
+    <select id="kaynakF"><option value="">Tüm kaynaklar</option></select>
+    <select id="tonF">
+      <option value="">Tüm tonlar</option>
+      <option value="bull">Boğa</option>
+      <option value="bear">Ayı</option>
+      <option value="flat">Nötr</option>
+    </select>
+    <button class="btn sec" id="trBtn" style="display:none" title="Başlıkları Türkçe / orijinal dilde göster">🌐 TR</button>
+    <button class="btn sec" id="kontrolBtn">🔗 Linkleri kontrol et</button>
+    <button class="btn sec" id="taniBtn">🔍 Tanı</button>
+    <span class="mini" id="durum">Açılışta otomatik taranır.</span>
+  </div>
+</div>
+
+<div id="proxyUyari" class="uyari" style="display:none"></div>
+
+<div class="govde">
+  <div class="liste" id="liste"><div class="bos">Taranıyor…</div></div>
+  <div class="tut" id="tut" style="display:none"></div>
+  <div class="izle" id="izle">
+    <div class="izleUst">
+      <button class="geri" id="geriBtn" aria-label="Geri">‹ Geri</button>
+      <span class="ad" id="izleAd">—</span>
+      <span class="mini" id="cevirDurumu" style="flex:0 0 auto"></span>
+      <button class="btn sec" id="sadeBtn" title="Reklam, video ve menüleri kaldırır — sadece makale metni">📄 Sade</button>
+      <button class="btn sec" id="videoBtn" title="Sayfadaki videoların kendiliğinden başlamasını engeller">🔇 Video kapalı</button>
+      <button class="btn sec" id="bulBtn" style="display:none">🔎 Makaleyi bul</button>
+      <button class="btn ac" id="cevirBtn">🌐 Türkçeye çevir</button>
+      <button class="btn sec" id="yeniSekme">↗ Yeni sekme</button>
+      <button class="btn sec" id="kapat">✕</button>
+    </div>
+    <div id="kaynakUyariSatir" style="display:none;flex:0 0 auto;background:#fff8e6;
+      border-bottom:1px solid #f0e0a8;padding:7px 12px;font-size:11.5px;color:#6b5b1f"></div>
+    <iframe id="cerceve" onload="cerceveYuklendi()" referrerpolicy="no-referrer"
+      sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+  </div>
+</div>
+
+<div class="durumCubuk" id="altDurum"></div>
+<div class="pnl gizli" id="tani"></div>
+
+<script>
+/* ═══════ 1. KAYNAKLAR ═══════ */
+const AZAMI_GUN=60;
+const KAYNAKLAR=[
+  /* ══════════════════════════════════════════════════════════════
+     KURAL: Yalnizca yayincinin KENDI beslemesi kullanilir.
+     Google News besleme olarak KULLANILMAZ — linkleri sifreli
+     yonlendirmedir ve acilmaz. Bu listedeki her linkin dogrudan
+     makaleye gittigi garantidir.
+     ══════════════════════════════════════════════════════════════ */
+
+  // ── Kurumsal ────────────────────────────────────────────────────
+  {ad:'ICCO', tip:'wp', w:1.3, max:20,
+   uyari:'ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.',
+   feeds:['https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt',
+          'https://www.icco.org/feed/']},
+  {ad:'CIGHCI · Fildişi-Gana', tip:'wp', w:1.3, max:20,
+   feeds:['https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt',
+          'https://www.cighci.org/feed/']},
+  {ad:'COCOBOD · resmî', tip:'rss', w:1.35, max:20,
+   feeds:['https://cocobod.gh/feed/',
+          'https://cocobod.gh/?s=cocoa&feed=rss2',
+          'https://cocobod.gh/wp-json/wp/v2/posts?per_page=15&orderby=date&order=desc&_fields=title,link,date,excerpt']},
+  {ad:'FCC · Cocoa Commerce', tip:'rss', w:1.25, max:20,
+   uyari:'FCC — /news bolumu herkese acik. Ancak gunluk kakao bulteni, sozlesme kurallari ve uyelere ozel guncellemeler yalnizca UYELERE aciktir; bazi baglantilar giris isteyebilir.',
+   feeds:['https://www.cocoafederation.com/news/feed/',
+          'https://www.cocoafederation.com/feed/',
+          'https://www.cocoafederation.com/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt',
+          'https://www.cocoafederation.com/?s=cocoa&feed=rss2']},
+  {ad:'ECA · Avrupa öğütme', tip:'rss', w:1.35, max:20,
+   uyari:'ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.',
+   feeds:['https://www.eurococoa.com/feed/',
+          'https://www.eurococoa.com/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt',
+          'https://www.eurococoa.com/?s=cocoa&feed=rss2',
+          'https://eurococoa.com/feed/']},
+  {ad:'CAOBISCO · AB sanayi', tip:'rss', w:1.0, max:20,
+   uyari:'CAOBISCO — cikolata, biskuvi ve sekerleme sanayii birligi. Basin bultenleri acik, teknik dokumanlar ve pozisyon kagitlari kismen uyelere ozeldir.',
+   feeds:['https://caobisco.eu/feed/',
+          'https://caobisco.eu/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt',
+          'https://caobisco.eu/?s=cocoa&feed=rss2',
+          'https://www.caobisco.eu/feed/']},
+  {ad:'CocoaRadar', tip:'rss', w:1.2, max:30,
+   uyari:'CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, "Pro Intelligence Brief" gibi derin analizler ucretli abonelik gerektirir.',
+   feeds:['https://cocoaradar.com/rss/',
+          'https://www.cocoaradar.com/rss/',
+          'https://cocoaradar.com/feed/',
+          'https://cocoaradar.com/tag/cocoa/rss/']},
+  {ad:'World Cocoa Foundation', tip:'rss', w:0.85, max:15,
+   feeds:['https://www.worldcocoafoundation.org/feed/',
+          'https://www.worldcocoafoundation.org/?s=cocoa&feed=rss2']},
+  {ad:'VOICE / Cocoa Barometer', tip:'rss', w:0.8, max:15,
+   feeds:['https://voicenetwork.cc/feed/','https://cocoabarometer.org/feed/']},
+
+  // ── Kakao odakli basin ──────────────────────────────────────────
+  {ad:'The Cocoa Post', tip:'rss', w:1.15, max:30,
+   feeds:['https://thecocoapost.com/feed/',
+          'https://thecocoapost.com/wp-json/wp/v2/posts?per_page=25&orderby=date&order=desc&_fields=title,link,date,excerpt']},
+  {ad:'CocoaIntel', tip:'rss', w:1.1, max:20,
+   feeds:['https://www.cocoaintel.com/feed/','https://cocoaintel.com/feed/',
+          'https://www.cocoaintel.com/?s=cocoa&feed=rss2']},
+  {ad:'Panamir', tip:'wp', w:1.2, max:20,
+   feeds:['https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt',
+          'https://panamir.com/feed/']},
+
+  // ── Fiyat / analiz ──────────────────────────────────────────────
+  {ad:'Barchart · Softs', tip:'rss', w:1.0, max:40,
+   feeds:['https://www.barchart.com/news/rss/commodities/softs',
+          'https://www.barchart.com/news/rss/commodities']},
+  {ad:'Hedgepoint', tip:'rss', w:1.0, max:20,
+   feeds:['https://hedgepointglobal.com/feed/','https://hedgepointglobal.com/en/feed/',
+          'https://hedgepointglobal.com/wp-json/wp/v2/posts?per_page=15&orderby=date&order=desc&_fields=title,link,date,excerpt']},
+
+  // ── Sanayi / talep tarafi ───────────────────────────────────────
+  {ad:'ConfectioneryNews', tip:'rss', w:1.0, max:40,
+   feeds:['https://www.confectionerynews.com/arc/outboundfeeds/rss/',
+          'https://www.confectionerynews.com/rss']},
+  {ad:'FoodNavigator', tip:'rss', w:0.85, max:40,
+   feeds:['https://www.foodnavigator.com/arc/outboundfeeds/rss/']},
+  {ad:'Food Manufacture', tip:'rss', w:0.85, max:40,
+   feeds:['https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/']},
+  {ad:'Bakery & Snacks', tip:'rss', w:0.7, max:25,
+   feeds:['https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/']},
+  {ad:'Confectionery Production', tip:'rss', w:0.8, max:25,
+   feeds:['https://www.confectioneryproduction.com/feed/',
+          'https://www.confectioneryproduction.com/?s=cocoa&feed=rss2']},
+
+  // ── Gana ────────────────────────────────────────────────────────
+  {ad:'Graphic Online · GH', tip:'rss', w:0.9, max:25,
+   feeds:['https://www.graphic.com.gh/?s=cocoa&feed=rss2','https://www.graphic.com.gh/feed/']},
+  {ad:'MyJoyOnline · GH', tip:'rss', w:0.9, max:25,
+   feeds:['https://www.myjoyonline.com/?s=cocoa&feed=rss2','https://www.myjoyonline.com/feed/']},
+  {ad:'Citi Newsroom · GH', tip:'rss', w:0.85, max:25,
+   feeds:['https://citinewsroom.com/?s=cocoa&feed=rss2','https://citinewsroom.com/feed/']},
+  {ad:'B&FT Online · GH', tip:'rss', w:0.85, max:25,
+   feeds:['https://thebftonline.com/?s=cocoa&feed=rss2','https://thebftonline.com/feed/']},
+  {ad:'Ghana News Agency', tip:'rss', w:0.9, max:25,
+   feeds:['https://gna.org.gh/?s=cocoa&feed=rss2','https://gna.org.gh/feed/']},
+  {ad:'GhanaWeb · İş', tip:'rss', w:0.75, max:20,
+   feeds:['https://www.ghanaweb.com/GhanaHomePage/rss/business.xml',
+          'https://www.ghanaweb.com/rss/business.xml']},
+
+  // ── Fildisi Sahili (Fransizca) ──────────────────────────────────
+  {ad:'Fratmat · CI', tip:'rss', w:0.9, max:25,
+   feeds:['https://www.fratmat.info/?s=cacao&feed=rss2','https://www.fratmat.info/feed/']},
+  {ad:'AIP · CI resmî ajans', tip:'rss', w:1.0, max:25,
+   feeds:['https://www.aip.ci/?s=cacao&feed=rss2','https://www.aip.ci/feed/']},
+  {ad:'Sika Finance · CI', tip:'rss', w:0.85, max:20,
+   feeds:['https://www.sikafinance.com/rss','https://www.sikafinance.com/feed/']},
+  {ad:'Agence Ecofin', tip:'rss', w:1.0, max:30,
+   feeds:['https://www.agenceecofin.com/agro/feed','https://www.agenceecofin.com/feed',
+          'https://www.ecofinagency.com/?format=feed&type=rss']},
+
+  // ── Kamerun ─────────────────────────────────────────────────────
+  {ad:'Business in Cameroon', tip:'rss', w:0.95, max:20,
+   feeds:['https://www.businessincameroon.com/?format=feed&type=rss',
+          'https://www.businessincameroon.com/feed']},
+  {ad:'Investir au Cameroun', tip:'rss', w:0.9, max:20,
+   feeds:['https://www.investiraucameroun.com/?format=feed&type=rss']},
+
+  // ── Nijerya ─────────────────────────────────────────────────────
+  {ad:'BusinessDay · NG', tip:'rss', w:0.9, max:20,
+   feeds:['https://businessday.ng/?s=cocoa&feed=rss2','https://businessday.ng/feed/']},
+  {ad:'Vanguard · NG', tip:'rss', w:0.8, max:20,
+   feeds:['https://www.vanguardngr.com/?s=cocoa&feed=rss2']},
+  {ad:'Punch · NG', tip:'rss', w:0.8, max:20,
+   feeds:['https://punchng.com/?s=cocoa&feed=rss2']},
+
+  // ── Ekvador / Latin Amerika (Ispanyolca-Portekizce) ─────────────
+  {ad:'Anecacao · EC', tip:'rss', w:0.95, max:20,
+   feeds:['https://www.anecacao.com/feed/','https://www.anecacao.com/?s=cacao&feed=rss2']},
+  {ad:'Primicias · EC', tip:'rss', w:0.8, max:20,
+   feeds:['https://www.primicias.ec/feed/']},
+  {ad:'Notícias Agrícolas · BR', tip:'rss', w:0.8, max:20,
+   feeds:['https://www.noticiasagricolas.com.br/rss/cacau.xml',
+          'https://www.noticiasagricolas.com.br/rss/noticias.xml']},
+
+  // ── Asya ────────────────────────────────────────────────────────
+  {ad:'Jakarta Post · İş', tip:'rss', w:0.7, max:20,
+   feeds:['https://www.thejakartapost.com/feed/business','https://www.thejakartapost.com/rss']}
+];
+
+
+/* ═══════ 4. SENTIMENT SÖZLÜĞÜ ═══════ */
+const BOGA=[['deficit',3],['shortage',3],['supply gap',3],['crop failure',3],['swollen shoot',3],
+['black pod',2.5],['harmattan',2.5],['drought',2.5],['dry weather',2],['disease',2],
+['el nino',2],['el niño',2],['crop cut',2.5],['output cut',2.5],['lower output',2.5],
+['production fall',2.5],['production drop',2.5],['smaller crop',2.5],['poor harvest',2.5],
+['revised down',2],['tight supply',2.5],['tightness',2],['stocks fall',2],['inventories fall',2],
+['stocks decline',2],['arrivals fall',2.5],['arrivals down',2.5],['export ban',2.5],
+['export restriction',2.5],['strike',2],['smuggling',1.5],['rally',2],['surge',2],['jump',1.5],
+['soar',2],['climb',1.5],['higher',1],['rise',1],['gains',1],['bullish',2.5],['record high',2],
+['floor price',1],['delays',1.5],['flooding',2],['excess rain',2],['crop worries',2.5],
+['supply concerns',2],['downgrade',1.5],
+['bean usage up',2.5],['usage up',2.5],['grindings up',2.5],['grindings rose',2.5],
+['grind rose',2.5],['grindings climb',2.5],['processing up',2.5],['restock',2],
+['demand recovery',2.5],['demand rebound',2.5],['consumption rises',2.5],
+['stronger demand',2.5],['orders up',2]];
+const AYI=[['surplus',3],['oversupply',3],['glut',3],['record harvest',3],['bumper',3],
+['good crop',2.5],['better crop',2.5],['improved crop',2.5],['favourable weather',2.5],
+['favorable weather',2.5],['good rains',2],['arrivals up',2.5],['arrivals rise',2.5],
+['arrivals higher',2.5],['stocks rise',2.5],['stocks climb',2.5],['inventories rise',2.5],
+['inventories climb',2.5],['certified stocks up',2.5],['two-year high',1.5],['grind falls',2.5],
+['grindings fall',2.5],['grind down',2.5],['weak demand',2.5],['demand slump',3],
+['demand destruction',3],['slump',2],['plunge',2.5],['tumble',2.5],['plummet',2.5],['drop',1.5],
+['fall',1.5],['decline',1.5],['lower',1],['slide',1.5],['pressure',1.5],['bearish',2.5],
+['long liquidation',2],['sell-off',2],['selloff',2],['multi-month low',2],['two-year low',2],
+['revised up',2],['abundant',2.5],['supplies improve',2.5],['concerns ease',2],
+['bean usage down',2.5],['usage down',2.5],['grindings down',2.5],['grind fell',2.5],
+['grindings fell',2.5],['grindings slip',2.5],['processing down',2.5],['throughput down',2],
+['demand under pressure',2.5],['demand weakness',2.5],['consumption falls',2.5],
+['chocolate sales fall',2.5],['volumes decline',2],['orders down',2],
+['rising exports',2],['substitution',1.5],['cocoa butter equivalent',1.5]];
+
+function tonHesapla(metin){
+  const m=' '+metin.toLowerCase()+' ';
+  let bo=0,ay=0,vurulan=[];
+  BOGA.forEach(function(p){ if(m.indexOf(p[0])>-1){bo+=p[1];vurulan.push('+'+p[0]);} });
+  AYI.forEach(function(p){ if(m.indexOf(p[0])>-1){ay+=p[1];vurulan.push('-'+p[0]);} });
+  const net=bo-ay;
+  return {bo:bo,ay:ay,net:net,ton:net>0.9?'bull':net<-0.9?'bear':'flat',vurulan:vurulan.slice(0,4)};
+}
+function yasAgirlik(t){
+  if(!t) return 0.5;
+  const g=(Date.now()-t.getTime())/864e5;
+  return g<=2?1 : g<=7?0.8 : g<=14?0.55 : g<=30?0.3 : 0.15;
+}
+
+/* ═══════ 3. ALTYAPI ═══════ */
+const GENEL_PROXY=[
+  {ad:'yerel',      f:function(x){return '/api?url='+encodeURIComponent(x);}},
+  {ad:'codetabs',   f:function(x){return 'https://api.codetabs.com/v1/proxy/?quest='+encodeURIComponent(x);}},
+  {ad:'allorigins', f:function(x){return 'https://api.allorigins.win/raw?url='+encodeURIComponent(x);}},
+  {ad:'corsproxy',  f:function(x){return 'https://corsproxy.io/?url='+encodeURIComponent(x);}},
+  {ad:'jina',       f:function(x){return 'https://r.jina.ai/'+x;}}
+];
+let PROXIES=[], YEREL_VAR=false, YOKLAMA_BITTI=false, KAZANAN=-1;
+const YOKLAMA_URL='https://www.icco.org/wp-json/wp/v2/posts?per_page=1&_fields=title';
+
+function fetchT(url,ms){
+  const sure=ms||9000, c=new AbortController();
+  const t=setTimeout(function(){try{c.abort();}catch(e){}},sure);
+  return Promise.race([
+    fetch(url,{cache:'no-store',signal:c.signal}),
+    new Promise(function(_,rej){setTimeout(function(){rej(new Error('zaman aşımı'));},sure+500);})
+  ]).finally(function(){clearTimeout(t);});
+}
+const VARLIK={'&lt;':'<','&gt;':'>','&amp;':'&','&quot;':'"','&apos;':"'",'&nbsp;':' ',
+  '&#39;':"'",'&#039;':"'",'&#8217;':"'",'&rsquo;':"'",'&lsquo;':"'",'&#8220;':'"','&#8221;':'"',
+  '&ldquo;':'"','&rdquo;':'"','&#8211;':'–','&ndash;':'–','&#8212;':'—','&mdash;':'—',
+  '&hellip;':'…','&#8230;':'…'};
+function varlikCoz(t){
+  return String(t||'').replace(/&(lt|gt|amp|quot|apos|nbsp|rsquo|lsquo|ldquo|rdquo|ndash|mdash|hellip|#\d+);/g,
+    function(m){ return VARLIK[m]!==undefined?VARLIK[m]:(m.charAt(1)==='#'?String.fromCharCode(+m.slice(2,-1)):' '); });
+}
+function temiz(t){
+  let s=varlikCoz(varlikCoz(t));
+  s=s.replace(/<[^>]*>/g,' ')
+     .replace(/\b(?:href|src|target|rel|style)\s*=\s*["'][^"']*["']/gi,' ')
+     .replace(/&[a-z#0-9]{2,8};/gi,' ');
+  return s.replace(/\s+/g,' ').trim();
+}
+function kacir(s){return String(s||'').replace(/[&<>"']/g,function(c){
+  return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function guvenliURL(u){
+  try{const p=new URL(u,location.href);return (p.protocol==='http:'||p.protocol==='https:')?p.href:'';}catch(e){return '';}
+}
+function depo(k,v){
+  try{ if(v===undefined) return JSON.parse(localStorage.getItem(k)||'null');
+       localStorage.setItem(k,JSON.stringify(v)); }catch(e){ return null; }
+}
+function cokEski(t){
+  if(!t || isNaN(t.getTime())) return false;
+  return t.getTime() < Date.now() - AZAMI_GUN*864e5;
+}
+function gunFarki(ts){ return ts===null?null:Math.floor((Date.now()-ts)/864e5); }
+
+let _acik=0; const _kuyruk=[];
+function proxySlot(){ if(_acik<4){_acik++;return Promise.resolve();}
+  return new Promise(function(r){_kuyruk.push(r);}); }
+function proxyBirak(){ _acik--; const n=_kuyruk.shift(); if(n){_acik++;n();} }
+function proxySirasi(){
+  const s=[]; if(KAZANAN>=0&&KAZANAN<PROXIES.length) s.push(KAZANAN);
+  for(let i=0;i<PROXIES.length;i++) if(i!==KAZANAN) s.push(i);
+  return s;
+}
+function bicimBul(t){
+  if(!t) return null;
+  const b=t.trim();
+  if(b.charAt(0)==='['){ try{ return Array.isArray(JSON.parse(b))?'wp':null; }catch(e){ return null; } }
+  if(t.indexOf('<item')>-1 || t.indexOf('<entry')>-1) return 'rss';
+  return null;
+}
+/* Yerel sunucu ayakta mi? Bu sinama DIS bir siteye BAGLI OLMAMALI.
+   Onceki surumde yerel proxy de icco.org uzerinden sinaniyordu; o site
+   yavas ya da erisilemez oldugunda sunucu calisirken bile "yok"
+   sayiliyordu. Artik proxy ucunun kendisi sorulur. */
+async function yerelVarMi(){
+  if(location.protocol==='file:') return false;
+  try{
+    const r=await fetchT('/api',5000);
+    if(!r.ok) return false;
+    const t=await r.text();
+    return t.indexOf('kakao-proxy')>-1;
+  }catch(e){ return false; }
+}
+
+async function proxyYokla(){
+  if(YOKLAMA_BITTI) return;
+
+  // 1) Once yerel sunucu: dogrudan, dis siteye bagli olmadan
+  if(await yerelVarMi()){
+    PROXIES=GENEL_PROXY.filter(function(p){return p.ad==='yerel';});
+    YEREL_VAR=true;
+    YOKLAMA_BITTI=true;
+    document.getElementById('proxyUyari').style.display='none';
+    return;
+  }
+
+  // 2) Yerel yoksa genel proxy'leri gercek bir istekle sina
+  const sonuc=await Promise.all(GENEL_PROXY.map(async function(p){
+    if(p.ad==='yerel') return null;
+    try{ const r=await fetchT(p.f(YOKLAMA_URL),7000);
+         if(!r.ok) return null;
+         return bicimBul(await r.text()) ? p : null; }catch(e){ return null; }
+  }));
+  PROXIES=sonuc.filter(Boolean);
+  YEREL_VAR=false;
+  YOKLAMA_BITTI=true;
+
+  const u=document.getElementById('proxyUyari');
+  if(YEREL_VAR){ u.style.display='none'; }
+  else{
+    u.style.display='none';   // Pages modunda normal durum; uyari gosterme
+    if(false) u.innerHTML='<b>⚠ Yerel sunucu çalışmıyor.</b> Alt pencerede haber açma ve sayfa çevirme '+
+      '<b>yalnızca yerel sunucuyla</b> mümkündür. <code>kakao_sunucu.py</code> dosyasını bu HTML ile aynı klasöre koy, '+
+      'terminalde <code>python3 kakao_sunucu.py</code> çalıştır, sonra <code>http://localhost:8000/Kakao_Haber_Radari.html</code> adresini aç.';
+  }
+}
+async function besleGetir(url){
+  try{ const r=await fetchT(url,6000);
+       if(r.ok){ const t=await r.text(); const b=bicimBul(t); if(b) return {metin:t,bicim:b,yol:'doğrudan'}; } }catch(e){}
+  if(!PROXIES.length) return {hata:'proxy yok'};
+  const sira=proxySirasi();
+  for(let n=0;n<sira.length;n++){
+    const i=sira[n];
+    await proxySlot();
+    try{
+      const r=await fetchT(PROXIES[i].f(url),9000);
+      if(r.ok){ const t=await r.text(); const b=bicimBul(t);
+        if(b){ KAZANAN=i; proxyBirak(); return {metin:t,bicim:b,yol:PROXIES[i].ad}; } }
+    }catch(e){}
+    proxyBirak();
+  }
+  return null;
+}
+function ozetIseYarar(o,baslik){
+  if(!o) return false;
+  const s=o.trim();
+  if(s.length<25) return false;
+  if(/\bhref\s*=|news\.google\.com/i.test(s)) return false;
+  const a=s.toLowerCase().replace(/[^a-z0-9]/g,''), b=(baslik||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+  if(b && (a.indexOf(b)>-1 || b.indexOf(a)>-1)) return false;
+  return true;
+}
+function rssAyristir(x){
+  const out=[];
+  const parcalar = x.indexOf('<item')>-1 ? x.split(/<item[\s>]/i).slice(1) : x.split(/<entry[\s>]/i).slice(1);
+  parcalar.forEach(function(it){
+    const g=function(tag){
+      const m=it.match(new RegExp('<'+tag+'[^>]*>([\\s\\S]*?)<\\/'+tag+'>','i'));
+      return m?temiz(m[1].replace(/<!\[CDATA\[|\]\]>/g,'')):'';
+    };
+    const bas=g('title');
+    let lnk=(it.match(/<link[^>]*>([\s\S]*?)<\/link>/i)||[,''])[1].trim();
+    if(!lnk){ const a=it.match(/<link[^>]*href=["']([^"']+)["']/i); if(a) lnk=a[1]; }
+    const trh=g('pubDate')||g('published')||g('updated')||g('dc:date');
+    const ozet=g('description')||g('summary');
+    // Google News <source url="..."> ile GERCEK yayinciyi bildirir.
+    // Link cozulemezse makaleyi o sitede aramak icin sakliyoruz.
+    let kaynakURL='';
+    const sm=it.match(/<source[^>]+url=["']([^"']+)["']/i);
+    if(sm) kaynakURL=varlikCoz(sm[1]);
+    if(bas) out.push({baslik:bas, link:varlikCoz(lnk), tarih:trh?new Date(trh):null,
+      kaynak:g('source')||'', kaynakURL:kaynakURL,
+      ozet:ozetIseYarar(ozet,bas)?ozet.slice(0,260):''});
+  });
+  return out;
+}
+
+/* ═══════ 4. TARAMA ═══════ */
+let HEPSI=[], RAPOR=[], SECILI=null;
+/* Basliklar toplama sirasinda Turkce'ye cevriliyor (topla.py).
+   Burada sadece hangisinin gosterilecegi secilir. */
+let CEVIRI_VAR=false;
+let TR_GOSTER=depo('trGoster')!==false;
+const OKUNAN=depo('okunanlar')||{};
+
+function tarihAraligi(g){
+  let yeni=null, eski=null, yok=0;
+  HEPSI.forEach(function(h){
+    if(h.grup!==g) return;
+    if(!h.tarih||isNaN(h.tarih.getTime())){yok++;return;}
+    const t=h.tarih.getTime();
+    if(yeni===null||t>yeni) yeni=t;
+    if(eski===null||t<eski) eski=t;
+  });
+  return {yeni:yeni,eski:eski,tarihsiz:yok};
+}
+
+async function canliTara(){
+  const b=document.getElementById('tara'), d=document.getElementById('durum');
+  b.disabled=true; b.textContent='⏳';
+  HEPSI=[]; RAPOR=[]; let biten=0;
+  await proxyYokla();
+
+  await Promise.all(KAYNAKLAR.map(async function(k){
+    const t0=Date.now();
+    let sonuc=null, kullanilan='', proxyGerekli=false;
+    for(let i=0;i<k.feeds.length;i++){
+      const r=await besleGetir(k.feeds[i]);
+      if(r&&r.metin){ sonuc=r; kullanilan=k.feeds[i]; break; }
+      if(r&&r.hata==='proxy yok') proxyGerekli=true;
+    }
+    biten++;
+    d.textContent='⏳ '+biten+'/'+KAYNAKLAR.length;
+    if(!sonuc){ RAPOR.push([k.ad, proxyGerekli?'proxy gerekli':'gelmedi', Date.now()-t0,'','',null,0]); return; }
+    const sinir=k.max||40;
+    let n=0, elenen=0;
+    try{
+      if(sonuc.bicim==='rss'){
+        rssAyristir(sonuc.metin).forEach(function(h){
+          if(n>=sinir) return;
+          if(cokEski(h.tarih)){ elenen++; return; }
+          // Guvence: yonlendirmeli link listeye HIC girmez.
+          if(/news\.google\.com|\/rss\/articles\//.test(h.link||'')) return;
+          if(!/cocoa|cacao|kakao|chocolate|cocobod/i.test(h.baslik+' '+h.ozet)) return;
+          HEPSI.push(Object.assign({},h,{kaynak:h.kaynak||k.ad,grup:k.ad,w:k.w,kaynakUyari:k.uyari||''}));n++;
+        });
+      }else{
+        JSON.parse(sonuc.metin).forEach(function(o){
+          if(n>=sinir) return;
+          const trh=o.date?new Date(o.date):null;
+          if(cokEski(trh)){ elenen++; return; }
+          const bas=temiz(o.title&&o.title.rendered); if(!bas) return;
+          HEPSI.push({baslik:bas, link:o.link||'', tarih:trh, kaynak:k.ad, grup:k.ad,
+            w:k.w, kaynakUyari:k.uyari||'', ozet:''});n++;
+        });
+      }
+    }catch(e){}
+    RAPOR.push([k.ad, n+' haber', Date.now()-t0, kullanilan, sonuc.yol, null, elenen]);
+  }));
+
+  HEPSI.sort(function(a,c){
+    return (/news\.google\.com/.test(a.link||'')?1:0)-(/news\.google\.com/.test(c.link||'')?1:0);
+  });
+  const gor={};
+  HEPSI=HEPSI.filter(function(h){
+    const a=h.baslik.toLowerCase().replace(/\s+[-–—|]\s+[^-–—|]{2,30}$/,'').replace(/[^a-z0-9]/g,'').slice(0,55);
+    if(a.length<12) return true;
+    if(gor[a]) return false; gor[a]=1; return true;
+  });
+  HEPSI.forEach(function(h){
+    Object.assign(h, tonHesapla(h.baslik+' '+(h.ozet||'')));
+    h.baslik=h.baslik.replace(/\s+[-–—|]\s+[^-–—|]{2,32}$/,'').trim()||h.baslik;
+    h.alan=(function(){
+      try{
+        const ana=new URL(h.link).hostname.replace(/^www\./,'');
+        if(ana==='news.google.com' && h.kaynakURL){
+          return new URL(h.kaynakURL).hostname.replace(/^www\./,'');
+        }
+        return ana;
+      }catch(e){ return h.grup; }
+    })();
+  });
+  HEPSI.sort(function(a,c){return (c.tarih?c.tarih.getTime():0)-(a.tarih?a.tarih.getTime():0);});
+  RAPOR.forEach(function(r){ r[5]=tarihAraligi(r[0]); });
+
+  const iyi=RAPOR.filter(function(r){return /[1-9]\d* haber/.test(r[1]);}).length;
+  d.style.color=HEPSI.length?'#1e8e4e':'#c0392b';
+  d.textContent=HEPSI.length? '✓ '+HEPSI.length+' haber · '+iyi+'/'+KAYNAKLAR.length+' kaynak'
+                            : '✗ Haber gelmedi';
+  document.getElementById('damga').textContent='son tarama '+new Date().toLocaleTimeString('tr-TR');
+  depo('kakaoHaber_v7',{ts:Date.now(),v:HEPSI.slice(0,300).map(function(h){
+    return Object.assign({},h,{tarih:h.tarih?h.tarih.toISOString():null});})});
+  kaynakFiltreDoldur(); ciz();
+  b.disabled=false; b.textContent='🔄 Tara';
+}
+
+/* ═══════ 4b. HAZIR VERİYİ YÜKLE ═══════
+   Asil calisma yontemi budur. Haberleri GitHub Actions saatte bir
+   toplayip veri/haberler.json dosyasina yaziyor; burada sadece
+   okunuyor. Boylece telefonda proxy, CORS ve acik Mac gerekmez.
+   Dosya yoksa (ilk kurulum, dosyadan acma) canli taramaya duser. */
+async function tara(){
+  const b=document.getElementById('tara'), d=document.getElementById('durum');
+  b.disabled=true; b.textContent='⏳';
+  let veri=null;
+  try{
+    const r=await fetchT('veri/haberler.json?t='+Date.now(),12000);
+    if(r.ok) veri=await r.json();
+  }catch(e){}
+
+  if(!veri||!veri.haberler||!veri.haberler.length){
+    // Hazir veri yok: eski yontemle tarayiciden tara.
+    b.disabled=false;
+    return canliTara();
+  }
+
+  HEPSI=veri.haberler.map(function(h){
+    const y=Object.assign({},h,{tarih:h.tarih?new Date(h.tarih):null});
+    Object.assign(y, tonHesapla(y.baslik+' '+(y.ozet||'')));
+    return y;
+  }).filter(function(h){ return !cokEski(h.tarih); });
+  RAPOR=veri.rapor||[];
+  RAPOR.forEach(function(r){ r[5]=tarihAraligi(r[0]); });
+  CEVIRI_VAR=HEPSI.some(function(h){return !!h.baslikTR;});
+  document.getElementById('trBtn').style.display=CEVIRI_VAR?'inline-flex':'none';
+
+  const yas=veri.uretim?Math.round((Date.now()-new Date(veri.uretim).getTime())/6e4):null;
+  d.style.color=HEPSI.length?'#1e8e4e':'#c0392b';
+  d.textContent='✓ '+HEPSI.length+' haber · '+
+    (veri.calisanKaynak||0)+'/'+(veri.kaynakSayisi||0)+' kaynak';
+  document.getElementById('damga').textContent=
+    yas===null?'':(yas<90?('güncellendi '+yas+' dk önce')
+                        :('güncellendi '+new Date(veri.uretim).toLocaleString('tr-TR')));
+  // Veri 3 saatten eskiyse toplayici calismiyor olabilir; sessiz kalma.
+  if(yas!==null && yas>180){
+    const u=document.getElementById('proxyUyari');
+    u.style.display='block';
+    u.innerHTML='<b>⚠ Veri '+Math.round(yas/60)+' saattir güncellenmedi.</b> '+
+      'GitHub üzerinde Actions sekmesini açıp son çalışmanın hata verip vermediğine bak.';
+  }
+  depo('kakaoHaber_v7',{ts:Date.now(),v:HEPSI.slice(0,300).map(function(h){
+    return Object.assign({},h,{tarih:h.tarih?h.tarih.toISOString():null});})});
+  kaynakFiltreDoldur(); ciz();
+  b.disabled=false; b.textContent='🔄 Tara';
+}
+
+/* ═══════ 5. LİSTE ═══════ */
+function filtrele(){
+  const gun=Math.min(+document.getElementById('pencere').value||14, AZAMI_GUN);
+  const sinir=Date.now()-gun*864e5;
+  const q=document.getElementById('ara').value.trim().toLowerCase();
+  const kf=document.getElementById('kaynakF').value, tf=document.getElementById('tonF').value;
+  return HEPSI.filter(function(h){
+    if(h.tarih && h.tarih.getTime()<sinir) return false;
+    if(q && (h.baslik+' '+(h.baslikTR||'')).toLowerCase().indexOf(q)<0) return false;
+    if(kf && h.grup!==kf) return false;
+    if(tf && h.ton!==tf) return false;
+    return true;
+  });
+}
+function gunEtiketi(t){
+  if(!t||isNaN(t.getTime())) return 'Tarihsiz';
+  const g=gunFarki(t.getTime());
+  if(g<=0) return 'Bugün';
+  if(g===1) return 'Dün';
+  if(g<7) return 'Bu hafta';
+  if(g<14) return 'Geçen hafta';
+  if(g<31) return 'Bu ay';
+  return 'Daha eski';
+}
+function ciz(){
+  const v=filtrele(), L=document.getElementById('liste');
+  if(!v.length){ L.innerHTML='<div class="bos">Filtreye uyan haber yok.</div>'; altBilgi(0); return; }
+  let h='', sonGun='';
+  v.forEach(function(x,i){
+    const et=gunEtiketi(x.tarih);
+    if(et!==sonGun){ h+='<div class="gun">'+et+'</div>'; sonGun=et; }
+    const trh = (x.tarih&&!isNaN(x.tarih.getTime()))
+      ? x.tarih.toLocaleDateString('tr-TR',{day:'2-digit',month:'2-digit',year:'2-digit'})
+      : '—';
+    const ld = x.linkDurum==='ok' ? '<span class="lnk" style="color:#1e8e4e" title="Bağlantı çalışıyor">✓</span>'
+             : x.linkDurum==='kirik' ? '<span class="lnk" style="color:#c0392b" title="'+kacir(x.linkNot||'')+'">✗</span>'
+             : x.linkDurum==='kontrol' ? '<span class="lnk" style="color:#98a2b3">⋯</span>'
+             : '<span class="lnk"></span>';
+    h+='<div class="satir'+(OKUNAN[x.link]?' okundu':'')+(x.linkDurum==='kirik'?' kirik':'')+'" data-i="'+i+'">'+
+       '<span class="nokta '+x.ton+'"></span>'+ld+
+       '<span class="bas"'+((TR_GOSTER&&x.baslikTR)?' title="'+kacir(x.baslik)+'"':'')+'>'+
+       kacir((TR_GOSTER&&x.baslikTR)?x.baslikTR:x.baslik)+'</span>'+
+       (x.kaynakUyari?'<span class="lnk" style="color:#8a6d1f" title="'+kacir(x.kaynakUyari)+'">🔒</span>':'')+
+       '<span class="kyn">'+kacir(x.alan||x.grup)+'</span>'+
+       '<span class="trh">'+trh+'</span></div>';
+  });
+  L.innerHTML=h;
+  L.querySelectorAll('.satir').forEach(function(el){
+    el.addEventListener('click',function(){ ac(v[+el.dataset.i], el); });
+  });
+  altBilgi(v.length);
+}
+function altBilgi(n){
+  const v=filtrele();
+  let bo=0,ay=0;
+  v.forEach(function(h){
+    const g=h.tarih?gunFarki(h.tarih.getTime()):30;
+    const w=(g<=2?1:g<=7?.8:g<=14?.55:.3)*(h.w||1);
+    bo+=h.bo*w; ay+=h.ay*w;
+  });
+  const top=bo+ay, ham=top>0?(bo-ay)/top:0;
+  const skor=ham>=0?ham*0.30:ham*0.20;
+  document.getElementById('altDurum').innerHTML=
+    n+' haber gösteriliyor · piyasa tonu <b style="color:'+(ham>0.12?'#c0392b':ham<-0.12?'#1e8e4e':'#55606f')+'">'+
+    (skor>=0?'+':'−')+Math.abs(skor).toFixed(2).replace('.',',')+'</b> ('+
+    (ham>0.12?'boğa':ham<-0.12?'ayı':'dengede')+') · panele girilecek sentiment değeri';
+}
+
+/* ═══════ 6. ALT PENCERE ═══════ */
+function ac(x,el){
+  const u=guvenliURL(x.link);
+  if(!u) return;
+  SECILI=x;
+  OKUNAN[x.link]=1; depo('okunanlar',OKUNAN);
+  document.querySelectorAll('.satir.secili').forEach(function(e){e.classList.remove('secili');});
+  if(el){ el.classList.add('secili'); el.classList.add('okundu'); }
+  document.getElementById('izleAd').textContent=x.baslik;
+  const uy=document.getElementById('kaynakUyariSatir');
+  if(uy){
+    if(x.kaynakUyari){ uy.style.display='block'; uy.textContent='🔒 '+x.kaynakUyari; }
+    else uy.style.display='none';
+  }
+  document.getElementById('izle').classList.add('acik');
+  if(MOBIL && !(history.state && history.state.gorunum)){
+    try{ history.pushState({gorunum:1},''); }catch(e){}
+  }
+  document.getElementById('tut').style.display='block';
+  document.getElementById('liste').classList.add('kucuk');
+  cevirDurum(false);
+  document.getElementById('bulBtn').style.display =
+    /news\.google\.com/.test(u) ? 'inline-flex' : 'none';
+  // Yerel sunucu yoksa cerceve icinde acmayi DENEME: yayincilarin
+  // cogu iframe'i reddeder ve telefonda bos ekran kalir.
+  if(!YEREL_VAR){
+    kapatGorunum(false);
+    window.open(u,'_blank','noopener');
+    return;
+  }
+  const c=document.getElementById('cerceve');
+  c.src = YEREL_VAR
+    ? ('/view?url='+encodeURIComponent(u)+
+       '&alan='+encodeURIComponent(x.alan||'')+
+       '&baslik='+encodeURIComponent(x.baslik||'')+
+       '&video='+(VIDEO_IZIN?'1':'0')+
+       '&sade='+(SADE?'1':'0'))
+    : u;
+}
+document.getElementById('kapat').addEventListener('click',function(){ kapatGorunum(false); });
+document.getElementById('yeniSekme').addEventListener('click',function(){
+  if(SECILI) window.open(guvenliURL(SECILI.link),'_blank','noopener');
+});
+
+/* Bölmeyi sürükleyerek boyutlandır */
+(function(){
+  const tut=document.getElementById('tut'), liste=document.getElementById('liste');
+  let suruklu=false;
+  tut.addEventListener('mousedown',function(){ suruklu=true; document.body.style.userSelect='none'; });
+  window.addEventListener('mouseup',function(){ suruklu=false; document.body.style.userSelect=''; });
+  window.addEventListener('mousemove',function(e){
+    if(!suruklu) return;
+    const g=document.querySelector('.govde').getBoundingClientRect();
+    const oran=Math.max(15,Math.min(80,(e.clientY-g.top)/g.height*100));
+    liste.style.flex='0 0 '+oran+'%';
+  });
+})();
+
+/* ═══════ 6b. OTOMATİK VİDEO ENGELİ ═══════
+   Haber siteleri sayfa açılır açılmaz video başlatıyor. Sunucu tarafında
+   autoplay nitelikleri sökülüyor ve oynatma çağrıları engelleniyor.
+   Kullanıcı oynatıcıya tıklarsa video normal çalışır. */
+/* Otomatik video her zaman ENGELLI baslar. */
+let VIDEO_IZIN = (depo('videoIzin')===true);
+function videoDugmeGuncelle(){
+  const b=document.getElementById('videoBtn');
+  b.textContent = VIDEO_IZIN ? '🔊 Video açık' : '🔇 Video kapalı';
+  b.style.background = VIDEO_IZIN ? '#fff3d6' : '';
+  b.style.color = VIDEO_IZIN ? '#8a6d1f' : '';
+}
+/* Sade gorunum VARSAYILAN OLARAK ACIK.
+   Onceden kapali basliyordu; tercih tarayicinin yerel hafizasinda
+   durdugu icin baska bir bilgisayarda/tarayicida otomatik oynayan
+   videolar geri geliyordu. Artik guvenli olan varsayilan;
+   kullanici kapatirsa o tercih hatirlanir. */
+let SADE = (depo('sadeGorunum')!==false);
+function sadeDugmeGuncelle(){
+  const b=document.getElementById('sadeBtn');
+  b.textContent = SADE ? '📄 Sade açık' : '📄 Sade';
+  b.style.background = SADE ? '#e7f6ec' : '';
+  b.style.color = SADE ? '#1e8e4e' : '';
+  document.getElementById('videoBtn').style.display = SADE ? 'none' : 'inline-flex';
+}
+document.getElementById('sadeBtn').addEventListener('click',function(){
+  SADE=!SADE; depo('sadeGorunum',SADE); sadeDugmeGuncelle();
+  if(SECILI) ac(SECILI,null);
+});
+sadeDugmeGuncelle();
+
+document.getElementById('videoBtn').addEventListener('click',function(){
+  VIDEO_IZIN=!VIDEO_IZIN;
+  depo('videoIzin',VIDEO_IZIN);
+  videoDugmeGuncelle();
+  if(SECILI) ac(SECILI,null);   // açık sayfayı yeni ayarla yeniden yükle
+});
+videoDugmeGuncelle();
+
+/* ═══════ 7. SAYFA ÇEVİRİSİ ═══════
+   Sayfa kendi sunucumuzdan geldiği için aynı kaynakta sayılır ve
+   iframe'in içine erişebiliriz. Metin düğümlerini toplayıp Google'ın
+   ücretsiz çeviri ucundan geçirip yerine yazıyoruz. */
+let CEVRILI=false;
+function cevirDurum(aktif,mesaj){
+  CEVRILI=aktif;
+  const b=document.getElementById('cevirBtn');
+  b.textContent = aktif ? '↩ Orijinali göster' : '🌐 Türkçeye çevir';
+  b.className = aktif ? 'btn sec' : 'btn ac';
+  b.disabled=false;
+  const d=document.getElementById('cevirDurumu');
+  if(d) d.innerHTML = mesaj || '';
+}
+/* Cerceveye yeni sayfa yuklendiginde ceviri durumu her zaman sifirlanir.
+   Onceden buton "cevrilmis" durumunda takilip kalabiliyordu; o hâlde
+   tiklayinca ceviri degil GERI ALMA deneniyor ve hicbir sey olmuyordu. */
+function cerceveYuklendi(){
+  const c=document.getElementById('cerceve');
+  if(!c || !c.src || c.src==='about:blank') return;
+  cevirDurum(false);
+}
+/* Belgede geri alinacak bir sey var mi? */
+function cevrilmisMi(belge){
+  try{ return belge.querySelectorAll('[data-orj]').length>0; }catch(e){ return false; }
+}
+function ceviriOnbellek(){ return depo('ceviriler')||{}; }
+function ceviriKaydet(o){
+  const k=Object.keys(o);
+  if(k.length>1500) k.slice(0,600).forEach(function(a){delete o[a];});
+  depo('ceviriler',o);
+}
+function anahtarla(m){
+  let h=0; for(let i=0;i<m.length;i++){ h=((h<<5)-h+m.charCodeAt(i))|0; }
+  return 'c'+h;
+}
+const CEVIRI_UC='https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=tr&dt=t&q=';
+/* Hız ayarları. GET adresi ~8000 karakteri aşmamalı; metin URL kodlamasıyla
+   yaklaşık iki katına çıktığı için 4000 karakter güvenli üst sınır. */
+const UC_AZAMI_KARAKTER=4000;   // bir istekteki toplam metin
+const UC_AZAMI_PARCA=45;        // bir istekteki parça sayısı
+const ES_ZAMANLI=3;             // aynı anda kaç istek (429 riskini düşürür)
+let SON_HATA='';
+
+/* Google gtx ucu TEK q alir. Yanit bicimi:
+   [ [ [cevrilen, orijinal, ...], [cevrilen, orijinal, ...] ], null, "kaynakDil" ]
+   Yani j[0] cumle dizisidir; her ogenin [0]'i cevrilen parcadir. */
+/* Google ucu cok sik istekte 429 dondurur. O durumda bekleyip tekrar
+   dener, olmazsa ikinci bir uca gecer. */
+const CEVIRI_UCLARI=[
+  function(m){ return 'https://translate.googleapis.com/translate_a/single'+
+    '?client=gtx&sl=auto&tl=tr&dt=t&q='+encodeURIComponent(m); },
+  function(m){ return 'https://clients5.google.com/translate_a/t'+
+    '?client=dict-chrome-ex&sl=auto&tl=tr&q='+encodeURIComponent(m); }
+];
+function bekle(ms){ return new Promise(function(r){ setTimeout(r,ms); }); }
+
+function ceviriAyristir(j){
+  // Bicim A: [[[cev,orj,...],[cev,orj,...]], null, "en"]
+  if(Array.isArray(j)&&Array.isArray(j[0])&&Array.isArray(j[0][0])){
+    return j[0].map(function(p){ return (p&&typeof p[0]==='string')?p[0]:''; }).join('');
+  }
+  // Bicim B (dict-chrome-ex): ["cevrilen metin","en"] veya ["cevrilen"]
+  if(Array.isArray(j)&&typeof j[0]==='string') return j[0];
+  if(Array.isArray(j)&&Array.isArray(j[0])&&typeof j[0][0]==='string') return j[0][0];
+  return '';
+}
+
+async function ceviriHam(metin){
+  let sonHata='';
+  for(let u=0;u<CEVIRI_UCLARI.length;u++){
+    for(let deneme=0;deneme<3;deneme++){
+      const uc=CEVIRI_UCLARI[u](metin);
+      const adres = YEREL_VAR ? ('/api?url='+encodeURIComponent(uc)) : uc;
+      try{
+        const r=await fetchT(adres,20000);
+        if(r.status===429 || r.status===503){
+          sonHata='HTTP '+r.status+' (Google hız sınırı)';
+          await bekle(700*(deneme+1)*(deneme+1));
+          continue;
+        }
+        if(!r.ok){ sonHata='HTTP '+r.status; break; }
+        const govde=await r.text();
+        let j;
+        try{ j=JSON.parse(govde); }
+        catch(e){ sonHata='Yanıt JSON değil: '+govde.slice(0,50); break; }
+        const c=ceviriAyristir(j);
+        if(c){ return c; }
+        sonHata='Beklenmeyen yanıt biçimi';
+        break;
+      }catch(e){
+        sonHata=e.message||'ağ hatası';
+        await bekle(400);
+      }
+    }
+  }
+  SON_HATA=sonHata||'bilinmeyen hata';
+  throw new Error(SON_HATA);
+}
+
+/* Hizli yol: parcalari satir sonuyla birlestirip TEK istekte cevir.
+   Google satir sonlarini korur; korumazsa satir sayisi tutmaz ve
+   o grup icin tek tek cevirime duseriz. Boylece hem hizli hem guvenli. */
+async function ceviriGrup(parcalar){
+  if(parcalar.length===1) return [await ceviriHam(parcalar[0])];
+  const birlesik=parcalar.join('\n');
+  let cev;
+  try{ cev=await ceviriHam(birlesik); }catch(e){ return null; }
+  const satirlar=cev.split('\n');
+  if(satirlar.length===parcalar.length) return satirlar;
+  return null;   // eslesmedi -> cagiran tek tek dener
+}
+
+async function sayfayiCevir(){
+  const c=document.getElementById('cerceve'), b=document.getElementById('cevirBtn');
+  let belge;
+  try{ belge=c.contentDocument; }catch(e){ belge=null; }
+  if(!belge || !belge.body){
+    alert('Sayfanın içine erişilemedi.\n\nÇeviri yalnızca yerel sunucu (kakao_sunucu.py) üzerinden açılan sayfalarda çalışır.');
+    return;
+  }
+
+  if(CEVRILI && cevrilmisMi(belge)){   // gercekten geri alinacak sey var
+    belge.querySelectorAll('[data-orj]').forEach(function(el){
+      el.textContent=el.getAttribute('data-orj');
+    });
+    cevirDurum(false,'orijinal'); return;
+  }
+  // CEVRILI takili kalmis ama sayfada ceviri yok: ceviriye devam et.
+
+  b.disabled=true; b.textContent='⏳ Metinler toplanıyor…';
+  const atla={SCRIPT:1,STYLE:1,NOSCRIPT:1,CODE:1,PRE:1,SVG:1,IFRAME:1,TEXTAREA:1};
+  const gezgin=belge.createTreeWalker(belge.body,NodeFilter.SHOW_TEXT,{
+    acceptNode:function(d){
+      if(!d.parentElement) return NodeFilter.FILTER_REJECT;
+      if(atla[d.parentElement.tagName]) return NodeFilter.FILTER_REJECT;
+      const t=d.nodeValue.trim();
+      if(t.length<3 || !/[\p{L}]{2}/u.test(t)) return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT;
+    }
+  });
+  const dugumler=[]; let d;
+  while((d=gezgin.nextNode())){ dugumler.push(d); if(dugumler.length>=900) break; }
+  if(!dugumler.length){ cevirDurum(false); return; }
+
+  const onbellek=ceviriOnbellek();
+  // Aynı metin sayfada tekrar edebilir; tek kez çevir.
+  const benzersiz=[], nerede={};
+  dugumler.forEach(function(n){
+    // Satir sonu iceren metin gruplama mantigini bozar; tek satira indir.
+    const m=n.nodeValue.trim().replace(/\s*\n\s*/g,' ');
+    n.__m=m;
+    if(m && nerede[m]===undefined){ nerede[m]=benzersiz.length; benzersiz.push(m); }
+  });
+
+  // Uzun metinler makale gövdesidir; menü/altbilgi kısa olur.
+  // Uzunları öne alarak kullanıcı asıl içeriği önce görsün.
+  const bekleyen=benzersiz.filter(function(m){ return !onbellek[anahtarla(m)]; })
+                          .sort(function(a,c){ return c.length-a.length; });
+  const gruplar=[]; let g=[], uzunluk=0;
+  bekleyen.forEach(function(m){
+    if(uzunluk+m.length>UC_AZAMI_KARAKTER || g.length>=UC_AZAMI_PARCA){ gruplar.push(g); g=[]; uzunluk=0; }
+    g.push(m); uzunluk+=m.length;
+  });
+  if(g.length) gruplar.push(g);
+  if(!gruplar.length){ /* hepsi önbellekte */ }
+
+  // Gruplar SIRAYLA degil, ES ZAMANLI islenir. Asil hiz kazanci burada.
+  let bitti=0, basarili=0, sira=0;
+  SON_HATA='';
+  const t0=Date.now();
+  async function isci(){
+    while(sira<gruplar.length){
+      const grup=gruplar[sira++];
+      let cevrili=null;
+      try{ cevrili=await ceviriGrup(grup); }catch(e){}
+      if(cevrili){
+        grup.forEach(function(m,j){
+          if(cevrili[j]){ onbellek[anahtarla(m)]=cevrili[j]; basarili++; }
+        });
+      }else{
+        // Satir eslesmesi tutmadi: bu grubun parcalarini tek tek cevir
+        for(let j=0;j<grup.length;j++){
+          try{
+            const t=await ceviriHam(grup[j]);
+            if(t){ onbellek[anahtarla(grup[j])]=t; basarili++; }
+          }catch(e){}
+        }
+      }
+      bitti++;
+      b.textContent='⏳ %'+Math.round(bitti/gruplar.length*100);
+      const d=document.getElementById('cevirDurumu');
+      if(d) d.textContent=bitti+'/'+gruplar.length+' parça'+(SON_HATA?' · '+SON_HATA:'');
+    }
+  }
+  const isciler=[];
+  for(let i=0;i<Math.min(ES_ZAMANLI,gruplar.length);i++) isciler.push(isci());
+  await Promise.all(isciler);
+  const gecen=((Date.now()-t0)/1000).toFixed(1);
+  ceviriKaydet(onbellek);
+
+  let degisen=0;
+  dugumler.forEach(function(n){
+    const m=n.__m||n.nodeValue.trim();
+    const yeni=onbellek[anahtarla(m)];
+    if(!yeni || yeni===m) return;
+    const el=n.parentElement;
+    if(el && !el.hasAttribute('data-orj')) el.setAttribute('data-orj', el.textContent);
+    n.nodeValue=yeni;
+    degisen++;
+  });
+  if(degisen){
+    cevirDurum(true,'<b style="color:#1e8e4e">✓ '+degisen+' metin · '+gecen+' sn</b>');
+  }else{
+    cevirDurum(false,'<b style="color:#c0392b">✗ '+(SON_HATA||'çeviri alınamadı')+'</b>');
+    alert('Çeviri alınamadı.\n\nSebep: '+(SON_HATA||'çeviri servisine ulaşılamadı')+
+      '\n\n'+(/429|hız/.test(SON_HATA||'')
+        ? 'Google geçici hız sınırı uyguluyor. Bir dakika bekleyip tekrar dene.'
+        : 'kakao_sunucu.py çalışıyor mu ve güncel sürüm mü kontrol et.'));
+  }
+}
+document.getElementById('cevirBtn').addEventListener('click',sayfayiCevir);
+
+/* Alt pencerede Google News linki acilamadiysa: makaleyi yayincinin
+   sitesinde ara ve bulursan linki kalici olarak duzelt. */
+document.getElementById('bulBtn').addEventListener('click',async function(){
+  if(!SECILI) return;
+  const b=this;
+  b.disabled=true; b.textContent='⏳ Aranıyor…';
+  try{
+    const r=await fetchT('/bul?alan='+encodeURIComponent(SECILI.alan||'')+
+                         '&baslik='+encodeURIComponent(SECILI.baslik||''),35000);
+    const j=await r.json();
+    if(j.ok && j.url){
+      SECILI.link=j.url; SECILI.gercekLink=j.url; SECILI.linkDurum='ok';
+      document.getElementById('cerceve').src='/view?url='+encodeURIComponent(j.url);
+      b.style.display='none';
+      document.getElementById('altDurum').innerHTML=
+        'Makale bulundu ('+kacir(j.yontem||'')+'): <b>'+kacir(j.url.slice(0,80))+'</b>';
+      ciz();
+    }else{
+      alert('Makale bulunamadı.\n\nYayıncının sitesinde ve web aramasında eşleşme yok. '+
+            '"Yeni sekme" ile Google News üzerinden açmayı dene.');
+    }
+  }catch(e){ alert('Arama başarısız: '+(e.message||'ağ hatası')); }
+  b.disabled=false; b.textContent='🔎 Makaleyi bul';
+});
+
+/* ═══════ 7b. LİNK KONTROLÜ ═══════
+   Her bağlantıyı sunucuya sordurup gerçekten açılıp açılmadığını
+   işaretler. Google News linkleri önce gerçek adrese çözülür. */
+async function linkleriKontrolEt(){
+  const b=document.getElementById('kontrolBtn');
+  if(!YEREL_VAR){
+    alert('Link kontrolü yerel sunucu gerektirir.\n\nkakao_sunucu.py çalıştır ve '+
+          'http://localhost:8000/Kakao_Haber_Radari.html adresini aç.');
+    return;
+  }
+  const v=filtrele().filter(function(h){return !h.linkDurum || h.linkDurum==='kontrol';});
+  if(!v.length){
+    // hepsi kontrol edilmis: bastan yap
+    filtrele().forEach(function(h){ h.linkDurum=null; });
+    ciz();
+  }
+  const liste=filtrele();
+  b.disabled=true;
+  liste.forEach(function(h){ h.linkDurum='kontrol'; });
+  ciz();
+
+  let sira=0, bitti=0, kirik=0;
+  async function isci(){
+    while(sira<liste.length){
+      const h=liste[sira++];
+      try{
+        const r=await fetchT('/kontrol?url='+encodeURIComponent(h.link)+
+          '&alan='+encodeURIComponent(h.alan||'')+
+          '&baslik='+encodeURIComponent(h.baslik||''),22000);
+        const j=await r.json();
+        if(j.ok){
+          h.linkDurum='ok';
+          if(j.gercek && j.gercek!==h.link){ h.gercekLink=j.gercek; h.link=j.gercek; h.gnewsCozuldu=true; }
+          if(j.yontem) h.bulmaYontemi=j.yontem;
+        }
+        else{ h.linkDurum='kirik'; h.linkNot=j.not||('HTTP '+j.durum); kirik++; }
+      }catch(e){ h.linkDurum='kirik'; h.linkNot='ulaşılamadı'; kirik++; }
+      bitti++;
+      b.textContent='⏳ %'+Math.round(bitti/liste.length*100);
+      if(bitti%8===0) ciz();
+    }
+  }
+  const w=[]; for(let i=0;i<Math.min(6,liste.length);i++) w.push(isci());
+  await Promise.all(w);
+  ciz();
+  b.disabled=false; b.textContent='🔗 Linkleri kontrol et';
+  document.getElementById('altDurum').innerHTML+=
+    ' · <b>link kontrolü:</b> '+(liste.length-kirik)+' çalışıyor, '+
+    (kirik?'<b style="color:#c0392b">'+kirik+' kırık</b>':'0 kırık');
+}
+document.getElementById('kontrolBtn').addEventListener('click',linkleriKontrolEt);
+
+/* ═══════ 8. TANI ═══════ */
+document.getElementById('taniBtn').addEventListener('click',function(){
+  const k=document.getElementById('tani');
+  if(!k.classList.contains('gizli')){ k.classList.add('gizli'); return; }
+  const s=RAPOR.slice().sort(function(a,b){
+    const ai=/[1-9]\d* haber/.test(a[1])?0:1, bi=/[1-9]\d* haber/.test(b[1])?0:1;
+    if(ai!==bi) return ai-bi;
+    return ((a[5]&&a[5].yeni)||0)-((b[5]&&b[5].yeni)||0);
+  });
+  let h='<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">'+
+        '<b style="font-size:12px;color:#7a8494">KAYNAK TANISI</b>'+
+        '<button class="btn sec" onclick="document.getElementById(\'tani\').classList.add(\'gizli\')">✕</button></div>'+
+        '<table><tr><th>Kaynak</th><th>Sonuç</th><th>En yeni</th><th>Süre</th><th>Yol</th><th>Besleme</th></tr>';
+  (s.length?s:[['—','tarama yok',0,'','',null,0]]).forEach(function(r){
+    const iyi=/[1-9]\d* haber/.test(r[1]);
+    const a=r[5]||{}, yas=gunFarki(a.yeni||null);
+    let tz='—', rk='#98a2b3';
+    if(yas!==null){
+      tz=new Date(a.yeni).toLocaleDateString('tr-TR',{day:'2-digit',month:'2-digit'})+' ('+yas+'g)';
+      rk = yas<=3?'#1e8e4e' : yas<=14?'#55606f' : yas<=45?'#8a6d1f' : '#c0392b';
+    }
+    h+='<tr><td>'+kacir(r[0])+'</td>'+
+       '<td style="color:'+(iyi?'#1e8e4e':'#c0392b')+';font-weight:700">'+kacir(r[1])+
+       (r[6]?'<br><span style="font-weight:400;color:#98a2b3">+'+r[6]+' eski elendi</span>':'')+'</td>'+
+       '<td style="color:'+rk+';font-weight:700">'+tz+'</td>'+
+       '<td>'+r[2]+'ms</td><td>'+kacir(r[4]||'—')+'</td>'+
+       '<td style="word-break:break-all;color:#98a2b3">'+kacir((r[3]||'').slice(0,46))+'</td></tr>';
+  });
+  h+='</table><div class="mini" style="margin-top:6px">Protokol: <b>'+location.protocol+'</b> · '+
+     'Yerel sunucu: <b style="color:'+(YEREL_VAR?'#1e8e4e':'#c0392b')+'">'+
+     (YEREL_VAR?'etkin':'YOK')+'</b> · Çalışan proxy: <b>'+
+     (PROXIES.length?PROXIES.map(function(x){return x.ad;}).join(', '):'hiçbiri')+'</b> · '+
+     'Azami geriye bakış: <b>'+AZAMI_GUN+' gün</b></div>';
+  k.innerHTML=h; k.classList.remove('gizli');
+});
+
+/* ═══════ 8b. TELEFON DAVRANIŞLARI ═══════ */
+const MOBIL = window.matchMedia('(max-width: 780px)').matches;
+
+document.getElementById('geriBtn').addEventListener('click',function(){
+  document.getElementById('kapat').click();
+});
+
+/* Telefonda donanım "geri" tuşu / kaydırma jesti görüntüleyiciyi kapatsın,
+   uygulamadan çıkmasın. */
+window.addEventListener('popstate',function(){
+  const izle=document.getElementById('izle');
+  if(izle.classList.contains('acik')) kapatGorunum(true);
+});
+function kapatGorunum(gecmistenGeldi){
+  document.getElementById('izle').classList.remove('acik');
+  document.getElementById('tut').style.display='none';
+  document.getElementById('liste').classList.remove('kucuk');
+  document.getElementById('cerceve').src='about:blank';
+  SECILI=null;
+  if(!gecmistenGeldi && history.state && history.state.gorunum){
+    try{ history.back(); }catch(e){}
+  }
+}
+
+/* Service worker: uygulamayı ana ekrandan açılabilir hâle getirir. */
+if('serviceWorker' in navigator && location.protocol==='https:'){
+  window.addEventListener('load',function(){
+    navigator.serviceWorker.register('sw.js').catch(function(){});
+  });
+}
+
+/* "Ana ekrana ekle" ipucu — yalnızca iPhone'da Safari'de, bir kez */
+(function(){
+  const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  const ayrik = window.navigator.standalone===true ||
+                window.matchMedia('(display-mode: standalone)').matches;
+  if(!iOS || ayrik || depo('ipucuGosterildi')) return;
+  window.addEventListener('load',function(){
+    setTimeout(function(){
+      const k=document.createElement('div');
+      k.style.cssText='position:fixed;left:10px;right:10px;bottom:calc(12px + env(safe-area-inset-bottom));'+
+        'background:#1f3864;color:#fff;border-radius:12px;padding:13px 15px;font-size:13px;'+
+        'line-height:1.5;z-index:90;box-shadow:0 6px 24px rgba(0,0,0,.28)';
+      k.innerHTML='<b>Ana ekrana ekle</b><br>Paylaş düğmesine <b>⬆︎</b> bas, '+
+        '<b>Ana Ekrana Ekle</b>\'yi seç. Uygulama gibi tam ekran açılır.'+
+        '<div style="text-align:right;margin-top:8px">'+
+        '<button id="ipucuKapat" style="background:#fff;color:#1f3864;border:none;'+
+        'border-radius:8px;padding:7px 14px;font-weight:800;font-size:12.5px">Tamam</button></div>';
+      document.body.appendChild(k);
+      document.getElementById('ipucuKapat').addEventListener('click',function(){
+        depo('ipucuGosterildi',true); k.remove();
+      });
+    },2500);
+  });
+})();
+
+/* ═══════ 8c. SÜRÜM DENETİMİ ═══════
+   HTML ile sunucu farklı sürümdeyse özellikler sessizce çalışmaz
+   (ör. eski sunucuda sade görünüm yok → video geri gelir).
+   Bunu görünür yapıyoruz. */
+const BEKLENEN_SURUM='2026.08.27';
+(async function(){
+  if(location.protocol==='file:') return;
+  // Pages'te kakao_sunucu.py yok; surum denetimi anlamsiz.
+  if(!(await yerelVarMi())) return;
+  try{
+    const r=await fetchT('/surum',6000);
+    if(!r.ok) throw new Error('yok');
+    const j=await r.json();
+    if(j.surum===BEKLENEN_SURUM) return;
+    surumUyari('Sunucu sürümü <b>'+kacir(j.surum||'bilinmiyor')+'</b>, '+
+      'uygulama <b>'+BEKLENEN_SURUM+'</b> bekliyor.');
+  }catch(e){
+    surumUyari('Sunucu sürümü okunamadı — <b>kakao_sunucu.py eski olabilir</b>.');
+  }
+})();
+function surumUyari(metin){
+  const k=document.createElement('div');
+  k.style.cssText='position:fixed;left:0;right:0;top:0;z-index:95;background:#fdecec;'+
+    'border-bottom:2px solid #c0392b;color:#8a2b2b;padding:11px 14px;font-size:12.5px;'+
+    'line-height:1.55;padding-top:calc(11px + env(safe-area-inset-top))';
+  k.innerHTML='⚠ <b>Sürüm uyuşmazlığı.</b> '+metin+
+    '<br>Otomatik video engelleme ve sade görünüm düzgün çalışmayabilir. '+
+    'Her iki dosyayı da (<b>kakao_sunucu.py</b> ve <b>Kakao_Haber_Radari.html</b>) '+
+    'yeniden kopyalayıp sunucuyu yeniden başlat.'+
+    '<div style="text-align:right;margin-top:7px"><button id="surumKapat" '+
+    'style="background:#c0392b;color:#fff;border:none;border-radius:7px;'+
+    'padding:6px 13px;font-weight:800;font-size:12px">Tamam</button></div>';
+  document.body.appendChild(k);
+  document.getElementById('surumKapat').addEventListener('click',function(){k.remove();});
+}
+
+/* ═══════ 9. BAŞLANGIÇ ═══════ */
+function kaynakFiltreDoldur(){
+  const sel=document.getElementById('kaynakF'), m=sel.value, set={};
+  HEPSI.forEach(function(h){set[h.grup]=1;});
+  sel.innerHTML='<option value="">Tüm kaynaklar</option>'+
+    Object.keys(set).sort().map(function(x){return '<option value="'+kacir(x)+'">'+kacir(x)+'</option>';}).join('');
+  sel.value=m;
+}
+['pencere','ara','kaynakF','tonF'].forEach(function(id){
+  document.getElementById(id).addEventListener(id==='ara'?'input':'change',ciz);
+});
+document.getElementById('tara').addEventListener('click',tara);
+document.getElementById('trBtn').addEventListener('click',function(){
+  TR_GOSTER=!TR_GOSTER; depo('trGoster',TR_GOSTER);
+  this.classList.toggle('ac',TR_GOSTER); this.classList.toggle('sec',!TR_GOSTER);
+  ciz();
+});
+document.addEventListener('keydown',function(e){
+  if(e.key==='Escape') document.getElementById('kapat').click();
+});
+
+(function(){
+  const c=depo('kakaoHaber_v7');
+  if(c&&c.v&&Date.now()-c.ts<6*3600*1000){
+    HEPSI=c.v.map(function(h){return Object.assign({},h,{tarih:h.tarih?new Date(h.tarih):null});})
+             .filter(function(h){return !cokEski(h.tarih);});
+    kaynakFiltreDoldur(); ciz();
+    document.getElementById('damga').textContent='önbellek '+new Date(c.ts).toLocaleString('tr-TR');
+  }
+  tara();
+})();
+</script>
+</body>
+</html>
