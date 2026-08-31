@@ -159,7 +159,7 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
       <option value="bear">Ayı</option>
       <option value="flat">Nötr</option>
     </select>
-    <button class="btn sec" id="trBtn" style="display:none" title="Başlıkları Türkçe / orijinal dilde göster">🌐 TR</button>
+    <button class="btn ac" id="trBtn" title="Açık: başlıklar Türkçe, haberler Türkçe çevrilmiş olarak açılır">🌐 Türkçe</button>
     <button class="btn sec" id="kontrolBtn">🔗 Linkleri kontrol et</button>
     <button class="btn sec" id="taniBtn">🔍 Tanı</button>
     <span class="mini" id="durum">Açılışta otomatik taranır.</span>
@@ -641,6 +641,23 @@ async function canliTara(){
   b.disabled=false; b.textContent='🔄 Tara';
 }
 
+/* ═══════ 4a. MAKALE ÇEVİRİSİ ═══════
+   Yerel sunucu yokken makaleyi cerceve icinde cevirmenin yolu yok.
+   Bunun yerine sayfayi Google'in ceviri aynasi uzerinden aciyoruz:
+   aip.ci/haber  ->  aip-ci.translate.goog/haber?_x_tr_tl=tr
+   Yayincinin kendi sayfasi, uzerine Turkce cevrilmis halde gelir. */
+function ceviriAdresi(u){
+  try{
+    const p=new URL(u);
+    if(!/^https?:$/.test(p.protocol)) return u;
+    if(/\.translate\.goog$/.test(p.hostname)) return u;   // zaten cevrili
+    // Google kurali: once tireler ikilenir, sonra noktalar tire olur.
+    const h=p.hostname.replace(/-/g,'--').replace(/\./g,'-');
+    return 'https://'+h+'.translate.goog'+p.pathname+p.search+
+           (p.search?'&':'?')+'_x_tr_sl=auto&_x_tr_tl=tr&_x_tr_hl=tr';
+  }catch(e){ return u; }
+}
+
 /* ═══════ 4b. HAZIR VERİYİ YÜKLE ═══════
    Asil calisma yontemi budur. Haberleri GitHub Actions saatte bir
    toplayip veri/haberler.json dosyasina yaziyor; burada sadece
@@ -669,7 +686,6 @@ async function tara(){
   RAPOR=veri.rapor||[];
   RAPOR.forEach(function(r){ r[5]=tarihAraligi(r[0]); });
   CEVIRI_VAR=HEPSI.some(function(h){return !!h.baslikTR;});
-  document.getElementById('trBtn').style.display=CEVIRI_VAR?'inline-flex':'none';
 
   const yas=veri.uretim?Math.round((Date.now()-new Date(veri.uretim).getTime())/6e4):null;
   d.style.color=HEPSI.length?'#1e8e4e':'#c0392b';
@@ -786,7 +802,7 @@ function ac(x,el){
   // cogu iframe'i reddeder ve telefonda bos ekran kalir.
   if(!YEREL_VAR){
     kapatGorunum(false);
-    window.open(u,'_blank','noopener');
+    window.open(TR_GOSTER?ceviriAdresi(u):u,'_blank','noopener');
     return;
   }
   const c=document.getElementById('cerceve');
@@ -800,7 +816,9 @@ function ac(x,el){
 }
 document.getElementById('kapat').addEventListener('click',function(){ kapatGorunum(false); });
 document.getElementById('yeniSekme').addEventListener('click',function(){
-  if(SECILI) window.open(guvenliURL(SECILI.link),'_blank','noopener');
+  if(!SECILI) return;
+  const u=guvenliURL(SECILI.link);
+  window.open(TR_GOSTER?ceviriAdresi(u):u,'_blank','noopener');
 });
 
 /* Bölmeyi sürükleyerek boyutlandır */
@@ -1296,11 +1314,17 @@ function kaynakFiltreDoldur(){
   document.getElementById(id).addEventListener(id==='ara'?'input':'change',ciz);
 });
 document.getElementById('tara').addEventListener('click',tara);
+function trDugmeGoster(){
+  const b=document.getElementById('trBtn');
+  b.classList.toggle('ac',TR_GOSTER);
+  b.classList.toggle('sec',!TR_GOSTER);
+  b.textContent=TR_GOSTER?'🌐 Türkçe':'🌐 Orijinal';
+}
 document.getElementById('trBtn').addEventListener('click',function(){
   TR_GOSTER=!TR_GOSTER; depo('trGoster',TR_GOSTER);
-  this.classList.toggle('ac',TR_GOSTER); this.classList.toggle('sec',!TR_GOSTER);
-  ciz();
+  trDugmeGoster(); ciz();
 });
+trDugmeGoster();
 document.addEventListener('keydown',function(e){
   if(e.key==='Escape') document.getElementById('kapat').click();
 });

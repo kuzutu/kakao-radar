@@ -312,8 +312,31 @@ def kaynak_tara(k):
 #  Ceviri (istege bagli) — CEVIR=1 ile acilir
 # ══════════════════════════════════════════════════════════════════
 
-CEVIRI_UC = ("https://translate.googleapis.com/translate_a/single"
-             "?client=gtx&sl=auto&tl=tr&dt=t&q=")
+#  Iki ayri uc deneniyor. Ilki bulut IP'lerinde kota yiyebiliyor;
+#  o durumda ikinciye duser. Basliklar TEK TEK degil TOPLU gonderilir
+#  (10'ar 10'ar) — hem cok daha hizli, hem kota yeme ihtimali dusuk.
+
+def _uc_gtx(metin):
+    ham = getir("https://translate.googleapis.com/translate_a/single"
+                "?client=gtx&sl=auto&tl=tr&dt=t&q="
+                + urllib.parse.quote(metin), 25)
+    j = json.loads(ham)
+    return "".join(p[0] for p in j[0] if p and p[0])
+
+
+def _uc_clients5(metin):
+    ham = getir("https://clients5.google.com/translate_a/t"
+                "?client=dict-chrome-ex&sl=auto&tl=tr&q="
+                + urllib.parse.quote(metin), 25)
+    j = json.loads(ham)
+    if isinstance(j, list) and j and isinstance(j[0], list):
+        return "".join(p[0] for p in j[0] if p and p[0])
+    if isinstance(j, list) and j and isinstance(j[0], str):
+        return j[0]
+    raise ValueError("beklenmeyen yanit")
+
+
+UCLAR = [("gtx", _uc_gtx), ("clients5", _uc_clients5)]
 
 
 def ceviri_onbellek_oku():
@@ -323,30 +346,56 @@ def ceviri_onbellek_oku():
         return {}
 
 
-def cevir_tek(metin):
-    ham = getir(CEVIRI_UC + urllib.parse.quote(metin[:1400]), 20)
-    j = json.loads(ham)
-    return "".join(p[0] for p in j[0] if p and p[0]).strip()
+def cevir_metin(metin, durum):
+    """Calisan ilk ucu kullanir ve onu hatirlar."""
+    sira = sorted(UCLAR, key=lambda u: 0 if u[0] == durum.get("iyi") else 1)
+    son = None
+    for ad, f in sira:
+        try:
+            c = f(metin)
+            if c and c.strip():
+                durum["iyi"] = ad
+                return c
+            son = "bos yanit"
+        except Exception as e:
+            son = "%s: %s" % (ad, ("%s" % e)[:60])
+    raise OSError(son or "bilinmeyen")
 
 
 def basliklari_cevir(haberler):
-    """Sadece onbellekte OLMAYAN basliklari cevirir. Onbellek repoya
+    """Yalnizca onbellekte OLMAYAN basliklari cevirir. Onbellek repoya
        islendigi icin her calismada sifirdan cevrilmez."""
     onbellek = ceviri_onbellek_oku()
-    yeni = [h["baslik"] for h in haberler
-            if h["baslik"] not in onbellek][:400]
+    yeni = [h["baslik"] for h in haberler if h["baslik"] not in onbellek]
+    durum = {}
+    hata_ornegi = ""
+    cevrilen = 0
 
-    basarisiz = 0
-    for metin in yeni:
-        if basarisiz >= 12:
-            print("  ceviri tekrar tekrar basarisiz — vazgecildi")
-            break
+    # 10'ar 10'ar, satir basiyla ayirarak gonder
+    for i in range(0, len(yeni), 10):
+        grup = yeni[i:i + 10]
         try:
-            onbellek[metin] = cevir_tek(metin)
-            basarisiz = 0
-        except Exception:
-            basarisiz += 1
-        time.sleep(0.25)
+            sonuc = cevir_metin("\n".join(grup), durum).split("\n")
+        except Exception as e:
+            hata_ornegi = hata_ornegi or ("%s" % e)
+            sonuc = []
+
+        if len(sonuc) == len(grup) and all(s.strip() for s in sonuc):
+            for a, b in zip(grup, sonuc):
+                onbellek[a] = b.strip()
+                cevrilen += 1
+        else:
+            # Satir sayisi tutmadi: bu grubu tek tek dene
+            for a in grup:
+                try:
+                    c = cevir_metin(a, durum)
+                    if c.strip():
+                        onbellek[a] = c.strip()
+                        cevrilen += 1
+                except Exception as e:
+                    hata_ornegi = hata_ornegi or ("%s" % e)
+                time.sleep(0.2)
+        time.sleep(0.3)
 
     for h in haberler:
         h["baslikTR"] = onbellek.get(h["baslik"], "")
@@ -357,7 +406,16 @@ def basliklari_cevir(haberler):
     os.makedirs(os.path.dirname(CEVIRI_YOLU), exist_ok=True)
     with open(CEVIRI_YOLU, "w", encoding="utf-8") as f:
         json.dump(onbellek, f, ensure_ascii=False, indent=0, sort_keys=True)
-    print("  ceviri: %d yeni, onbellekte %d kayit" % (len(yeni), len(onbellek)))
+
+    print("  ceviri: %d yeni baslik, %d cevrildi, onbellekte %d kayit"
+          % (len(yeni), cevrilen, len(onbellek)))
+    if durum.get("iyi"):
+        print("  ceviri ucu: %s" % durum["iyi"])
+    if hata_ornegi:
+        print("  ceviri hatasi (ornek): %s" % hata_ornegi)
+    if yeni and cevrilen == 0:
+        print("  UYARI: hicbir baslik cevrilemedi. Liste orijinal dilde")
+        print("         gosterilecek; makaleler yine de Turkce acilir.")
 
 
 # ══════════════════════════════════════════════════════════════════
