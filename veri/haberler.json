@@ -1,10 +1,23 @@
 {
- "uretim": "2026-08-31T11:38:10.469909+00:00",
+ "uretim": "2026-08-31T12:11:47.398727+00:00",
  "kaynakSayisi": 38,
- "calisanKaynak": 12,
- "haberSayisi": 57,
+ "calisanKaynak": 13,
+ "haberSayisi": 68,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Arabica Rises 1.03% After Three-Day Slide but Still Posts a 3.04% Weekly Loss (28 August 2026)",
+   "link": "https://www.cocoaintel.com/arabica-rises-1-03-after-three-day-slide-but-still-posts-a-3-04-weekly-loss-28-august-2026/",
+   "tarih": "2026-08-31T11:51:14+00:00",
+   "ozet": "Arabica rebounded 1.03% to 312.85 cents/lb but ended the week 3.04% lower as Brazil weather, fund positioning and a stronger dollar shaped trade",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica Üç Günlük Düşüşün Ardından %1,03 Yükseldi Ancak Hala %3,04 Haftalık Zarar Açıkladı (28 Ağustos 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Ivory Coast Opens 2026/27 Cocoa Main Crop With Farmgate Price Expected at 1,200 CFA/kg (31 August 2026)",
    "link": "https://www.cocoaintel.com/ivory-coast-opens-2026-27-cocoa-main-crop-with-farmgate-price-expected-at-1-200-cfa-kg-31-august-2026/",
@@ -15,7 +28,8 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili 2026/27 Kakao Ana Mahsulünü Farmgate Fiyatıyla 1.200 CFA/kg olarak Bekliyor (31 Ağustos 2026)"
+   "baslikTR": "Fildişi Sahili 2026/27 Kakao Ana Mahsulünü Farmgate Fiyatıyla 1.200 CFA/kg olarak Bekliyor (31 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Outlook of Ghana’s external sector remains positive for second-half of 2026",
@@ -27,7 +41,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Gana'nın dış sektörünün görünümü 2026'nın ikinci yarısı için olumlu olmaya devam ediyor"
+   "baslikTR": "Gana'nın dış sektörünün görünümü 2026'nın ikinci yarısı için olumlu olmaya devam ediyor",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Prices Surge on West African Crop Risks",
@@ -39,7 +54,8 @@
    "alan": "barchart.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Fiyatları Batı Afrika Mahsul Riskleri Nedeniyle Arttı"
+   "baslikTR": "Kakao Fiyatları Batı Afrika Mahsul Riskleri Nedeniyle Arttı",
+   "okunur": true
   },
   {
    "baslik": "Supply Fears Push Cocoa Prices to 11-Month Highs",
@@ -51,7 +67,8 @@
    "alan": "barchart.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Arz Korkuları Kakao Fiyatlarını 11 Ayın En Yüksek Seviyesine Taştı"
+   "baslikTR": "Arz Korkuları Kakao Fiyatlarını 11 Ayın En Yüksek Seviyesine Taştı",
+   "okunur": true
   },
   {
    "baslik": "Lindt turns confectionery into couture with boundary-breaking collab",
@@ -63,7 +80,8 @@
    "alan": "confectionerynews.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Lindt, sınırları aşan iş birliğiyle şekerlemeyi couture'a dönüştürüyor"
+   "baslikTR": "Lindt, sınırları aşan iş birliğiyle şekerlemeyi couture'a dönüştürüyor",
+   "okunur": true
   },
   {
    "baslik": "Climate change is an existential threat to food",
@@ -75,7 +93,21 @@
    "alan": "foodnavigator.com",
    "w": 0.85,
    "kaynakUyari": "",
-   "baslikTR": "İklim değişikliği gıda için varoluşsal bir tehdittir"
+   "baslikTR": "İklim değişikliği gıda için varoluşsal bir tehdittir",
+   "okunur": true
+  },
+  {
+   "baslik": "Arabica Tumbles as Technical Breakdown and Cecafé Data Disruption Unsettle the Market (27 August 2026)",
+   "link": "https://www.cocoaintel.com/arabica-tumbles-as-technical-breakdown-and-cecafe-data-disruption-unsettle-the-market-27-august-2026/",
+   "tarih": "2026-08-28T05:37:32+00:00",
+   "ozet": "Arabica coffee fell sharply as technical support broke and a Cecafé export-data disruption unsettled traders despite historically low ICE stocks.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica, Teknik Arıza ve Cecafé Verilerindeki Kesintinin Piyasayı Sarsması Nedeniyle Düştü (27 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Breaks Out as Ivory Coast Crop Delay Raises Supply Concerns (27 August 2026)",
@@ -87,7 +119,8 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili Mahsul Gecikmesi Tedarik Endişelerini Artırırken Kakao Piyasaya Çıktı (27 Ağustos 2026)"
+   "baslikTR": "Fildişi Sahili Mahsul Gecikmesi Tedarik Endişelerini Artırırken Kakao Piyasaya Çıktı (27 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Prices Surge on West African Cocoa Quality Concerns",
@@ -99,7 +132,8 @@
    "alan": "barchart.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Fiyatları Batı Afrika Kakao Kalitesi Kaygıları Nedeniyle Yükseliyor"
+   "baslikTR": "Kakao Fiyatları Batı Afrika Kakao Kalitesi Kaygıları Nedeniyle Yükseliyor",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Prices Jump on Concern Over West African Crop Quality",
@@ -111,7 +145,8 @@
    "alan": "barchart.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Fiyatları Batı Afrika Mahsul Kalitesine İlişkin Endişeler Nedeniyle Yükseliyor"
+   "baslikTR": "Kakao Fiyatları Batı Afrika Mahsul Kalitesine İlişkin Endişeler Nedeniyle Yükseliyor",
+   "okunur": true
   },
   {
    "baslik": "Ferrero welcomes key progress from sector-wide cocoa initiative tackling child labour",
@@ -123,7 +158,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Ferrero, çocuk işçiliğiyle mücadeleye yönelik sektör çapındaki kakao girişimindeki önemli ilerlemeyi memnuniyetle karşıladı"
+   "baslikTR": "Ferrero, çocuk işçiliğiyle mücadeleye yönelik sektör çapındaki kakao girişimindeki önemli ilerlemeyi memnuniyetle karşıladı",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Board law lacks clear strategy to attract young farmers and technology",
@@ -135,7 +171,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Kurulu yasasında genç çiftçileri ve teknolojiyi çekecek net bir strateji yok"
+   "baslikTR": "Kakao Kurulu yasasında genç çiftçileri ve teknolojiyi çekecek net bir strateji yok",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Board Bill consultation was inadequate – Ghana National Cocoa Farmers Association",
@@ -147,7 +184,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Kurulu Tasarısı istişareleri yetersizdi – Gana Ulusal Kakao Çiftçileri Birliği"
+   "baslikTR": "Kakao Kurulu Tasarısı istişareleri yetersizdi – Gana Ulusal Kakao Çiftçileri Birliği",
+   "okunur": true
   },
   {
    "baslik": "COCOBOD model is outdated and limiting Ghana’s cocoa economy",
@@ -159,7 +197,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "COCOBOD modeli modası geçmiş ve Gana'nın kakao ekonomisini sınırlıyor"
+   "baslikTR": "COCOBOD modeli modası geçmiş ve Gana'nın kakao ekonomisini sınırlıyor",
+   "okunur": true
   },
   {
    "baslik": "Could climate change force a rewrite of the world’s recipes?",
@@ -171,7 +210,8 @@
    "alan": "foodnavigator.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "İklim değişikliği dünyanın tariflerini yeniden yazmaya zorlayabilir mi?"
+   "baslikTR": "İklim değişikliği dünyanın tariflerini yeniden yazmaya zorlayabilir mi?",
+   "okunur": true
   },
   {
    "baslik": "Cocoa bean exports to EU: Ghana ranked 4th in Africa",
@@ -183,7 +223,21 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "AB'ye kakao çekirdeği ihracatı: Gana Afrika'da 4'üncü sırada"
+   "baslikTR": "AB'ye kakao çekirdeği ihracatı: Gana Afrika'da 4'üncü sırada",
+   "okunur": true
+  },
+  {
+   "baslik": "Coffee Futures Slide as Brazil’s Export Count Rises, but Supply Concerns Remain (26 August 2026)",
+   "link": "https://www.cocoaintel.com/coffee-futures-slide-as-brazils-export-count-rises-but-supply-concerns-remain-26-august-2026/",
+   "tarih": "2026-08-27T06:31:40+00:00",
+   "ozet": "Arabica coffee falls 4% as Brazil’s harvest and exports advance, while low ICE stocks, poor crop quality and volatile weather support prices",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Brezilya'nın İhracat Sayısı Arttıkça Kahve Vadeli İşlemleri Kayıyor, Ancak Arz Kaygıları Devam Ediyor (26 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Defends $5,750 as Delayed Ivorian Crop Raises Supply Concerns (26 August 2026)",
@@ -195,7 +249,8 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Gecikmiş Fildişi Mahsulünün Arz Endişelerini Artırması Nedeniyle Kakao 5.750 Doları Savundu (26 Ağustos 2026)"
+   "baslikTR": "Gecikmiş Fildişi Mahsulünün Arz Endişelerini Artırması Nedeniyle Kakao 5.750 Doları Savundu (26 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Ivory Coast’s delayed cocoa crop could mean congested ports ahead of EU rules, sources say",
@@ -207,7 +262,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Kaynaklar, Fildişi Sahili'nin geciken kakao mahsulünün, AB kuralları öncesinde limanlarda yoğunluk anlamına gelebileceğini söylüyor"
+   "baslikTR": "Kaynaklar, Fildişi Sahili'nin geciken kakao mahsulünün, AB kuralları öncesinde limanlarda yoğunluk anlamına gelebileceğini söylüyor",
+   "okunur": true
   },
   {
    "baslik": "What Mahama’s 10 new laws mean for cocoa farmers, workers, importers and businesses",
@@ -219,7 +275,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Mahama'nın 10 yeni yasası kakao çiftçileri, işçileri, ithalatçıları ve işletmeleri için ne anlama geliyor?"
+   "baslikTR": "Mahama'nın 10 yeni yasası kakao çiftçileri, işçileri, ithalatçıları ve işletmeleri için ne anlama geliyor?",
+   "okunur": true
   },
   {
    "baslik": "Studies reveal one in four cocoa audits in Ivory Coast feature manipulated data",
@@ -231,7 +288,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Çalışmalar, Fildişi Sahili'ndeki dört kakao denetiminden birinin manipüle edilmiş veriler içerdiğini ortaya koyuyor"
+   "baslikTR": "Çalışmalar, Fildişi Sahili'ndeki dört kakao denetiminden birinin manipüle edilmiş veriler içerdiğini ortaya koyuyor",
+   "okunur": true
   },
   {
    "baslik": "Mahama signs 10 Bills into law including Customs, VAT and Cocoa Board Bills",
@@ -243,7 +301,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Mahama, Gümrük, KDV ve Kakao Kurulu Kanun Tasarıları da dahil olmak üzere 10 Kanun Tasarısını imzaladı"
+   "baslikTR": "Mahama, Gümrük, KDV ve Kakao Kurulu Kanun Tasarıları da dahil olmak üzere 10 Kanun Tasarısını imzaladı",
+   "okunur": true
   },
   {
    "baslik": "Ambassador Quartey highlights Ghana’s sustainable cocoa sector at Cocoa Connect Seminar in Rimini",
@@ -255,7 +314,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Büyükelçi Quartey, Rimini'deki Cocoa Connect Seminerinde Gana'nın sürdürülebilir kakao sektörünü vurguladı"
+   "baslikTR": "Büyükelçi Quartey, Rimini'deki Cocoa Connect Seminerinde Gana'nın sürdürülebilir kakao sektörünü vurguladı",
+   "okunur": true
   },
   {
    "baslik": "World Bank calls for far-reaching reforms to COCOBOD Act",
@@ -267,7 +327,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Dünya Bankası COCOBOD Yasası için geniş kapsamlı reformlar yapılması çağrısında bulunuyor"
+   "baslikTR": "Dünya Bankası COCOBOD Yasası için geniş kapsamlı reformlar yapılması çağrısında bulunuyor",
+   "okunur": true
   },
   {
    "baslik": "Another Day of Cocoa Consolidation as Key Catalysts Approach (25 August 2026)",
@@ -279,7 +340,21 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Temel Katalizörlerin Yaklaşımı Olarak Kakao Konsolidasyonunda Bir Gün Daha (25 Ağustos 2026)"
+   "baslikTR": "Temel Katalizörlerin Yaklaşımı Olarak Kakao Konsolidasyonunda Bir Gün Daha (25 Ağustos 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Coffee Futures Retreat After Sharp Rally, but Supply and Weather Risks Remain (25 August 2026)",
+   "link": "https://www.cocoaintel.com/coffee-futures-retreat-after-sharp-rally-but-supply-and-weather-risks-remain-25-august-2026/",
+   "tarih": "2026-08-26T05:53:36+00:00",
+   "ozet": "Arabica coffee futures retreat after Monday’s rally as traders monitor tight stocks, Brazilian exports, storms in Minas Gerais and El Niño risks.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Kahve Vadeli İşlemleri Keskin Yükselişin Ardından Geri Çekiliyor, Ancak Arz ve Hava Durumu Riskleri Devam Ediyor (25 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Godiva turns 100 with star-studded centenary campaign",
@@ -291,7 +366,8 @@
    "alan": "confectionerynews.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Godiva yıldızlarla dolu yüzüncü yıl kampanyasıyla 100 yaşına girdi"
+   "baslikTR": "Godiva yıldızlarla dolu yüzüncü yıl kampanyasıyla 100 yaşına girdi",
+   "okunur": true
   },
   {
    "baslik": "Cocoa consolidation continues as expectations of a breakout build (24 August 2026)",
@@ -303,7 +379,21 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Kakao konsolidasyonu, yükseliş beklentisiyle devam ediyor (24 Ağustos 2026)"
+   "baslikTR": "Kakao konsolidasyonu, yükseliş beklentisiyle devam ediyor (24 Ağustos 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Arabica Surges Nearly 6% as Technical Breakout Meets Tight Physical Supply (24 August 2026)",
+   "link": "https://www.cocoaintel.com/arabica-surges-nearly-6-as-technical-breakout-meets-tight-physical-supply-24-august-2026/",
+   "tarih": "2026-08-25T07:31:19+00:00",
+   "ozet": "Arabica futures jumped 5.89% as buy stops above 332 cents, slower Brazilian shipments and El Niño concerns intensified the coffee market rally.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica, Teknik Patlamanın Sıkı Fiziki Arzla Karşılanmasıyla Yaklaşık %6 Arttı (24 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Lindt takes ultra-dark to the limit with 100% cocoa launch",
@@ -315,7 +405,34 @@
    "alan": "confectionerynews.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Lindt, %100 kakao lansmanıyla ultra koyuluğun sınırlarını zorluyor"
+   "baslikTR": "Lindt, %100 kakao lansmanıyla ultra koyuluğun sınırlarını zorluyor",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1321 – Payment of Outstanding Contributions",
+   "link": "https://www.icco.org/edmem-1321-payment-of-outstanding-contributions/",
+   "tarih": "2026-08-24T08:49:24+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1321 – Ödenmemiş Katkı Paylarının Ödenmesi",
+   "okunur": true
+  },
+  {
+   "baslik": "Coffee Ends the Week Higher as El Niño Risks Build Across Major Origins (21 August 2026)",
+   "link": "https://www.cocoaintel.com/coffee-ends-the-week-higher-as-el-nino-risks-build-across-major-origins/",
+   "tarih": "2026-08-24T07:00:42+00:00",
+   "ozet": "Coffee futures finished the week higher despite Friday’s losses, as El Niño risks in Vietnam and Colombia and low ICE stocks",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Başlıca Kökenlerde El Nino Risklerinin Artmasıyla Kahve Haftayı Yükselişle Bitirdi (21 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Continues to Consolidate as Supply Risks Build (21 August 2026)",
@@ -327,7 +444,8 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Tedarik Riskleri Arttıkça Kakao Güçlenmeye Devam Ediyor (21 Ağustos 2026)"
+   "baslikTR": "Tedarik Riskleri Arttıkça Kakao Güçlenmeye Devam Ediyor (21 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "CMC Managing Director launches 24-hour operating model",
@@ -339,7 +457,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "CMC Genel Müdürü 24 saatlik çalışma modelini başlatıyor"
+   "baslikTR": "CMC Genel Müdürü 24 saatlik çalışma modelini başlatıyor",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Marketing Company rolls out 24-hour cocoa operations to speed up exports and cut delays",
@@ -351,7 +470,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Cocoa Marketing Company, ihracatı hızlandırmak ve gecikmeleri azaltmak için 24 saatlik kakao operasyonlarını başlatıyor"
+   "baslikTR": "Cocoa Marketing Company, ihracatı hızlandırmak ve gecikmeleri azaltmak için 24 saatlik kakao operasyonlarını başlatıyor",
+   "okunur": true
   },
   {
    "baslik": "Exclusive video: Cargill cocoa processing York site visit",
@@ -363,7 +483,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Özel video: Cargill kakao işleme York tesisi ziyareti"
+   "baslikTR": "Özel video: Cargill kakao işleme York tesisi ziyareti",
+   "okunur": true
   },
   {
    "baslik": "Behind the scenes: Cargill’s York cocoa processing",
@@ -375,7 +496,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Kamera arkası: Cargill'in York kakao işleme tesisi"
+   "baslikTR": "Kamera arkası: Cargill'in York kakao işleme tesisi",
+   "okunur": false
   },
   {
    "baslik": "CMC launches 24-hour cocoa operations",
@@ -387,7 +509,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "CMC 24 saat kakao operasyonlarını başlatıyor"
+   "baslikTR": "CMC 24 saat kakao operasyonlarını başlatıyor",
+   "okunur": true
   },
   {
    "baslik": "Mapped Is Not Compliant: How Ready Is the Global Cocoa Chain for the EUDR?",
@@ -399,7 +522,8 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Haritalanan Uyumlu Değil: Küresel Kakao Zinciri EUDR'ye Ne Kadar Hazır?"
+   "baslikTR": "Haritalanan Uyumlu Değil: Küresel Kakao Zinciri EUDR'ye Ne Kadar Hazır?",
+   "okunur": true
   },
   {
    "baslik": "NDC has not shown it can manage power sector effectively",
@@ -411,7 +535,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "NDC, enerji sektörünü etkili bir şekilde yönetebildiğini göstermedi"
+   "baslikTR": "NDC, enerji sektörünü etkili bir şekilde yönetebildiğini göstermedi",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Consolidation Tightens Ahead of Potential Breakout (20 August 2026)",
@@ -423,7 +548,21 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Konsolidasyonu Potansiyel Patlama Önünde Sıkılaşıyor (20 Ağustos 2026)"
+   "baslikTR": "Kakao Konsolidasyonu Potansiyel Patlama Önünde Sıkılaşıyor (20 Ağustos 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Coffee Markets Hold Firm as Colombia Weather Risk Adds to Supply Uncertainty (20 August 2026)",
+   "link": "https://www.cocoaintel.com/coffee-markets-hold-firm-as-colombia-weather-risk-adds-to-supply-uncertainty-20-august-2026/",
+   "tarih": "2026-08-21T06:06:07+00:00",
+   "ozet": "Coffee futures stay resilient as Colombia faces heavy rain, output falls and Brazil supply improves, keeping near-term risks elevated.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Kolombiya Hava Riski Arz Belirsizliğini Arttırırken Kahve Piyasaları Sağlam Duruyor (20 Ağustos 2026)",
+   "okunur": true
   },
   {
    "baslik": "Warnings of potential major fertiliser shortages for key crops including cocoa",
@@ -435,7 +574,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Kakao da dahil olmak üzere önemli mahsuller için potansiyel büyük gübre kıtlığına ilişkin uyarılar"
+   "baslikTR": "Kakao da dahil olmak üzere önemli mahsuller için potansiyel büyük gübre kıtlığına ilişkin uyarılar",
+   "okunur": true
   },
   {
    "baslik": "Confectionery fraud surges as manufacturers struggle to stay ahead",
@@ -447,19 +587,8 @@
    "alan": "foodnavigator.com",
    "w": 1.0,
    "kaynakUyari": "",
-   "baslikTR": "Üreticiler bir adım önde olmaya çalışırken şekerleme sahtekarlıkları artıyor"
-  },
-  {
-   "baslik": "Cocoa Swings Sharply but Remains Trapped in Consolidation (19 August 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-swings-sharply-but-remains-trapped-in-consolidation-19-august-2026/",
-   "tarih": "2026-08-20T04:28:56+00:00",
-   "ozet": "Cocoa traded in a wide range on 19 August, reversing from above $6,100 as Ghana nears the end of its light-crop purchasing period.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Keskin Bir Şekilde Sallanıyor Ancak Konsolidasyonda Sıkışmış Kalıyor (19 Ağustos 2026)"
+   "baslikTR": "Üreticiler bir adım önde olmaya çalışırken şekerleme sahtekarlıkları artıyor",
+   "okunur": true
   },
   {
    "baslik": "Child labour-free zones emerge as Ghana’s new weapon against child labour",
@@ -471,7 +600,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Çocuk işçiliğinden arındırılmış bölgeler Gana'nın çocuk işçiliğine karşı yeni silahı olarak ortaya çıkıyor"
+   "baslikTR": "Çocuk işçiliğinden arındırılmış bölgeler Gana'nın çocuk işçiliğine karşı yeni silahı olarak ortaya çıkıyor",
+   "okunur": true
   },
   {
    "baslik": "Exclusive: Cargill’s UK cocoa processing thrives amid growing demand",
@@ -483,7 +613,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Ayrıcalıklı: Cargill'in Birleşik Krallık'taki kakao işleme tesisi, artan talebin ortasında gelişiyor"
+   "baslikTR": "Ayrıcalıklı: Cargill'in Birleşik Krallık'taki kakao işleme tesisi, artan talebin ortasında gelişiyor",
+   "okunur": true
   },
   {
    "baslik": "Mars faces renewed ‘shrinkflation’ claims following 1990s chocolate bar discovery",
@@ -495,7 +626,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Mars, 1990'lardaki çikolata keşfinin ardından yenilenen \"küçülma\" iddialarıyla karşı karşıya"
+   "baslikTR": "Mars, 1990'lardaki çikolata keşfinin ardından yenilenen \"küçülma\" iddialarıyla karşı karşıya",
+   "okunur": true
   },
   {
    "baslik": "Chamber of Cocoa Marketers Ghana to Strengthen Role of Buyers in Sector",
@@ -507,7 +639,8 @@
    "alan": "thecocoapost.com",
    "w": 1.15,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Pazarlamacılar Odası Gana, Sektördeki Alıcıların Rolünü Güçlendirecek"
+   "baslikTR": "Kakao Pazarlamacılar Odası Gana, Sektördeki Alıcıların Rolünü Güçlendirecek",
+   "okunur": true
   },
   {
    "baslik": "Women cocoa farmers in Eastern Ghana assemble to promote sustainable production",
@@ -519,7 +652,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Doğu Gana'daki kadın kakao çiftçileri sürdürülebilir üretimi teşvik etmek için bir araya geliyor"
+   "baslikTR": "Doğu Gana'daki kadın kakao çiftçileri sürdürülebilir üretimi teşvik etmek için bir araya geliyor",
+   "okunur": true
   },
   {
    "baslik": "Singapore’s Cocoa Trees reveals first-ever in-house chocolate brand",
@@ -531,7 +665,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Singapurlu Cocoa Trees, ilk şirket içi çikolata markasını ortaya çıkarıyor"
+   "baslikTR": "Singapurlu Cocoa Trees, ilk şirket içi çikolata markasını ortaya çıkarıyor",
+   "okunur": true
   },
   {
    "baslik": "Dairy-free chocolate brand, PLAYin Choc gains key M&S retail listings",
@@ -543,7 +678,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Süt ürünleri içermeyen çikolata markası PLAYin Choc, önemli M&S perakende listelerini kazandı"
+   "baslikTR": "Süt ürünleri içermeyen çikolata markası PLAYin Choc, önemli M&S perakende listelerini kazandı",
+   "okunur": true
   },
   {
    "baslik": "Young Cocoa Farmers petition Mahama over funding, producer price and start date for new cocoa season",
@@ -555,7 +691,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Genç Kakao Çiftçileri finansman, üretici fiyatı ve yeni kakao sezonunun başlangıç tarihi konusunda Mahama'ya dilekçe verdi"
+   "baslikTR": "Genç Kakao Çiftçileri finansman, üretici fiyatı ve yeni kakao sezonunun başlangıç tarihi konusunda Mahama'ya dilekçe verdi",
+   "okunur": true
   },
   {
    "baslik": "Ashanti cocoa farmers welcome new COCOBOD Bill, back key reforms",
@@ -567,7 +704,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Ashanti kakao çiftçileri yeni COCOBOD Tasarısını memnuniyetle karşıladı ve temel reformları destekledi"
+   "baslikTR": "Ashanti kakao çiftçileri yeni COCOBOD Tasarısını memnuniyetle karşıladı ve temel reformları destekledi",
+   "okunur": true
   },
   {
    "baslik": "UK grown cocoa delivered for Reading University centenary chocolate bar",
@@ -579,7 +717,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Birleşik Krallık'ta yetiştirilen kakao, Reading Üniversitesi'nin yüzüncü yıl çikolatası için teslim edildi"
+   "baslikTR": "Birleşik Krallık'ta yetiştirilen kakao, Reading Üniversitesi'nin yüzüncü yıl çikolatası için teslim edildi",
+   "okunur": true
   },
   {
    "baslik": "Cocoa farmers’ economic realities must be addressed to curb deforestation",
@@ -591,7 +730,8 @@
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "Ormansızlaşmayı engellemek için kakao çiftçilerinin ekonomik gerçekleri ele alınmalı"
+   "baslikTR": "Ormansızlaşmayı engellemek için kakao çiftçilerinin ekonomik gerçekleri ele alınmalı",
+   "okunur": true
   },
   {
    "baslik": "Nigeria/West Africa Cocoa Origins meet EU Cocoa Industry",
@@ -603,7 +743,21 @@
    "alan": "eurococoa.com",
    "w": 1.35,
    "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
-   "baslikTR": "Nijerya/Batı Afrika Kakao Kökenleri AB Kakao Endüstrisiyle buluşuyor"
+   "baslikTR": "Nijerya/Batı Afrika Kakao Kökenleri AB Kakao Endüstrisiyle buluşuyor",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1320 – CB meeting Provisional timetable September 2026",
+   "link": "https://www.icco.org/edmem-1319-provisional-timetable-september-2026-meetings/",
+   "tarih": "2026-08-13T12:04:05+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1320 – CB toplantısı Geçici takvim Eylül 2026",
+   "okunur": true
   },
   {
    "baslik": "Statement – The Use Of Cocoa Substitutes And The Reformulation Of Chocolate Products",
@@ -615,7 +769,8 @@
    "alan": "cighci.org",
    "w": 1.3,
    "kaynakUyari": "",
-   "baslikTR": "Beyan – Kakao İkamelerinin Kullanımı ve Çikolata Ürünlerinin Yeniden Formülasyonu"
+   "baslikTR": "Beyan – Kakao İkamelerinin Kullanımı ve Çikolata Ürünlerinin Yeniden Formülasyonu",
+   "okunur": true
   },
   {
    "baslik": "Exclusive: Touton’s cocoa and forests report delivers sustainability gains",
@@ -627,7 +782,8 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Özel: Touton'un kakao ve ormanlar raporu sürdürülebilirlik kazanımları sağlıyor"
+   "baslikTR": "Özel: Touton'un kakao ve ormanlar raporu sürdürülebilirlik kazanımları sağlıyor",
+   "okunur": true
   },
   {
    "baslik": "COCOA MARKET TRENDS",
@@ -639,7 +795,34 @@
    "alan": "panamir.com",
    "w": 1.2,
    "kaynakUyari": "",
-   "baslikTR": "KAKAO PİYASASI TRENDLERİ"
+   "baslikTR": "KAKAO PİYASASI TRENDLERİ",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1318",
+   "link": "https://www.icco.org/edmem-1318-depositary-notification-ica-2026/",
+   "tarih": "2026-08-05T12:01:12+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1318",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1317 – ANNOUNCEMENT SEPTEMBER 2026 MEETINGS",
+   "link": "https://www.icco.org/edmem-1317-announcement-september-2026-meetings/",
+   "tarih": "2026-08-04T10:18:46+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1317 – DUYURU EYLÜL 2026 TOPLANTILARI",
+   "okunur": true
   },
   {
    "baslik": "Strengthening Regional Cooperation In The Cocoa Sector",
@@ -651,7 +834,8 @@
    "alan": "cighci.org",
    "w": 1.3,
    "kaynakUyari": "",
-   "baslikTR": "Kakao Sektöründe Bölgesel İşbirliğinin Güçlendirilmesi"
+   "baslikTR": "Kakao Sektöründe Bölgesel İşbirliğinin Güçlendirilmesi",
+   "okunur": true
   },
   {
    "baslik": "TRACT Future of Resiliency",
@@ -663,7 +847,21 @@
    "alan": "eurococoa.com",
    "w": 1.35,
    "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
-   "baslikTR": "TRACT Dayanıklılığın Geleceği"
+   "baslikTR": "TRACT Dayanıklılığın Geleceği",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1316-Rev.1 – EUDR-ECA Due Diligence Protocol",
+   "link": "https://www.icco.org/edmem-1316-eudr-eca-due-diligence-protocol/",
+   "tarih": "2026-07-29T12:42:17+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1316-Rev.1 – EUDR-ECA Durum Tespiti Protokolü",
+   "okunur": true
   },
   {
    "baslik": "PUBLICATION OF COCOA ORIGIN DIFFERENTIALS FOR CÔTE D’IVOIRE AND GHANA",
@@ -675,7 +873,8 @@
    "alan": "cighci.org",
    "w": 1.3,
    "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili ve GANA İÇİN KAKAO KÖKEN FARKLARININ YAYINLANMASI"
+   "baslikTR": "Fildişi Sahili ve GANA İÇİN KAKAO KÖKEN FARKLARININ YAYINLANMASI",
+   "okunur": true
   },
   {
    "baslik": "Côte d’Ivoire-Ghana Cocoa Initiative Commends the Cocoa Value Addition Summit Held in Abuja and Reaffirms Its Commitment to a Shared African Cocoa Agenda",
@@ -687,23 +886,24 @@
    "alan": "cighci.org",
    "w": 1.3,
    "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-Gana Kakao Girişimi, Abuja'da Düzenlenen Kakao Katma Değer Zirvesini Övdü ve Ortak Afrika Kakao Gündemine Bağlılığını Yeniden Onayladı"
+   "baslikTR": "Fildişi Sahili-Gana Kakao Girişimi, Abuja'da Düzenlenen Kakao Katma Değer Zirvesini Övdü ve Ortak Afrika Kakao Gündemine Bağlılığını Yeniden Onayladı",
+   "okunur": true
   }
  ],
  "rapor": [
   [
    "ICCO",
-   "besleme tanimsiz (224638 bayt)",
-   2765,
-   "",
-   "",
+   "5 haber",
+   1652,
+   "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
+   "toplayici",
    null,
-   0
+   15
   ],
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1450,
+   7203,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "toplayici",
    null,
@@ -712,7 +912,7 @@
   [
    "COCOBOD · resmî",
    "HTTP Error 404: Not Found",
-   714,
+   943,
    "",
    "",
    null,
@@ -721,7 +921,7 @@
   [
    "FCC · Cocoa Commerce",
    "besleme tanimsiz (134908 bayt)",
-   3210,
+   4438,
    "",
    "",
    null,
@@ -730,7 +930,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3917,
+   4183,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "toplayici",
    null,
@@ -739,7 +939,7 @@
   [
    "CAOBISCO · AB sanayi",
    "<urlopen error timed out>",
-   27068,
+   28049,
    "",
    "",
    null,
@@ -747,8 +947,8 @@
   ],
   [
    "CocoaRadar",
-   "konuya uyan haber yok (15 kayit tarandi)",
-   651,
+   "tum kayitlar elendi (15 tarandi)",
+   1748,
    "",
    "",
    null,
@@ -757,7 +957,7 @@
   [
    "World Cocoa Foundation",
    "besleme tanimsiz (56804 bayt)",
-   3777,
+   2510,
    "",
    "",
    null,
@@ -766,7 +966,7 @@
   [
    "VOICE / Cocoa Barometer",
    "<urlopen error [Errno -3] Temporary failure in name resolution>",
-   28959,
+   5324,
    "",
    "",
    null,
@@ -775,7 +975,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1047,
+   1500,
    "https://thecocoapost.com/feed/",
    "toplayici",
    null,
@@ -783,8 +983,8 @@
   ],
   [
    "CocoaIntel",
-   "9 haber",
-   596,
+   "15 haber",
+   423,
    "https://www.cocoaintel.com/feed/",
    "toplayici",
    null,
@@ -793,7 +993,7 @@
   [
    "Panamir",
    "2 haber",
-   2023,
+   2843,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "toplayici",
    null,
@@ -802,7 +1002,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   201,
+   113,
    "https://www.barchart.com/news/rss/commodities/softs",
    "toplayici",
    null,
@@ -811,7 +1011,7 @@
   [
    "Hedgepoint",
    "HTTP Error 404: Not Found",
-   1106,
+   1305,
    "",
    "",
    null,
@@ -820,7 +1020,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   116,
+   569,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -829,7 +1029,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   135,
+   221,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -838,7 +1038,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   260,
+   759,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -847,7 +1047,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   197,
+   225,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -856,7 +1056,7 @@
   [
    "Confectionery Production",
    "12 haber",
-   1811,
+   2346,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "toplayici",
    null,
@@ -865,7 +1065,7 @@
   [
    "Graphic Online · GH",
    "HTTP Error 403: Forbidden",
-   254,
+   637,
    "",
    "",
    null,
@@ -874,7 +1074,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   1105,
+   1421,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "toplayici",
    null,
@@ -883,7 +1083,7 @@
   [
    "Citi Newsroom · GH",
    "HTTP Error 403: Forbidden",
-   75,
+   108,
    "",
    "",
    null,
@@ -892,7 +1092,7 @@
   [
    "B&FT Online · GH",
    "HTTP Error 404: Not Found",
-   890,
+   1085,
    "",
    "",
    null,
@@ -901,7 +1101,7 @@
   [
    "Ghana News Agency",
    "besleme tanimsiz (264342 bayt)",
-   14874,
+   21529,
    "",
    "",
    null,
@@ -909,8 +1109,8 @@
   ],
   [
    "GhanaWeb · İş",
-   "besleme tanimsiz (1838 bayt)",
-   101,
+   "besleme tanimsiz (1842 bayt)",
+   81,
    "",
    "",
    null,
@@ -919,7 +1119,7 @@
   [
    "Fratmat · CI",
    "HTTP Error 404: Not Found",
-   350,
+   807,
    "",
    "",
    null,
@@ -927,8 +1127,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "HTTP Error 500: Internal Server Error",
-   441,
+   "konuya uyan haber yok (10 kayit tarandi)",
+   1964,
    "",
    "",
    null,
@@ -937,7 +1137,7 @@
   [
    "Sika Finance · CI",
    "HTTP Error 404: Not Found",
-   263,
+   856,
    "",
    "",
    null,
@@ -946,7 +1146,7 @@
   [
    "Agence Ecofin",
    "HTTP Error 500: Internal Server Error",
-   1401,
+   2342,
    "",
    "",
    null,
@@ -954,8 +1154,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (212389 bayt)",
-   1809,
+   "besleme tanimsiz (212552 bayt)",
+   1380,
    "",
    "",
    null,
@@ -964,7 +1164,7 @@
   [
    "Investir au Cameroun",
    "HTTP Error 500: Internal Server Error",
-   204,
+   609,
    "",
    "",
    null,
@@ -973,7 +1173,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   822,
+   1116,
    "",
    "",
    null,
@@ -982,7 +1182,7 @@
   [
    "Vanguard · NG",
    "HTTP Error 403: Forbidden",
-   121,
+   103,
    "",
    "",
    null,
@@ -991,7 +1191,7 @@
   [
    "Punch · NG",
    "HTTP Error 403: Forbidden",
-   123,
+   91,
    "",
    "",
    null,
@@ -1000,7 +1200,7 @@
   [
    "Anecacao · EC",
    "HTTP Error 500: Internal Server Error",
-   1873,
+   1520,
    "",
    "",
    null,
@@ -1008,8 +1208,8 @@
   ],
   [
    "Primicias · EC",
-   "besleme tanimsiz (270870 bayt)",
-   269,
+   "besleme tanimsiz (270218 bayt)",
+   600,
    "",
    "",
    null,
@@ -1018,7 +1218,7 @@
   [
    "Notícias Agrícolas · BR",
    "HTTP Error 404: Not Found",
-   358,
+   520,
    "",
    "",
    null,
@@ -1027,7 +1227,7 @@
   [
    "Jakarta Post · İş",
    "HTTP Error 404: Not Found",
-   881,
+   937,
    "",
    "",
    null,
