@@ -17,6 +17,7 @@ Kullanim:
 """
 
 import concurrent.futures
+import gzip
 import html as html_kacis
 import json
 import os
@@ -26,6 +27,7 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+import zlib
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -33,15 +35,29 @@ KOK = os.path.dirname(os.path.abspath(__file__))
 HTML_YOLU = os.path.join(KOK, "index.html")
 CIKTI = os.path.join(KOK, "veri", "haberler.json")
 CEVIRI_YOLU = os.path.join(KOK, "veri", "ceviri.json")
+MAKALE_YOLU = os.path.join(KOK, "veri", "makaleler.json")
 
 AZAMI_GUN = 60           # index.html'deki AZAMI_GUN ile ayni olmali
 ZAMAN_ASIMI = 25
 ES_ZAMANLI = 8
 CEVIR = os.environ.get("CEVIR", "").strip() in ("1", "true", "evet")
+# Makale govdesini cekip sadelestirme (reklamsiz okuyucu icin)
+MAKALE = os.environ.get("MAKALE", "1").strip() in ("1", "true", "evet")
+MAKALE_AZAMI = 120        # bir calismada en fazla kac YENI makale
+MAKALE_UZUNLUK = 9000     # cikarilan metin bu kadar karakterle sinirli
 
 # Baslikta/ozette bunlardan biri gecmiyorsa haber alinmaz.
-# index.html'deki ayni filtrenin kopyasi.
 KONU = re.compile(r"cocoa|cacao|cacau|kakao|chocolate|chocolat|cocobod", re.I)
+
+# ...ANCAK zaten yalnizca kakao yayini yapan kaynaklarda bu filtre
+# zararli. CocoaRadar 15 haber getirip hepsi elenmisti: basliklarinda
+# "cocoa" gecmiyordu ("Ghana's harvest begins" gibi). Bu kaynaklarda
+# her haber alinir.
+KONU_MUAF = {
+    "ICCO", "CIGHCI · Fildişi-Gana", "COCOBOD · resmî", "FCC · Cocoa Commerce",
+    "ECA · Avrupa öğütme", "CocoaRadar", "The Cocoa Post", "CocoaIntel",
+    "World Cocoa Foundation", "VOICE / Cocoa Barometer", "Anecacao · EC",
+}
 
 TARAYICI_KIMLIGI = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -109,18 +125,56 @@ def kaynaklari_oku():
 #  Ag
 # ══════════════════════════════════════════════════════════════════
 
-def getir(url, zaman_asimi=ZAMAN_ASIMI):
-    istek = urllib.request.Request(url, headers={
+def getir(url, zaman_asimi=ZAMAN_ASIMI, sayfa=False):
+    """sayfa=True ise HTML bekleniyor demektir, basliklar ona gore ayarlanir.
+
+       ONEMLI: Accept-Encoding gonderiyoruz ve gelen govdeyi ELIMIZLE
+       aciyoruz. urllib bunu kendisi yapmaz; bazi sunucular istenmese de
+       gzip gonderiyor ve sikistirilmis bayt yigini "besleme tanimsiz"
+       olarak dusuyordu. ICCO, FCC, Ghana News Agency, Primicias ve
+       World Cocoa Foundation bu yuzden hic gelmiyordu."""
+    basliklar = {
         "User-Agent": TARAYICI_KIMLIGI,
-        "Accept": "application/json, application/rss+xml, text/xml, */*;q=0.8",
-        "Accept-Language": "en,fr;q=0.8,es;q=0.7,pt;q=0.6",
-    })
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "en-US,en;q=0.9,fr;q=0.8,es;q=0.7,pt;q=0.6",
+        "Connection": "close",
+    }
+    if sayfa:
+        basliklar["Accept"] = ("text/html,application/xhtml+xml,"
+                               "application/xml;q=0.9,*/*;q=0.8")
+        try:
+            p = urllib.parse.urlparse(url)
+            basliklar["Referer"] = "%s://%s/" % (p.scheme, p.hostname)
+        except Exception:
+            pass
+    else:
+        basliklar["Accept"] = ("application/rss+xml, application/atom+xml, "
+                               "application/xml;q=0.9, application/json;q=0.9, "
+                               "text/xml;q=0.9, */*;q=0.5")
+
+    istek = urllib.request.Request(url, headers=basliklar)
     with urllib.request.urlopen(istek, timeout=zaman_asimi,
                                 context=SSL_BAGLAMI) as y:
         ham = y.read()
-    for kodlama in ("utf-8", "latin-1"):
+        kodlama = (y.headers.get("Content-Encoding") or "").lower()
+
+    if "gzip" in kodlama:
         try:
-            return ham.decode(kodlama)
+            ham = gzip.decompress(ham)
+        except Exception:
+            pass
+    elif "deflate" in kodlama:
+        try:
+            ham = zlib.decompress(ham, -zlib.MAX_WBITS)
+        except Exception:
+            try:
+                ham = zlib.decompress(ham)
+            except Exception:
+                pass
+
+    for kod in ("utf-8", "latin-1"):
+        try:
+            return ham.decode(kod)
         except UnicodeDecodeError:
             continue
     return ham.decode("utf-8", "replace")
@@ -249,6 +303,7 @@ def wp_ayristir(metin):
 def kaynak_tara(k):
     t0 = time.time()
     esik = datetime.now(timezone.utc) - timedelta(days=AZAMI_GUN)
+    muaf = k["ad"] in KONU_MUAF
     son_hata = "adres yok"
 
     for url in k["feeds"]:
@@ -279,7 +334,7 @@ def kaynak_tara(k):
             # Google News yonlendirmesi listeye hic girmez (link acilmiyor)
             if re.search(r"news\.google\.com|/rss/articles/", h["link"] or ""):
                 continue
-            if not KONU.search(h["baslik"] + " " + h["ozet"]):
+            if not muaf and not KONU.search(h["baslik"] + " " + h["ozet"]):
                 continue
             try:
                 alan = urllib.parse.urlparse(h["link"]).hostname or k["ad"]
@@ -302,7 +357,8 @@ def kaynak_tara(k):
         if haberler:
             return haberler, [k["ad"], "%d haber" % len(haberler), ms,
                               url, "toplayici", None, elenen]
-        son_hata = "konuya uyan haber yok (%d kayit tarandi)" % len(ham)
+        son_hata = ("tum kayitlar elendi (%d tarandi)" % len(ham)) if muaf \
+                   else ("konuya uyan haber yok (%d kayit tarandi)" % len(ham))
 
     return [], [k["ad"], son_hata, int((time.time() - t0) * 1000),
                 "", "", None, 0]
@@ -455,6 +511,134 @@ def basliklari_cevir(haberler):
 
 # ══════════════════════════════════════════════════════════════════
 
+# ══════════════════════════════════════════════════════════════════
+#  Makale govdesi: cek, sadelestir, cevir
+# ══════════════════════════════════════════════════════════════════
+#  kakao_sunucu.py'nin "Sade gorunum"unun yerini alir. Fark: is okuma
+#  aninda degil TOPLAMA aninda yapiliyor. Cikan temiz metin JSON'a
+#  yazildigi icin telefonda ne proxy ne de reklam var.
+
+def makale_onbellek_oku():
+    try:
+        return json.load(open(MAKALE_YOLU, encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def makale_cikar(link):
+    """Sayfayi ceker, reklam/menu/altbilgiyi atar, paragraflari dondurur."""
+    try:
+        import trafilatura
+    except ImportError:
+        return None
+    try:
+        sayfa = getir(link, 25, sayfa=True)
+    except Exception:
+        return None
+    try:
+        metin = trafilatura.extract(
+            sayfa, include_comments=False, include_tables=False,
+            favor_precision=True, no_fallback=False)
+    except Exception:
+        metin = None
+    if not metin:
+        return None
+
+    paragraflar = [p.strip() for p in metin.split("\n") if len(p.strip()) > 40]
+    if not paragraflar:
+        return None
+
+    # Toplam uzunlugu sinirla — cok uzun makale hem JSON'u sisiriyor
+    # hem de ceviri kotasini hizla tuketiyor.
+    out, toplam = [], 0
+    for p in paragraflar:
+        if toplam + len(p) > MAKALE_UZUNLUK:
+            break
+        out.append(p)
+        toplam += len(p)
+    return out or None
+
+
+def paragraflari_cevir(paragraflar, durum):
+    """Paragraflari ~1200 karakterlik obeklerde cevirir. Bir obek
+       basarisiz olursa o obegin paragraflari orijinal kalir."""
+    cevrili, obek, uzunluk = [], [], 0
+
+    def obegi_bosalt():
+        nonlocal obek, uzunluk
+        if not obek:
+            return
+        try:
+            sonuc = cevir_metin("\n".join(obek), durum).split("\n")
+        except Exception:
+            sonuc = []
+        if len(sonuc) == len(obek) and all(
+                _makul(a, b) for a, b in zip(obek, sonuc)):
+            cevrili.extend(s.strip() for s in sonuc)
+        else:
+            cevrili.extend(obek)          # cevrilemedi: orijinali koru
+        obek, uzunluk = [], 0
+        time.sleep(0.3)
+
+    for p in paragraflar:
+        if uzunluk + len(p) > 1200 and obek:
+            obegi_bosalt()
+        obek.append(p)
+        uzunluk += len(p)
+    obegi_bosalt()
+    return cevrili
+
+
+def makaleleri_hazirla(haberler):
+    onbellek = makale_onbellek_oku()
+    yeni = [h for h in haberler
+            if h["link"] and h["link"] not in onbellek][:MAKALE_AZAMI]
+
+    print("  %d haberin %d tanesi yeni, govdeleri cekiliyor..."
+          % (len(haberler), len(yeni)))
+
+    # Cekme is agirlikli degil ag agirlikli — paralel yapilabilir
+    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex:
+        govdeler = list(ex.map(lambda h: makale_cikar(h["link"]), yeni))
+
+    cekilen = sum(1 for g in govdeler if g)
+    print("  %d/%d makale govdesi cikarildi" % (cekilen, len(yeni)))
+
+    durum, cevrilen = {}, 0
+    for h, govde in zip(yeni, govdeler):
+        if not govde:
+            onbellek[h["link"]] = {"p": [], "pTR": [], "hata": "govde cikarilamadi"}
+            continue
+        kayit = {"p": govde, "pTR": []}
+        if CEVIR:
+            try:
+                tr = paragraflari_cevir(govde, durum)
+                if tr != govde:
+                    kayit["pTR"] = tr
+                    cevrilen += 1
+            except Exception:
+                pass
+        onbellek[h["link"]] = kayit
+
+    if CEVIR:
+        print("  %d makale Turkce'ye cevrildi" % cevrilen)
+
+    # Listede olmayan makaleleri at — dosya sonsuza kadar buyumesin
+    gorulen = {h["link"] for h in haberler}
+    onbellek = {a: b for a, b in onbellek.items() if a in gorulen}
+
+    os.makedirs(os.path.dirname(MAKALE_YOLU), exist_ok=True)
+    with open(MAKALE_YOLU, "w", encoding="utf-8") as f:
+        json.dump(onbellek, f, ensure_ascii=False, indent=0, sort_keys=True)
+
+    var = sum(1 for v in onbellek.values() if v.get("p"))
+    print("  makale dosyasi: %d kayit (%d okunabilir)" % (len(onbellek), var))
+    for h in haberler:
+        h["okunur"] = bool(onbellek.get(h["link"], {}).get("p"))
+
+
+# ══════════════════════════════════════════════════════════════════
+
 def tekille(haberler):
     """Ayni haber birden cok kaynakta cikiyor. Baslik normalize edilip
        tekrarlar atilir — index.html'deki ayni kural."""
@@ -493,6 +677,10 @@ def main():
     if CEVIR:
         print("-" * 62)
         basliklari_cevir(hepsi)
+
+    if MAKALE:
+        print("-" * 62)
+        makaleleri_hazirla(hepsi)
 
     calisan = sum(1 for r in rapor if re.match(r"\d+ haber", r[1]))
     veri = {

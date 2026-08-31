@@ -22,7 +22,7 @@ concurrency:
 jobs:
   topla:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
@@ -36,7 +36,8 @@ jobs:
 
       - name: Haberleri topla
         env:
-          CEVIR: "1"        # basliklari Turkce'ye cevir; istemezsen "0" yap
+          CEVIR: "1"        # basliklari ve makaleleri Turkce'ye cevir
+          MAKALE: "1"       # makale govdesini cikar (reklamsiz okuyucu)
         run: python topla.py
 
       - name: Sonucu isle
