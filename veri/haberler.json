@@ -1,10 +1,22 @@
 {
- "uretim": "2026-08-31T11:22:34.584269+00:00",
+ "uretim": "2026-08-31T11:38:10.469909+00:00",
  "kaynakSayisi": 38,
  "calisanKaynak": 12,
- "haberSayisi": 56,
+ "haberSayisi": 57,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Ivory Coast Opens 2026/27 Cocoa Main Crop With Farmgate Price Expected at 1,200 CFA/kg (31 August 2026)",
+   "link": "https://www.cocoaintel.com/ivory-coast-opens-2026-27-cocoa-main-crop-with-farmgate-price-expected-at-1-200-cfa-kg-31-august-2026/",
+   "tarih": "2026-08-31T11:27:23+00:00",
+   "ozet": "Ivory Coast is expected to keep its 2026/27 cocoa farmgate price at 1,200 CFA/kg, while a delayed main crop and regional price gaps raise supply risks",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili 2026/27 Kakao Ana Mahsulünü Farmgate Fiyatıyla 1.200 CFA/kg olarak Bekliyor (31 Ağustos 2026)"
+  },
   {
    "baslik": "Outlook of Ghana’s external sector remains positive for second-half of 2026",
    "link": "https://www.myjoyonline.com/outlook-of-ghanas-external-sector-remains-positive-for-second-half-of-2026-bog/",
@@ -681,8 +693,8 @@
  "rapor": [
   [
    "ICCO",
-   "besleme tanimsiz (222717 bayt)",
-   3318,
+   "besleme tanimsiz (224638 bayt)",
+   2765,
    "",
    "",
    null,
@@ -691,7 +703,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1666,
+   1450,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "toplayici",
    null,
@@ -700,7 +712,7 @@
   [
    "COCOBOD · resmî",
    "HTTP Error 404: Not Found",
-   763,
+   714,
    "",
    "",
    null,
@@ -709,7 +721,7 @@
   [
    "FCC · Cocoa Commerce",
    "besleme tanimsiz (134908 bayt)",
-   3469,
+   3210,
    "",
    "",
    null,
@@ -718,7 +730,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3801,
+   3917,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "toplayici",
    null,
@@ -727,7 +739,7 @@
   [
    "CAOBISCO · AB sanayi",
    "<urlopen error timed out>",
-   27115,
+   27068,
    "",
    "",
    null,
@@ -736,7 +748,7 @@
   [
    "CocoaRadar",
    "konuya uyan haber yok (15 kayit tarandi)",
-   893,
+   651,
    "",
    "",
    null,
@@ -745,7 +757,7 @@
   [
    "World Cocoa Foundation",
    "besleme tanimsiz (56804 bayt)",
-   1702,
+   3777,
    "",
    "",
    null,
@@ -754,7 +766,7 @@
   [
    "VOICE / Cocoa Barometer",
    "<urlopen error [Errno -3] Temporary failure in name resolution>",
-   3375,
+   28959,
    "",
    "",
    null,
@@ -763,7 +775,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1486,
+   1047,
    "https://thecocoapost.com/feed/",
    "toplayici",
    null,
@@ -771,8 +783,8 @@
   ],
   [
    "CocoaIntel",
-   "8 haber",
-   246,
+   "9 haber",
+   596,
    "https://www.cocoaintel.com/feed/",
    "toplayici",
    null,
@@ -781,7 +793,7 @@
   [
    "Panamir",
    "2 haber",
-   2265,
+   2023,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "toplayici",
    null,
@@ -790,7 +802,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   94,
+   201,
    "https://www.barchart.com/news/rss/commodities/softs",
    "toplayici",
    null,
@@ -799,7 +811,7 @@
   [
    "Hedgepoint",
    "HTTP Error 404: Not Found",
-   1475,
+   1106,
    "",
    "",
    null,
@@ -808,7 +820,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   226,
+   116,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -817,7 +829,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   172,
+   135,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -826,7 +838,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   81,
+   260,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -835,7 +847,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   213,
+   197,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "toplayici",
    null,
@@ -844,7 +856,7 @@
   [
    "Confectionery Production",
    "12 haber",
-   1875,
+   1811,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "toplayici",
    null,
@@ -853,7 +865,7 @@
   [
    "Graphic Online · GH",
    "HTTP Error 403: Forbidden",
-   287,
+   254,
    "",
    "",
    null,
@@ -862,7 +874,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   985,
+   1105,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "toplayici",
    null,
@@ -871,7 +883,7 @@
   [
    "Citi Newsroom · GH",
    "HTTP Error 403: Forbidden",
-   85,
+   75,
    "",
    "",
    null,
@@ -880,7 +892,7 @@
   [
    "B&FT Online · GH",
    "HTTP Error 404: Not Found",
-   798,
+   890,
    "",
    "",
    null,
@@ -889,7 +901,7 @@
   [
    "Ghana News Agency",
    "besleme tanimsiz (264342 bayt)",
-   11817,
+   14874,
    "",
    "",
    null,
@@ -897,8 +909,8 @@
   ],
   [
    "GhanaWeb · İş",
-   "besleme tanimsiz (1842 bayt)",
-   235,
+   "besleme tanimsiz (1838 bayt)",
+   101,
    "",
    "",
    null,
@@ -907,7 +919,7 @@
   [
    "Fratmat · CI",
    "HTTP Error 404: Not Found",
-   241,
+   350,
    "",
    "",
    null,
@@ -916,7 +928,7 @@
   [
    "AIP · CI resmî ajans",
    "HTTP Error 500: Internal Server Error",
-   391,
+   441,
    "",
    "",
    null,
@@ -925,7 +937,7 @@
   [
    "Sika Finance · CI",
    "HTTP Error 404: Not Found",
-   548,
+   263,
    "",
    "",
    null,
@@ -934,7 +946,7 @@
   [
    "Agence Ecofin",
    "HTTP Error 500: Internal Server Error",
-   1379,
+   1401,
    "",
    "",
    null,
@@ -942,8 +954,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (212631 bayt)",
-   776,
+   "besleme tanimsiz (212389 bayt)",
+   1809,
    "",
    "",
    null,
@@ -952,7 +964,7 @@
   [
    "Investir au Cameroun",
    "HTTP Error 500: Internal Server Error",
-   344,
+   204,
    "",
    "",
    null,
@@ -961,7 +973,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   723,
+   822,
    "",
    "",
    null,
@@ -970,7 +982,7 @@
   [
    "Vanguard · NG",
    "HTTP Error 403: Forbidden",
-   116,
+   121,
    "",
    "",
    null,
@@ -979,7 +991,7 @@
   [
    "Punch · NG",
    "HTTP Error 403: Forbidden",
-   109,
+   123,
    "",
    "",
    null,
@@ -988,7 +1000,7 @@
   [
    "Anecacao · EC",
    "HTTP Error 500: Internal Server Error",
-   1365,
+   1873,
    "",
    "",
    null,
@@ -996,8 +1008,8 @@
   ],
   [
    "Primicias · EC",
-   "besleme tanimsiz (270992 bayt)",
-   163,
+   "besleme tanimsiz (270870 bayt)",
+   269,
    "",
    "",
    null,
@@ -1015,7 +1027,7 @@
   [
    "Jakarta Post · İş",
    "HTTP Error 404: Not Found",
-   901,
+   881,
    "",
    "",
    null,
