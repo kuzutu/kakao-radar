@@ -60,11 +60,9 @@ KONU = re.compile(r"cocoa|cacao|cacau|kakao|chocolate|chocolat|cocobod", re.I)
 # "cocoa" gecmiyordu ("Ghana's harvest begins" gibi). Bu kaynaklarda
 # her haber alinir.
 KONU_MUAF = {
-    "ICCO", "CIGHCI · Fildişi-Gana", "COCOBOD · resmî", "FCC · Cocoa Commerce",
-    "ECA · Avrupa öğütme", "CocoaRadar", "The Cocoa Post", "CocoaIntel",
-    "World Cocoa Foundation", "VOICE / Cocoa Barometer", "Anecacao · EC",
-    # Yalnizca kakao/kahve yayini yapan kurumlar — filtre bunlarda zararli.
-    "Conseil Café-Cacao · CI", "CRIG · Gana arastirma", "Intl Cocoa Initiative",
+    "ICCO", "CIGHCI · Fildişi-Gana", "ECA · Avrupa öğütme", "CocoaRadar",
+    "The Cocoa Post", "CocoaIntel", "World Cocoa Foundation",
+    "Anecacao · EC", "Intl Cocoa Initiative",
 }
 
 TARAYICI_KIMLIGI = (
