@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-01T12:56:40.872578+00:00",
+ "uretim": "2026-09-01T13:26:25.592045+00:00",
  "kaynakSayisi": 37,
- "calisanKaynak": 19,
- "haberSayisi": 98,
+ "calisanKaynak": 21,
+ "haberSayisi": 101,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Côte d’Ivoire-AIP/JNCC 2026: Le prix bord champ du cacao fixé à 1.200 FCFA/kg et celui du café à 1.300 FCFA/kg pour la campagne 2026-2027",
+   "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-le-prix-bord-champ-du-cacao-fixe-a-1-200-fcfa-kg-et-celui-du-cafe-a-1-300-fcfa-kg-pour-la-campagne-2026-2027/",
+   "tarih": "2026-09-01T13:18:46+00:00",
+   "ozet": "Abidjan, 1er sept 2026 (AIP)-Le ministre de l’Agriculture, du Développement rural et des Productions vivrières, Bruno Nabagné Koné, a procédé, mardi 1er septembre 2026, à l’ouverture officielle de la campagne principale de commercialisation du café et du cacao",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/JNCC 2026: 2026-2027 kampanyası için kakaonun çiftlik giriş fiyatı 1.200 FCFA/kg ve kahvenin fiyatı 1.300 FCFA/kg olarak belirlendi",
+   "okunur": true
+  },
   {
    "baslik": "Le prix d’achat bord champ du café est de 1300 FCFA/kg et celui du cacao à 1200 FCFA/kg pour la campagne 2026-2027",
    "link": "https://www.aip.ci/le-prix-dachat-bord-champ-du-cafe-est-de-1300-fcfa-kg-et-celui-du-cacao-a-1200-fcfa-kg-pour-la-campagne-2026-2027/",
@@ -17,6 +30,19 @@
    "kaynakUyari": "",
    "baslikTR": "2026-2027 kampanyası için çiftlik kapısı kahve alım fiyatı 1300 FCFA/kg, kakaonun fiyatı ise 1200 FCFA/kg'dır.",
    "okunur": false
+  },
+  {
+   "baslik": "Cacao : La Côte d’Ivoire maintient le prix aux producteurs à 1 200 FCFA/kg pour la campagne 2026/2027",
+   "link": "https://www.sikafinance.com/marches/cacao-la-cote-divoire-maintient-le-prix-aux-producteurs-a-1-200-fcfakg-pour-la-campagne-20262027_63954",
+   "tarih": "2026-09-01T11:05:12+00:00",
+   "ozet": "La Côte d'Ivoire reconduit à 1 200 FCFA le kilogramme le prix d'achat du cacao aux producteurs pour la campagne 2026/2027, ouverte ce 1er septe...",
+   "kaynak": "Sika Finance · CI",
+   "grup": "Sika Finance · CI",
+   "alan": "sikafinance.com",
+   "w": 0.85,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao: Fildişi Sahili 2026/2027 kampanyası için üretici fiyatını 1.200 FCFA/kg seviyesinde tutuyor",
+   "okunur": true
   },
   {
    "baslik": "Cocoa Extends Rally Ahead of Côte d’Ivoire Farmgate Price Decision (31 August 2026)",
@@ -175,19 +201,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ JNCC 2026: les prix bord champ de la campagne café-cacao 2026-2027 seront dévoilés le 1er septembre",
-   "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-les-prix-bord-champ-de-la-campagne-cafe-cacao-2026-2027-seront-devoiles-le-1er-septembre/",
-   "tarih": "2026-08-31T10:36:03+00:00",
-   "ozet": "Abidjan, 31 août 2026 (AIP)- La campagne café-cacao 2026-2027 s’ouvre officiellement mardi 1er septembre 2026, à l’occasion de la 10ᵉ édition des Journées nationales du cacao et du chocolat (JNCC), prévue au parc des Expositions d’Abidjan, avec l’annonce des p",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ JNCC 2026: 2026-2027 kahve-kakao kampanyası saha fiyatları 1 Eylül'de açıklanacak",
-   "okunur": false
-  },
-  {
    "baslik": "SIKA COMMODITIES WEEKLY 34 : Le cacao prend le relais, le pétrole reflue et le café sous pression",
    "link": "https://www.sikafinance.com/marches/sika-commodities-weekly-34-le-cacao-prend-le-relais-le-petrole-reflue-et-le-cafe-sous-pression_63915",
    "tarih": "2026-08-31T07:05:54+00:00",
@@ -201,19 +214,6 @@
    "okunur": true
   },
   {
-   "baslik": "JNCC 2026: les prix bord champ de la campagne café-cacao 2026-2027 seront connus le 1er septembre",
-   "link": "https://www.aip.ci/jncc-2026-les-prix-bord-champ-de-la-campagne-cafe-cacao-2026-2027-seront-connus-le-1er-septembre/",
-   "tarih": "2026-08-31T04:16:13+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "JNCC 2026: 2026-2027 kahve-kakao kampanyasının saha fiyatları 1 Eylül'de belli olacak",
-   "okunur": false
-  },
-  {
    "baslik": "Outlook of Ghana’s external sector remains positive for second-half of 2026",
    "link": "https://www.myjoyonline.com/outlook-of-ghanas-external-sector-remains-positive-for-second-half-of-2026-bog/",
    "tarih": "2026-08-30T19:39:53+00:00",
@@ -224,19 +224,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Gana'nın dış sektörünün görünümü 2026'nın ikinci yarısı için olumlu olmaya devam ediyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le CNS appelle les producteurs d’Ananguié à renforcer la vigilance contre le travail des enfants dans la cacaoculture",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-cns-appelle-les-producteurs-dananguie-a-renforcer-la-vigilance-contre-le-travail-des-enfants-dans-la-cacaoculture/",
-   "tarih": "2026-08-30T15:36:35+00:00",
-   "ozet": "Adzopé, 30 août 2026 (AIP) – Le Comité national de surveillance des actions de lutte contre la traite, l’exploitation et le travail des enfants (CNS) a appelé, vendredi 28 août 2026, les producteurs de cacao d’Ananguié à renforcer leur vigilance pour prévenir ",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ CNS, Ananguié üreticilerini kakao tarımında çocuk işçiliğine karşı uyanıklığı güçlendirmeye çağırıyor",
    "okunur": true
   },
   {
@@ -1267,6 +1254,19 @@
    "okunur": true
   },
   {
+   "baslik": "Oyo govt receives Gestpoint Nigeria on cocoa investment initiative",
+   "link": "https://businessday.ng/news/article/oyo-govt-receives-gestpoint-nigeria-on-cocoa-investment-initiative/",
+   "tarih": "2026-07-20T09:14:34+00:00",
+   "ozet": "",
+   "kaynak": "BusinessDay · NG",
+   "grup": "BusinessDay · NG",
+   "alan": "businessday.ng",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Oyo hükümeti, kakao yatırım girişimi konusunda Gestpoint Nijerya'yı aldı",
+   "okunur": true
+  },
+  {
    "baslik": "New Cocoa Deforestation Risk Methodology Published",
    "link": "https://worldcocoafoundation.org/news-and-resources/article/wcf-and-the-alliance-of-bioversity-international-and-the-international-center-for-tropical-agriculture-ciat-publish-cocoa-sector-methodology-to-strengthen-transparency-and-consistency-in-deforestation-risk-assessment",
    "tarih": "2026-07-10T12:40:55+02:00",
@@ -1278,13 +1278,52 @@
    "kaynakUyari": "",
    "baslikTR": "Yeni Kakao Ormansızlaşması Risk Metodolojisi Yayınlandı",
    "okunur": true
+  },
+  {
+   "baslik": "Cierre de exportaciones sector cacaotero",
+   "link": "https://anecacao.com/cierre-de-exportaciones-sector-cacaotero-abril-2026/",
+   "tarih": "2026-05-29T17:16:33+00:00",
+   "ozet": "RESULTADOS DE EXPORTACIONES SECTOR CACAOTERO CIERRE DE MARZO 2026 PRINCIPALES DESTINOS DE EXPORTACIONES: Accede a todas las cifras y precios actualizados del cacao en INFOCACAO. Correo: comex@anecacao.com Teléfono: 099 357 9939",
+   "kaynak": "Anecacao · EC",
+   "grup": "Anecacao · EC",
+   "alan": "anecacao.com",
+   "w": 0.95,
+   "kaynakUyari": "Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, bu yuzden geriye bakis 180 gune cikarildi.",
+   "baslikTR": "Çikolata ihracat sektörü",
+   "okunur": true
+  },
+  {
+   "baslik": "Claves para comercializar cacao en el mercado europeo bajo estándares de sostenibilidad y trazabilidad",
+   "link": "https://anecacao.com/claves-para-comercializar-cacao-en-el-mercado-europeo-bajo-estandares-de-sostenibilidad-y-trazabilidad/",
+   "tarih": "2026-04-02T19:35:49+00:00",
+   "ozet": "",
+   "kaynak": "Anecacao · EC",
+   "grup": "Anecacao · EC",
+   "alan": "anecacao.com",
+   "w": 0.95,
+   "kaynakUyari": "Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, bu yuzden geriye bakis 180 gune cikarildi.",
+   "baslikTR": "Kakaoyu Avrupa pazarında ticarileştirmenin anahtarları düşük sürdürülebilirlik ve trazabilidad standartlarına sahiptir",
+   "okunur": true
+  },
+  {
+   "baslik": "Calendario eventos Anecacao 2026",
+   "link": "https://anecacao.com/elementor-5615/",
+   "tarih": "2026-03-12T17:38:09+00:00",
+   "ozet": "Contáctanos al: https://wa.link/7dks08",
+   "kaynak": "Anecacao · EC",
+   "grup": "Anecacao · EC",
+   "alan": "anecacao.com",
+   "w": 0.95,
+   "kaynakUyari": "Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, bu yuzden geriye bakis 180 gune cikarildi.",
+   "baslikTR": "Anecacao 2026 etkinlik takvimi",
+   "okunur": false
   }
  ],
  "rapor": [
   [
    "ICCO",
    "6 haber",
-   1134,
+   1231,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1293,7 +1332,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   4648,
+   5476,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1302,7 +1341,7 @@
   [
    "COCOBOD · resmî",
    "besleme tanimsiz (49593 bayt, vekil)",
-   33081,
+   33410,
    "",
    "",
    null,
@@ -1310,8 +1349,8 @@
   ],
   [
    "FCC · Cocoa Commerce",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   39580,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 520: <none>",
+   34134,
    "",
    "",
    null,
@@ -1320,7 +1359,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4088,
+   3748,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1329,7 +1368,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58055,
+   58334,
    "",
    "",
    null,
@@ -1338,7 +1377,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   207,
+   138,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1347,7 +1386,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   2558,
+   2620,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "kesif",
    null,
@@ -1356,7 +1395,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1016,
+   899,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1365,7 +1404,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   110,
+   126,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1374,7 +1413,7 @@
   [
    "Panamir",
    "2 haber",
-   2145,
+   1815,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1383,7 +1422,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   451,
+   191,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1391,8 +1430,8 @@
   ],
   [
    "Hedgepoint",
-   "besleme tanimsiz (10408 bayt, vekil)",
-   40156,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   63973,
    "",
    "",
    null,
@@ -1401,7 +1440,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   121,
+   489,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1410,7 +1449,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   132,
+   125,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1419,7 +1458,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   312,
+   679,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1428,7 +1467,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   184,
+   67,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1437,7 +1476,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1891,
+   2089,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1445,8 +1484,8 @@
   ],
   [
    "Graphic Online · GH",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 408: Reques",
-   24347,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   31516,
    "",
    "",
    null,
@@ -1455,7 +1494,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   994,
+   980,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1463,8 +1502,8 @@
   ],
   [
    "Citi Newsroom · GH",
-   "besleme tanimsiz (264010 bayt, vekil)",
-   15782,
+   "besleme tanimsiz (264087 bayt, vekil)",
+   10142,
    "",
    "",
    null,
@@ -1473,7 +1512,7 @@
   [
    "B&FT Online · GH",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   34079,
+   34094,
    "",
    "",
    null,
@@ -1481,8 +1520,8 @@
   ],
   [
    "Ghana News Agency",
-   "besleme tanimsiz (267733 bayt, vekil)",
-   32640,
+   "besleme tanimsiz (262075 bayt, vekil)",
+   30860,
    "",
    "",
    null,
@@ -1491,7 +1530,7 @@
   [
    "GhanaWeb · İş",
    "besleme tanimsiz (1904 bayt, vekil)",
-   1064,
+   1215,
    "",
    "",
    null,
@@ -1500,7 +1539,7 @@
   [
    "Fratmat · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   31851,
+   31454,
    "",
    "",
    null,
@@ -1508,17 +1547,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "4 haber",
-   4050,
-   "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "2 haber",
+   54504,
+   "https://www.aip.ci/feed/",
+   "kesif",
    null,
    0
   ],
   [
    "Sika Finance · CI",
-   "1 haber",
-   1817,
+   "2 haber",
+   504,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "kesif",
    null,
@@ -1526,8 +1565,8 @@
   ],
   [
    "Agence Ecofin",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
-   27871,
+   "besleme tanimsiz (0 bayt, vekil)",
+   40694,
    "",
    "",
    null,
@@ -1536,7 +1575,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   3836,
+   3327,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1545,7 +1584,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   3244,
+   2784,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1553,17 +1592,17 @@
   ],
   [
    "BusinessDay · NG",
-   "konuya uyan haber yok (5 kayit tarandi)",
-   31613,
-   "",
-   "",
+   "1 haber",
+   374,
+   "https://businessday.ng/tag/cocoa/feed/",
+   "dogrudan",
    null,
-   0
+   4
   ],
   [
    "Vanguard · NG",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   16763,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   31562,
    "",
    "",
    null,
@@ -1571,8 +1610,8 @@
   ],
   [
    "Punch · NG",
-   "besleme tanimsiz (5763 bayt, vekil)",
-   5725,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   31213,
    "",
    "",
    null,
@@ -1580,17 +1619,17 @@
   ],
   [
    "Anecacao · EC",
-   "10 kayit var ama hepsi 60 gunden eski",
-   8421,
-   "",
-   "",
+   "5 haber",
+   1944,
+   "https://www.anecacao.com/feed/",
+   "dogrudan",
    null,
-   0
+   5
   ],
   [
    "Primicias · EC",
-   "besleme tanimsiz (269525 bayt, vekil)",
-   1804,
+   "besleme tanimsiz (270219 bayt, vekil)",
+   1824,
    "",
    "",
    null,
@@ -1598,8 +1637,8 @@
   ],
   [
    "Notícias Agrícolas · BR",
-   "besleme tanimsiz (78209 bayt, vekil)",
-   15921,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   41179,
    "",
    "",
    null,
@@ -1607,8 +1646,8 @@
   ],
   [
    "Jakarta Post · İş",
-   "besleme tanimsiz (7166 bayt, vekil)",
-   39028,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
+   28815,
    "",
    "",
    null,
