@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-01T11:45:54.389758+00:00",
+ "uretim": "2026-09-01T11:48:51.942834+00:00",
  "kaynakSayisi": 37,
  "calisanKaynak": 19,
  "haberSayisi": 98,
@@ -1284,7 +1284,7 @@
   [
    "ICCO",
    "6 haber",
-   882,
+   724,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1293,7 +1293,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1577,
+   1350,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1302,7 +1302,7 @@
   [
    "COCOBOD · resmî",
    "besleme tanimsiz (49582 bayt, vekil)",
-   9423,
+   32891,
    "",
    "",
    null,
@@ -1310,8 +1310,8 @@
   ],
   [
    "FCC · Cocoa Commerce",
-   "besleme tanimsiz (80449 bayt, vekil)",
-   16431,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   36493,
    "",
    "",
    null,
@@ -1320,7 +1320,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3726,
+   3648,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1329,7 +1329,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57831,
+   55996,
    "",
    "",
    null,
@@ -1338,7 +1338,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   198,
+   122,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1347,7 +1347,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   2676,
+   2736,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "kesif",
    null,
@@ -1356,7 +1356,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   2198,
+   1189,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1365,7 +1365,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   424,
+   72,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1374,7 +1374,7 @@
   [
    "Panamir",
    "2 haber",
-   1569,
+   1766,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1383,7 +1383,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   204,
+   191,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1391,8 +1391,8 @@
   ],
   [
    "Hedgepoint",
-   "besleme tanimsiz (10408 bayt, vekil)",
-   15547,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   62880,
    "",
    "",
    null,
@@ -1401,7 +1401,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   575,
+   178,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1410,7 +1410,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   188,
+   167,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1419,7 +1419,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   461,
+   173,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1428,7 +1428,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   148,
+   172,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1437,7 +1437,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1955,
+   1926,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1446,7 +1446,7 @@
   [
    "Graphic Online · GH",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   31296,
+   31503,
    "",
    "",
    null,
@@ -1455,7 +1455,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   926,
+   257,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1464,7 +1464,7 @@
   [
    "Citi Newsroom · GH",
    "besleme tanimsiz (310508 bayt, vekil)",
-   11813,
+   14906,
    "",
    "",
    null,
@@ -1472,8 +1472,8 @@
   ],
   [
    "B&FT Online · GH",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 408: Reques",
-   27063,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   34020,
    "",
    "",
    null,
@@ -1482,7 +1482,7 @@
   [
    "Ghana News Agency",
    "besleme tanimsiz (269524 bayt, vekil)",
-   31775,
+   28860,
    "",
    "",
    null,
@@ -1491,7 +1491,7 @@
   [
    "GhanaWeb · İş",
    "besleme tanimsiz (1904 bayt, vekil)",
-   845,
+   997,
    "",
    "",
    null,
@@ -1500,7 +1500,7 @@
   [
    "Fratmat · CI",
    "besleme tanimsiz (38417 bayt, vekil)",
-   8745,
+   8303,
    "",
    "",
    null,
@@ -1509,16 +1509,16 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   3680,
+   33652,
    "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "1 haber",
-   835,
+   482,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "kesif",
    null,
@@ -1527,7 +1527,7 @@
   [
    "Agence Ecofin",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   41491,
+   64605,
    "",
    "",
    null,
@@ -1536,7 +1536,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   3321,
+   3405,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1545,7 +1545,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   4107,
+   3082,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1554,7 +1554,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   32107,
+   36092,
    "",
    "",
    null,
@@ -1562,8 +1562,8 @@
   ],
   [
    "Vanguard · NG",
-   "besleme tanimsiz (5789 bayt, vekil)",
-   8202,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   31491,
    "",
    "",
    null,
@@ -1571,8 +1571,8 @@
   ],
   [
    "Punch · NG",
-   "besleme tanimsiz (5763 bayt, vekil)",
-   4705,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   31024,
    "",
    "",
    null,
@@ -1581,7 +1581,7 @@
   [
    "Anecacao · EC",
    "10 kayit var ama hepsi 60 gunden eski",
-   9314,
+   5548,
    "",
    "",
    null,
@@ -1590,7 +1590,7 @@
   [
    "Primicias · EC",
    "besleme tanimsiz (269250 bayt, vekil)",
-   1513,
+   1142,
    "",
    "",
    null,
@@ -1599,7 +1599,7 @@
   [
    "Notícias Agrícolas · BR",
    "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
-   22187,
+   61695,
    "",
    "",
    null,
@@ -1608,7 +1608,7 @@
   [
    "Jakarta Post · İş",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   65465,
+   50534,
    "",
    "",
    null,
