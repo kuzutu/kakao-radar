@@ -38,6 +38,10 @@ HTML_YOLU = os.path.join(KOK, "index.html")
 CIKTI = os.path.join(KOK, "veri", "haberler.json")
 CEVIRI_YOLU = os.path.join(KOK, "veri", "ceviri.json")
 MAKALE_YOLU = os.path.join(KOK, "veri", "makaleler.json")
+# Kesifle bulunan calisan besleme adresleri. Bunlar onbelleklenmezse
+# her tur ana sayfadan yeniden aranir; ana sayfa o an agirsa kaynak
+# sessizce duser ve calisan kaynak sayisi turdan tura oynar.
+KESIF_YOLU = os.path.join(KOK, "veri", "kesif.json")
 
 AZAMI_GUN = 60           # index.html'deki AZAMI_GUN ile ayni olmali
 ZAMAN_ASIMI = 25
@@ -344,6 +348,47 @@ def feed_kesfet(ornek_url):
     return [urllib.parse.urljoin(ana, y.lstrip("/")) for y in YAYGIN_YOLLAR]
 
 
+def kesif_onbellek_oku():
+    try:
+        with open(KESIF_YOLU, encoding="utf-8") as f:
+            v = json.load(f)
+        return v if isinstance(v, dict) else {}
+    except Exception:
+        return {}
+
+
+_KESIF = kesif_onbellek_oku()
+_KESIF_KILIT = threading.Lock()
+_KESIF_DEGISTI = False
+
+
+def kesif_yaz():
+    if not _KESIF_DEGISTI:
+        return
+    try:
+        os.makedirs(os.path.dirname(KESIF_YOLU), exist_ok=True)
+        with open(KESIF_YOLU, "w", encoding="utf-8") as f:
+            json.dump(_KESIF, f, ensure_ascii=False, indent=1, sort_keys=True)
+    except Exception as e:
+        print("  kesif onbellegi yazilamadi: %s" % e)
+
+
+def kesif_kaydet(ad, url):
+    global _KESIF_DEGISTI
+    with _KESIF_KILIT:
+        if _KESIF.get(ad) != url:
+            _KESIF[ad] = url
+            _KESIF_DEGISTI = True
+
+
+def kesif_unut(ad):
+    global _KESIF_DEGISTI
+    with _KESIF_KILIT:
+        if ad in _KESIF:
+            del _KESIF[ad]
+            _KESIF_DEGISTI = True
+
+
 def bicim_bul(metin):
     if not metin:
         return None
@@ -475,6 +520,10 @@ def kaynak_tara(k):
     #   2. site kapali/tasinmis ise ana sayfadan besleme kesfi
     #   3. hala olmadiysa herkese acik vekil uzerinden (IP engeli icin)
     adresler = [(u, "dogrudan") for u in k["feeds"]]
+    # Gecen turda kesifle bulunmus calisan adres varsa once o denenir.
+    _onbellekli = _KESIF.get(k["ad"])
+    if _onbellekli and _onbellekli not in k["feeds"]:
+        adresler.insert(0, (_onbellekli, "onbellek"))
     kesfedildi = False
     vekil_denendi = False
 
@@ -519,6 +568,8 @@ def kaynak_tara(k):
             metin = vekille_getir(url) if yol == "vekil" else getir(url)
         except Exception as e:
             son_hata = ("%s" % e)[:70]
+            if yol == "onbellek":
+                kesif_unut(k["ad"])   # bayat adres, kesif tekrar arasin
             continue
 
         bicim = bicim_bul(metin)
@@ -563,6 +614,10 @@ def kaynak_tara(k):
 
         ms = int((time.time() - t0) * 1000)
         if haberler:
+            # Kesifle bulunan adres calistiysa kaydet ki gelecek turlar
+            # ana sayfayi yeniden taramasin.
+            if yol in ("kesif", "onbellek"):
+                kesif_kaydet(k["ad"], url)
             return haberler, [k["ad"], "%d haber" % len(haberler), ms,
                               url, yol, None, elenen]
         if muaf:
@@ -870,7 +925,7 @@ def tekille(haberler):
 def main():
     t0 = time.time()
     kaynaklar = kaynaklari_oku()
-    print("%d kaynak okundu (index.html)" % len(kaynaklar))
+    print("%d kaynak okundu (index.html) · SURUM 2026-09-01-c" % len(kaynaklar))
     print("-" * 62)
 
     hepsi, rapor = [], []
@@ -911,6 +966,11 @@ def main():
     print("-" * 62)
     print("%d haber · %d/%d kaynak · %.1f sn" %
           (len(hepsi), calisan, len(kaynaklar), time.time() - t0))
+    kesif_yaz()
+    if _KESIF:
+        print("kesif onbellegi (%d kaynak):" % len(_KESIF))
+        for ad in sorted(_KESIF):
+            print("   %-28s %s" % (ad[:28], _KESIF[ad]))
     print("yazildi: %s" % CIKTI)
 
     # Tum kaynaklar birden dustuyse bu bir ag/kod sorunudur; Actions'in
