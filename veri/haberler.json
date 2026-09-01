@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-01T07:06:24.654729+00:00",
- "kaynakSayisi": 38,
- "calisanKaynak": 19,
- "haberSayisi": 98,
+ "uretim": "2026-09-01T08:29:26.410300+00:00",
+ "kaynakSayisi": 37,
+ "calisanKaynak": 20,
+ "haberSayisi": 99,
  "cevirili": true,
  "haberler": [
   {
@@ -94,6 +94,19 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Net zararın 144 milyon GH¢'ye yükselmesiyle birlikte CPC'nin geliri %47 düştü",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa and Cotton Push Côte d'Ivoire's Fertilizer Demand to New Peak",
+   "link": "http://www.ecofinagency.com/news-agriculture/3108-58471-cocoa-and-cotton-push-cote-divoires-fertilizer-demand-to-new-peak",
+   "tarih": "2026-08-31T13:56:20+02:00",
+   "ozet": "Côte d'Ivoire imported 789,500 tonnes of chemical fertilizer in 2025, up 38% year-on-year and a new record that tops the previous 2023 peak of 613,527 tonnes. Cocoa and cotton drove domestic demand, absorbing more than 287,250 tonnes together — nearly half of ",
+   "kaynak": "Agence Ecofin",
+   "grup": "Agence Ecofin",
+   "alan": "ecofinagency.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao ve Pamuk, Fildişi Sahili'nin Gübre Talebini Yeni Zirveye Çıkardı",
    "okunur": true
   },
   {
@@ -1284,7 +1297,7 @@
   [
    "ICCO",
    "6 haber",
-   1160,
+   1472,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1293,7 +1306,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1482,
+   1591,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1301,8 +1314,8 @@
   ],
   [
    "COCOBOD · resmî",
-   "codetabs: HTTP Error 522: <none>",
-   45132,
+   "allorigins: The read operation timed out | codetabs: The read operatio",
+   49111,
    "",
    "",
    null,
@@ -1310,8 +1323,8 @@
   ],
   [
    "FCC · Cocoa Commerce",
-   "codetabs: HTTP Error 522: <none>",
-   71253,
+   "vekil devre disi (ardisik 3 hata)",
+   28252,
    "",
    "",
    null,
@@ -1320,7 +1333,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3983,
+   4024,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1328,8 +1341,8 @@
   ],
   [
    "CAOBISCO · AB sanayi",
-   "codetabs: HTTP Error 522: <none>",
-   134846,
+   "vekil devre disi (ardisik 3 hata)",
+   56358,
    "",
    "",
    null,
@@ -1338,34 +1351,25 @@
   [
    "CocoaRadar",
    "15 haber",
-   895,
+   110,
    "https://cocoaradar.com/archive/rss/",
-   "kesif",
+   "dogrudan",
    null,
    0
   ],
   [
    "World Cocoa Foundation",
    "5 haber",
-   2628,
+   2713,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "kesif",
    null,
    5
   ],
   [
-   "VOICE / Cocoa Barometer",
-   "codetabs: HTTP Error 522: <none>",
-   73314,
-   "",
-   "",
-   null,
-   0
-  ],
-  [
    "The Cocoa Post",
    "1 haber",
-   1110,
+   1100,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1374,7 +1378,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   359,
+   80,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1383,7 +1387,7 @@
   [
    "Panamir",
    "2 haber",
-   2345,
+   2347,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1392,7 +1396,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   86,
+   286,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1400,8 +1404,8 @@
   ],
   [
    "Hedgepoint",
-   "codetabs: HTTP Error 522: <none>",
-   90263,
+   "vekil devre disi (ardisik 3 hata)",
+   25439,
    "",
    "",
    null,
@@ -1410,7 +1414,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   553,
+   217,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1419,7 +1423,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   105,
+   143,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1428,7 +1432,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   106,
+   314,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1437,7 +1441,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   237,
+   393,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1446,7 +1450,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   3200,
+   1861,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1454,8 +1458,8 @@
   ],
   [
    "Graphic Online · GH",
-   "besleme tanimsiz (111899 bayt, vekil)",
-   46801,
+   "vekil devre disi (ardisik 3 hata)",
+   24671,
    "",
    "",
    null,
@@ -1464,7 +1468,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   960,
+   1046,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1472,8 +1476,8 @@
   ],
   [
    "Citi Newsroom · GH",
-   "codetabs: HTTP Error 522: <none>",
-   78030,
+   "vekil devre disi (ardisik 3 hata)",
+   24221,
    "",
    "",
    null,
@@ -1481,8 +1485,8 @@
   ],
   [
    "B&FT Online · GH",
-   "codetabs: HTTP Error 522: <none>",
-   79658,
+   "vekil devre disi (ardisik 3 hata)",
+   25337,
    "",
    "",
    null,
@@ -1490,8 +1494,8 @@
   ],
   [
    "Ghana News Agency",
-   "codetabs: HTTP Error 522: <none>",
-   79902,
+   "vekil devre disi (ardisik 3 hata)",
+   36923,
    "",
    "",
    null,
@@ -1499,8 +1503,8 @@
   ],
   [
    "GhanaWeb · İş",
-   "besleme tanimsiz (1904 bayt, vekil)",
-   27208,
+   "allorigins: The read operation timed out | codetabs: The read operatio",
+   30385,
    "",
    "",
    null,
@@ -1508,8 +1512,8 @@
   ],
   [
    "Fratmat · CI",
-   "codetabs: HTTP Error 522: <none>",
-   59107,
+   "allorigins: The read operation timed out | codetabs: The read operatio",
+   44472,
    "",
    "",
    null,
@@ -1518,7 +1522,7 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   1989,
+   4950,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1527,7 +1531,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   451,
+   813,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "kesif",
    null,
@@ -1535,17 +1539,17 @@
   ],
   [
    "Agence Ecofin",
-   "codetabs: HTTP Error 522: <none>",
-   81311,
-   "",
-   "",
+   "1 haber",
+   4060,
+   "https://www.ecofinagency.com/component/obrss/agency-rss",
+   "kesif",
    null,
    0
   ],
   [
    "Business in Cameroon",
    "2 haber",
-   3375,
+   3446,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1554,7 +1558,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   3040,
+   2774,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1562,8 +1566,8 @@
   ],
   [
    "BusinessDay · NG",
-   "codetabs: HTTP Error 522: <none>",
-   81631,
+   "vekil devre disi (ardisik 3 hata)",
+   3499,
    "",
    "",
    null,
@@ -1571,8 +1575,8 @@
   ],
   [
    "Vanguard · NG",
-   "codetabs: HTTP Error 522: <none>",
-   39422,
+   "vekil devre disi (ardisik 3 hata)",
+   155,
    "",
    "",
    null,
@@ -1580,8 +1584,8 @@
   ],
   [
    "Punch · NG",
-   "codetabs: HTTP Error 522: <none>",
-   40185,
+   "vekil devre disi (ardisik 3 hata)",
+   979,
    "",
    "",
    null,
@@ -1589,8 +1593,8 @@
   ],
   [
    "Anecacao · EC",
-   "codetabs: HTTP Error 522: <none>",
-   85484,
+   "vekil devre disi (ardisik 3 hata)",
+   5258,
    "",
    "",
    null,
@@ -1598,8 +1602,8 @@
   ],
   [
    "Primicias · EC",
-   "codetabs: HTTP Error 522: <none>",
-   39202,
+   "vekil devre disi (ardisik 3 hata)",
+   215,
    "",
    "",
    null,
@@ -1607,8 +1611,8 @@
   ],
   [
    "Notícias Agrícolas · BR",
-   "codetabs: HTTP Error 522: <none>",
-   67236,
+   "vekil devre disi (ardisik 3 hata)",
+   411,
    "",
    "",
    null,
@@ -1616,8 +1620,8 @@
   ],
   [
    "Jakarta Post · İş",
-   "besleme tanimsiz (7168 bayt, vekil)",
-   54761,
+   "vekil devre disi (ardisik 3 hata)",
+   1904,
    "",
    "",
    null,
