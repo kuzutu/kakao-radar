@@ -1,10 +1,62 @@
 {
- "uretim": "2026-09-01T17:07:11.361209+00:00",
+ "uretim": "2026-09-01T20:32:13.158505+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 24,
- "haberSayisi": 120,
+ "calisanKaynak": 23,
+ "haberSayisi": 121,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Le gouvernement compte mieux anticiper la fixation des prix du cacao après la crise des cours internationaux",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-gouvernement-compte-mieux-anticiper-la-fixation-des-prix-du-cacao-apres-la-crise-des-cours-internationaux/",
+   "tarih": "2026-09-01T20:14:44+00:00",
+   "ozet": "Abidjan, 1er sept 2026 (AIP)- Le gouvernement ivoirien entend tirer les enseignements de la forte volatilité des cours internationaux du cacao afin d’aborder les prochaines campagnes avec davantage d’anticipation, de coordination et de dialogue avec l’ensemble",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Hükümet, uluslararası fiyat krizinden sonra kakao fiyatlarının belirlenmesini daha iyi öngörmeyi planlıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "El mercado del cacao después de la tormenta: Lecciones de la más grande crisis global.",
+   "link": "https://anecacao.com/el-mercado-del-cacao-despues-de-la-tormenta-lecciones-de-la-mas-grande-crisis-global/",
+   "tarih": "2026-09-01T19:41:25+00:00",
+   "ozet": "",
+   "kaynak": "Anecacao · EC",
+   "grup": "Anecacao · EC",
+   "alan": "anecacao.com",
+   "w": 0.95,
+   "kaynakUyari": "Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, geriye bakis 180 gun.",
+   "baslikTR": "Fırtınadan sonra kakao pazarı: Küresel krizin en büyüklerinden Lecciones.",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ La capacité de transformation du cacao devrait atteindre 1,344 million de tonnes en 2026-2027 (Conseil du café-cacao)",
+   "link": "https://www.aip.ci/cote-divoire-aip-la-capacite-de-transformation-du-cacao-devrait-atteindre-1344-million-de-tonnes-en-2026-2027-conseil-du-cafe-cacao/",
+   "tarih": "2026-09-01T18:54:46+00:00",
+   "ozet": "Abidjan, 1er sept 2026 (AIP)- La capacité installée de transformation du cacao en Côte d’Ivoire devrait passer de 1,155 million de tonnes actuellement à 1,344 million de tonnes au cours de la campagne 2026-2027 grâce à la mise en service de nouvelles unités in",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kakao işleme kapasitesinin 2026-2027'de 1.344 milyon tona ulaşması bekleniyor (Kahve-Kakao Konseyi)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Prices Fall on Larger Supplies from the Ivory Coast",
+   "link": "https://www.barchart.com/story/news/4383053/cocoa-prices-fall-on-larger-supplies-from-the-ivory-coast",
+   "tarih": "2026-09-01T18:23:57+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed down -200 (-2.95%) on Tuesday, and December ICE London cocoa #7 (CAZ26 ) closed down -42 (-0.86%). Cocoa prices retreated on Tuesday, with London cocoa falling from an 11-month high. Larger supplies from the Ivory Coast pr",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili'nden Gelen Artan Tedarik Nedeniyle Kakao Fiyatları Düşüyor",
+   "okunur": true
+  },
   {
    "baslik": "The attack on GoldBod is a deliberate strategy by the NPP",
    "link": "https://3news.com/news/the-attacks",
@@ -32,6 +84,19 @@
    "okunur": true
   },
   {
+   "baslik": "Le gouvernement envisage de mieux anticiper la fixation des prix du cacao après la crise des cours internationaux (Ministre)",
+   "link": "https://www.aip.ci/le-gouvernement-envisage-de-mieux-anticiper-la-fixation-des-prix-du-cacao-apres-la-crise-des-cours-internationaux-ministre/",
+   "tarih": "2026-09-01T15:15:25+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Hükümet, uluslararası fiyat krizinden sonra kakao fiyatlarının oluşumunu daha iyi öngörmeyi planlıyor (Bakan)",
+   "okunur": false
+  },
+  {
    "baslik": "Côte d’Ivoire-AIP/ JNCC 2026: le FIRCA met la recherche au service de la productivité du café et du cacao",
    "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-le-firca-met-la-recherche-au-service-de-la-productivite-du-cafe-et-du-cacao/",
    "tarih": "2026-09-01T15:12:06+00:00",
@@ -43,6 +108,19 @@
    "kaynakUyari": "",
    "baslikTR": "Fildişi Sahili-AIP/JNCC 2026: FIRCA, araştırmayı kahve ve kakao üretkenliğinin hizmetine sunuyor",
    "okunur": true
+  },
+  {
+   "baslik": "La capacité de transformation du cacao devrait atteindre 1,344 million de tonnes en 2026-2027 (Conseil du café-cacao)",
+   "link": "https://www.aip.ci/la-capacite-de-transformation-du-cacao-devrait-atteindre-1344-million-de-tonnes-en-2026-2027-conseil-du-cafe-cacao/",
+   "tarih": "2026-09-01T14:54:58+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao işleme kapasitesinin 2026-2027'de 1.344 milyon tona ulaşması bekleniyor (Kahve-Kakao Konseyi)",
+   "okunur": false
   },
   {
    "baslik": "COCOBOD settles GH¢2.3bn DDEP obligation for 2026",
@@ -82,6 +160,19 @@
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Yanlış Sürdürülebilirlik Raporlama Deneyinden Sonra Kakao Çalışması Yazarından Denetim Bulgularını Yayınlama Çağrısı",
    "okunur": true
+  },
+  {
+   "baslik": "JNCC 2026: le FIRCA met la recherche au service de la productivité du café et du cacao",
+   "link": "https://www.aip.ci/jncc-2026-le-firca-met-la-recherche-au-service-de-la-productivite-du-cafe-et-du-cacao/",
+   "tarih": "2026-09-01T13:59:58+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "JNCC 2026: FIRCA, araştırmayı kahve ve kakao verimliliğinin hizmetine sunuyor",
+   "okunur": false
   },
   {
    "baslik": "Ivory Coast Keeps 2026/27 Cocoa Farmgate Price at 1,200 CFA/kg",
@@ -214,19 +305,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa Futures Surge Past 6500 as Supply Fears Mount for the 2026/27 Crop",
-   "link": "https://www.barchart.com/story/news/4356348/cocoa-futures-surge-past-6500-as-supply-fears-mount-for-the-2026-27-crop",
-   "tarih": "2026-08-31T14:36:58+00:00",
-   "ozet": "Cocoa futures have rallied aggressively over the past week, breaking above the 6500 area (Daily level 3) as the market re-prices a rapidly shrinking 2026/27 surplus forecast amid intensifying El Niño risk and deteriorating West African crop prospects. The adva",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "2026/27 Mahsulüne İlişkin Arz Korkularının Artmasıyla Kakao Vadeli İşlemleri 6500'ü Geçti",
-   "okunur": true
-  },
-  {
    "baslik": "CPC’s revenue plunges 47% as net loss widens to GH¢144m",
    "link": "https://www.myjoyonline.com/cpcs-revenue-plunges-47-as-net-loss-widens-to-gh%c2%a2144m-siga/",
    "tarih": "2026-08-31T14:07:34+00:00",
@@ -305,19 +383,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ JNCC 2026: les prix bord champ de la campagne café-cacao 2026-2027 seront dévoilés le 1er septembre",
-   "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-les-prix-bord-champ-de-la-campagne-cafe-cacao-2026-2027-seront-devoiles-le-1er-septembre/",
-   "tarih": "2026-08-31T10:36:03+00:00",
-   "ozet": "Abidjan, 31 août 2026 (AIP)- La campagne café-cacao 2026-2027 s’ouvre officiellement mardi 1er septembre 2026, à l’occasion de la 10ᵉ édition des Journées nationales du cacao et du chocolat (JNCC), prévue au parc des Expositions d’Abidjan, avec l’annonce des p",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ JNCC 2026: 2026-2027 kahve-kakao kampanyası saha fiyatları 1 Eylül'de açıklanacak",
-   "okunur": true
-  },
-  {
    "baslik": "SIKA COMMODITIES WEEKLY 34 : Le cacao prend le relais, le pétrole reflue et le café sous pression",
    "link": "https://www.sikafinance.com/marches/sika-commodities-weekly-34-le-cacao-prend-le-relais-le-petrole-reflue-et-le-cafe-sous-pression_63915",
    "tarih": "2026-08-31T07:05:54+00:00",
@@ -331,19 +396,6 @@
    "okunur": true
   },
   {
-   "baslik": "JNCC 2026: les prix bord champ de la campagne café-cacao 2026-2027 seront connus le 1er septembre",
-   "link": "https://www.aip.ci/jncc-2026-les-prix-bord-champ-de-la-campagne-cafe-cacao-2026-2027-seront-connus-le-1er-septembre/",
-   "tarih": "2026-08-31T04:16:13+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "JNCC 2026: 2026-2027 kahve-kakao kampanyasının saha fiyatları 1 Eylül'de belli olacak",
-   "okunur": false
-  },
-  {
    "baslik": "Outlook of Ghana’s external sector remains positive for second-half of 2026",
    "link": "https://www.myjoyonline.com/outlook-of-ghanas-external-sector-remains-positive-for-second-half-of-2026-bog/",
    "tarih": "2026-08-30T19:39:53+00:00",
@@ -354,32 +406,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Gana'nın dış sektörünün görünümü 2026'nın ikinci yarısı için olumlu olmaya devam ediyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le CNS appelle les producteurs d’Ananguié à renforcer la vigilance contre le travail des enfants dans la cacaoculture",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-cns-appelle-les-producteurs-dananguie-a-renforcer-la-vigilance-contre-le-travail-des-enfants-dans-la-cacaoculture/",
-   "tarih": "2026-08-30T15:36:35+00:00",
-   "ozet": "Adzopé, 30 août 2026 (AIP) – Le Comité national de surveillance des actions de lutte contre la traite, l’exploitation et le travail des enfants (CNS) a appelé, vendredi 28 août 2026, les producteurs de cacao d’Ananguié à renforcer leur vigilance pour prévenir ",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ CNS, Ananguié üreticilerini kakao tarımında çocuk işçiliğine karşı uyanıklığı güçlendirmeye çağırıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa Prices Surge on West African Crop Risks",
-   "link": "https://www.barchart.com/story/news/4325975/cocoa-prices-surge-on-west-african-crop-risks",
-   "tarih": "2026-08-28T18:24:46+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) closed up +475 (+7.69%) on Friday, and September ICE London cocoa #7 (CAU26 ) closed up +385 (+8.77%). Cocoa prices soared for a second straight day on Friday and posted 11-month highs. Concerns about the quality of this year’s W",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Fiyatları Batı Afrika Mahsul Riskleri Nedeniyle Arttı",
    "okunur": true
   },
   {
@@ -1449,19 +1475,6 @@
    "okunur": true
   },
   {
-   "baslik": "Oyo govt receives Gestpoint Nigeria on cocoa investment initiative",
-   "link": "https://businessday.ng/news/article/oyo-govt-receives-gestpoint-nigeria-on-cocoa-investment-initiative/",
-   "tarih": "2026-07-20T09:14:34+00:00",
-   "ozet": "",
-   "kaynak": "BusinessDay · NG",
-   "grup": "BusinessDay · NG",
-   "alan": "businessday.ng",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Oyo hükümeti, kakao yatırım girişimi konusunda Gestpoint Nijerya'yı aldı",
-   "okunur": true
-  },
-  {
    "baslik": "Good practices for setting up bridging classes in cocoa communities with Sabina Vigani",
    "link": "https://www.cocoainitiative.org/news/latest-videos/good-practices-setting-bridging-classes-cocoa-communities-sabina-vigani",
    "tarih": "2026-07-16T12:51:27+00:00",
@@ -1570,7 +1583,7 @@
   [
    "ICCO",
    "6 haber",
-   1126,
+   1182,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1579,7 +1592,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1364,
+   1458,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1588,7 +1601,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3656,
+   4016,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1597,7 +1610,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58222,
+   58447,
    "",
    "",
    null,
@@ -1606,7 +1619,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   121,
+   196,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1615,7 +1628,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   473,
+   508,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1624,7 +1637,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1197,
+   1648,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1633,7 +1646,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   51,
+   118,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1642,7 +1655,7 @@
   [
    "Panamir",
    "2 haber",
-   1359,
+   2566,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1650,8 +1663,8 @@
   ],
   [
    "Barchart · Softs",
-   "5 haber",
-   213,
+   "4 haber",
+   187,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1660,7 +1673,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   433,
+   493,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1669,7 +1682,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   120,
+   161,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1678,7 +1691,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   181,
+   360,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1687,7 +1700,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   226,
+   212,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1696,7 +1709,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1913,
+   1940,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1705,7 +1718,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   889,
+   1141,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1713,8 +1726,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "6 haber",
-   2137,
+   "8 haber",
+   4201,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1723,7 +1736,7 @@
   [
    "Sika Finance · CI",
    "2 haber",
-   45,
+   149,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1731,8 +1744,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (213872 bayt, vekil)",
-   37299,
+   "besleme tanimsiz (214532 bayt, vekil)",
+   21936,
    "",
    "",
    null,
@@ -1741,7 +1754,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   458,
+   1052,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1749,26 +1762,26 @@
   ],
   [
    "BusinessDay · NG",
-   "1 haber",
-   483,
-   "https://businessday.ng/tag/cocoa/feed/",
+   "worker: The read operation timed out | allorigins: The read operation ",
+   597064,
+   "",
+   "",
+   null,
+   0
+  ],
+  [
+   "Anecacao · EC",
+   "6 haber",
+   2014,
+   "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
    4
   ],
   [
-   "Anecacao · EC",
-   "5 haber",
-   2088,
-   "https://www.anecacao.com/feed/",
-   "dogrudan",
-   null,
-   5
-  ],
-  [
    "Intl Cocoa Initiative",
    "8 haber",
-   638,
+   439,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1777,7 +1790,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14614,
+   13953,
    "",
    "",
    null,
@@ -1786,7 +1799,7 @@
   [
    "3News · GH",
    "2 haber",
-   3129,
+   4443,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1795,7 +1808,7 @@
   [
    "Asaase Radio · GH",
    "3 haber",
-   8684,
+   16026,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1804,7 +1817,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3342,
+   3197,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
