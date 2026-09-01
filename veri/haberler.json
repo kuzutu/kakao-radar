@@ -1,5 +1,5 @@
 {
- "uretim": "2026-08-31T22:17:23.634099+00:00",
+ "uretim": "2026-09-01T01:34:32.887486+00:00",
  "kaynakSayisi": 38,
  "calisanKaynak": 18,
  "haberSayisi": 95,
@@ -1245,7 +1245,7 @@
   [
    "ICCO",
    "6 haber",
-   1527,
+   1299,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1254,7 +1254,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1569,
+   884,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1263,7 +1263,7 @@
   [
    "COCOBOD · resmî",
    "codetabs: HTTP Error 522: <none>",
-   67086,
+   79829,
    "",
    "",
    null,
@@ -1272,7 +1272,7 @@
   [
    "FCC · Cocoa Commerce",
    "codetabs: HTTP Error 522: <none>",
-   62989,
+   63572,
    "",
    "",
    null,
@@ -1281,7 +1281,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4109,
+   3989,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1289,8 +1289,8 @@
   ],
   [
    "CAOBISCO · AB sanayi",
-   "codetabs: HTTP Error 522: <none>",
-   123039,
+   "konuya uyan haber yok (20 kayit tarandi)",
+   67169,
    "",
    "",
    null,
@@ -1299,7 +1299,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   1479,
+   1421,
    "https://cocoaradar.com/archive/rss/",
    "kesif",
    null,
@@ -1308,7 +1308,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   2538,
+   3136,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "kesif",
    null,
@@ -1317,7 +1317,7 @@
   [
    "VOICE / Cocoa Barometer",
    "codetabs: HTTP Error 522: <none>",
-   77638,
+   80757,
    "",
    "",
    null,
@@ -1326,7 +1326,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1072,
+   1099,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1335,7 +1335,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   503,
+   321,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1344,7 +1344,7 @@
   [
    "Panamir",
    "2 haber",
-   1716,
+   2145,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1353,7 +1353,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   206,
+   180,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1361,8 +1361,8 @@
   ],
   [
    "Hedgepoint",
-   "codetabs: HTTP Error 522: <none>",
-   77686,
+   "besleme tanimsiz (10408 bayt, vekil)",
+   63105,
    "",
    "",
    null,
@@ -1371,7 +1371,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   489,
+   736,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1380,7 +1380,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   234,
+   322,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1389,7 +1389,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   393,
+   365,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1398,7 +1398,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   428,
+   655,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1407,7 +1407,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   2133,
+   2143,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1416,7 +1416,7 @@
   [
    "Graphic Online · GH",
    "codetabs: HTTP Error 522: <none>",
-   79180,
+   45307,
    "",
    "",
    null,
@@ -1425,7 +1425,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   953,
+   1047,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1434,7 +1434,7 @@
   [
    "Citi Newsroom · GH",
    "codetabs: HTTP Error 522: <none>",
-   78995,
+   68807,
    "",
    "",
    null,
@@ -1443,7 +1443,7 @@
   [
    "B&FT Online · GH",
    "codetabs: HTTP Error 522: <none>",
-   67228,
+   79936,
    "",
    "",
    null,
@@ -1452,7 +1452,7 @@
   [
    "Ghana News Agency",
    "codetabs: HTTP Error 522: <none>",
-   83855,
+   83514,
    "",
    "",
    null,
@@ -1460,8 +1460,8 @@
   ],
   [
    "GhanaWeb · İş",
-   "codetabs: HTTP Error 522: <none>",
-   78270,
+   "besleme tanimsiz (1904 bayt, vekil)",
+   46365,
    "",
    "",
    null,
@@ -1469,8 +1469,8 @@
   ],
   [
    "Fratmat · CI",
-   "besleme tanimsiz (38481 bayt, vekil)",
-   7928,
+   "codetabs: HTTP Error 522: <none>",
+   59402,
    "",
    "",
    null,
@@ -1479,7 +1479,7 @@
   [
    "AIP · CI resmî ajans",
    "codetabs: HTTP Error 522: <none>",
-   63746,
+   97931,
    "",
    "",
    null,
@@ -1488,7 +1488,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   538,
+   1644,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "kesif",
    null,
@@ -1496,8 +1496,8 @@
   ],
   [
    "Agence Ecofin",
-   "konuya uyan haber yok (10 kayit tarandi)",
-   32126,
+   "codetabs: HTTP Error 522: <none>",
+   69701,
    "",
    "",
    null,
@@ -1506,7 +1506,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   5396,
+   4027,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1515,7 +1515,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   4788,
+   3265,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1524,7 +1524,7 @@
   [
    "BusinessDay · NG",
    "codetabs: HTTP Error 522: <none>",
-   81919,
+   81655,
    "",
    "",
    null,
@@ -1533,7 +1533,7 @@
   [
    "Vanguard · NG",
    "codetabs: HTTP Error 522: <none>",
-   28159,
+   39600,
    "",
    "",
    null,
@@ -1541,8 +1541,8 @@
   ],
   [
    "Punch · NG",
-   "besleme tanimsiz (5763 bayt, vekil)",
-   7016,
+   "codetabs: HTTP Error 522: <none>",
+   39841,
    "",
    "",
    null,
@@ -1551,7 +1551,7 @@
   [
    "Anecacao · EC",
    "codetabs: HTTP Error 522: <none>",
-   52793,
+   45048,
    "",
    "",
    null,
@@ -1560,7 +1560,7 @@
   [
    "Primicias · EC",
    "codetabs: HTTP Error 522: <none>",
-   19866,
+   19966,
    "",
    "",
    null,
@@ -1569,7 +1569,7 @@
   [
    "Notícias Agrícolas · BR",
    "codetabs: HTTP Error 522: <none>",
-   35780,
+   79136,
    "",
    "",
    null,
@@ -1578,7 +1578,7 @@
   [
    "Jakarta Post · İş",
    "codetabs: HTTP Error 522: <none>",
-   79216,
+   78561,
    "",
    "",
    null,
