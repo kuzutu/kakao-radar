@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-01T08:29:26.410300+00:00",
+ "uretim": "2026-09-01T11:45:54.389758+00:00",
  "kaynakSayisi": 37,
- "calisanKaynak": 20,
- "haberSayisi": 99,
+ "calisanKaynak": 19,
+ "haberSayisi": 98,
  "cevirili": true,
  "haberler": [
   {
@@ -94,19 +94,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Net zararın 144 milyon GH¢'ye yükselmesiyle birlikte CPC'nin geliri %47 düştü",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa and Cotton Push Côte d'Ivoire's Fertilizer Demand to New Peak",
-   "link": "http://www.ecofinagency.com/news-agriculture/3108-58471-cocoa-and-cotton-push-cote-divoires-fertilizer-demand-to-new-peak",
-   "tarih": "2026-08-31T13:56:20+02:00",
-   "ozet": "Côte d'Ivoire imported 789,500 tonnes of chemical fertilizer in 2025, up 38% year-on-year and a new record that tops the previous 2023 peak of 613,527 tonnes. Cocoa and cotton drove domestic demand, absorbing more than 287,250 tonnes together — nearly half of ",
-   "kaynak": "Agence Ecofin",
-   "grup": "Agence Ecofin",
-   "alan": "ecofinagency.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao ve Pamuk, Fildişi Sahili'nin Gübre Talebini Yeni Zirveye Çıkardı",
    "okunur": true
   },
   {
@@ -1297,7 +1284,7 @@
   [
    "ICCO",
    "6 haber",
-   1472,
+   882,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1306,7 +1293,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1591,
+   1577,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1314,8 +1301,8 @@
   ],
   [
    "COCOBOD · resmî",
-   "allorigins: The read operation timed out | codetabs: The read operatio",
-   49111,
+   "besleme tanimsiz (49582 bayt, vekil)",
+   9423,
    "",
    "",
    null,
@@ -1323,8 +1310,8 @@
   ],
   [
    "FCC · Cocoa Commerce",
-   "vekil devre disi (ardisik 3 hata)",
-   28252,
+   "besleme tanimsiz (80449 bayt, vekil)",
+   16431,
    "",
    "",
    null,
@@ -1333,7 +1320,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4024,
+   3726,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1341,8 +1328,8 @@
   ],
   [
    "CAOBISCO · AB sanayi",
-   "vekil devre disi (ardisik 3 hata)",
-   56358,
+   "konuya uyan haber yok (20 kayit tarandi)",
+   57831,
    "",
    "",
    null,
@@ -1351,7 +1338,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   110,
+   198,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1360,7 +1347,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   2713,
+   2676,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "kesif",
    null,
@@ -1369,7 +1356,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1100,
+   2198,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1378,7 +1365,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   80,
+   424,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1387,7 +1374,7 @@
   [
    "Panamir",
    "2 haber",
-   2347,
+   1569,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1396,7 +1383,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   286,
+   204,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1404,8 +1391,8 @@
   ],
   [
    "Hedgepoint",
-   "vekil devre disi (ardisik 3 hata)",
-   25439,
+   "besleme tanimsiz (10408 bayt, vekil)",
+   15547,
    "",
    "",
    null,
@@ -1414,7 +1401,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   217,
+   575,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1423,7 +1410,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   143,
+   188,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1431,8 +1418,8 @@
   ],
   [
    "Food Manufacture",
-   "1 haber",
-   314,
+   "2 haber",
+   461,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1441,7 +1428,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   393,
+   148,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1450,7 +1437,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1861,
+   1955,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1458,8 +1445,8 @@
   ],
   [
    "Graphic Online · GH",
-   "vekil devre disi (ardisik 3 hata)",
-   24671,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   31296,
    "",
    "",
    null,
@@ -1468,7 +1455,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   1046,
+   926,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1476,8 +1463,8 @@
   ],
   [
    "Citi Newsroom · GH",
-   "vekil devre disi (ardisik 3 hata)",
-   24221,
+   "besleme tanimsiz (310508 bayt, vekil)",
+   11813,
    "",
    "",
    null,
@@ -1485,8 +1472,8 @@
   ],
   [
    "B&FT Online · GH",
-   "vekil devre disi (ardisik 3 hata)",
-   25337,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 408: Reques",
+   27063,
    "",
    "",
    null,
@@ -1494,8 +1481,8 @@
   ],
   [
    "Ghana News Agency",
-   "vekil devre disi (ardisik 3 hata)",
-   36923,
+   "besleme tanimsiz (269524 bayt, vekil)",
+   31775,
    "",
    "",
    null,
@@ -1503,8 +1490,8 @@
   ],
   [
    "GhanaWeb · İş",
-   "allorigins: The read operation timed out | codetabs: The read operatio",
-   30385,
+   "besleme tanimsiz (1904 bayt, vekil)",
+   845,
    "",
    "",
    null,
@@ -1512,8 +1499,8 @@
   ],
   [
    "Fratmat · CI",
-   "allorigins: The read operation timed out | codetabs: The read operatio",
-   44472,
+   "besleme tanimsiz (38417 bayt, vekil)",
+   8745,
    "",
    "",
    null,
@@ -1522,7 +1509,7 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   4950,
+   3680,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1531,7 +1518,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   813,
+   835,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "kesif",
    null,
@@ -1539,17 +1526,17 @@
   ],
   [
    "Agence Ecofin",
-   "1 haber",
-   4060,
-   "https://www.ecofinagency.com/component/obrss/agency-rss",
-   "kesif",
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   41491,
+   "",
+   "",
    null,
    0
   ],
   [
    "Business in Cameroon",
    "2 haber",
-   3446,
+   3321,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1558,7 +1545,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   2774,
+   4107,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "kesif",
    null,
@@ -1566,8 +1553,8 @@
   ],
   [
    "BusinessDay · NG",
-   "vekil devre disi (ardisik 3 hata)",
-   3499,
+   "konuya uyan haber yok (5 kayit tarandi)",
+   32107,
    "",
    "",
    null,
@@ -1575,8 +1562,8 @@
   ],
   [
    "Vanguard · NG",
-   "vekil devre disi (ardisik 3 hata)",
-   155,
+   "besleme tanimsiz (5789 bayt, vekil)",
+   8202,
    "",
    "",
    null,
@@ -1584,8 +1571,8 @@
   ],
   [
    "Punch · NG",
-   "vekil devre disi (ardisik 3 hata)",
-   979,
+   "besleme tanimsiz (5763 bayt, vekil)",
+   4705,
    "",
    "",
    null,
@@ -1593,8 +1580,8 @@
   ],
   [
    "Anecacao · EC",
-   "vekil devre disi (ardisik 3 hata)",
-   5258,
+   "10 kayit var ama hepsi 60 gunden eski",
+   9314,
    "",
    "",
    null,
@@ -1602,8 +1589,8 @@
   ],
   [
    "Primicias · EC",
-   "vekil devre disi (ardisik 3 hata)",
-   215,
+   "besleme tanimsiz (269250 bayt, vekil)",
+   1513,
    "",
    "",
    null,
@@ -1611,8 +1598,8 @@
   ],
   [
    "Notícias Agrícolas · BR",
-   "vekil devre disi (ardisik 3 hata)",
-   411,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
+   22187,
    "",
    "",
    null,
@@ -1620,8 +1607,8 @@
   ],
   [
    "Jakarta Post · İş",
-   "vekil devre disi (ardisik 3 hata)",
-   1904,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   65465,
    "",
    "",
    null,
