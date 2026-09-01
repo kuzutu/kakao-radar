@@ -270,10 +270,6 @@ const KAYNAKLAR=[
   {ad:'Barchart · Softs', tip:'rss', w:1.0, max:40,
    feeds:['https://www.barchart.com/news/rss/commodities/softs',
           'https://www.barchart.com/news/rss/commodities']},
-  {ad:'Hedgepoint', tip:'rss', w:1.0, max:20,
-   feeds:['https://hedgepointglobal.com/feed/','https://hedgepointglobal.com/en/feed/',
-          'https://hedgepointglobal.com/wp-json/wp/v2/posts?per_page=15&orderby=date&order=desc&_fields=title,link,date,excerpt']},
-
   // ── Sanayi / talep tarafi ───────────────────────────────────────
   {ad:'ConfectioneryNews', tip:'rss', w:1.0, max:40,
    feeds:['https://www.confectionerynews.com/arc/outboundfeeds/rss/',
@@ -328,26 +324,64 @@ const KAYNAKLAR=[
           'https://businessday.ng/category/agriculture/feed/',
           'https://businessday.ng/?s=cocoa&feed=rss2',
           'https://businessday.ng/feed/']},
-  {ad:'Vanguard · NG', tip:'rss', w:0.8, max:20,
-   feeds:['https://www.vanguardngr.com/?s=cocoa&feed=rss2']},
-  {ad:'Punch · NG', tip:'rss', w:0.8, max:20,
-   feeds:['https://punchng.com/?s=cocoa&feed=rss2']},
-
   // ── Ekvador / Latin Amerika (Ispanyolca-Portekizce) ─────────────
   {ad:'Anecacao · EC', tip:'rss', w:0.95, max:20, gun:180,
-   uyari:'Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, bu yuzden geriye bakis 180 gune cikarildi.',
+   uyari:'Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, geriye bakis 180 gun.',
    feeds:['https://www.anecacao.com/feed/','https://www.anecacao.com/?s=cacao&feed=rss2']},
   {ad:'Primicias · EC', tip:'rss', w:0.8, max:20,
    feeds:['https://www.primicias.ec/feed/']},
-  {ad:'Notícias Agrícolas · BR', tip:'rss', w:0.8, max:20,
-   feeds:['https://www.noticiasagricolas.com.br/rss/cacau.xml',
-          'https://www.noticiasagricolas.com.br/rss/noticias.xml']},
+  // ── Asya ────────────────────────────────────────────────────────,
+  // ── EKLENENLER: kurum ve saha kaynaklari ────────────────────────
+  {ad:'Conseil Café-Cacao · CI', tip:'rss', w:1.4, max:20, gun:120,
+   uyari:'CCC — Fildisi Sahili kakao duzenleyicisi. Kampanya fiyatlari ve ihracatci akreditasyonlari "Decision" basligiyla burada yayimlanir. Joomla tabanli; standart RSS olmayabilir, aynalar yedek olarak tanimli.',
+   feeds:['https://www.conseilcafecacao.ci/?format=feed&type=rss',
+          'https://www.conseilcafecacao.ci/index.php?format=feed&type=rss',
+          'https://www.cgfcc.ci/?format=feed&type=rss',
+          'https://bcc.ci/?format=feed&type=rss']},
+  {ad:'CommodAfrica', tip:'rss', w:1.25, max:25,
+   uyari:'CommodAfrica — GEPEX ogutme rakamlari ve izlenebilirlik gelismeleri icin en yuksek sinyal/gurultu oranli kaynak.',
+   feeds:['https://www.commodafrica.com/rss.xml',
+          'https://www.commodafrica.com/fr/rss.xml',
+          'https://www.commodafrica.com/feed']},
+  {ad:'CRIG · Gana arastirma', tip:'rss', w:0.95, max:15, gun:180,
+   feeds:['https://crig.org.gh/feed/',
+          'https://www.crig.org.gh/feed/',
+          'https://crig.org.gh/?s=cocoa&feed=rss2']},
+  {ad:'Intl Cocoa Initiative', tip:'rss', w:0.9, max:15, gun:120,
+   feeds:['https://www.cocoainitiative.org/feed/',
+          'https://cocoainitiative.org/feed/',
+          'https://www.cocoainitiative.org/?s=cocoa&feed=rss2']},
+  {ad:'Bank of Ghana', tip:'rss', w:0.9, max:15, gun:120,
+   uyari:'BoG — aylik bultenlerde kakao ihracat gelirleri ve FOB degerleri.',
+   feeds:['https://www.bog.gov.gh/feed/',
+          'https://www.bog.gov.gh/?s=cocoa&feed=rss2']},
 
-  // ── Asya ────────────────────────────────────────────────────────
-  {ad:'Jakarta Post · İş', tip:'rss', w:0.7, max:20,
-   feeds:['https://www.thejakartapost.com/feed/business','https://www.thejakartapost.com/rss']}
+  // ── EKLENENLER: Gana basini ─────────────────────────────────────
+  {ad:'3News · GH', tip:'rss', w:0.8, max:20,
+   feeds:['https://3news.com/tag/cocoa/feed/',
+          'https://3news.com/?s=cocoa&feed=rss2',
+          'https://3news.com/feed/']},
+  {ad:'Asaase Radio · GH', tip:'rss', w:0.8, max:20,
+   feeds:['https://asaaseradio.com/tag/cocoa/feed/',
+          'https://asaaseradio.com/?s=cocoa&feed=rss2',
+          'https://asaaseradio.com/feed/']},
+  {ad:'Ghanaian Times', tip:'rss', w:0.8, max:20,
+   feeds:['https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2',
+          'https://www.ghanaiantimes.com.gh/feed/']},
+
+  // ── EKLENENLER: Fildisi basini ──────────────────────────────────
+  {ad:'Abidjan.net · CI', tip:'rss', w:0.8, max:20,
+   feeds:['https://news.abidjan.net/rss',
+          'https://news.abidjan.net/feed/',
+          'https://www.abidjan.net/rss.xml']},
+  {ad:'Koaci · CI', tip:'rss', w:0.75, max:20,
+   feeds:['https://www.koaci.com/rss',
+          'https://www.koaci.com/feed/',
+          'https://www.koaci.com/?s=cacao&feed=rss2']},
+  {ad:'APA News', tip:'rss', w:0.7, max:20,
+   feeds:['https://apanews.net/?s=cacao&feed=rss2',
+          'https://apanews.net/feed/']}
 ];
-
 
 /* ═══════ 4. SENTIMENT SÖZLÜĞÜ ═══════ */
 const BOGA=[['deficit',3],['shortage',3],['supply gap',3],['crop failure',3],['swollen shoot',3],

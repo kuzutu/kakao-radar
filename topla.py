@@ -63,6 +63,8 @@ KONU_MUAF = {
     "ICCO", "CIGHCI · Fildişi-Gana", "COCOBOD · resmî", "FCC · Cocoa Commerce",
     "ECA · Avrupa öğütme", "CocoaRadar", "The Cocoa Post", "CocoaIntel",
     "World Cocoa Foundation", "VOICE / Cocoa Barometer", "Anecacao · EC",
+    # Yalnizca kakao/kahve yayini yapan kurumlar — filtre bunlarda zararli.
+    "Conseil Café-Cacao · CI", "CRIG · Gana arastirma", "Intl Cocoa Initiative",
 }
 
 TARAYICI_KIMLIGI = (
