@@ -24,6 +24,7 @@ import os
 import re
 import ssl
 import sys
+import threading
 import time
 import urllib.error
 import urllib.parse
@@ -226,15 +227,52 @@ VEKILLER = [
 ]
 
 
-def vekille_getir(url, zaman_asimi=30):
-    """Adresi vekiller uzerinden dener. Ilk isleyeni dondurur."""
-    son = None
+VEKIL_ZAMAN_ASIMI = 12          # vekil basina sert sinir (once 30 idi)
+VEKIL_ARDISIK_HATA_SINIRI = 3   # ust uste bu kadar hata -> tur boyu kapat
+
+_vekil_ardisik_hata = 0
+_vekil_kapali = False
+_vekil_kilit = threading.Lock()
+
+
+def vekille_getir(url, zaman_asimi=VEKIL_ZAMAN_ASIMI):
+    """Adresi vekiller uzerinden dener. Ilk isleyeni dondurur.
+
+       Iki davranis:
+
+       1. DEVRE KESICI: ucretsiz vekiller (allorigins, codetabs) kotaya
+          takilinca hepsi birden duser. 19 kaynagi sirayla denemek 20+
+          dakika bosa bekleme demek. Ust uste 3 basarisizliktan sonra
+          vekil o tur boyunca kapatilir.
+
+       2. HATA RAPORU: eskiden 'son' her donguste ustune yaziliyordu,
+          bu yuzden tanida hep sadece son vekilin (codetabs) hatasi
+          gorunuyordu; allorigins'in neden dustugu hic bilinmiyordu.
+          Artik ikisi de raporlaniyor."""
+    global _vekil_ardisik_hata, _vekil_kapali
+
+    with _vekil_kilit:
+        if _vekil_kapali:
+            raise OSError("vekil devre disi (ardisik %d hata)"
+                          % VEKIL_ARDISIK_HATA_SINIRI)
+
+    hatalar = []
     for ad, f in VEKILLER:
         try:
-            return _tek_deneme(f(url), zaman_asimi, False, TARAYICI_KIMLIGI)
+            sonuc = _tek_deneme(f(url), zaman_asimi, False, TARAYICI_KIMLIGI)
+            with _vekil_kilit:
+                _vekil_ardisik_hata = 0
+            return sonuc
         except Exception as e:
-            son = "%s: %s" % (ad, ("%s" % e)[:40])
-    raise OSError(son or "vekil yok")
+            hatalar.append("%s: %s" % (ad, ("%s" % e)[:35]))
+
+    with _vekil_kilit:
+        _vekil_ardisik_hata += 1
+        if _vekil_ardisik_hata >= VEKIL_ARDISIK_HATA_SINIRI:
+            _vekil_kapali = True
+            print("  !! vekiller kapatildi (ust uste %d hata)"
+                  % _vekil_ardisik_hata)
+    raise OSError(" | ".join(hatalar) if hatalar else "vekil yok")
 
 
 FEED_KALIBI = re.compile(
@@ -404,7 +442,25 @@ def kaynak_tara(k):
         nonlocal kesfedildi, vekil_denendi
         if not kesfedildi:
             kesfedildi = True
-            bulunan = feed_kesfet(k["feeds"][0])
+            # Kesif eskiden yalnizca feeds[0]'in alan adina bakiyordu.
+            # Agence Ecofin gibi kaynaklarda calisan besleme LISTEDEKI
+            # BASKA bir alan adinda (agenceecofin.com yerine
+            # ecofinagency.com). Artik listedeki her farkli alan adi
+            # sirayla deneniyor.
+            bulunan, gorulen = [], set()
+            for u in k["feeds"]:
+                try:
+                    h = urllib.parse.urlparse(u).hostname
+                except Exception:
+                    continue
+                if not h or h in gorulen:
+                    continue
+                gorulen.add(h)
+                for x in feed_kesfet(u):
+                    if x not in bulunan:
+                        bulunan.append(x)
+                if bulunan:
+                    break
             if bulunan:
                 return [(u, "kesif") for u in bulunan]
         if not vekil_denendi:
