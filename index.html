@@ -1307,6 +1307,10 @@ document.getElementById('taniBtn').addEventListener('click',function(){
         '<table><tr><th>Kaynak</th><th>Sonuç</th><th>En yeni</th><th>Süre</th><th>Yol</th><th>Besleme</th></tr>';
   (s.length?s:[['—','tarama yok',0,'','',null,0]]).forEach(function(r){
     const iyi=/[1-9]\d* haber/.test(r[1]);
+    // Besleme okundu ama uygun icerik cikmadi: bu bir ariza degil.
+    // Kirmizi gostermek "kaynak dustu" izlenimi veriyordu.
+    const bosAmaSaglam = !iyi && /kayit tarandi|kayitlar elendi|gunden eski/.test(r[1]);
+    const renk = iyi?'#1e8e4e' : bosAmaSaglam?'#8a6d1f' : '#c0392b';
     const a=r[5]||{}, yas=gunFarki(a.yeni||null);
     let tz='—', rk='#98a2b3';
     if(yas!==null){
@@ -1314,7 +1318,8 @@ document.getElementById('taniBtn').addEventListener('click',function(){
       rk = yas<=3?'#1e8e4e' : yas<=14?'#55606f' : yas<=45?'#8a6d1f' : '#c0392b';
     }
     h+='<tr><td>'+kacir(r[0])+'</td>'+
-       '<td style="color:'+(iyi?'#1e8e4e':'#c0392b')+';font-weight:700">'+kacir(r[1])+
+       '<td style="color:'+renk+';font-weight:700">'+kacir(r[1])+
+       (bosAmaSaglam?'<br><span style="font-weight:400;color:#98a2b3">besleme çalışıyor</span>':'')+
        (r[6]?'<br><span style="font-weight:400;color:#98a2b3">+'+r[6]+' eski elendi</span>':'')+'</td>'+
        '<td style="color:'+rk+';font-weight:700">'+tz+'</td>'+
        '<td>'+r[2]+'ms</td><td>'+kacir(r[4]||'—')+'</td>'+

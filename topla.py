@@ -272,22 +272,32 @@ def vekille_getir(url, zaman_asimi=VEKIL_ZAMAN_ASIMI):
             raise OSError("vekil devre disi (ardisik %d hata)"
                           % VEKIL_ARDISIK_HATA_SINIRI)
 
-    hatalar = []
+    hatalar, vekil_suclu = [], False
     for ad, f in VEKILLER:
         try:
             sonuc = _tek_deneme(f(url), zaman_asimi, False, TARAYICI_KIMLIGI)
             with _vekil_kilit:
                 _vekil_ardisik_hata = 0
             return sonuc
+        except urllib.error.HTTPError as e:
+            hatalar.append("%s: %s" % (ad, ("%s" % e)[:35]))
+            # 404/403/500 vekilden DEGIL hedeften geliyor: vekil calisti,
+            # istegi tasidi, cevabi aktardi. Devre kesiciyi bunlarla
+            # doldurmak gercek adaylari ac birakiyor. Yalnizca vekilin
+            # kendi cokusu sayilir: 502/520/522/526 ve baglanti hatalari.
+            if e.code in (502, 520, 521, 522, 523, 524, 526):
+                vekil_suclu = True
         except Exception as e:
             hatalar.append("%s: %s" % (ad, ("%s" % e)[:35]))
+            vekil_suclu = True      # zaman asimi, DNS, baglanti kopmasi
 
-    with _vekil_kilit:
-        _vekil_ardisik_hata += 1
-        if _vekil_ardisik_hata >= VEKIL_ARDISIK_HATA_SINIRI:
-            _vekil_kapali = True
-            print("  !! vekiller kapatildi (ust uste %d hata)"
-                  % _vekil_ardisik_hata)
+    if vekil_suclu:
+        with _vekil_kilit:
+            _vekil_ardisik_hata += 1
+            if _vekil_ardisik_hata >= VEKIL_ARDISIK_HATA_SINIRI:
+                _vekil_kapali = True
+                print("  !! vekiller kapatildi (ust uste %d gercek hata)"
+                      % _vekil_ardisik_hata)
     raise OSError(" | ".join(hatalar) if hatalar else "vekil yok")
 
 
