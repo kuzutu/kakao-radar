@@ -115,12 +115,17 @@ def kaynaklari_oku():
             continue
         w = re.search(r"\bw\s*:\s*([\d.]+)", t)
         mx = re.search(r"\bmax\s*:\s*(\d+)", t)
+        gn = re.search(r"\bgun\s*:\s*(\d+)", t)
         uy = re.search(r"uyari\s*:\s*'((?:[^'\\]|\\.)*)'", t)
         kaynaklar.append({
             "ad": ad.group(1),
             "feeds": feeds,
             "w": float(w.group(1)) if w else 1.0,
             "max": int(mx.group(1)) if mx else 40,
+            # Bazi kaynaklar seyrek yayin yapiyor (Anecacao, kurum
+            # bildirileri). Onlarda 60 gunluk pencere her seyi eliyor.
+            # 'gun' verilmisse o kaynak icin pencere genisler.
+            "gun": int(gn.group(1)) if gn else AZAMI_GUN,
             "uyari": (uy.group(1).replace("\\'", "'") if uy else ""),
         })
     return kaynaklar
@@ -461,7 +466,7 @@ def wp_ayristir(metin):
 
 def kaynak_tara(k):
     t0 = time.time()
-    esik = datetime.now(timezone.utc) - timedelta(days=AZAMI_GUN)
+    esik = datetime.now(timezone.utc) - timedelta(days=k.get("gun") or AZAMI_GUN)
     muaf = k["ad"] in KONU_MUAF
     son_hata = "adres yok"
 
@@ -562,7 +567,7 @@ def kaynak_tara(k):
                               url, yol, None, elenen]
         if muaf:
             son_hata = ("%d kayit var ama hepsi %d gunden eski"
-                        % (len(ham), AZAMI_GUN))
+                        % (len(ham), k.get("gun") or AZAMI_GUN))
         else:
             son_hata = "konuya uyan haber yok (%d kayit tarandi)" % len(ham)
 

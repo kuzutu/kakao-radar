@@ -324,14 +324,18 @@ const KAYNAKLAR=[
 
   // ── Nijerya ─────────────────────────────────────────────────────
   {ad:'BusinessDay · NG', tip:'rss', w:0.9, max:20,
-   feeds:['https://businessday.ng/?s=cocoa&feed=rss2','https://businessday.ng/feed/']},
+   feeds:['https://businessday.ng/tag/cocoa/feed/',
+          'https://businessday.ng/category/agriculture/feed/',
+          'https://businessday.ng/?s=cocoa&feed=rss2',
+          'https://businessday.ng/feed/']},
   {ad:'Vanguard · NG', tip:'rss', w:0.8, max:20,
    feeds:['https://www.vanguardngr.com/?s=cocoa&feed=rss2']},
   {ad:'Punch · NG', tip:'rss', w:0.8, max:20,
    feeds:['https://punchng.com/?s=cocoa&feed=rss2']},
 
   // ── Ekvador / Latin Amerika (Ispanyolca-Portekizce) ─────────────
-  {ad:'Anecacao · EC', tip:'rss', w:0.95, max:20,
+  {ad:'Anecacao · EC', tip:'rss', w:0.95, max:20, gun:180,
+   uyari:'Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, bu yuzden geriye bakis 180 gune cikarildi.',
    feeds:['https://www.anecacao.com/feed/','https://www.anecacao.com/?s=cacao&feed=rss2']},
   {ad:'Primicias · EC', tip:'rss', w:0.8, max:20,
    feeds:['https://www.primicias.ec/feed/']},
