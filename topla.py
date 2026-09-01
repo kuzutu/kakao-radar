@@ -220,6 +220,11 @@ def getir(url, zaman_asimi=ZAMAN_ASIMI, sayfa=False):
 # dogrudan olmadiysa herkese acik bir vekil uzerinden tekrar denemek.
 # (kakao_sunucu.py'nin tarayici tarafinda yaptigi seyin aynisi.)
 VEKILLER = [
+    # Kendi Cloudflare Worker'imiz. Ucretsiz katman gunde 100.000 istek;
+    # bu tur saat basi ~40 istek yapiyor. Kamu vekillerinin aksine kota
+    # yemiyor ve zaman asimina dusmuyor.
+    ("worker",     lambda u: "https://kakao-vekil.coffeeryan2018.workers.dev/?u="
+                             + urllib.parse.quote(u, safe="")),
     ("allorigins", lambda u: "https://api.allorigins.win/raw?url="
                              + urllib.parse.quote(u, safe="")),
     ("codetabs",   lambda u: "https://api.codetabs.com/v1/proxy/?quest="
@@ -227,8 +232,8 @@ VEKILLER = [
 ]
 
 
-VEKIL_ZAMAN_ASIMI = 12          # vekil basina sert sinir (once 30 idi)
-VEKIL_ARDISIK_HATA_SINIRI = 3   # ust uste bu kadar hata -> tur boyu kapat
+VEKIL_ZAMAN_ASIMI = 15          # vekil basina sert sinir
+VEKIL_ARDISIK_HATA_SINIRI = 8   # ust uste bu kadar hata -> tur boyu kapat
 
 _vekil_ardisik_hata = 0
 _vekil_kapali = False
@@ -281,26 +286,57 @@ FEED_KALIBI = re.compile(
     r'type=["\']application/(?:rss|atom)\+xml["\'])', re.I)
 
 
+
+# Yayincilarin bir kismi beslemesini <link rel="alternate"> ile ilan
+# etmiyor: besleme VAR ama kesif goremiyor. Etiket bulunamazsa bu
+# yaygin yollar sirayla denenir. Hepsi 404 verse bile ucuz — getir()
+# 404'te tekrar denemeden cikiyor.
+YAYGIN_YOLLAR = [
+    "/feed/",
+    "/rss/",
+    "/rss.xml",
+    "/feed.xml",
+    "/index.xml",
+    "/?feed=rss2",
+    "/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc"
+    "&_fields=title,link,date,excerpt",
+]
+
+
 def feed_kesfet(ornek_url):
     """Yapilandirilmis adreslerin hepsi 404 verdiyse, sitenin ana
        sayfasindan besleme adresini bulmayi dener. Yayincilar besleme
        yolunu degistirdiginde (COCOBOD, Hedgepoint, Fratmat, B&FT bu
-       durumda) elle adres tahmin etmek yerine siteye kendisi sordurur."""
+       durumda) elle adres tahmin etmek yerine siteye kendisi sordurur.
+
+       Iki asama: once <link rel="alternate"> etiketi, o yoksa
+       YAYGIN_YOLLAR listesi."""
     try:
         p = urllib.parse.urlparse(ornek_url)
         ana = "%s://%s/" % (p.scheme, p.hostname)
-        sayfa = getir(ana, 20, sayfa=True)
     except Exception:
         return []
+
     bulunan = []
-    for m in FEED_KALIBI.finditer(sayfa):
+    try:
+        sayfa = getir(ana, 20, sayfa=True)
+    except Exception:
+        sayfa = ""
+
+    for m in FEED_KALIBI.finditer(sayfa or ""):
         y = html_kacis.unescape(m.group(1) or m.group(2) or "").strip()
         if not y:
             continue
         y = urllib.parse.urljoin(ana, y)
         if y not in bulunan:
             bulunan.append(y)
-    return bulunan[:3]
+
+    if bulunan:
+        return bulunan[:3]
+
+    # Etiket yok — yaygin yollari aday olarak dondur. Dogrulamayi
+    # kaynak_tara zaten yapiyor (bicim_bul ile).
+    return [urllib.parse.urljoin(ana, y.lstrip("/")) for y in YAYGIN_YOLLAR]
 
 
 def bicim_bul(metin):
