@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kakao Stok/Öğütme (S/G) Göstergesi</title>
+<style>
+  :root{--lac:#1f3864;--met:#55606f;--cizgi:#e3e7ee;--zemin:#f7f9fc}
+  *{box-sizing:border-box}
+  body{margin:0;padding:16px;background:#fff;color:#1a2330;
+       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       font-size:14px;line-height:1.55}
+  .sgw{max-width:760px;margin:0 auto;border:1px solid var(--cizgi);border-radius:12px;padding:18px 20px}
+  .sgw h2{margin:0 0 2px;font-size:17px;color:var(--lac)}
+  .kucuk{font-size:11.5px;color:#98a2b3}
+  .buyuk{font-size:38px;font-weight:800;line-height:1.05;margin:10px 0 2px}
+  .rozet{display:inline-block;padding:3px 10px;border-radius:20px;font-size:12px;font-weight:700}
+  .satir{display:flex;justify-content:space-between;gap:12px;padding:5px 0;border-bottom:1px dashed var(--cizgi);font-size:13px}
+  .satir:last-child{border-bottom:0}
+  .baslik{font-size:13.5px;font-weight:800;margin:16px 0 4px}
+  .mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;background:var(--zemin);
+        border-radius:5px;padding:7px 9px;display:block;margin:4px 0 3px;white-space:pre-wrap}
+  .not{font-size:11.5px;color:var(--met);line-height:1.5;margin:0 0 12px 2px}
+  .kutu{background:var(--zemin);border-radius:8px;padding:10px 12px;margin:4px 0 14px}
+  a{color:var(--lac)}
+  .durum{font-size:11.5px;padding:7px 10px;border-radius:7px;margin-bottom:12px}
+  button{font:inherit;font-size:12px;font-weight:700;padding:6px 12px;border-radius:7px;
+         border:1px solid var(--lac);background:#fff;color:var(--lac);cursor:pointer}
+  button:disabled{opacity:.5;cursor:default}
+</style>
+</head>
+<body>
+<div class="sgw" id="sgw">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px;flex-wrap:wrap">
+    <div>
+      <h2>Kakao Stok/Öğütme Oranı (S/G)</h2>
+      <div class="kucuk" id="kaynakSat">yükleniyor…</div>
+    </div>
+    <button id="yenile">🔄 ICCO'dan güncelle</button>
+  </div>
+  <div id="durum" class="durum" style="display:none"></div>
+  <div id="icerik"></div>
+</div>
+
+<script>
+/* ══════════════════════════════════════════════════════════════════
+   KAKAO S/G GÖSTERGESİ — tek dosya, bağımsız çalışır
+   Veri: ICCO Quarterly Bulletin of Cocoa Statistics (icco.org)
+   Model: talep geri beslemeli denge — ayrıntı aşağıda
+   ══════════════════════════════════════════════════════════════════ */
+
+/* --- Model sabitleri --- */
+var K=2.71,        // S/G üssü — kıtlığın fiyata geçiş gücü (kalibre edilmiş)
+    PREF=3168,     // ölçek katsayısı (USD/ton)
+    SGREF=0.40,    // referans S/G
+    PF=4000,       // geri besleme referans fiyatı
+    ESNEK=-0.06;   // kısa vadeli talep esnekliği (Gilbert 2016)
+
+/* --- ICCO son bilinen değerler (internet yoksa bunlar kullanılır) --- */
+var VERI={prod:4733, ogut:4649, stok:1309,
+          etiket:'ICCO Ağustos 2026 bülteni (2024/25 sezonu)', canli:false};
+
+/* --- Hesap: talep geri beslemeli denge -----------------------------
+   Fiyat yükselince öğütme (talep) biraz düşer; bu da S/G'yi ve fiyatı
+   etkiler. Denge sabitlenene kadar 15 tur döner.                    */
+function hesapla(v){
+  var fiyat=PF, ogutEf=v.ogut, denge=0, sonStok=0, sg=0.3;
+  for(var i=0;i<15;i++){
+    ogutEf=Math.max(v.ogut*(1+ESNEK*(fiyat/PF-1)), v.ogut*0.55);
+    denge=v.prod-ogutEf;
+    sonStok=v.stok+denge;
+    sg=Math.max(sonStok/ogutEf,0.12);
+    var hedef=PREF*Math.pow(SGREF/sg,K);
+    fiyat=fiyat+0.30*(hedef-fiyat);
+  }
+  return {ogutEf:ogutEf, denge:denge, sonStok:sonStok, sg:sg, fiyat:fiyat, ay:sg*12};
+}
+
+/* --- ICCO metnini okuma (hem eski tablo hem yeni cümle formatı) --- */
+var KESME=['world gross production','world production','world grindings',
+           'end-of-season stocks','end of season stocks','stocks-to-grindings',
+           'global supply surplus','the bulletin','on the trade'];
+function alan(dz,etiketler,alt,ust){
+  for(var e=0;e<etiketler.length;e++){
+    var et=etiketler[e], i=dz.toLowerCase().lastIndexOf(et.toLowerCase());
+    if(i<0)continue;
+    var par=dz.slice(i+et.length, i+et.length+260), kes=par.length;
+    KESME.forEach(function(k){var j=par.toLowerCase().indexOf(k); if(j>0&&j<kes)kes=j;});
+    par=par.slice(0,kes);
+    var re=/(\d{1,3}(?:[ ,]\d{3})*(?:\.\d+)?)\s*(million|mn)?/gi, m, son=null;
+    while((m=re.exec(par))!==null){
+      var x=parseFloat(m[1].replace(/[ ,]/g,''));
+      if(!isFinite(x))continue;
+      if(m[2])x=x*1000;          // "4.733 million" -> 4733 bin ton
+      else if(x<100)continue;    // yüzdeleri ele
+      if(x>=alt&&x<=ust)son=Math.round(x);   // tabloda revize sütunu SONdur
+    }
+    if(son!==null)return son;
+  }
+  return null;
+}
+
+function fmt(n){return Math.round(n).toLocaleString('tr-TR');}
+function yuzde(n){return (n*100).toFixed(1).replace('.',',');}
+
+/* --- ICCO'dan canlı çekme --- */
+var ICCO_API='https://www.icco.org/wp-json/wp/v2/posts?search=quarterly+bulletin+of+cocoa+statistics'
+            +'&per_page=1&orderby=date&order=desc';
+function zamanli(url,ms){
+  var c=new AbortController(), t=setTimeout(function(){try{c.abort();}catch(e){}},ms||9000);
+  return fetch(url,{cache:'no-store',signal:c.signal}).finally(function(){clearTimeout(t);});
+}
+function icoCek(){
+  var b=document.getElementById('yenile'), d=document.getElementById('durum');
+  b.disabled=true; b.textContent='⏳ çekiliyor…';
+  return zamanli(ICCO_API,9000).then(function(r){
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    return r.json();
+  }).then(function(j){
+    if(!j||!j.length)throw new Error('boş yanıt');
+    var dz=((j[0].content&&j[0].content.rendered)||'')
+      .replace(/<[^>]+>/g,' ').replace(/ /g,' ').replace(/\s+/g,' ');
+    var pr=alan(dz,['World Gross Production','World production'],3000,6500),
+        gr=alan(dz,['World Grindings','World grindings'],3000,6500),
+        st=alan(dz,['End-of-season stocks','End of season stocks'],400,2600);
+    if(!(pr&&gr&&st))throw new Error('bülten okundu ama üç rakam bulunamadı');
+    VERI={prod:pr, ogut:gr, stok:st, canli:true,
+          etiket:((j[0].title&&j[0].title.rendered)||'ICCO bülteni').replace(/&#\d+;/g,' ')};
+    d.style.display='block'; d.style.background='#eef6ee'; d.style.color='#1e5b32';
+    d.innerHTML='✓ ICCO\'dan canlı çekildi — '+new Date().toLocaleString('tr-TR')+
+                ' · üretim '+fmt(pr)+' · öğütme '+fmt(gr)+' · stok '+fmt(st);
+    ciz();
+  }).catch(function(e){
+    d.style.display='block'; d.style.background='#fdeeee'; d.style.color='#8c2b21';
+    d.innerHTML='✗ ICCO\'ya ulaşılamadı ('+e.message+'). Dosyaya gömülü son değerlerle gösteriliyor — '+
+                '<a href="https://www.icco.org/statistics/" target="_blank" rel="noopener">ICCO sayfasından</a> elle kontrol edebilirsin.';
+  }).finally(function(){
+    b.disabled=false; b.textContent='🔄 ICCO\'dan güncelle';
+  });
+}
+
+/* --- Ekrana çizme --- */
+function ciz(){
+  var r=hesapla(VERI);
+  var esik = r.sg>=0.35 ? ['Bolluk','#1e8e4e','bol mal var, fiyat baskı altında']
+           : r.sg>=0.27 ? ['Normal–sıkı','#8a6d1f','dengeli']
+           : r.sg>=0.20 ? ['Sıkı','#c0392b','fiyat fırlamaya başlar']
+           :              ['Kriz','#7b1f1f','model bu bölgede güvenilmez'];
+  var dus=r.ogutEf-VERI.ogut;
+  var L=function(u,t){return '<a href="'+u+'" target="_blank" rel="noopener">'+t+'</a>';};
+
+  document.getElementById('kaynakSat').innerHTML =
+    VERI.etiket+' · '+(VERI.canli?'canlı çekildi':'dosyaya gömülü')+' · '+
+    L('https://www.icco.org/statistics/','kaynağı aç');
+
+  document.getElementById('icerik').innerHTML =
+    '<div class="buyuk" style="color:'+esik[1]+'">%'+yuzde(r.sg)+'</div>'+
+    '<span class="rozet" style="background:'+esik[1]+'18;color:'+esik[1]+'">'+esik[0]+'</span> '+
+    '<span class="kucuk">'+r.ay.toFixed(1).replace('.',',')+' aylık tüketim stokta</span>'+
+
+    '<div class="baslik">Bu oran ne anlatıyor?</div>'+
+    '<div class="not">Dünyanın deposunda duran kakao, bir yıllık tüketimin yüzde kaçına denk geliyor. '+
+    'Buzdolabındaki yiyeceğin kaç gün yeteceğini hesaplamak gibi.<br>'+
+    '<b>Şu an '+r.ay.toFixed(1).replace('.',',')+' aylık tüketim stokta:</b> bugün dünyada kakao üretimi tamamen dursa, '+
+    'eldeki stokla bu kadar idare edilir. Az görünüyorsa doğru görüyorsun — kakao stoku hep incedir.</div>'+
+
+    '<div class="baslik">Hesap 4 adımda</div>'+
+
+    '<div><b style="font-size:12.5px">1. Bu sezon ne kadar kakao üretildi?</b>'+
+    '<span class="mono">'+fmt(VERI.prod)+' bin ton</span>'+
+    '<div class="not">ICCO\'nun açıkladığı gerçekleşen dünya üretimi. Tahmin değil, yaşanmış sezonun rakamı — '+
+    'hastalık ve hava kayıpları zaten içinde.<br>Kontrol: '+L('https://www.icco.org/statistics/','ICCO istatistik sayfası')+'</div></div>'+
+
+    '<div><b style="font-size:12.5px">2. Bu sezon ne kadar tüketildi?</b>'+
+    '<span class="mono">'+fmt(VERI.ogut)+' → '+fmt(r.ogutEf)+' bin ton   ('+(dus>=0?'+':'')+fmt(dus)+')</span>'+
+    '<div class="not">"Öğütme" = çekirdeğin işlenip çikolataya gitmesi; talebin ölçüsü budur. '+
+    fmt(VERI.ogut)+' ICCO\'nun rakamı. Model bunu '+fmt(r.ogutEf)+'\'e '+(dus<0?'düşürüyor':'çıkarıyor')+', '+
+    'çünkü fiyat yükselince üreticiler biraz daha az alır.<br>'+
+    '<b>Dikkat: bu düzeltme modelin tahmini, gözlemlenmiş veri değil</b> — hesabın en tartışmalı satırı burası.<br>'+
+    'Dayanak: '+L('https://ageconsearch.umn.edu/record/258587/','Tothmihaly (2018), talep esnekliği −0,06')+'</div></div>'+
+
+    '<div><b style="font-size:12.5px">3. Fazla mı verdik, açık mı?</b>'+
+    '<span class="mono">'+fmt(VERI.prod)+' − '+fmt(r.ogutEf)+' = '+(r.denge>=0?'+':'')+fmt(r.denge)+' bin ton</span>'+
+    '<div class="not">Üretim eksi tüketim. '+(r.denge>=0
+      ? 'Artı çıktı: üretilenin hepsi tüketilmedi, fark depoya eklendi.'
+      : 'Eksi çıktı: tüketim üretimi aştı, fark depodan yendi.')+
+    ' Bir ülkenin gelirinden fazla harcayıp harcamadığına bakmak gibi.</div></div>'+
+
+    '<div><b style="font-size:12.5px">4. Depoda ne kaldı, kaç aylık eder?</b>'+
+    '<span class="mono">Depo: '+fmt(VERI.stok)+' '+(r.denge>=0?'+':'−')+' '+fmt(Math.abs(r.denge))+' = '+fmt(r.sonStok)+' bin ton\n'+
+    'S/G : '+fmt(r.sonStok)+' ÷ '+fmt(r.ogutEf)+' = %'+yuzde(r.sg)+'  →  '+r.ay.toFixed(1).replace('.',',')+' ay</span>'+
+    '<div class="not">Sezon başındaki depo ('+fmt(VERI.stok)+', yine ICCO) artı/eksi bu sezonun farkı = sezon sonu depo. '+
+    'Onu yıllık tüketime bölünce oran çıkıyor. %'+yuzde(r.sg)+' × 12 ay = '+r.ay.toFixed(1).replace('.',',')+' aylık stok.</div></div>'+
+
+    '<div class="kutu"><b style="font-size:12.5px">Çıkan oran ne demek?</b>'+
+    '<div style="font-size:12px;line-height:1.75;margin-top:3px">'+
+    '<b>%35 ve üzeri</b> — bol mal var, fiyat baskı altında<br>'+
+    '<b>%29 civarı</b> — normal <span class="kucuk">(ICCO 2024/25 gerçekleşen: %'+yuzde(VERI.stok/VERI.ogut)+')</span><br>'+
+    '<b>%24</b> — sıkı, fiyat fırlamaya başlar<br>'+
+    '<b>%20 altı</b> — kriz; model bu bölgede güvenilmez<br>'+
+    '<b style="color:'+esik[1]+'">Şu an %'+yuzde(r.sg)+' — '+esik[0]+', '+esik[2]+'.</b></div></div>'+
+
+    '<div class="baslik">Peki bu oran fiyatı neden bu kadar sarsıyor?</div>'+
+    '<div class="not">Çikolata fabrikası, kakao pahalandı diye üretimi durduramaz — almak zorundadır. '+
+    'Ekonomide buna <b>talep inelastik</b> denir; kakaoda fiyat %10 artınca talep sadece ~%0,6 azalır.<br>'+
+    'Sonuç: stok azalınca alıcılar kalan mal için yarışır, fiyat düz değil <b>üstel</b> yükselir. '+
+    'Model bunu 2,71 üssüyle temsil ediyor. Somut örnek: oran %35\'ten %25\'e inerse fiyat <b>~2,5 katına</b> çıkar.<br>'+
+    '<b>Bu üs kalibrasyondur</b> — 2023/24 ve 2024/25 gerçekleşmelerine uyduruldu, ekonometrik bir tahmin değil. '+
+    'Oranda 1 puanlık hata fiyatta ~%8 oynatır.<br>'+
+    'Kontrol: '+L('https://www.icco.org/statistics/','ICCO bültenleri')+' · '+
+    L('https://tradingeconomics.com/commodity/cocoa','tarihsel fiyat serisi')+'</div>';
+}
+
+document.getElementById('yenile').addEventListener('click',icoCek);
+ciz();          // önce gömülü veriyle çiz (anında görünür)
+icoCek();       // sonra ICCO'dan tazelemeyi dene
+</script>
+</body>
+</html>
