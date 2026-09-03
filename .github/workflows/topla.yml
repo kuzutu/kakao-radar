@@ -2,9 +2,14 @@ name: Kakao haber topla
 
 on:
   schedule:
-    # Her saat basi (UTC). Turkiye saati = UTC + 3.
-    # GitHub yogun saatlerde birkac dakika gecikebilir, normaldir.
-    - cron: "0 * * * *"
+    # Saat basi (dakika 0) dunyadaki tum workflow'larin kuyruga girdigi
+    # andir; GitHub ucretsiz katmanda o turlari geciktirir, bazen atlar.
+    # "4 saattir guncellenmedi" uyarilarinin sebebi buydu.
+    #
+    # Iki degisiklik: (1) dakika 0'dan uzaklastik, (2) saatte iki kez
+    # calisiyoruz. Biri atlanirsa digeri yakalar, bosluk 1 saati gecmez.
+    # Public repoda Actions dakikalari ucretsiz, ek maliyeti yok.
+    - cron: "13,43 * * * *"
   workflow_dispatch:        # Actions sekmesindeki "Run workflow" dugmesi
   push:
     paths:
@@ -25,9 +30,12 @@ jobs:
     timeout-minutes: 25
 
     steps:
-      - uses: actions/checkout@v4
+      # v4/v5 Node 20 uzerinde kosuyordu. GitHub Node 20'yi 16 Eylul
+      # 2026'da runner'lardan kaldiriyor; o tarihten sonra bu tur
+      # tamamen calismaz. v6'lar Node 24 yerlisi, girdi/cikti API'si ayni.
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
