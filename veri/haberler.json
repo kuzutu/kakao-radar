@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-03T02:22:04.019713+00:00",
+ "uretim": "2026-09-03T06:40:09.764615+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 23,
  "haberSayisi": 121,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Women and Youth Must Shape Cocoa’s Future, CAA Farmer Forum Hears",
+   "link": "https://cocoaradar.com/women-and-youth-must-shape-cocoas-future-caa-farmer-forum-hears/",
+   "tarih": "2026-09-03T03:31:13+00:00",
+   "ozet": "Speakers at the CAA International Cocoa Conference in Singapore called for community-led investment, broader resilience measures, and stronger pathways for women and younger people to become decision-makers and entrepreneurs",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "CAA Çiftçi Forumu, Kakaonun Geleceğini Kadınlar ve Gençlerin Şekillendirmesi Gerektiğini Duydu",
+   "okunur": true
+  },
   {
    "baslik": "The Crisis in Cocoa for Industry and Farmers",
    "link": "https://cocoaradar.com/the-crisis-in-cocoa-for-industry-and-farmers/",
@@ -1293,19 +1306,6 @@
    "okunur": true
   },
   {
-   "baslik": "ISM Middle East 2026 Remains Firmly On The Calendar As Organisers Monitor Regional Situation",
-   "link": "https://cocoaradar.com/ism-middle-east-2026-remains-firmly-on-the-calendar-as-organisers-monitor-regional-situation/",
-   "tarih": "2026-08-07T11:20:31+00:00",
-   "ozet": "ISM Middle East is set to return to Dubai from 3–5 November 2026, with organisers reporting strong market interest while continuing to monitor security, travel and aviation conditions across the Gulf following this year’s US–Iran conflict",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "ISM Middle East 2026, Organizatörler Bölgesel Durumu Takip Ederken Kesin Bir Şekilde Takvimde Kalmaya Devam Ediyor",
-   "okunur": true
-  },
-  {
    "baslik": "Communications Officer – 1 Year temporary contract",
    "link": "https://www.cocoainitiative.org/about-us/careers-ici/current-vacancies/communications-officer-1-year-temporary-contract-start-date",
    "tarih": "2026-08-06T20:49:25+00:00",
@@ -1583,7 +1583,7 @@
   [
    "ICCO",
    "6 haber",
-   1444,
+   1507,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1592,16 +1592,16 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1507,
+   11120,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "dogrudan",
+   "vekil",
    null,
    16
   ],
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3763,
+   4298,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1610,7 +1610,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57997,
+   60100,
    "",
    "",
    null,
@@ -1619,7 +1619,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   146,
+   296,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1628,7 +1628,7 @@
   [
    "World Cocoa Foundation",
    "10 haber",
-   528,
+   5507,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1637,7 +1637,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1013,
+   977,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1646,7 +1646,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   239,
+   312,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1655,7 +1655,7 @@
   [
    "Panamir",
    "2 haber",
-   1820,
+   2416,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1664,7 +1664,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1218,
+   7087,
    "",
    "",
    null,
@@ -1673,7 +1673,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   240,
+   807,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1682,7 +1682,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   260,
+   278,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1691,7 +1691,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   652,
+   5231,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1700,7 +1700,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   574,
+   317,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1709,7 +1709,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1942,
+   2203,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1718,7 +1718,7 @@
   [
    "MyJoyOnline · GH",
    "19 haber",
-   1068,
+   1248,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1727,16 +1727,16 @@
   [
    "AIP · CI resmî ajans",
    "8 haber",
-   2275,
+   26381,
    "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "1 haber",
-   118,
+   750,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1745,7 +1745,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   426,
+   589,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1754,7 +1754,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   503,
+   1674,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1763,7 +1763,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   541,
+   785,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1772,16 +1772,16 @@
   [
    "Anecacao · EC",
    "6 haber",
-   4259,
+   8180,
    "https://www.anecacao.com/feed/",
-   "dogrudan",
+   "vekil",
    null,
    4
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   562,
+   938,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1790,7 +1790,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   13333,
+   15155,
    "",
    "",
    null,
@@ -1798,8 +1798,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (476457 bayt, vekil)",
-   5782,
+   "besleme tanimsiz (476852 bayt, vekil)",
+   10446,
    "",
    "",
    null,
@@ -1808,16 +1808,16 @@
   [
    "Asaase Radio · GH",
    "3 haber",
-   1490,
+   15091,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Ghanaian Times",
    "5 haber",
-   4274,
+   3700,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
