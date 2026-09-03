@@ -748,12 +748,16 @@ async function tara(){
   document.getElementById('damga').textContent=
     yas===null?'':(yas<90?('güncellendi '+yas+' dk önce')
                         :('güncellendi '+new Date(veri.uretim).toLocaleString('tr-TR')));
-  // Veri 3 saatten eskiyse toplayici calismiyor olabilir; sessiz kalma.
-  if(yas!==null && yas>180){
+  // GitHub'in cron tetikleyicisi ucretsiz hesaplarda garantili degil:
+  // yogun saatlerde gecikiyor, bazen atlaniyor. 3 saat bu yuzden cok
+  // dar bir esikti ve saglikli kurulumda bosuna uyari veriyordu.
+  // 6 saat gercek bir aksakligi isaret eder.
+  if(yas!==null && yas>360){
     const u=document.getElementById('proxyUyari');
     u.style.display='block';
     u.innerHTML='<b>⚠ Veri '+Math.round(yas/60)+' saattir güncellenmedi.</b> '+
-      'GitHub üzerinde Actions sekmesini açıp son çalışmanın hata verip vermediğine bak.';
+      'Actions sekmesinde son turlar yeşilse hata yok, tur hiç başlamamış demektir '+
+      '(cron gecikmesi). Kırmızıysa log’a bakmak gerekir.';
   }
   depo('kakaoHaber_v7',{ts:Date.now(),v:HEPSI.slice(0,300).map(function(h){
     return Object.assign({},h,{tarih:h.tarih?h.tarih.toISOString():null});})});
