@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-03T21:53:33.534196+00:00",
+ "uretim": "2026-09-04T00:02:09.011275+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 22,
  "haberSayisi": 121,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Campagne cacaoyère: les producteurs de Sikensi entre déception et espoir d’un meilleur prix",
+   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cacaoyere-les-producteurs-de-sikensi-entre-deception-et-espoir-dun-meilleur-prix/",
+   "tarih": "2026-09-03T21:58:51+00:00",
+   "ozet": "Sikensi, 03 sept 2026 (AIP) – Des producteurs de cacao du département de Sikensi ont exprimé, mercredi 2 septembre 2026, leur déception face à la fixation à 1 200 FCFA du kilogramme de cacao au titre du nouveau prix indicatif, tout en appelant à l’enlèvement d",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kakao kampanyası: Sikensi üreticileri hayal kırıklığı ve daha iyi fiyat umudu arasında",
+   "okunur": true
+  },
   {
    "baslik": "Côte d’Ivoire-AIP/ Campagne café-cacao 2026-2027: le ministre Bruno Koné garantit aux producteurs l’application effective des prix annoncés",
    "link": "https://www.aip.ci/cote-divoire-aip-campagne-cafe-cacao-2026-2027-le-ministre-bruno-kone-garantit-aux-producteurs-lapplication-effective-des-prix-annonces/",
@@ -355,19 +368,6 @@
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "CAA, ASEAN Sürdürülebilirlik Programını Destekleyen İlk Dernek Oldu",
    "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le gouvernement compte mieux anticiper la fixation des prix du cacao après la crise des cours internationaux",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-gouvernement-compte-mieux-anticiper-la-fixation-des-prix-du-cacao-apres-la-crise-des-cours-internationaux/",
-   "tarih": "2026-09-01T20:14:44+00:00",
-   "ozet": "Abidjan, 1er sept 2026 (AIP)- Le gouvernement ivoirien entend tirer les enseignements de la forte volatilité des cours internationaux du cacao afin d’aborder les prochaines campagnes avec davantage d’anticipation, de coordination et de dialogue avec l’ensemble",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Hükümet, uluslararası fiyat krizinden sonra kakao fiyatlarının belirlenmesini daha iyi öngörmeyi planlıyor",
-   "okunur": false
   },
   {
    "baslik": "El mercado del cacao después de la tormenta: Lecciones de la más grande crisis global.",
@@ -1583,7 +1583,7 @@
   [
    "ICCO",
    "6 haber",
-   1217,
+   1189,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1592,7 +1592,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1470,
+   1458,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1601,7 +1601,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4033,
+   3855,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1610,7 +1610,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59008,
+   58419,
    "",
    "",
    null,
@@ -1619,7 +1619,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   62,
+   131,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1628,7 +1628,7 @@
   [
    "World Cocoa Foundation",
    "10 haber",
-   384,
+   466,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1637,7 +1637,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1379,
+   2014,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1646,7 +1646,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   130,
+   199,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1655,7 +1655,7 @@
   [
    "Panamir",
    "2 haber",
-   1964,
+   4271,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1664,7 +1664,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1569,
+   1435,
    "",
    "",
    null,
@@ -1673,7 +1673,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   88,
+   231,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1682,7 +1682,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   217,
+   528,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1691,7 +1691,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   484,
+   279,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1700,7 +1700,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   137,
+   342,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1709,7 +1709,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1833,
+   1893,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1718,7 +1718,7 @@
   [
    "MyJoyOnline · GH",
    "17 haber",
-   972,
+   1077,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1727,7 +1727,7 @@
   [
    "AIP · CI resmî ajans",
    "10 haber",
-   2116,
+   3884,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1735,8 +1735,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   61720,
+   "besleme tanimsiz (17247 bayt, vekil)",
+   3709,
    "",
    "",
    null,
@@ -1745,7 +1745,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   421,
+   455,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1754,7 +1754,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   504,
+   508,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1763,7 +1763,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   456,
+   518,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1772,7 +1772,7 @@
   [
    "Anecacao · EC",
    "6 haber",
-   2159,
+   1974,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1781,7 +1781,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   544,
+   752,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1790,7 +1790,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   13289,
+   13261,
    "",
    "",
    null,
@@ -1798,8 +1798,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (477996 bayt, vekil)",
-   13699,
+   "besleme tanimsiz (477919 bayt, vekil)",
+   60134,
    "",
    "",
    null,
@@ -1808,7 +1808,7 @@
   [
    "Asaase Radio · GH",
    "2 haber",
-   6956,
+   15653,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1817,7 +1817,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3655,
+   3811,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
