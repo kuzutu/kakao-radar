@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-04T13:44:56.625468+00:00",
+ "uretim": "2026-09-04T17:04:47.420924+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
- "haberSayisi": 119,
+ "haberSayisi": 118,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "TriLinc Cuts Value of CFA9.26bn Producam Debt by 21.6% as Recovery Delays Persist",
+   "link": "https://www.businessincameroon.com/agriculture/0409-16680-trilinc-cuts-value-of-cfa9-26bn-producam-debt-by-21-6-as-recovery-delays-persist",
+   "tarih": "2026-09-04T14:19:54+00:00",
+   "ozet": "U.S. investment fund TriLinc Global Impact Fund has cut the value of its claim on Cameroonian cocoa and coffee trader Producam by 21.6%, as persistent recovery delays deepen uncertainty over a financing that has been in difficulty since 2018. The outstanding p",
+   "kaynak": "Business in Cameroon",
+   "grup": "Business in Cameroon",
+   "alan": "businessincameroon.com",
+   "w": 0.95,
+   "kaynakUyari": "",
+   "baslikTR": "TriLinc, Tahsilat Gecikmeleri Devam Ettiğinden CFA9,26 Milyar Producam Borcunun Değerini %21,6 Düşürdü",
+   "okunur": true
+  },
   {
    "baslik": "Côte d’Ivoire-AIP/ JNCC 2026: Des solutions logistiques pour renforcer la compétitivité de la filière cacao",
    "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-des-solutions-logistiques-pour-renforcer-la-competitivite-de-la-filiere-cacao/",
@@ -198,19 +211,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Fildişi Sahili-AIP/ Kakao kampanyası 2026-2027: PICD, çiftlik kapısı fiyat belirleme mekanizmasında reform çağrısında bulunuyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Campagne cacao 2026-2027: la Fondation ICI mise sur la protection des enfants des producteurs",
-   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cacao-2026-2027-la-fondation-ici-mise-sur-la-protection-des-enfants-des-producteurs/",
-   "tarih": "2026-09-03T09:09:25+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP)- Le directeur des partenariats et du plaidoyer à la Fondation International Cocoa Initiative (ICI), Donatien Awokou, a annoncé le renforcement des actions de sensibilisation, de scolarisation et d’accompagnement économique des famil",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kakao kampanyası 2026-2027: ICI Vakfı, üreticilerin çocuklarının korunmasına odaklanıyor",
    "okunur": true
   },
   {
@@ -1137,19 +1137,6 @@
    "okunur": true
   },
   {
-   "baslik": "UK grown cocoa delivered for Reading University centenary chocolate bar",
-   "link": "https://www.confectioneryproduction.com/news/59058/uk-grown-cocoa-delivered-for-reading-university-centenary-chocolate-bar/",
-   "tarih": "2026-08-15T06:26:39+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Birleşik Krallık'ta yetiştirilen kakao, Reading Üniversitesi'nin yüzüncü yıl çikolatası için teslim edildi",
-   "okunur": true
-  },
-  {
    "baslik": "Mars Bar Shrinkflation Puts Cocoa Use In Spotlight As Ghana And Côte d’Ivoire Warn Over Chocolate Reformulation",
    "link": "https://cocoaradar.com/mars-bar-shrinkflation-puts-cocoa-use-in-spotlight-as-ghana-and-cote-divoire-warn-over-chocolate-reformulation/",
    "tarih": "2026-08-14T12:51:45+00:00",
@@ -1557,7 +1544,7 @@
   [
    "ICCO",
    "6 haber",
-   1304,
+   1767,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1566,16 +1553,16 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   3583,
+   991,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "vekil",
+   "dogrudan",
    null,
    16
   ],
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4014,
+   4363,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1584,7 +1571,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58113,
+   59734,
    "",
    "",
    null,
@@ -1593,7 +1580,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   179,
+   176,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1602,7 +1589,7 @@
   [
    "World Cocoa Foundation",
    "10 haber",
-   541,
+   825,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1611,7 +1598,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1031,
+   1349,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1620,7 +1607,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   367,
+   446,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1629,7 +1616,7 @@
   [
    "Panamir",
    "2 haber",
-   2347,
+   3045,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1638,7 +1625,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1377,
+   2531,
    "",
    "",
    null,
@@ -1647,7 +1634,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   675,
+   292,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1655,8 +1642,8 @@
   ],
   [
    "FoodNavigator",
-   "3 haber",
-   224,
+   "2 haber",
+   748,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1665,7 +1652,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7605,
+   7285,
    "",
    "",
    null,
@@ -1674,7 +1661,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   667,
+   829,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1682,8 +1669,8 @@
   ],
   [
    "Confectionery Production",
-   "11 haber",
-   2174,
+   "10 haber",
+   2543,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1692,7 +1679,7 @@
   [
    "MyJoyOnline · GH",
    "17 haber",
-   914,
+   1358,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1700,17 +1687,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "8 haber",
-   9900,
+   "7 haber",
+   3697,
    "https://www.aip.ci/?s=cacao&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   46800,
+   62874,
    "",
    "",
    null,
@@ -1718,8 +1705,8 @@
   ],
   [
    "Business in Cameroon",
-   "1 haber",
-   550,
+   "2 haber",
+   783,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1728,7 +1715,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   555,
+   780,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1737,7 +1724,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1204,
+   705,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1746,16 +1733,16 @@
   [
    "Anecacao · EC",
    "6 haber",
-   8223,
+   2475,
    "https://www.anecacao.com/feed/",
-   "vekil",
+   "dogrudan",
    null,
    4
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   624,
+   912,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1764,7 +1751,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   13878,
+   16174,
    "",
    "",
    null,
@@ -1772,8 +1759,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (478355 bayt, vekil)",
-   8653,
+   "besleme tanimsiz (477848 bayt, vekil)",
+   12050,
    "",
    "",
    null,
@@ -1782,18 +1769,18 @@
   [
    "Asaase Radio · GH",
    "2 haber",
-   21924,
+   8478,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ],
   [
    "Ghanaian Times",
    "5 haber",
-   1004518,
+   3726,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ]
