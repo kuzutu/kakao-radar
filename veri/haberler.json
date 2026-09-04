@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-04T00:02:09.011275+00:00",
+ "uretim": "2026-09-04T04:24:37.986023+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 22,
- "haberSayisi": 121,
+ "haberSayisi": 112,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "CAA Conference Day One: Resilience, Demand And Regulation Dominate Singapore Debate",
+   "link": "https://cocoaradar.com/caa-conference-day-one-resilience-demand-and-regulation-dominate-singapore-debate/",
+   "tarih": "2026-09-04T01:22:29+00:00",
+   "ozet": "From price volatility and supply constraints to Asia’s processing growth and the approaching EUDR deadline, Day One of the CAA International Cocoa Conference examined how the industry can build a more resilient, investable and equitable future",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "CAA Konferansı Birinci Gün: Dayanıklılık, Talep ve Düzenlemeler Singapur Tartışmasına Hakim Oluyor",
+   "okunur": true
+  },
   {
    "baslik": "Côte d’Ivoire-AIP/ Campagne cacaoyère: les producteurs de Sikensi entre déception et espoir d’un meilleur prix",
    "link": "https://www.aip.ci/cote-divoire-aip-campagne-cacaoyere-les-producteurs-de-sikensi-entre-deception-et-espoir-dun-meilleur-prix/",
@@ -19,32 +32,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ Campagne café-cacao 2026-2027: le ministre Bruno Koné garantit aux producteurs l’application effective des prix annoncés",
-   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cafe-cacao-2026-2027-le-ministre-bruno-kone-garantit-aux-producteurs-lapplication-effective-des-prix-annonces/",
-   "tarih": "2026-09-03T20:10:37+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP)- Le ministre de l’Agriculture, du Développement rural et des Productions vivrières, Bruno Nabagné Koné, a assuré jeudi 3 septembre 2026 à Abidjan, que les prix du cacao et du café annoncés pour la campagne 2026-2027 seront effective",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kahve-kakao kampanyası 2026-2027: Bakan Bruno Koné, üreticilere açıklanan fiyatların etkili şekilde uygulanmasını garanti ediyor",
-   "okunur": false
-  },
-  {
-   "baslik": "Campagne café-cacao 2026-2027: le ministre Bruno Koné garantit aux producteurs l’application effective des prix annoncés",
-   "link": "https://www.aip.ci/campagne-cafe-cacao-2026-2027-le-ministre-bruno-kone-garantit-aux-producteurs-lapplication-effective-des-prix-annonces/",
-   "tarih": "2026-09-03T15:00:35+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kahve-kakao kampanyası 2026-2027: Bakan Bruno Koné üreticilere açıklanan fiyatların etkin şekilde uygulanmasını garanti ediyor",
-   "okunur": false
-  },
-  {
    "baslik": "West African Cocoa Reforms Collide With Rising Supply Risks",
    "link": "https://cocoaradar.com/west-african-cocoa-reforms-collide-with-rising-supply-risks/",
    "tarih": "2026-09-03T13:41:20+00:00",
@@ -56,19 +43,6 @@
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Batı Afrika Kakao Reformları Artan Tedarik Riskleriyle Çatışıyor",
    "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ JNCC 2026: l’OIA café-cacao appelle à l’effectivité du prix de 1 200 FCFA/kg au profit des producteurs sur le terrain",
-   "link": "https://www.aip.ci/cote-divoire-aip-jncc-2026-loia-cafe-cacao-appelle-a-leffectivite-du-prix-de-1-200-fcfa-kg-au-profit-des-producteurs-sur-le-terrain/",
-   "tarih": "2026-09-03T10:15:12+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP)- Le directeur exécutif de l’Organisation interprofessionnelle agricole de la filière café-cacao (OIA café-cacao), Mé Kouakou, a appelé mercredi 2 septembre 2026 à Abidjan, à l’application effective du prix minimum garanti de 1 200 F",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/JNCC 2026: OIA kahve-kakao, sahadaki üreticilerin yararına 1.200 FCFA/kg fiyatının etkili olmasını talep ediyor",
-   "okunur": false
   },
   {
    "baslik": "Hershey names new CFO as expansion strategy accelerates",
@@ -97,58 +71,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ Le GEPEX appelle à une vision collective pour renforcer la filière café-cacao",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-gepex-appelle-a-une-vision-collective-pour-renforcer-la-filiere-cafe-cacao/",
-   "tarih": "2026-09-03T09:42:55+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP)- Le Groupement professionnel des exportateurs de café et de cacao de Côte d’Ivoire (GEPEX) appelle à renforcer le dialogue entre les acteurs de la filière afin de consolider sa compétitivité, sa résilience et sa durabilité à l’horiz",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/GEPEX, kahve-kakao sektörünü güçlendirmek için kolektif bir vizyon çağrısında bulunuyor",
-   "okunur": false
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Campagne cacao 2026-2027: la PICD appelle à une réforme du mécanisme de fixation du prix bord champ",
-   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cacao-2026-2027-la-picd-appelle-a-une-reforme-du-mecanisme-de-fixation-du-prix-bord-champ/",
-   "tarih": "2026-09-03T09:10:59+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP)- La Plateforme ivoirienne pour le cacao durable (PICD) appelle à l’ouverture d’un dialogue national sur l’avenir de la filière cacao, notamment sur le mécanisme de fixation du prix bord champ, après l’annonce du prix de 1 200 FCFA l",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kakao kampanyası 2026-2027: PICD, çiftlik kapısı fiyat belirleme mekanizmasında reform çağrısında bulunuyor",
-   "okunur": false
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Campagne cacao 2026-2027: la Fondation ICI mise sur la protection des enfants des producteurs",
-   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cacao-2026-2027-la-fondation-ici-mise-sur-la-protection-des-enfants-des-producteurs/",
-   "tarih": "2026-09-03T09:09:25+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP)- Le directeur des partenariats et du plaidoyer à la Fondation International Cocoa Initiative (ICI), Donatien Awokou, a annoncé le renforcement des actions de sensibilisation, de scolarisation et d’accompagnement économique des famil",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kakao kampanyası 2026-2027: ICI Vakfı, üreticilerin çocuklarının korunmasına odaklanıyor",
-   "okunur": false
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP / Revue de presse/ Le prix bord champ du cacao et la lutte contre l’orpaillage illégal à la Une des quotidiens ivoiriens",
-   "link": "https://www.aip.ci/cote-divoire-aip-revue-de-presse-le-prix-bord-champ-du-cacao-et-la-lutte-contre-lorpaillage-illegal-a-la-une-des-quotidiens-ivoiriens/",
-   "tarih": "2026-09-03T08:17:40+00:00",
-   "ozet": "Abidjan, 03 sept 2026 (AIP) – La fixation du prix bord champ du cacao à 1 200 FCFA le kg et les réactions des producteurs dominent, ce jeudi 3 septembre 2026, la Une des journaux ivoiriens, aux côtés de la lutte contre l’orpaillage illégal dans le Cavally et d",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP / Basın incelemesi/ Fildişi Sahili günlük gazetelerinin ön sayfasında kakaonun çiftlik kapısı fiyatı ve yasadışı altın kaydırmaya karşı mücadele",
-   "okunur": false
-  },
-  {
    "baslik": "Sharp Futures Losses and Divergent 2026/27 Balance Forecasts (2 September 2026)",
    "link": "https://www.cocoaintel.com/sharp-futures-losses-and-divergent-2026-27-balance-forecasts-2-september-2026/",
    "tarih": "2026-09-03T07:05:27+00:00",
@@ -173,32 +95,6 @@
    "kaynakUyari": "",
    "baslikTR": "Brezilya'nın Arz Görünümü İyileşirken Kahve Birkaç Haftanın En Düşük Seviyesine Düştü (2 Eylül 2026)",
    "okunur": true
-  },
-  {
-   "baslik": "JNCC 2026: l’OIA café-cacao appelle à l’effectivité du prix de 1 200 FCFA/kg au profit des producteurs sur le terrain",
-   "link": "https://www.aip.ci/jncc-2026-loia-cafe-cacao-appelle-a-leffectivite-du-prix-de-1-200-fcfa-kg-au-profit-des-producteurs-sur-le-terrain/",
-   "tarih": "2026-09-03T06:16:31+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "JNCC 2026: OIA kahve-kakao, sahadaki üreticilerin yararına 1.200 FCFA/kg fiyatının etkili olmasını talep ediyor",
-   "okunur": false
-  },
-  {
-   "baslik": "Campagne cacao 2026-2027: la Fondation ICI mise sur la protection des enfants des producteurs",
-   "link": "https://www.aip.ci/campagne-cacao-2026-2027-la-fondation-ici-mise-sur-la-protection-des-enfants-des-producteurs/",
-   "tarih": "2026-09-03T05:09:41+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao kampanyası 2026-2027: İSO Vakfı üreticilerin çocuklarını korumaya odaklanıyor",
-   "okunur": false
   },
   {
    "baslik": "Women and Youth Must Shape Cocoa’s Future, CAA Farmer Forum Hears",
@@ -1293,19 +1189,6 @@
    "okunur": true
   },
   {
-   "baslik": "ClimateAi’s Collapse Raises a Bigger Question: Who Will Pay for Agricultural Intelligence?",
-   "link": "https://cocoaradar.com/climateais-collapse-raises-a-bigger-question-who-will-pay-for-agricultural-intelligence/",
-   "tarih": "2026-08-11T15:04:28+00:00",
-   "ozet": "Analysis: The closure of ClimateAi, two years after Gro Intelligence failed, exposes a difficult contradiction at the heart of data-driven agriculture: companies need better intelligence than ever, but turning that need into a sustainable standalone business r",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "ClimateAi'nin Çöküşü Daha Büyük Bir Soruyu Ortaya Çıkarıyor: Tarımsal İstihbaratın Parasını Kim Ödeyecek?",
-   "okunur": true
-  },
-  {
    "baslik": "Communications Officer – 1 Year temporary contract",
    "link": "https://www.cocoainitiative.org/about-us/careers-ici/current-vacancies/communications-officer-1-year-temporary-contract-start-date",
    "tarih": "2026-08-06T20:49:25+00:00",
@@ -1583,7 +1466,7 @@
   [
    "ICCO",
    "6 haber",
-   1189,
+   1846,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1592,7 +1475,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1458,
+   1636,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1601,7 +1484,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3855,
+   4169,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1610,7 +1493,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58419,
+   60701,
    "",
    "",
    null,
@@ -1619,7 +1502,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   131,
+   261,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1628,7 +1511,7 @@
   [
    "World Cocoa Foundation",
    "10 haber",
-   466,
+   544,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1637,7 +1520,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   2014,
+   999,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1646,7 +1529,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   199,
+   482,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1655,7 +1538,7 @@
   [
    "Panamir",
    "2 haber",
-   4271,
+   1963,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1664,7 +1547,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1435,
+   1917,
    "",
    "",
    null,
@@ -1673,7 +1556,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   231,
+   269,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1682,7 +1565,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   528,
+   1127,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1691,7 +1574,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   279,
+   277,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1700,7 +1583,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   342,
+   230,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1709,7 +1592,7 @@
   [
    "Confectionery Production",
    "11 haber",
-   1893,
+   2433,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1718,7 +1601,7 @@
   [
    "MyJoyOnline · GH",
    "17 haber",
-   1077,
+   1369,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1726,9 +1609,9 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "10 haber",
-   3884,
-   "https://www.aip.ci/?s=cacao&feed=rss2",
+   "1 haber",
+   13642,
+   "https://www.aip.ci/feed/",
    "dogrudan",
    null,
    0
@@ -1736,7 +1619,7 @@
   [
    "Sika Finance · CI",
    "besleme tanimsiz (17247 bayt, vekil)",
-   3709,
+   37006,
    "",
    "",
    null,
@@ -1745,7 +1628,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   455,
+   1830,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1754,7 +1637,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   508,
+   824,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1763,7 +1646,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   518,
+   997,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1772,7 +1655,7 @@
   [
    "Anecacao · EC",
    "6 haber",
-   1974,
+   8570,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1781,7 +1664,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   752,
+   667,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1790,7 +1673,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   13261,
+   14683,
    "",
    "",
    null,
@@ -1798,8 +1681,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (477919 bayt, vekil)",
-   60134,
+   "besleme tanimsiz (477591 bayt, vekil)",
+   10732,
    "",
    "",
    null,
@@ -1808,7 +1691,7 @@
   [
    "Asaase Radio · GH",
    "2 haber",
-   15653,
+   2531,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1817,7 +1700,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3811,
+   3922,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
