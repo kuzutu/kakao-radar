@@ -172,6 +172,15 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
     <button class="btn ac" id="trBtn" title="Açık: başlıklar Türkçe, haberler Türkçe çevrilmiş olarak açılır">🌐 Türkçe</button>
     <button class="btn sec" id="kontrolBtn">🔗 Linkleri kontrol et</button>
     <button class="btn sec" id="taniBtn">🔍 Tanı</button>
+    <!-- Barchart'in fiyat tablosu Vue.js ile dolduruluyor, HTML'de sayi
+         yok; bu yuzden kazinamiyor. Onun yerine dogrudan kaynaga
+         goturuyoruz. Yeni sekmede acilir, radar sayfasi kaybolmaz. -->
+    <a class="btn sec" id="vadeliBtn"
+       href="https://www.barchart.com/futures/prices-by-exchange/ice-eu-commodities"
+       target="_blank" rel="noopener noreferrer"
+       title="ICE Europe Commodities (LCE) — Cocoa #7 vadeli fiyat tablosu (Barchart, 10-15 dk gecikmeli)"
+       style="text-decoration:none;display:inline-flex;align-items:center;gap:4px">
+      📈 Vadeli fiyatlar <span style="font-size:11px;opacity:.6">↗</span></a>
     <span class="mini" id="durum">Açılışta otomatik taranır.</span>
   </div>
 </div>
