@@ -1004,18 +1004,48 @@
 "CRA, tedarik zincirinin başlangıcındaki yeniliği desteklemek için özel bir işbirliği sunuyor: Batı Afrika'daki kakao çiftçisi. Veriground, Fildişi Sahili ve Gana'da, bu istasyonların yakınında bulunan çiftçilere, potansiyel getiriye kıyasla maliyetin çok altında bir maliyetle ücretsiz yerel hava durumu tahminleri sağlayan meteoroloji istasyonu ağlarını işletiyor."
 ]
 },
-"https://cocoaradar.com/university-of-reading-makes-first-100-british-chocolate-bar-since-1932/": {
+"https://cocoaradar.com/thg-and-merck-pilot-cocoa-traceability-system-ahead-of-eudr-deadline/": {
 "p": [
-"The Reading 100 Chocolate Bar, created to mark the university’s centenary, was made using cocoa grown at its International Cocoa Quarantine Centre in Berkshire, together with British-grown sugar and milk.",
-"The university says it is the first 100% British chocolate bar since 1932, when Rowntree’s produced a bar from glasshouse-grown cocoa in York and presented it to the six-year-old Princess Elizabeth, later Queen Elizabeth II.",
-"Food security master’s student Maha Khan harvested, fermented and processed the Reading-grown cocoa before turning it into chocolate with support from the university’s food science experts.",
-"The project highlights the UK chocolate industry’s dependence on imported cocoa and the importance of protecting cocoa varieties as climate change puts growing regions under increasing pressure. The university’s quarantine centre holds more than 300 types of cocoa plant and handles 97% of the international movement of cocoa plants worldwide."
+"The Hashgraph Group and science and technology company Merck are piloting a cocoa traceability system designed to connect physically authenticated products with digital records of their origin, quality and compliance history.",
+"PwC Germany is providing consulting and implementation support for the project, which combines The Hashgraph Group’s TrackTrace Digital Product Passport platform with Merck’s M-Trust authentication technology.",
+"The partners said the system could help cocoa processors, manufacturers and brands improve supply-chain traceability and prepare for the EU Deforestation Regulation, or EUDR. It is also intended to support quality assurance, audits and more targeted responses to product recalls.",
+"The pilot comes as the cocoa sector approaches the EUDR’s latest implementation deadline. The regulation is scheduled to apply to large and medium-sized operators from 30 December 2026. Most micro and small operators have until 30 June 2027, according to the European Commission.",
+"Under the regulation, operators placing cocoa and other covered commodities on the EU market must conduct due diligence and demonstrate that products are deforestation-free and legally produced.",
+"Operational pressures are emerging in Cote d'Ivoire, the world’s largest cocoa-producing country, despite assurances from its Conseil du Café-Cacao (CCC) that the country is ready for the new rules.",
+"Reuters recently reported that a delayed start to the country’s 2026-27 main crop could result in congestion at the ports of Abidjan and San Pedro as exporters rush to ship cocoa before the EUDR takes effect.",
+"Citing two sources at the CCC and five exporters, Reuters said storage capacity could come under pressure in November and December. One source estimated that the main crop had been delayed by eight to 10 weeks because of difficult weather, insufficient farm maintenance and the strength of the preceding mid-crop.",
+"“With this looming delay, we will find ourselves having to export enormous quantities in a short period in December,” an executive at a European export company in Abidjan told Reuters.",
+"Around 900,000 tonnes of cocoa are expected to reach Ivorian ports between October and December 2026, according to the report. The sources’ concerns centre on the prospect of arrivals being compressed into the latter part of that period as the regulatory deadline approaches.",
+"Linking Physical Cocoa to Digital Records",
+"The pilot creates a digital twin and passport for each cocoa batch or product unit. At designated handover and verification points, information can be added through scans, system integrations or operational records.",
+"The passport can contain product identity and origin information, quality records, certificates, due-diligence documents and authentication events.",
+"Merck’s M-Trust technology uses secure markers and scanning devices to authenticate the physical product or its packaging. TrackTrace structures the associated event data, while the Hedera distributed ledger provides timestamped records intended to support auditability.",
+"Authorised supply-chain participants can access the resulting chain of records. Selected information could also be made available to consumers through QR codes or other scan-based services.",
+"“This solution shows how cocoa traceability can move beyond fragmented documentation and self-declared claims,” said Stefan Deiss, CEO and Co-Founder of The Hashgraph Group. “By integrating TrackTrace with Merck’s M-Trust™ technology and PwC’s process expertise, we can link any physical product, not limited to cocoa, to a trusted digital record. This integration provides enterprises with a more robust foundation for compliance, quality assurance, and consumer trust.”",
+"Thomas Endress, Executive Director and Head of M-Trust at Merck, said: “M-Trust verifies that the product being scanned is genuine, while TrackTrace records that authentication event as part of the product’s digital history.”",
+"PwC Germany is supporting the project’s business-process design, governance, workflows, partner onboarding and training. The partners said those operational elements would be necessary to move the technology from a pilot into wider supply-chain use.",
+"Although cocoa is the initial use case, the underlying architecture is intended for sectors including food, pharmaceuticals, luxury goods, electronics and industrial components."
 ],
 "pTR": [
-"Üniversitenin yüzüncü yılı anısına oluşturulan Reading 100 Çikolata Barı, Berkshire'daki Uluslararası Kakao Karantina Merkezi'nde yetiştirilen kakaonun yanı sıra Britanya'da yetiştirilen şeker ve süt kullanılarak yapıldı.",
-"Üniversite, bunun, Rowntree'nin York'ta serada yetiştirilen kakaodan bir bar ürettiği ve bunu altı yaşındaki Prenses Elizabeth'e, daha sonra Kraliçe II. Elizabeth'e sunduğu 1932'den bu yana ilk %100 İngiliz çikolatası olduğunu söylüyor.",
-"Gıda güvenliği yüksek lisans öğrencisi Maha Khan, üniversitenin gıda bilimi uzmanlarının desteğiyle Reading'de yetiştirilen kakaoyu çikolataya dönüştürmeden önce hasat etti, fermente etti ve işledi.",
-"Proje, Birleşik Krallık çikolata endüstrisinin ithal kakaoya bağımlılığını ve iklim değişikliğinin büyüyen bölgeleri artan baskı altına sokması nedeniyle kakao çeşitlerini korumanın önemini vurguluyor. Üniversitenin karantina merkezinde 300'den fazla kakao bitkisi türü bulunuyor ve kakao bitkilerinin dünya çapındaki uluslararası hareketinin %97'si gerçekleştiriliyor."
+"Hashgraph Grubu ile bilim ve teknoloji şirketi Merck, fiziksel olarak kimliği doğrulanmış ürünleri menşei, kalitesi ve uyumluluk geçmişine ilişkin dijital kayıtlara bağlamak için tasarlanmış bir kakao izlenebilirlik sisteminin pilot uygulamasını yürütüyor.",
+"PwC Almanya, Hashgraph Group'un TrackTrace Dijital Ürün Pasaportu platformunu Merck'in M-Trust kimlik doğrulama teknolojisiyle birleştiren proje için danışmanlık ve uygulama desteği sağlıyor.",
+"Ortaklar, sistemin kakao işleyicilerinin, üreticilerinin ve markalarının tedarik zinciri izlenebilirliğini artırmalarına ve AB Ormansızlaştırma Yönetmeliği'ne (EUDR) hazırlanmalarına yardımcı olabileceğini söyledi. Aynı zamanda kalite güvencesini, denetimleri ve ürün geri çağırmalarına daha hedefli yanıtları desteklemesi de amaçlanmaktadır.",
+"Pilot uygulama, kakao sektörü EUDR'nin son uygulama tarihine yaklaşırken geliyor. Düzenlemenin büyük ve orta ölçekli operatörlere 30 Aralık 2026'dan itibaren uygulanması planlanıyor. Avrupa Komisyonu'na göre çoğu mikro ve küçük operatörün 30 Haziran 2027'ye kadar süresi var.",
+"Yönetmelik uyarınca, kakao ve diğer kapsam dahilindeki ürünleri AB pazarına arz eden operatörlerin gerekli özeni göstermeleri ve ürünlerin ormansızlaşma içermediğini ve yasal olarak üretildiğini göstermeleri gerekiyor.",
+"Conseil du Café-Cacao'nun (CCC) ülkenin yeni kurallara hazır olduğu yönündeki güvencelerine rağmen, dünyanın en büyük kakao üreten ülkesi olan Fildişi Sahili'nde operasyonel baskılar ortaya çıkıyor.",
+"Reuters yakın zamanda, ülkenin 2026-27 ana mahsulünün gecikmeli başlamasının Abidjan ve San Pedro limanlarında sıkışıklığa yol açabileceğini, zira ihracatçıların EUDR yürürlüğe girmeden önce kakao sevkıyatına koştuğunu bildirdi.",
+"CCC'den iki kaynağa ve beş ihracatçıya atıfta bulunan Reuters, depolama kapasitesinin Kasım ve Aralık aylarında baskı altına girebileceğini söyledi. Bir kaynak, zorlu hava koşulları, yetersiz çiftlik bakımı ve önceki orta mahsulün gücü nedeniyle ana mahsulün sekiz ila 10 hafta geciktiğini tahmin etti.",
+"Abidjan'daki Avrupalı ​​bir ihracat şirketinden bir yönetici Reuters'e, \"Bu yaklaşan gecikmeyle birlikte kendimizi Aralık ayında kısa bir süre içinde çok büyük miktarlarda ihracat yapmak zorunda bulacağız\" dedi.",
+"Rapora göre Ekim ve Aralık 2026 arasında yaklaşık 900.000 ton kakaonun Fildişi Sahili limanlarına ulaşması bekleniyor. Kaynakların endişeleri, düzenlemelerin son tarihi yaklaşırken varışların bu dönemin sonlarına sıkıştırılması ihtimaline odaklanıyor.",
+"Fiziksel Kakaoyu Dijital Kayıtlara Bağlamak",
+"Pilot, her kakao partisi veya ürün birimi için bir dijital ikiz ve pasaport oluşturur. Belirlenen devir ve doğrulama noktalarında taramalar, sistem entegrasyonları veya operasyonel kayıtlar yoluyla bilgi eklenebilir.",
+"Pasaport, ürün kimliği ve menşei bilgilerini, kalite kayıtlarını, sertifikaları, durum tespiti belgelerini ve kimlik doğrulama olaylarını içerebilir.",
+"Merck'in M-Trust teknolojisi, fiziksel ürünün veya ambalajının kimliğini doğrulamak için güvenli işaretleyiciler ve tarama cihazları kullanır. TrackTrace, ilgili olay verilerini yapılandırırken Hedera dağıtılmış defter, denetlenebilirliği desteklemeyi amaçlayan zaman damgalı kayıtlar sağlar.",
+"Yetkili tedarik zinciri katılımcıları, ortaya çıkan kayıt zincirine erişebilir. Seçilen bilgiler, QR kodları veya diğer tarama tabanlı hizmetler aracılığıyla da tüketicilere sunulabilir.",
+"The Hashgraph Group CEO'su ve Kurucu Ortağı Stefan Deiss, \"Bu çözüm, kakao izlenebilirliğinin parçalanmış belgelerin ve beyan edilen iddiaların ötesine nasıl geçebileceğini gösteriyor\" dedi. \"TraceTrace'i Merck'in M-Trust™ teknolojisi ve PwC'nin süreç uzmanlığıyla entegre ederek, kakaoyla sınırlı olmayan herhangi bir fiziksel ürünü güvenilir bir dijital kayda bağlayabiliriz. Bu entegrasyon, işletmelere uyumluluk, kalite güvencesi ve tüketici güveni için daha sağlam bir temel sağlıyor.\"",
+"Merck Genel Müdürü ve M-Trust Başkanı Thomas Endress şunları söyledi: \"M-Trust, taranan ürünün orijinal olduğunu doğruluyor, TrackTrace ise bu kimlik doğrulama olayını ürünün dijital geçmişinin bir parçası olarak kaydediyor.\"",
+"PwC Almanya, projenin iş süreci tasarımını, yönetişimini, iş akışlarını, ortak katılımını ve eğitimini destekliyor. Ortaklar, teknolojiyi pilot kullanımdan daha geniş tedarik zinciri kullanımına taşımak için bu operasyonel unsurların gerekli olacağını söyledi.",
+"Her ne kadar kakao ilk kullanım durumu olsa da, temel mimari gıda, ilaç, lüks ürünler, elektronik ve endüstriyel bileşenler gibi sektörlere yöneliktir."
 ]
 },
 "https://cocoaradar.com/west-african-cocoa-reforms-collide-with-rising-supply-risks/": {
@@ -1892,83 +1922,22 @@
 "Justina Aya Somoah, Medya Başkanı - ayasomuah21@gmail.com"
 ]
 },
-"https://www.aip.ci/cote-divoire-aip-3-500-kits-scolaires-remis-aux-enfants-de-producteurs-et-de-familles-demunies-de-soubre/": {
+"https://www.aip.ci/aip-le-club-cafe-cacao-de-cote-divoire-annonce-le-lancement-de-la-premiere-enquete-africaine-sur-le-cacao-de-bioreacteur/": {
 "p": [
-"Soubré, 7 sept 2026 (AIP) – La direction générale du Conseil du café-cacao a remis, lundi 7 septembre 2026, au magasin central de l’institution à Soubré, 3 500 kits scolaires destinés aux enfants de producteurs de café-cacao et de familles démunies de la région de la Nawa.",
-"Cette opération s’inscrit dans le cadre de la politique sociale du Conseil du café-cacao en faveur des communautés productrices et vise à contribuer à la scolarisation des enfants issus de familles vulnérables.",
-"La cérémonie a réuni des représentants de coopératives de producteurs, d’écoles confessionnelles, ainsi que des associations de femmes et de jeunes.",
-"Représentant le délégué régional du Conseil du café-cacao de Soubré, Condé Mohamed a indiqué que cette initiative vise à soutenir les familles productrices à l’occasion de la rentrée scolaire.",
-"« À travers cette action, la direction générale du Conseil du café-cacao entend apporter un appui concret aux familles de producteurs et aux familles démunies afin que leurs enfants puissent aborder la rentrée scolaire dans de meilleures conditions », a-t-il déclaré.",
-"Il a appelé les bénéficiaires à faire bon usage des fournitures scolaires reçues et les parents à veiller à la scolarité de leurs enfants.",
-"« L’éducation constitue un investissement essentiel pour l’avenir de nos communautés. Nous souhaitons que ces kits contribuent à la réussite scolaire des enfants et encouragent les parents à maintenir leurs enfants à l’école », a ajouté M. Condé.",
-"Les représentants des bénéficiaires ont salué cette initiative, estimant qu’elle contribue à alléger les dépenses des familles à l’occasion de la rentrée scolaire.",
-"Cette opération s’inscrit dans les actions sociales du Conseil du café-cacao en faveur des communautés productrices, notamment dans l’accompagnement des enfants et des familles en situation de vulnérabilité."
+"Abidjan, 08 sept 2026 (AIP) – Le Club Café-cacao de Côte d’Ivoire/SOS MGV annonce le lancement de la première enquête africaine comparative sur le cacao de bioréacteur, indique un communiqué de l’organisation transmis à l’AIP.",
+"Le think tank, basé à Londres, en France et à Abidjan, entend mener cette investigation lors du Salon du Chocolat de Paris 2026, qui se tiendra du 28 au 30 octobre.",
+"À ce salon, le directeur de publication, André Kando, en tant que journaliste de presse premium accrédité, mènera une investigation de terrain auprès de laboratoires comparatifs.",
+"Il s’agira de confronter « le vrai cacao au cacao de laboratoire ». Des séances de dégustation à l’aveugle ainsi que des interviews exclusives sont également prévues.",
+"Le Club Café-cacao de Côte d’Ivoire/SOS MGV se présente comme le seul média africain à traiter de ce sujet à Paris. L’objectif de cette initiative n’est pas de se constituer en une « opposition stérile », mais de promouvoir « un modèle de coexistence où l’innovation biotechnologique finance la résilience des paysans », tout en veillant à ce que le goût véritable du cacao reste protégé.",
+"Le Club Café-cacao de Côte d’Ivoire/SOS MGV est un think tank créé le 29 juillet 1999 en France."
 ],
 "pTR": [
-"Soubré, 7 Eylül 2026 (AIP) – Kahve-Kakao Konseyi genel yönetimi, 7 Eylül 2026 Pazartesi günü kurumun Soubré'deki merkez mağazasına, Nawa bölgesindeki kahve-kakao üreticilerinin ve yoksul ailelerin çocuklarına yönelik 3.500 okul seti teslim etti.",
-"Bu operasyon, Kahve ve Kakao Konseyi'nin üretici topluluklar lehine sosyal politikasının bir parçasıdır ve savunmasız ailelerin çocuklarının eğitimine katkıda bulunmayı amaçlamaktadır.",
-"Törende üretici kooperatifleri, dini okullar, kadın ve gençlik derneklerinin temsilcileri bir araya geldi.",
-"Soubré Kahve-Kakao Konseyi'nin bölgesel delegesini temsil eden Condé Mohamed, bu girişimin okul yılının başlangıcında üreten aileleri desteklemeyi amaçladığını belirtti.",
-"\"Kahve-Kakao Konseyi genel yönetimi bu eylemle üretici ailelere ve yoksul ailelere, çocuklarının eğitim-öğretim yılına daha iyi koşullarda başlayabilmeleri için somut destek sağlamayı amaçlıyor\" dedi.",
-"Yararlanıcıları aldıkları okul malzemelerini iyi kullanmaya, ebeveynlere ise çocuklarının eğitimini güvence altına almaya çağırdı.",
-"Bay Condé, \"Eğitim, toplumlarımızın geleceği için önemli bir yatırımdır. Bu kitlerin çocukların akademik başarısına katkıda bulunacağını ve ebeveynleri çocuklarını okulda tutmaya teşvik edeceğini umuyoruz\" diye ekledi.",
-"Yararlanıcı temsilciler, okul yılının başlangıcında aile harcamalarının azaltılmasına yardımcı olduğuna inanarak bu girişimi memnuniyetle karşıladılar.",
-"Bu operasyon, Kahve-Kakao Konseyi'nin, özellikle savunmasız durumdaki çocukları ve aileleri desteklemek amacıyla, üreten topluluklar lehine sosyal eylemlerinin bir parçasıdır."
-]
-},
-"https://www.aip.ci/cote-divoire-aip-campagne-cacaoyere-les-producteurs-de-sikensi-entre-deception-et-espoir-dun-meilleur-prix/": {
-"hata": "govde cikarilamadi",
-"p": [],
-"pTR": []
-},
-"https://www.aip.ci/cote-divoire-aip-campagne-cafe-cacao-2026-2027-le-ministre-bruno-kone-garantit-aux-producteurs-lapplication-effective-des-prix-annonces/": {
-"p": [
-"Abidjan, 03 sept 2026 (AIP)- Le ministre de l’Agriculture, du Développement rural et des Productions vivrières, Bruno Nabagné Koné, a assuré jeudi 3 septembre 2026 à Abidjan, que les prix du cacao et du café annoncés pour la campagne 2026-2027 seront effectivement appliqués, notamment à travers la carte du producteur, détenue à ce jour par la plupart des producteurs.",
-"Ces prix sont fixés à 1 200 FCFA le kilogramme pour le cacao et à 1 300 FCFA le kilogramme pour le café.",
-"Clôturant la 10e édition des Journées nationales du cacao et du chocolat (JNCC) au Parc des expositions d’Abidjan, le ministre a souligné que ces prix, qui résultent des évolutions du marché mondial et des ventes anticipées effectuées par le Conseil du café-cacao, sont conformes aux pratiques qui ont toujours prévalu dans le secteur d’activité ainsi qu’aux engagements de l’État et du président de la République, Alassane Ouattara.",
-"Reconnaissant que les niveaux de revenus de certains producteurs sont aujourd’hui moins élevés, Bruno Koné a expliqué que le gouvernement a fait « le choix de la responsabilité » afin de préserver la stabilité des revenus et la sérénité du quotidien des acteurs de la filière, particulièrement ceux du cacao.",
-"Il a, à cet égard, appelé les acteurs à tourner la page de la campagne écoulée, qu’il a qualifiée de difficile, et à s’engager pleinement dans la nouvelle campagne avec davantage d’optimisme et de responsabilité.",
-"Le ministre a également estimé que les mécanismes de fixation des prix doivent être mieux expliqués aux acteurs de la filière.",
-"« Les mécanismes de fixation des prix devront, à mon sens, être mieux expliqués aux acteurs », a-t-il indiqué, appelant les structures de régulation à faire preuve de davantage de pédagogie et de transparence dans les informations communiquées et dans les actions menées.",
-"Bruno Koné a, par ailleurs, invité les acteurs de la filière à privilégier le dialogue, la sérénité et l’intérêt général, estimant que le secteur a besoin d’apaisement pour se construire durablement et renforcer sa résilience face aux futurs chocs.",
-"Il a présenté la carte du producteur comme un outil stratégique de modernisation et de sécurisation de la filière cacao, destiné à améliorer l’identification et la traçabilité des producteurs, à faciliter leur accès aux appuis de l’État et aux mécanismes d’assurance, et à lutter contre la fraude.",
-"La participation à cette 10e édition des JNCC a été estimée à une moyenne de 11 500 visiteurs par jour au cours des deux premiers jours, témoignant ainsi de l’intérêt croissant des populations pour le cacao et le chocolat, ainsi que pour les nombreuses opportunités offertes par cette filière."
-],
-"pTR": [
-"Abidjan, 3 Eylül 2026 (AIP) - Tarım, Kırsal Kalkınma ve Gıda Üretimi Bakanı Bruno Nabagné Koné, 3 Eylül 2026 Perşembe günü Abidjan'da, 2026-2027 kampanyası için açıklanan kakao ve kahve fiyatlarının, özellikle çoğu üreticinin bugüne kadar sahip olduğu üretici kartı aracılığıyla etkili bir şekilde uygulanacağına dair güvence verdi.",
-"Bu fiyatlar kakao için kilogram başına 1.200 FCFA, kahve için ise kilogram başına 1.300 FCFA olarak belirlendi.",
-"Ulusal Kakao ve Çikolata Günleri'nin (JNCC) 10'uncusunu Abidjan Sergi Merkezi'nde kapatan bakan, dünya pazarındaki gelişmeler ve Kahve-Kakao Konseyi tarafından yapılması beklenen satışlar sonucunda ortaya çıkan bu fiyatların, faaliyet gösterilen sektörde her zaman geçerli olan uygulamalara ve Devletin ve Cumhurbaşkanı Alassane Ouattara'nın taahhütlerine uygun olduğunu vurguladı.",
-"Bugün bazı üreticilerin gelir seviyelerinin daha düşük olduğunu kaydeden Bruno Koné, hükümetin, başta kakao olmak üzere sektördeki oyuncular için gelir istikrarını ve günlük yaşamın huzurunu korumak amacıyla \"sorumluluk seçimi\" yaptığını açıkladı.",
-"Bu bağlamda aktörlere, zor olarak nitelendirdiği geçmiş kampanyanın sayfasını çevirmeye ve yeni kampanyaya daha büyük bir iyimserlik ve sorumlulukla tam anlamıyla katılmaya çağrıda bulundu.",
-"Bakan ayrıca fiyat belirleme mekanizmalarının sektördeki oyunculara daha iyi anlatılması gerektiğini de değerlendirdi.",
-"\"Fiyat belirleme mekanizmalarının oyunculara daha iyi açıklanması gerektiğini düşünüyorum\" diyen yetkili, düzenleyici yapılara iletilen bilgilerde ve gerçekleştirilen eylemlerde daha fazla eğitim ve şeffaflık gösterme çağrısında bulundu.",
-"Bruno Koné ayrıca sektörün kendisini sürdürülebilir bir şekilde inşa etmek ve gelecekteki şoklar karşısında dayanıklılığını güçlendirmek için sakinleşmeye ihtiyacı olduğuna inanarak sektördeki paydaşları diyaloğa, huzura ve genel çıkara öncelik vermeye davet etti.",
-"Üretici kartını, kakao sektörünün modernizasyonu ve güvence altına alınmasına yönelik stratejik bir araç olarak sunarak üreticilerin kimliğinin ve izlenebilirliğinin iyileştirilmesini, devlet destek ve sigorta mekanizmalarına erişimlerinin kolaylaştırılması ve sahtekarlıkla mücadele edilmesini amaçladı.",
-"JNCC'nin bu 10. edisyonuna katılımın, ilk iki gün boyunca günde ortalama 11.500 ziyaretçi olacağı tahmin edildi; bu, popülasyonların kakao ve çikolataya artan ilgisinin yanı sıra bu sektörün sunduğu sayısız fırsatı da yansıtıyor."
-]
-},
-"https://www.aip.ci/cote-divoire-aip-jncc-2026-des-solutions-logistiques-pour-renforcer-la-competitivite-de-la-filiere-cacao/": {
-"p": [
-"Abidjan, 04 sept 2026 (AIP)- L’entreprise AGL Côte d’Ivoire a réaffirmé son engagement aux côtés des acteurs de la filière cacao, à travers la présentation de ses solutions logistiques destinées à renforcer la performance et la compétitivité du secteur, lors de la 10e édition des Journées nationales du cacao et du chocolat (JNCC), tenue du 1er au 3 septembre 2026 au parc des expositions d’Abidjan.",
-"Placée sous le thème « Jeunesse et cacaoculture du futur », cette édition des JNCC, rendez-vous majeur de la filière cacaoyère ivoirienne, a réuni plus de 7 000 visiteurs, professionnels et partenaires du secteur agricole.",
-"À cette occasion, AGL Côte d’Ivoire a présenté aux différents acteurs ses solutions intégrées couvrant l’ensemble de la chaîne logistique, depuis les zones de production jusqu’aux marchés internationaux.",
-"L’entreprise propose notamment des services de transport routier, d’entreposage, de fumigation, d’empotage et de manutention, ainsi qu’un accompagnement dans l’accomplissement des formalités liées au transit et à l’exportation du cacao et de ses produits dérivés.",
-"Elle met également à la disposition des opérateurs des services de tierce détention et des solutions digitales permettant d’optimiser la gestion des flux et des stocks, d’améliorer la traçabilité des marchandises et de renforcer la visibilité sur les opérations logistiques.",
-"AGL Côte d’Ivoire s’appuie, par ailleurs, sur un réseau de bases logistiques implantées à Abidjan, San Pedro, Bouaké et Ferkessédougou, au plus près des principales zones de production et des unités industrielles.",
-"L’entreprise dispose de plus de 350 000 m² d’entrepôts, dont la moitié est dédiée au cacao. Entre 2024 et 2025, ses infrastructures et l’expertise de ses équipes ont permis de traiter 350 336 tonnes de cacao et 152 862 tonnes de produits dérivés.",
-"Grâce aux synergies développées entre ses différentes filiales présentes en Côte d’Ivoire, AGL assure également la continuité des opérations entre les zones de production, les sites de stockage et les plateformes portuaires, contribuant ainsi à fluidifier les chaînes d’approvisionnement.",
-"D’autres filiales du groupe ont également participé aux JNCC 2026. Abidjan Terminal, concessionnaire du premier terminal à conteneurs du Port d’Abidjan, PACOCI, spécialisée dans la palettisation et le conditionnement, ainsi que SUV, active dans l’usinage industriel, ont présenté leurs offres et solutions aux professionnels de la filière."
-],
-"pTR": [
-"Abidjan, 4 Eylül 2026 (AIP) - AGL Fildişi Sahili şirketi, 1 - 3 Eylül 2026 tarihleri ​​arasında Abidjan fuar merkezinde düzenlenen Ulusal Kakao ve Çikolata Günleri'nin (JNCC) 10. edisyonunda, sektörün performansını ve rekabet gücünü güçlendirmeyi amaçlayan lojistik çözümlerinin sunumu yoluyla kakao sektöründeki paydaşlarla birlikte kararlılığını yeniden teyit etti.",
-"Fildişi Sahili kakao sektöründe önemli bir etkinlik olan JNCC'nin \"Gençlik ve geleceğin kakao çiftçiliği\" teması altında düzenlenen bu edisyonunda, tarım sektöründen 7.000'den fazla ziyaretçi, profesyonel ve iş ortağı bir araya geldi.",
-"Bu vesileyle AGL Fildişi Sahili, üretim alanlarından uluslararası pazarlara kadar tüm lojistik zincirini kapsayan entegre çözümlerini çeşitli paydaşlara sundu.",
-"Şirket, karayolu taşımacılığı, depolama, fümigasyon, doldurma ve elleçleme hizmetlerinin yanı sıra kakao ve kakaodan elde edilen ürünlerin transit ve ihracatına ilişkin formalitelerin tamamlanmasında destek sunmaktadır.",
-"Aynı zamanda operatörlere akış ve envanter yönetimini optimize etmek, malların izlenebilirliğini geliştirmek ve lojistik operasyonlarının görünürlüğünü güçlendirmek için üçüncü taraf tutma hizmetleri ve dijital çözümler sağlar.",
-"AGL Fildişi Sahili aynı zamanda Abidjan, San Pedro, Bouaké ve Ferkessédougou'da bulunan ve ana üretim alanlarına ve endüstriyel birimlere mümkün olduğunca yakın olan lojistik üsleri ağına da güvenmektedir.",
-"Şirketin yarısı kakaoya ayrılmış 350.000 m²'den fazla deposu bulunmaktadır. 2024-2025 yılları arasında altyapısı ve ekiplerinin uzmanlığı, 350.336 ton kakao ve 152.862 ton türev ürünün işlenmesini mümkün kıldı.",
-"AGL, Fildişi Sahili'ndeki çeşitli iştirakleri arasında geliştirilen sinerjiler sayesinde üretim alanları, depolama sahaları ve liman platformları arasındaki operasyonların sürekliliğini de sağlayarak tedarik zincirlerinin kolaylaştırılmasına yardımcı oluyor.",
-"Grubun diğer iştirakleri de JNCC 2026'ya katıldı. Abidjan Limanı'ndaki ilk konteyner terminali PACOCI'nin imtiyaz sahibi Abidjan Terminali, paletleme ve paketleme konusunda uzmanlaşmış, ayrıca endüstriyel işleme alanında faaliyet gösteren SUV, sektördeki profesyonellere tekliflerini ve çözümlerini sundu."
+"Abidjan, 8 Eylül 2026 (AIP) – Club Café-cacao de Fildişi Sahili/SOS MGV, biyoreaktör kakaoya ilişkin ilk karşılaştırmalı Afrika araştırmasının başlatıldığını duyurdu; bu, kuruluştan AIP'ye gönderilen bir basın bültenine işaret ediyor.",
+"Merkezi Londra, Fransa ve Abidjan'da bulunan düşünce kuruluşu, bu araştırmayı 28-30 Ekim tarihleri arasında gerçekleştirilecek olan Paris Chocolate Show 2026 sırasında gerçekleştirmeyi planlıyor.",
+"Bu gösteride yayın direktörü André Kando, akredite bir premium basın gazetecisi olarak karşılaştırmalı laboratuvarlarla bir saha araştırması yürütecek.",
+"Bu, “gerçek kakao ile laboratuvar kakaosunun” karşılaştırılmasını içerecektir. Kör tadım seanslarının yanı sıra özel röportajlar da planlanıyor.",
+"Club Café-cacao de Fildişi Sahili/SOS MGV, kendisini Paris'te bu konuyla ilgilenen tek Afrika medyası olarak tanıtıyor. Bu girişimin amacı \"steril bir muhalefet\" oluşturmak değil, kakaonun gerçek tadının korunmasını sağlarken \"biyoteknolojik yeniliklerin çiftçilerin dayanıklılığını finanse ettiği bir birlikte yaşama modelini\" teşvik etmektir.",
+"Club Café-cacao de Fildişi Sahili/SOS MGV, 29 Temmuz 1999'da Fransa'da kurulmuş bir düşünce kuruluşudur."
 ]
 },
 "https://www.bakeryandsnacks.com/Article/2026/09/04/how-fermentation-and-fat-crystals-shape-chocolate-quality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS": {
@@ -3578,6 +3547,48 @@
 "Kampanya, şekerleme sektörünün deneyimsel ve önce dijital pazarlamaya doğru giderek artan değişimini yansıtıyor; markalar etkileşimi artırmak, kültürel açıdan güncel kalmak ve tüketicilerle bağlantı kurmak için dijital deneyimleri giderek daha fazla kullanıyor.",
 "Dahası, bu, yeni tatlar, formatlar veya sınırlı sürümler sunmayı gerektirmeyen, Mars'ın yeni bir ürünü geliştirmek, üretmek ve dağıtmak için gereken yatırım ve risk olmadan hızla büyüyen bir kültürel trendden yararlanmasına olanak tanıyan bir inovasyon biçimidir.",
 "Tüketicilerin yapay zeka asistanlarını gerçekten \"besleme\" ihtiyacı duyup duymadıklarını zaman gösterecek. Ancak bu fikir, markaların tek bir yeni ürün bile piyasaya sürmeden nasıl heyecan yaratabileceğini ve hayranlarıyla biraz eğlenebileceğini gösteriyor."
+]
+},
+"https://www.confectionerynews.com/Article/2026/09/08/terrys-chocolate-orange-and-baileys-team-up-for-festive-confectionery-collab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS": {
+"p": [
+"Terry’s Chocolate Orange x Baileys collaboration overview",
+"- Terry’s Chocolate Orange and Baileys team up for festive collaboration",
+"- Collaboration trend continues driving confectionery innovation, consumer engagement and sales",
+"- Limited-edition products help brands attract shoppers seeking seasonal novelty",
+"- Christmas remains a crucial trading period for confectionery and liqueurs",
+"- Partnership leverages both brands’ loyal audiences to boost experimentation",
+"The unstoppable trend of 2026 is once again delivering, with an exciting seasonal treat.",
+"Not sure which trend we’re talking about? Here are a few clues...",
+"It’s been embraced by everyone from Haribo to Hershey, has crossed over into fashion and Formula 1, and is helping to drive some serious sales.",
+"Guessed it yet? That’s right, we’re talking about confectionery’s favourite obsession, collaborations.",
+"And this time it’s the cross-category collab of Terry’s Chocolate Orange and Baileys.",
+"The two have previously joined forces for Christmas and are back “by popular demand”.",
+"“For generations, Terry’s Chocolate Orange has been part of Christmas celebrations, so seeing people embrace our collaboration with Baileys last year was incredibly exciting,” says Mimi Williams, senior brand manager of Terry’s. “We’re delighted to bring it back, giving fans another chance to enjoy a new take on two of the season’s most indulgent treats.”",
+"The launch is further proof, if proof were needed, that collaborations are here to stay.",
+"As brands look for ever more inventive ways to capture consumer attentions, limited-edition partnerships are proving popular as an effective way to generate excitement, spark curiosity and get people talking.",
+"And, for big names like Terry’s Chocolate Orange and Baileys, collaborations also offer an opportunity to reach new shoppers while giving existing fans something fresh and new to try.",
+"The timing is no coincidence either. With Christmas one of the biggest occasions of the year for confectionery and cream liqueurs, brands are pulling out all the stops to win over consumers looking for gifts, treats and festive indulgences.",
+"With the Christmas countdown already underway, we expect to see many more collaborations hit the shelves. And we look forward to trying them."
+],
+"pTR": [
+"Terry'nin Çikolata Portakalı x Baileys işbirliğine genel bakış",
+"- Terry's Chocolate Orange ve Baileys festival işbirliği için bir araya geldi",
+"- İşbirliği trendi şekerlemede yenilikçiliği, tüketici katılımını ve satışları artırmaya devam ediyor",
+"- Sınırlı sayıda üretilen ürünler, markaların sezonluk yenilik arayan müşterileri çekmesine yardımcı olur",
+"- Noel, şekerleme ve likörler için önemli bir ticaret dönemi olmaya devam ediyor",
+"- Ortaklık, denemeleri artırmak için her iki markanın sadık hedef kitlesinden yararlanır",
+"2026'nın durdurulamaz trendi, heyecan verici bir sezonluk ikramla bir kez daha ortaya çıkıyor.",
+"Hangi trendden bahsettiğimizden emin değil misiniz? İşte birkaç ipucu...",
+"Haribo'dan Hershey'ye kadar herkes tarafından benimsendi, modaya ve Formula 1'e geçti ve ciddi satışların artmasına yardımcı oluyor.",
+"Henüz tahmin ettiniz mi? Doğru, şekerlemenin en büyük tutkusu olan işbirliklerinden bahsediyoruz.",
+"Ve bu sefer Terry's Chocolate Orange ve Baileys'in kategoriler arası işbirliği var.",
+"İkili daha önce Noel için güçlerini birleştirmişti ve \"yoğun talep üzerine\" geri döndüler.",
+"Terry's'in kıdemli marka müdürü Mimi Williams, \"Nesiller boyunca Terry's Çikolata Portakalı Noel kutlamalarının bir parçası oldu, bu nedenle insanların geçen yıl Baileys ile olan işbirliğimizi benimsediğini görmek inanılmaz derecede heyecan vericiydi\" diyor. \"Taraftarlara sezonun en keyifli iki ikramına yeni bir bakış açısı kazandırma şansı vererek onu geri getirmekten mutluluk duyuyoruz.\"",
+"Lansman, eğer kanıt gerekiyorsa, işbirliklerinin kalıcı olduğunun bir başka kanıtıdır.",
+"Markalar tüketicilerin dikkatini çekmek için giderek daha yaratıcı yollar ararken, sınırlı sayıda üretilen ortaklıklar, heyecan yaratmanın, merak uyandırmanın ve insanları konuşturmanın etkili bir yolu olarak popülerliğini kanıtlıyor.",
+"Terry's Chocolate Orange ve Baileys gibi büyük isimler için işbirlikleri aynı zamanda yeni müşterilere ulaşma fırsatı sunarken, mevcut hayranlara da deneyebilecekleri taze ve yeni şeyler sunuyor.",
+"Zamanlama da tesadüf değil. Noel'in şekerleme ve kremalı likörler açısından yılın en büyük olaylarından biri olmasıyla birlikte markalar hediye, ikram ve bayram lezzetleri arayan tüketicileri kazanmak için elinden geleni yapıyor.",
+"Noel geri sayımı devam ederken, daha birçok işbirliğinin raflara çıkmasını bekliyoruz. Ve bunları denemek için sabırsızlanıyoruz."
 ]
 },
 "https://www.confectioneryproduction.com/news/59105/mars-faces-renewed-shrinkflation-claims-following-1990s-chocolate-bar-discovery/": {
