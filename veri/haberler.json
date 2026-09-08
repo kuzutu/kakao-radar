@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-07T23:44:58.161332+00:00",
+ "uretim": "2026-09-08T04:28:10.500891+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
- "haberSayisi": 117,
+ "haberSayisi": 116,
  "cevirili": true,
  "haberler": [
   {
@@ -484,19 +484,6 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "Fildişi Sahili 2026/27 Kakao Farmgate Fiyatını 1.200 CFA/kg'da Tuttu (1 Eylül 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Cacao : le prix du kilogramme de fèves tutoie la barre de 3000 FCFA au Cameroun, en début de campagne 2026-2027",
-   "link": "https://www.investiraucameroun.com/agriculture/0209-23732-cacao-le-prix-du-kilogramme-de-feves-tutoie-la-barre-de-3000-fcfa-au-cameroun-en-debut-de-campagne-2026-2027",
-   "tarih": "2026-09-02T05:42:20+00:00",
-   "ozet": "Le 31 août 2026, le prix du kilogramme de fèves de cacao a atteint un maximum de 2900 FCFA au Cameroun, contre un minimum de 2750 FCFA, selon les données publiées par l’Office national du cacao et du café (ONCC). Ce niveau de prix est de bon augure pour la sai",
-   "kaynak": "Investir au Cameroun",
-   "grup": "Investir au Cameroun",
-   "alan": "investiraucameroun.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao: 2026-2027 kampanyalarının başlangıcında Kamerun'da iki kilogram fasulyenin fiyatı 3000 FCFA barına kadar çıkıyor",
    "okunur": true
   },
   {
@@ -1531,7 +1518,7 @@
   [
    "ICCO",
    "6 haber",
-   1146,
+   2916,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1540,7 +1527,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   998,
+   1488,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1549,7 +1536,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3935,
+   3843,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1558,7 +1545,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58065,
+   58339,
    "",
    "",
    null,
@@ -1567,7 +1554,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   148,
+   138,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1576,7 +1563,7 @@
   [
    "World Cocoa Foundation",
    "10 haber",
-   591,
+   537,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1585,7 +1572,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1260,
+   1275,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1594,7 +1581,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   86,
+   172,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1603,7 +1590,7 @@
   [
    "Panamir",
    "2 haber",
-   2527,
+   1964,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1612,7 +1599,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1118,
+   1188,
    "",
    "",
    null,
@@ -1621,7 +1608,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   521,
+   241,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1630,7 +1617,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7346,
+   5833,
    "",
    "",
    null,
@@ -1639,7 +1626,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7500,
+   6576,
    "",
    "",
    null,
@@ -1648,7 +1635,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   657,
+   226,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1657,7 +1644,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   2156,
+   1830,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1666,7 +1653,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   959,
+   937,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1675,7 +1662,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   1585,
+   1307,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1684,7 +1671,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   660,
+   523,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1693,7 +1680,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   502,
+   446,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1701,8 +1688,8 @@
   ],
   [
    "Investir au Cameroun",
-   "3 haber",
-   602,
+   "2 haber",
+   1575,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1711,7 +1698,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   649,
+   3023,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1720,7 +1707,7 @@
   [
    "Anecacao · EC",
    "6 haber",
-   2195,
+   2158,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1729,7 +1716,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   646,
+   537,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1738,7 +1725,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14517,
+   13680,
    "",
    "",
    null,
@@ -1746,8 +1733,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (479958 bayt, vekil)",
-   8059,
+   "besleme tanimsiz (479873 bayt, vekil)",
+   5928,
    "",
    "",
    null,
@@ -1756,7 +1743,7 @@
   [
    "Asaase Radio · GH",
    "4 haber",
-   2384,
+   1707,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1765,9 +1752,9 @@
   [
    "Ghanaian Times",
    "5 haber",
-   6559,
+   4225,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ]
