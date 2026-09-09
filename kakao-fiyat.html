@@ -15,7 +15,7 @@
 :root{
   --bg:#2A1710;
   --surface:#372016;
-  --raised:#432920;
+  --raised:#452A20;
   --line:#5A3A2C;
   --ink:#F4E8D8;
   --muted:#B2957E;
@@ -28,134 +28,123 @@
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--ink)}
 body{
-  font-family:var(--sans);
-  padding:calc(env(safe-area-inset-top) + 14px) 18px calc(env(safe-area-inset-bottom) + 28px);
-  max-width:560px;margin:0 auto;
-  -webkit-text-size-adjust:100%;
+  font-family:var(--sans);font-size:15px;
+  padding:calc(env(safe-area-inset-top) + 14px) 18px calc(env(safe-area-inset-bottom) + 30px);
+  max-width:560px;margin:0 auto;-webkit-text-size-adjust:100%;
 }
-h1{
-  font-family:var(--serif);font-weight:600;font-size:21px;letter-spacing:.01em;
-  margin:0;line-height:1.1;
-}
-.top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:22px}
-.sub{color:var(--muted);font-size:12.5px;margin-top:3px}
-
-.fx{
-  border:1px solid var(--line);background:var(--surface);color:var(--ink);
-  border-radius:999px;padding:7px 13px;font:inherit;font-size:12.5px;
-  display:flex;align-items:center;gap:7px;cursor:pointer;flex:none;
-}
-.fx b{font-family:var(--serif);font-size:14.5px;font-weight:600;font-variant-numeric:tabular-nums}
+h1{font-family:var(--serif);font-weight:600;font-size:21px;margin:0 0 4px;line-height:1.15}
+.stamp{color:var(--muted);font-size:12.5px;margin-bottom:24px;display:flex;align-items:center;gap:7px}
 .dot{width:6px;height:6px;border-radius:50%;background:var(--muted);flex:none}
 .dot.live{background:var(--green)}
 .dot.manual{background:var(--gold)}
 .dot.stale{background:var(--red)}
 
-.railwrap{margin:0 -18px 26px;padding:0 18px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-.railwrap::-webkit-scrollbar{display:none}
-.rail{display:flex;gap:8px;padding-bottom:2px}
-.chip{
-  font-family:var(--serif);font-size:17px;font-weight:600;font-variant-numeric:tabular-nums;
-  padding:10px 15px;border-radius:11px;border:1px solid var(--line);
-  background:var(--surface);color:var(--muted);white-space:nowrap;flex:none;cursor:pointer;
+.band{
+  background:var(--red);color:#fff;font-family:var(--serif);font-size:14.5px;font-weight:600;
+  padding:8px 12px;border-radius:8px 8px 0 0;display:flex;justify-content:space-between;align-items:baseline;gap:10px;
 }
-.chip[aria-pressed="true"]{background:var(--gold);border-color:var(--gold);color:#2A1710}
-.railcap{color:var(--muted);font-size:12.5px;margin-bottom:9px;display:flex;justify-content:space-between}
+.band em{font-style:normal;font-family:var(--sans);font-size:11.5px;font-weight:400;opacity:.85}
+.block{border:1px solid var(--line);border-top:none;border-radius:0 0 8px 8px;margin-bottom:24px;overflow:hidden}
 
-.core{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px 0 20px;margin-bottom:26px}
-.core span{color:var(--muted);font-size:12.5px}
-.core .big{font-family:var(--serif);font-size:52px;font-weight:600;line-height:1;margin-top:8px;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
-.core .big i{font-style:normal;color:var(--muted);font-size:26px;margin-right:8px}
+.row{display:flex;align-items:center;gap:12px;padding:11px 12px;border-bottom:1px solid var(--line)}
+.row:last-child{border-bottom:none}
+.row .lbl{flex:1;min-width:0;font-size:14px}
+.row .lbl small{display:block;color:var(--muted);font-size:11.5px;margin-top:2px}
+input[type=number],select{
+  font-family:var(--serif);font-size:18px;font-weight:600;font-variant-numeric:tabular-nums;
+  width:126px;flex:none;text-align:right;color:#2A1710;background:#F6E6BE;
+  border:1px solid #D9C08A;border-radius:8px;padding:9px 11px;appearance:none;-webkit-appearance:none;
+}
+select{text-align:left;text-align-last:right;padding-right:11px}
+.fxrow input{width:96px}
+.refresh{
+  flex:none;background:var(--raised);border:1px solid var(--line);color:var(--ink);
+  border-radius:8px;width:40px;height:40px;font-size:17px;cursor:pointer;
+}
+.calc{background:var(--surface)}
+.calc .val{
+  font-family:var(--serif);font-size:24px;font-weight:600;font-variant-numeric:tabular-nums;
+  width:126px;flex:none;text-align:right;
+}
+input:focus-visible,select:focus-visible,.refresh:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 
 table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
-th,td{text-align:right;padding:13px 0;border-bottom:1px solid var(--line)}
+th,td{text-align:right;padding:12px;border-bottom:1px solid var(--line)}
 th:first-child,td:first-child{text-align:left}
-thead th{color:var(--muted);font-weight:500;font-size:12.5px;border-bottom-color:var(--line)}
-thead th.m{color:var(--gold);font-family:var(--serif);font-size:15px;font-weight:600}
+thead th{background:var(--red);color:#fff;font-family:var(--serif);font-size:14.5px;font-weight:600;border-bottom:none}
+thead th:first-child{font-size:13.5px}
 tbody td{font-family:var(--serif);font-size:19px;font-weight:600}
-tbody td:first-child{font-family:var(--sans);font-size:14px;font-weight:500;color:var(--ink)}
+tbody td:first-child{font-family:var(--sans);font-size:14px;font-weight:500}
 tbody tr:last-child td{border-bottom:none}
-.unit{color:var(--muted);font-size:12.5px;margin-top:10px}
+.tbl{border:1px solid var(--line);border-top:none;border-radius:0 0 8px 8px;overflow:hidden}
+.tblwrap{margin-bottom:20px}
+.tblwrap thead th:first-child{border-radius:8px 0 0 0}
+.tblwrap thead th:last-child{border-radius:0 8px 0 0}
 
-details{margin-top:30px;border-top:1px solid var(--line);padding-top:16px}
-summary{list-style:none;cursor:pointer;color:var(--muted);font-size:13.5px;display:flex;justify-content:space-between;align-items:center}
-summary::-webkit-details-marker{display:none}
-summary .car{transition:transform .18s ease}
-details[open] summary .car{transform:rotate(180deg)}
-.fields{margin-top:18px;display:grid;gap:13px}
-.field{display:flex;align-items:center;justify-content:space-between;gap:14px}
-.field label{font-size:14px;color:var(--ink)}
-.field small{display:block;color:var(--muted);font-size:11.5px;margin-top:2px}
-input[type=number]{
-  font-family:var(--serif);font-size:17px;font-weight:600;font-variant-numeric:tabular-nums;
-  width:112px;flex:none;text-align:right;color:var(--ink);background:var(--raised);
-  border:1px solid var(--line);border-radius:9px;padding:9px 11px;
-}
-input:focus-visible,.chip:focus-visible,.fx:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.reset{margin-top:20px;background:none;border:1px solid var(--line);color:var(--muted);
-  border-radius:9px;padding:10px 14px;font:inherit;font-size:13px;cursor:pointer}
-.foot{color:var(--muted);font-size:11.5px;line-height:1.55;margin-top:26px}
+.reset{background:none;border:1px solid var(--line);color:var(--muted);
+  border-radius:8px;padding:10px 14px;font:inherit;font-size:13px;cursor:pointer}
+.foot{color:var(--muted);font-size:11.5px;line-height:1.6;margin-top:22px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
 
-<div class="top">
-  <div>
-    <h1>Kakao fiyat paneli</h1>
-    <div class="sub" id="stamp">Londra borsası → çekirdek maliyet → satış fiyatı</div>
+<h1>Kakao fiyat çalışması</h1>
+<div class="stamp"><span class="dot" id="fxdot"></span><span id="fxnote">—</span></div>
+
+<div class="band"><span>Girdiler</span><em>sarı alanlar elle değiştirilir</em></div>
+<div class="block">
+  <div class="row fxrow">
+    <span class="lbl">GBP/EUR kuru<small>↻ ile internetten çekilir</small></span>
+    <input type="number" id="fx" inputmode="decimal" step="0.0001">
+    <button class="refresh" id="refresh" title="Kuru internetten çek" aria-label="Kuru internetten çek">↻</button>
   </div>
-  <button class="fx" id="fxbtn" title="Kuru yenile">
-    <span class="dot" id="fxdot"></span><span>GBP/EUR</span><b id="fxval">—</b>
-  </button>
+  <div class="row">
+    <span class="lbl">İlave masraf<small>€ / ton</small></span>
+    <input type="number" id="masraf" inputmode="numeric" step="10">
+  </div>
+  <div class="row">
+    <span class="lbl">Başlangıç borsa fiyatı<small>ilk kademe, £</small></span>
+    <input type="number" id="start" inputmode="numeric" step="50">
+  </div>
+  <div class="row">
+    <span class="lbl">Prim / diferansiyel<small>borsa fiyatına eklenir, £</small></span>
+    <input type="number" id="prim" inputmode="numeric" step="10">
+  </div>
+  <div class="row">
+    <span class="lbl">Artış adımı<small>kademeler arası, £</small></span>
+    <input type="number" id="step" inputmode="numeric" step="10">
+  </div>
 </div>
 
-<div class="railcap"><span>Borsa fiyatı (£)</span><span id="railhint">10 kademe</span></div>
-<div class="railwrap"><div class="rail" id="rail"></div></div>
-
-<div class="core">
-  <span>Çekirdek maliyeti</span>
-  <div class="big"><i>€</i><span id="core">—</span></div>
+<div class="band"><span>Çıktı</span></div>
+<div class="block">
+  <div class="row">
+    <span class="lbl">Borsa fiyatı<small>listeden seçin, £</small></span>
+    <select id="borsa"></select>
+  </div>
+  <div class="row calc">
+    <span class="lbl">Çekirdek maliyeti<small>€ / ton</small></span>
+    <span class="val" id="core">—</span>
+  </div>
 </div>
 
-<table>
-  <thead>
-    <tr><th>Satış fiyatı</th><th class="m">%12</th><th class="m">%10</th><th class="m">%8</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Likör</td><td id="p0_12">—</td><td id="p0_10">—</td><td id="p0_8">—</td></tr>
-    <tr><td>Yağ</td><td id="p1_12">—</td><td id="p1_10">—</td><td id="p1_8">—</td></tr>
-    <tr><td>Alkalize toz</td><td id="p2_12">—</td><td id="p2_10">—</td><td id="p2_8">—</td></tr>
-  </tbody>
-</table>
-<div class="unit">€ / ton, 10 € yukarı yuvarlanmış</div>
-
-<details>
-  <summary><span>Ayarlar</span><span class="car">▾</span></summary>
-  <div class="fields">
-    <div class="field">
-      <label for="start">Başlangıç borsa fiyatı<small>ilk kademe, £</small></label>
-      <input type="number" id="start" inputmode="numeric" step="10">
-    </div>
-    <div class="field">
-      <label for="step">Artış adımı<small>kademeler arası, £</small></label>
-      <input type="number" id="step" inputmode="numeric" step="10">
-    </div>
-    <div class="field">
-      <label for="prim">Prim / diferansiyel<small>borsa fiyatına eklenir, £</small></label>
-      <input type="number" id="prim" inputmode="numeric" step="10">
-    </div>
-    <div class="field">
-      <label for="masraf">İlave masraf<small>€ / ton</small></label>
-      <input type="number" id="masraf" inputmode="numeric" step="10">
-    </div>
-    <div class="field">
-      <label for="fxman">Kur elle<small>boş bırakılırsa canlı kur</small></label>
-      <input type="number" id="fxman" inputmode="decimal" step="0.0001" placeholder="otomatik">
-    </div>
-    <button class="reset" id="reset">Varsayılanlara dön</button>
+<div class="tblwrap">
+  <table>
+    <thead><tr><th>Satış fiyatı</th><th>%12</th><th>%10</th><th>%8</th></tr></thead>
+  </table>
+  <div class="tbl">
+    <table>
+      <tbody>
+        <tr><td>Likör</td><td id="p0_12">—</td><td id="p0_10">—</td><td id="p0_8">—</td></tr>
+        <tr><td>Yağ</td><td id="p1_12">—</td><td id="p1_10">—</td><td id="p1_8">—</td></tr>
+        <tr><td>Alkalize toz</td><td id="p2_12">—</td><td id="p2_10">—</td><td id="p2_8">—</td></tr>
+      </tbody>
+    </table>
   </div>
-</details>
+</div>
+
+<button class="reset" id="reset">Varsayılanlara dön</button>
 
 <div class="foot">
   Çekirdek maliyeti = (borsa fiyatı + prim) × GBP/EUR + ilave masraf, 10 € yukarı yuvarlanır.
@@ -165,8 +154,8 @@ input:focus-visible,.chip:focus-visible,.fx:focus-visible,summary:focus-visible{
 
 <script>
 "use strict";
-// Kademe bazlı katsayılar — Excel dosyasındaki KATSAYILAR bloğuyla birebir aynı.
-// Sıra: [Likör, Yağ, Alkalize toz], her biri 10 kademe.
+// Kademe bazlı katsayılar — Excel'deki KATSAYILAR bloğuyla birebir aynı.
+// Her satır: [Likör, Yağ, Alkalize toz] × 10 kademe.
 var COEF = {
   12: [
     [1.4102564103,1.4072327044,1.4064914992,1.4036418816,1.4023845007,1.4017595308,1.4005763689,1.3994334278,1.3974895397,1.3964334705],
@@ -184,120 +173,107 @@ var COEF = {
     [1.0897435897,1.0849056604,1.0819165379,1.0773899848,1.0730253353,1.0703812317,1.0662824207,1.0623229462,1.0599721060,1.0562414266]
   ]
 };
-var FALLBACK_FX = 1.1651;          // Investing.com, 08.09.2026
-var DEFAULTS = {start:4000, step:50, prim:500, masraf:150, fxman:"", idx:0};
-
+var DEFAULTS = {fx:1.1651, masraf:150, start:4000, prim:500, step:50, idx:0};
+var FIELDS = ["fx","masraf","start","prim","step"];
 var state = Object.assign({}, DEFAULTS);
-var fx = {rate:FALLBACK_FX, source:"stale", when:null};
+var fxNote = "Yedek kur 1,1651 — 08.09.2026";
+var fxKind = "stale";
+var firstRun = true;
 
 function load(){
   try{
-    var raw = localStorage.getItem("kakao-fiyat");
-    if(raw) state = Object.assign({}, DEFAULTS, JSON.parse(raw));
-    var c = localStorage.getItem("kakao-fiyat-kur");
-    if(c){ var o = JSON.parse(c); if(o && o.rate){ fx.rate=o.rate; fx.when=o.when; fx.source="stale"; } }
+    var raw = localStorage.getItem("kakao-fiyat-v2");
+    if(raw){ state = Object.assign({}, DEFAULTS, JSON.parse(raw)); firstRun = false; }
   }catch(e){}
 }
 function save(){
-  try{ localStorage.setItem("kakao-fiyat", JSON.stringify(state)); }catch(e){}
+  try{ localStorage.setItem("kakao-fiyat-v2", JSON.stringify(state)); }catch(e){}
 }
 
 var nf = new Intl.NumberFormat("tr-TR");
-function euro(n){ return nf.format(n); }
 function roundUp10(n){ return Math.ceil(n/10)*10; }
 function prices(){ return Array.from({length:10},function(_,i){ return state.start + i*state.step; }); }
-function activeFx(){
-  var m = parseFloat(state.fxman);
-  return (isFinite(m) && m > 0) ? m : fx.rate;
-}
-function coreCost(borsa){ return roundUp10((borsa + state.prim) * activeFx() + state.masraf); }
+function coreCost(borsa){ return roundUp10((borsa + state.prim) * state.fx + state.masraf); }
 
-function renderFx(){
-  var manual = isFinite(parseFloat(state.fxman)) && parseFloat(state.fxman) > 0;
-  document.getElementById("fxval").textContent = activeFx().toFixed(4).replace(".", ",");
-  var dot = document.getElementById("fxdot");
-  dot.className = "dot " + (manual ? "manual" : fx.source);
-  var label = manual ? "Kur elle girildi"
-            : fx.source === "live" ? "Canlı kur, " + fx.when
-            : fx.when ? "Son bilinen kur, " + fx.when
-            : "Yedek kur, 08.09.2026";
-  document.getElementById("stamp").textContent = label;
-  document.getElementById("fxbtn").setAttribute("aria-label", label + " — yenilemek için dokunun");
+function fillFields(){
+  FIELDS.forEach(function(id){ document.getElementById(id).value = state[id]; });
 }
 
-function renderRail(){
-  var rail = document.getElementById("rail");
-  rail.textContent = "";
-  prices().forEach(function(p, i){
-    var b = document.createElement("button");
-    b.className = "chip";
-    b.type = "button";
-    b.textContent = nf.format(p);
-    b.setAttribute("aria-pressed", i === state.idx ? "true" : "false");
-    b.addEventListener("click", function(){ state.idx = i; save(); renderRail(); renderTable(); });
-    rail.appendChild(b);
+function renderDropdown(){
+  var sel = document.getElementById("borsa");
+  var list = prices();
+  sel.textContent = "";
+  list.forEach(function(p, i){
+    var o = document.createElement("option");
+    o.value = i;
+    o.textContent = nf.format(p) + " £";
+    sel.appendChild(o);
   });
-  var sel = rail.children[state.idx];
-  if(sel) sel.scrollIntoView({block:"nearest", inline:"center"});
-  document.getElementById("railhint").textContent = nf.format(state.start) + "–" + nf.format(state.start + 9*state.step);
+  if(state.idx > 9 || state.idx < 0) state.idx = 0;
+  sel.value = state.idx;
 }
 
-function renderTable(){
-  var borsa = prices()[state.idx];
-  var core = coreCost(borsa);
-  document.getElementById("core").textContent = euro(core);
+function renderOutput(){
+  var core = coreCost(prices()[state.idx]);
+  document.getElementById("core").textContent = nf.format(core);
   [12,10,8].forEach(function(m){
     COEF[m].forEach(function(row, r){
-      document.getElementById("p"+r+"_"+m).textContent = euro(roundUp10(core * row[state.idx]));
+      document.getElementById("p"+r+"_"+m).textContent = nf.format(roundUp10(core * row[state.idx]));
     });
   });
+  document.getElementById("fxdot").className = "dot " + fxKind;
+  document.getElementById("fxnote").textContent = fxNote;
 }
 
-function renderAll(){ renderFx(); renderRail(); renderTable(); }
+function renderAll(){ renderDropdown(); renderOutput(); }
 
-function bindField(id){
-  var el = document.getElementById(id);
-  el.value = state[id];
-  el.addEventListener("input", function(){
-    var v = el.value.trim();
-    if(id === "fxman"){ state.fxman = v; }
-    else {
-      var n = parseFloat(v);
-      if(!isFinite(n)) return;
-      state[id] = n;
-      if(id === "start" || id === "step") state.idx = Math.min(state.idx, 9);
-    }
+FIELDS.forEach(function(id){
+  document.getElementById(id).addEventListener("input", function(){
+    var n = parseFloat(this.value);
+    if(!isFinite(n)) return;
+    if(id !== "fx" && n <= 0) return;
+    state[id] = n;
+    if(id === "fx"){ fxKind = "manual"; fxNote = "Kur elle girildi"; }
     save(); renderAll();
   });
-}
+});
+
+document.getElementById("borsa").addEventListener("change", function(){
+  state.idx = parseInt(this.value, 10) || 0;
+  save(); renderOutput();
+});
 
 function fetchFx(){
-  var dot = document.getElementById("fxdot");
+  fxNote = "Kur çekiliyor…";
+  renderOutput();
   fetch("https://api.frankfurter.app/latest?from=GBP&to=EUR", {cache:"no-store"})
     .then(function(r){ if(!r.ok) throw new Error("http"); return r.json(); })
     .then(function(j){
       var rate = j && j.rates && j.rates.EUR;
       if(!rate) throw new Error("format");
-      fx.rate = rate;
-      fx.source = "live";
-      fx.when = (j.date || "").split("-").reverse().join(".");
-      try{ localStorage.setItem("kakao-fiyat-kur", JSON.stringify({rate:rate, when:fx.when})); }catch(e){}
-      renderAll();
+      state.fx = Math.round(rate * 10000) / 10000;
+      fxKind = "live";
+      fxNote = "Canlı kur — " + (j.date || "").split("-").reverse().join(".");
+      save(); fillFields(); renderAll();
     })
-    .catch(function(){ fx.source = "stale"; renderAll(); });
+    .catch(function(){
+      fxKind = "stale";
+      fxNote = "Kur çekilemedi, mevcut kur kullanılıyor";
+      renderOutput();
+    });
 }
 
-load();
-["start","step","prim","masraf","fxman"].forEach(bindField);
-document.getElementById("fxbtn").addEventListener("click", fetchFx);
+document.getElementById("refresh").addEventListener("click", fetchFx);
 document.getElementById("reset").addEventListener("click", function(){
   state = Object.assign({}, DEFAULTS);
-  save();
-  ["start","step","prim","masraf","fxman"].forEach(function(id){ document.getElementById(id).value = state[id]; });
-  renderAll();
+  fxKind = "stale"; fxNote = "Yedek kur 1,1651 — 08.09.2026";
+  save(); fillFields(); renderAll();
 });
+
+load();
+fillFields();
 renderAll();
-fetchFx();
+if(firstRun) fetchFx();
 </script>
 </body>
 </html>
