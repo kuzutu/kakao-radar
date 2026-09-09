@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-09T11:16:59.588543+00:00",
+ "uretim": "2026-09-09T15:17:18.422058+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 23,
  "haberSayisi": 118,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Global Witness Findings Deepen Questions Over Mondelēz Cocoa Strategy",
+   "link": "https://cocoaradar.com/global-witness-findings-deepen-questions-over-mondelez-cocoa-strategy/",
+   "tarih": "2026-09-09T14:01:15+00:00",
+   "ozet": "An investigation by Global Witness alleges that Mondelēz International pursued an extensive campaign to weaken the EU’s deforestation law. The findings add a new dimension to CocoaRadar’s reporting that the chocolate group is considering changes to Cocoa Life,",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Küresel Tanıkların Bulguları Mondelēz Kakao Stratejisine İlişkin Soruları Derinleştiriyor",
+   "okunur": true
+  },
   {
    "baslik": "Concerned Farmers Association declares all cocoa-growing areas ‘security zones’, orders miners to vacate",
    "link": "https://3news.com/news/no-mining-activity-of-any-form-will-be-tolerated-in",
@@ -1189,19 +1202,6 @@
    "okunur": true
   },
   {
-   "baslik": "Mars Bar Shrinkflation Puts Cocoa Use In Spotlight As Ghana And Côte d’Ivoire Warn Over Chocolate Reformulation",
-   "link": "https://cocoaradar.com/mars-bar-shrinkflation-puts-cocoa-use-in-spotlight-as-ghana-and-cote-divoire-warn-over-chocolate-reformulation/",
-   "tarih": "2026-08-14T12:51:45+00:00",
-   "ozet": "A 35-year-old Mars bar discovered during a UK house clearance has provided a striking illustration of how confectionery products have shrunk over time, just as Ghana and Côte d’Ivoire raise a potentially bigger concern for cocoa producers ...",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Gana ve Fildişi Sahili Çikolatanın Yeniden Formülasyonu Konusunda Uyarırken, Mars Barındaki Düşüş Kakao Kullanımını Ön plana Çıkarıyor",
-   "okunur": true
-  },
-  {
    "baslik": "Nigeria/West Africa Cocoa Origins meet EU Cocoa Industry",
    "link": "https://www.eurococoa.com/events/nigeria-west-africa-cocoa-origins-meet-eu-cocoa-industry/",
    "tarih": "2026-08-14T10:44:03+00:00",
@@ -1544,7 +1544,7 @@
   [
    "ICCO",
    "7 haber",
-   1163,
+   1553,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1553,7 +1553,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1478,
+   1775,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1562,7 +1562,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   5208,
+   4599,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1571,7 +1571,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59221,
+   59910,
    "",
    "",
    null,
@@ -1580,7 +1580,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   282,
+   221,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1589,7 +1589,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   464,
+   1071,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1598,7 +1598,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1395,
+   1404,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1607,7 +1607,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   448,
+   353,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1616,7 +1616,7 @@
   [
    "Panamir",
    "2 haber",
-   2148,
+   2000,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1625,7 +1625,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1683,
+   1426,
    "",
    "",
    null,
@@ -1634,7 +1634,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   569,
+   598,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1643,7 +1643,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   696,
+   528,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1652,7 +1652,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8076,
+   8921,
    "",
    "",
    null,
@@ -1661,7 +1661,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   614,
+   616,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1670,7 +1670,7 @@
   [
    "Confectionery Production",
    "7 haber",
-   1719,
+   2459,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1679,7 +1679,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   1233,
+   1176,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1688,16 +1688,16 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   9300,
+   68396,
    "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "1 haber",
-   855,
+   292,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1706,7 +1706,7 @@
   [
    "Business in Cameroon",
    "3 haber",
-   1783,
+   1683,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1715,7 +1715,7 @@
   [
    "Investir au Cameroun",
    "3 haber",
-   625,
+   734,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1724,7 +1724,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   984,
+   1020,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1733,7 +1733,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2348,
+   2234,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1742,7 +1742,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   560,
+   808,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1751,7 +1751,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   13752,
+   15667,
    "",
    "",
    null,
@@ -1760,7 +1760,7 @@
   [
    "3News · GH",
    "1 haber",
-   6094,
+   8834,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1769,7 +1769,7 @@
   [
    "Asaase Radio · GH",
    "4 haber",
-   8410,
+   10136,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1778,7 +1778,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   4781,
+   4543,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
