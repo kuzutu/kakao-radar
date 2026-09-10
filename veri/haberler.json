@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-09T23:30:37.929671+00:00",
+ "uretim": "2026-09-10T01:26:35.347509+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 21,
- "haberSayisi": 112,
+ "calisanKaynak": 22,
+ "haberSayisi": 116,
  "cevirili": true,
  "haberler": [
   {
@@ -81,6 +81,45 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "New York Cocoa %4,02 düşüşle 5.927 dolara düştü; Kuru Hava ve İşgücü Kıtlığı Brezilya'nın Ana Mahsul Görünümünü Etkiliyor (8 Eylül 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Les producteurs de café-cacao du Guémon appelés à respecter les prix officiels",
+   "link": "https://www.aip.ci/cote-divoire-aip-les-producteurs-de-cafe-cacao-du-guemon-appeles-a-respecter-les-prix-officiels/",
+   "tarih": "2026-09-08T22:27:20+00:00",
+   "ozet": "Duékoué, 08 sept 2026 (AIP)- Les producteurs de café-cacao de la région du Guémon ont été appelés à respecter les prix officiels et à faire preuve de retenue, à la suite de l’annonce des nouveaux prix du café et du cacao, le 1er septembre 2026, lors des Journé",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Guémon kahve-kakao üreticilerine resmi fiyatlara uymaları çağrısında bulunuldu",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Campagne 2026-2027: l’OIA café-cacao appelle les producteurs à rester sourds aux appels à la grève et au boycott",
+   "link": "https://www.aip.ci/cote-divoire-aip-campagne-2026-2027-loia-cafe-cacao-appelle-les-producteurs-a-rester-sourds-aux-appels-a-la-greve-et-au-boycott/",
+   "tarih": "2026-09-08T21:37:18+00:00",
+   "ozet": "Abidjan, 08 sept 2026 (AIP)- L’Organisation interprofessionnelle agricole (OIA) café-cacao a appelé, mardi 08 septembre 2026 à Abidjan, les producteurs et les organisations professionnelles agricoles à rester sourds aux appels à la grève, à la rétention des pr",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ 2026-2027 kampanyası: OIA kahve-kakao üreticileri grev ve boykot çağrılarına karşı sağır kalma çağrısında bulunuyor",
+   "okunur": true
+  },
+  {
+   "baslik": "AIP/ Le Club Café-cacao de Côte d’Ivoire annonce le lancement de la première enquête africaine sur le cacao de bioréacteur",
+   "link": "https://www.aip.ci/aip-le-club-cafe-cacao-de-cote-divoire-annonce-le-lancement-de-la-premiere-enquete-africaine-sur-le-cacao-de-bioreacteur/",
+   "tarih": "2026-09-08T16:36:33+00:00",
+   "ozet": "Abidjan, 08 sept 2026 (AIP) – Le Club Café-cacao de Côte d’Ivoire/SOS MGV annonce le lancement de la première enquête africaine comparative sur le cacao de bioréacteur, indique un communiqué de l’organisation transmis à l’AIP. Le think tank, basé à Londres, en",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "AIP/ Fildişi Sahili Kafe-Kakao Kulübü, kakao biyoreaktörüne ilişkin ilk Afrika araştırmasının başlatıldığını duyurdu",
    "okunur": true
   },
   {
@@ -172,6 +211,19 @@
    "w": 0.95,
    "kaynakUyari": "",
    "baslikTR": "Kamerunlu Kakao Çiftçileri Keskin Fiyat Düşüşünün Ardından Yeni AB Uyum Maliyetleriyle Karşı Karşıya",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/3 500 kits scolaires remis aux enfants de producteurs et de familles démunies de Soubré",
+   "link": "https://www.aip.ci/cote-divoire-aip-3-500-kits-scolaires-remis-aux-enfants-de-producteurs-et-de-familles-demunies-de-soubre/",
+   "tarih": "2026-09-07T17:55:33+00:00",
+   "ozet": "Soubré, 7 sept 2026 (AIP) – La direction générale du Conseil du café-cacao a remis, lundi 7 septembre 2026, au magasin central de l’institution à Soubré, 3 500 kits scolaires destinés aux enfants de producteurs de café-cacao et de familles démunies de la régio",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Soubré'deki üreticilerin ve yoksul ailelerin çocuklarına 3.500 okul seti dağıtıldı",
    "okunur": true
   },
   {
@@ -1466,7 +1518,7 @@
   [
    "ICCO",
    "7 haber",
-   1478,
+   1347,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1475,7 +1527,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1525,
+   1449,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1484,7 +1536,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4209,
+   3602,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1493,7 +1545,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59691,
+   57511,
    "",
    "",
    null,
@@ -1502,7 +1554,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   124,
+   253,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1511,7 +1563,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   526,
+   544,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1520,7 +1572,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1204,
+   1274,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1529,7 +1581,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   354,
+   356,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1538,7 +1590,7 @@
   [
    "Panamir",
    "2 haber",
-   2450,
+   1786,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1547,7 +1599,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1405,
+   1318,
    "",
    "",
    null,
@@ -1556,7 +1608,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   257,
+   289,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1565,7 +1617,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   174,
+   251,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1574,7 +1626,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8959,
+   7439,
    "",
    "",
    null,
@@ -1583,7 +1635,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   654,
+   114,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1592,7 +1644,7 @@
   [
    "Confectionery Production",
    "7 haber",
-   2261,
+   1913,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1601,7 +1653,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   1190,
+   1060,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1609,17 +1661,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   56268,
-   "",
-   "",
+   "4 haber",
+   7277,
+   "https://www.aip.ci/?s=cacao&feed=rss2",
+   "dogrudan",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   64977,
+   61777,
    "",
    "",
    null,
@@ -1628,7 +1680,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   917,
+   493,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1637,7 +1689,7 @@
   [
    "Investir au Cameroun",
    "3 haber",
-   967,
+   490,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1646,7 +1698,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   932,
+   560,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1655,7 +1707,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   1846,
+   2232,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1664,7 +1716,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1462,
+   541,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1673,7 +1725,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14657,
+   15129,
    "",
    "",
    null,
@@ -1682,7 +1734,7 @@
   [
    "3News · GH",
    "1 haber",
-   4048,
+   2958,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1691,7 +1743,7 @@
   [
    "Asaase Radio · GH",
    "4 haber",
-   11268,
+   11222,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1700,7 +1752,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3290,
+   4252,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
