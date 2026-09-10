@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-10T06:39:22.584514+00:00",
+ "uretim": "2026-09-10T11:47:48.593111+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 22,
- "haberSayisi": 117,
+ "haberSayisi": 116,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Côte d’Ivoire-AIP/Un magasin de stockage de cacao ravagé par un incendie à Sassandra",
+   "link": "https://www.aip.ci/cote-divoire-aip-un-magasin-de-stockage-de-cacao-ravage-par-un-incendie-a-sassandra/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-un-magasin-de-stockage-de-cacao-ravage-par-un-incendie-a-sassandra",
+   "tarih": "2026-09-10T10:09:36+00:00",
+   "ozet": "Sassandra, 10 sept 2026 (AIP) – Un magasin de stockage de cacao appartenant à Yao Kouadio a été ravagé par un incendie, jeudi 10 septembre 2026, dans le village de Djoroplo, dans la commune de Sassandra. Le feu s’est déclaré aux environs de 4 heures du matin, ",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Sassandra'daki yangında harap olan bir kakao deposu",
+   "okunur": true
+  },
   {
    "baslik": "Brazil Supply Tightness Meets Weather Risk and Heavy Origin Selling (8 September 2026)",
    "link": "https://www.cocoaintel.com/brazil-supply-tightness-meets-weather-risk-and-heavy-origin-selling-8-september-2026/",
@@ -240,19 +253,6 @@
    "okunur": true
   },
   {
-   "baslik": "Nestlé: Coffee sustainability key to avoiding cocoa-like crisis",
-   "link": "https://www.foodnavigator.com/Article/2026/09/08/nestle-coffee-sustainability-key-to-avoiding-cocoa-like-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-09-08T04:24:42+00:00",
-   "ozet": "Nestlé shares its strategy to secure supply, boost sustainability and avoid sharp price hikes in major brands like Nescafe",
-   "kaynak": "FoodNavigator",
-   "grup": "FoodNavigator",
-   "alan": "foodnavigator.com",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "Nestlé: Kakao benzeri krizlerden kaçınmanın anahtarı kahve sürdürülebilirliği",
-   "okunur": true
-  },
-  {
    "baslik": "Cameroon Cocoa Farmers Face New EU Compliance Costs After Sharp Price Drop",
    "link": "https://www.businessincameroon.com/agriculture/0709-16694-cameroon-cocoa-farmers-face-new-eu-compliance-costs-after-sharp-price-drop",
    "tarih": "2026-09-07T17:58:31+00:00",
@@ -432,19 +432,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Kakao mikroplarından çiçeklenmeye kadar tutarlı çikolata savaşı",
-   "okunur": true
-  },
-  {
-   "baslik": "Cacao : TriLinc ne valorise plus qu’à 7,26 milliards FCFA sa créance de 9,26 milliards sur Producam d’Emmanuel Neossi",
-   "link": "https://www.investiraucameroun.com/agriculture/0409-23750-cacao-trilinc-ne-valorise-plus-qu-a-7-26-milliards-fcfa-sa-creance-de-9-26-milliards-sur-producam-d-emmanuel-neossi",
-   "tarih": "2026-09-04T07:04:06+00:00",
-   "ozet": "Le fonds d’investissement américain TriLinc Global Impact Fund estime désormais à 7,26 milliards de FCFA la valeur de sa créance sur Producam, entreprise camerounaise de négoce de cacao et de café associée à l’entrepreneur Emmanuel Neossi. Le principal restant",
-   "kaynak": "Investir au Cameroun",
-   "grup": "Investir au Cameroun",
-   "alan": "investiraucameroun.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao: TriLinc'in Emmanuel Neossi'nin Producam'ına olan borcunun değeri yalnızca 9,26 milyar, 7,26 milyar FCFA'dır",
    "okunur": true
   },
   {
@@ -1531,7 +1518,7 @@
   [
    "ICCO",
    "7 haber",
-   2170,
+   1220,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1540,7 +1527,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1756,
+   1131,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1549,7 +1536,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4517,
+   4633,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1558,7 +1545,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   60534,
+   58609,
    "",
    "",
    null,
@@ -1567,7 +1554,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   119,
+   113,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1576,7 +1563,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   668,
+   481,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1585,7 +1572,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   807,
+   1183,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1594,7 +1581,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   434,
+   474,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1602,17 +1589,17 @@
   ],
   [
    "Panamir",
-   "2 haber",
-   2514,
+   "1 haber",
+   2050,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
-   18
+   19
   ],
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1166,
+   1560,
    "",
    "",
    null,
@@ -1621,7 +1608,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   359,
+   639,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1629,8 +1616,8 @@
   ],
   [
    "FoodNavigator",
-   "2 haber",
-   135,
+   "1 haber",
+   214,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1639,7 +1626,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   9148,
+   7784,
    "",
    "",
    null,
@@ -1648,7 +1635,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   700,
+   290,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1657,7 +1644,7 @@
   [
    "Confectionery Production",
    "7 haber",
-   2057,
+   2166,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1666,7 +1653,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   1307,
+   1067,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1674,8 +1661,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "4 haber",
-   10239,
+   "5 haber",
+   7149,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1684,7 +1671,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   63970,
+   62242,
    "",
    "",
    null,
@@ -1693,7 +1680,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   699,
+   559,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1701,8 +1688,8 @@
   ],
   [
    "Investir au Cameroun",
-   "3 haber",
-   750,
+   "2 haber",
+   595,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1711,7 +1698,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   704,
+   640,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1720,7 +1707,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2253,
+   1764,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1729,7 +1716,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   826,
+   710,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1738,7 +1725,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14424,
+   13794,
    "",
    "",
    null,
@@ -1747,7 +1734,7 @@
   [
    "3News · GH",
    "1 haber",
-   4115,
+   5417,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1755,8 +1742,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "5 haber",
-   7935,
+   "6 haber",
+   10697,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1765,7 +1752,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   4227,
+   3881,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
