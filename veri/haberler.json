@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-11T00:05:52.451445+00:00",
+ "uretim": "2026-09-11T04:32:06.874826+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
  "haberSayisi": 113,
@@ -58,7 +58,7 @@
    "okunur": true
   },
   {
-   "baslik": "Brazil Supply Tightness Meets Weather Risk and Heavy Origin Selling (8 September 2026)",
+   "baslik": "Brazil Supply Tightness Meets Weather Risk and Heavy Origin Selling (9 September 2026)",
    "link": "https://www.cocoaintel.com/brazil-supply-tightness-meets-weather-risk-and-heavy-origin-selling-8-september-2026/",
    "tarih": "2026-09-10T06:07:12+00:00",
    "ozet": "Arabica remains caught between tight certified stocks and weak Brazilian exports, while improving rains shift attention toward Brazil’s 2027 crop",
@@ -67,11 +67,11 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Brezilya Arz Sıkışıklığı, Hava Riski ve Yoğun Menşe Satışlarıyla Buluşuyor (8 Eylül 2026)",
+   "baslikTR": "Brezilya Arz Sıkışıklığı, Hava Riski ve Yoğun Menşe Satışlarıyla Buluşuyor (9 Eylül 2026)",
    "okunur": true
   },
   {
-   "baslik": "New York Cocoa Stabilizes as West African Supply Risks Build (8 September 2026)",
+   "baslik": "New York Cocoa Stabilizes as West African Supply Risks Build (9 September 2026)",
    "link": "https://www.cocoaintel.com/new-york-cocoa-stabilizes-as-west-african-supply-risks-build-8-september-2026/",
    "tarih": "2026-09-10T06:02:34+00:00",
    "ozet": "Cocoa stabilizes near $5,800 as Ghana considers a higher farmgate price, Ivorian supply tensions persist, and wet weather raises crop risks.",
@@ -80,7 +80,7 @@
    "alan": "cocoaintel.com",
    "w": 1.1,
    "kaynakUyari": "",
-   "baslikTR": "Batı Afrika Tedarik Riskleri Arttıkça New York Kakao Stabilleşiyor (8 Eylül 2026)",
+   "baslikTR": "Batı Afrika Tedarik Riskleri Arttıkça New York Kakao Stabilleşiyor (9 Eylül 2026)",
    "okunur": true
   },
   {
@@ -1479,7 +1479,7 @@
   [
    "ICCO",
    "7 haber",
-   1429,
+   1663,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1488,7 +1488,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1688,
+   1680,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1497,7 +1497,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   6493,
+   4362,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1506,7 +1506,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   60687,
+   59562,
    "",
    "",
    null,
@@ -1515,7 +1515,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   256,
+   204,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1524,7 +1524,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   493,
+   688,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1533,7 +1533,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   879,
+   932,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1542,7 +1542,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   542,
+   382,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1551,7 +1551,7 @@
   [
    "Panamir",
    "1 haber",
-   3000,
+   2569,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1560,7 +1560,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1425,
+   1176,
    "",
    "",
    null,
@@ -1569,7 +1569,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   681,
+   661,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1578,7 +1578,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   650,
+   314,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1587,7 +1587,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8906,
+   8087,
    "",
    "",
    null,
@@ -1596,7 +1596,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   234,
+   764,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1605,7 +1605,7 @@
   [
    "Confectionery Production",
    "6 haber",
-   2632,
+   2655,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1614,7 +1614,7 @@
   [
    "MyJoyOnline · GH",
    "18 haber",
-   1166,
+   1288,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1623,7 +1623,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   7034,
+   10131,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1631,8 +1631,8 @@
   ],
   [
    "Sika Finance · CI",
-   "besleme tanimsiz (17328 bayt, vekil)",
-   5926,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   63806,
    "",
    "",
    null,
@@ -1641,7 +1641,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   643,
+   688,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1650,7 +1650,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   739,
+   738,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1659,7 +1659,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   814,
+   1122,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1668,7 +1668,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2210,
+   2944,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1677,7 +1677,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   2961,
+   812,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1686,7 +1686,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   17919,
+   15726,
    "",
    "",
    null,
@@ -1694,8 +1694,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (479053 bayt, vekil)",
-   11280,
+   "besleme tanimsiz (479105 bayt, vekil)",
+   9614,
    "",
    "",
    null,
@@ -1704,7 +1704,7 @@
   [
    "Asaase Radio · GH",
    "6 haber",
-   2356,
+   2665,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1713,7 +1713,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3564,
+   4206,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
