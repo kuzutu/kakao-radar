@@ -1,10 +1,36 @@
 {
- "uretim": "2026-09-12T08:49:25.761973+00:00",
+ "uretim": "2026-09-12T12:50:47.624759+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 21,
- "haberSayisi": 109,
+ "calisanKaynak": 20,
+ "haberSayisi": 101,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "COCOA MARKET TRENDS",
+   "link": "https://panamir.com/cocoa-market-trends-august-2026/",
+   "tarih": "2026-09-12T11:26:49+00:00",
+   "ozet": "",
+   "kaynak": "Panamir",
+   "grup": "Panamir",
+   "alan": "panamir.com",
+   "w": 1.2,
+   "kaynakUyari": "",
+   "baslikTR": "KAKAO PİYASASI TRENDLERİ",
+   "okunur": true
+  },
+  {
+   "baslik": "Luker Chocolate marks 120th anniversary with London festival appearance",
+   "link": "https://www.confectioneryproduction.com/news/59420/luker-chocolate-marks-120th-anniversary-with-london-festival-appearance/",
+   "tarih": "2026-09-12T09:10:40+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Luker Çikolata 120. yıl dönümünü Londra festivaliyle kutluyor",
+   "okunur": true
+  },
   {
    "baslik": "Fairtrade reflects cocoa and agriculture concerns over El Nino warnings",
    "link": "https://www.confectioneryproduction.com/news/59414/59414/",
@@ -71,16 +97,16 @@
    "okunur": true
   },
   {
-   "baslik": "87% of COCOBOD cocoa roads contracts directly awarded",
-   "link": "https://www.myjoyonline.com/87-of-cocobod-cocoa-roads-contracts-directly-awarded-imf/",
+   "baslik": "87% of COCOBOD’s past cocoa road contracts were directly awarded",
+   "link": "https://www.myjoyonline.com/87-of-cocobods-past-cocoa-road-contracts-were-directly-awarded/",
    "tarih": "2026-09-11T05:36:00+00:00",
-   "ozet": "The Ghana Cocoa Board (COCOBOD) has been flagged over major weaknesses in the procurement and management of projects under its cocoa roads investment programme, according to an IMF Technical Assistance Report. The report references an audit which found that 87",
+   "ozet": "Editor’s Note: An earlier version of this story has been updated to improve accuracy and clarity. The International Monetary Fund (IMF) has highlighted significant procurement and project-management weaknesses associated with the Cocoa Roads (COCOROADS) progra",
    "kaynak": "MyJoyOnline · GH",
    "grup": "MyJoyOnline · GH",
    "alan": "myjoyonline.com",
    "w": 0.9,
    "kaynakUyari": "",
-   "baslikTR": "COCOBOD kakao yolu sözleşmelerinin %87'si doğrudan imzalandı",
+   "baslikTR": "COCOBOD'un geçmiş kakao yolu sözleşmelerinin %87'si doğrudan imzalandı",
    "okunur": true
   },
   {
@@ -266,19 +292,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ Les producteurs de café-cacao du Guémon appelés à respecter les prix officiels",
-   "link": "https://www.aip.ci/cote-divoire-aip-les-producteurs-de-cafe-cacao-du-guemon-appeles-a-respecter-les-prix-officiels/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-les-producteurs-de-cafe-cacao-du-guemon-appeles-a-respecter-les-prix-officiels",
-   "tarih": "2026-09-08T22:27:20+00:00",
-   "ozet": "Duékoué, 08 sept 2026 (AIP)- Les producteurs de café-cacao de la région du Guémon ont été appelés à respecter les prix officiels et à faire preuve de retenue, à la suite de l’annonce des nouveaux prix du café et du cacao, le 1er septembre 2026, lors des Journé",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Guémon kahve-kakao üreticilerine resmi fiyatlara uymaları çağrısında bulunuldu",
-   "okunur": true
-  },
-  {
    "baslik": "Terry’s Chocolate Orange x Baileys fuel confectionery’s hottest trend",
    "link": "https://www.confectionerynews.com/Article/2026/09/08/terrys-chocolate-orange-and-baileys-team-up-for-festive-confectionery-collab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-09-08T15:15:38+00:00",
@@ -302,19 +315,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "THG ve Merck, EUDR'nin Son Tarihinden Önce Kakao İzlenebilirlik Sistemini Kullanıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "ED(MEM) 1322",
-   "link": "https://www.icco.org/edmem-1322-entry-into-force-of-ica-2026/",
-   "tarih": "2026-09-08T09:57:46+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1322",
    "okunur": true
   },
   {
@@ -760,19 +760,6 @@
    "okunur": true
   },
   {
-   "baslik": "August 2026 Quarterly Bulletin of Cocoa Statistics",
-   "link": "https://www.icco.org/august-2026-quarterly-bulletin-of-cocoa-statistics/",
-   "tarih": "2026-08-31T19:47:05+00:00",
-   "ozet": "Abidjan, Côte d’Ivoire, 29 May 2026 – The International Cocoa Organization today releases Issue No. 3 – Volume LII of the Quarterly Bulletin of Cocoa Statistics, for the 2025/26 cocoa year. This issue reflects the most recent information available to the Secre",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "Ağustos 2026 Üç Aylık Kakao İstatistikleri Bülteni",
-   "okunur": true
-  },
-  {
    "baslik": "CPC’s revenue plunges 47% as net loss widens to GH¢144m",
    "link": "https://www.myjoyonline.com/cpcs-revenue-plunges-47-as-net-loss-widens-to-gh%c2%a2144m-siga/",
    "tarih": "2026-08-31T14:07:34+00:00",
@@ -1007,19 +994,6 @@
    "okunur": true
   },
   {
-   "baslik": "ED(MEM) 1321 – Payment of Outstanding Contributions",
-   "link": "https://www.icco.org/edmem-1321-payment-of-outstanding-contributions/",
-   "tarih": "2026-08-24T08:49:24+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1321 – Ödenmemiş Katkı Paylarının Ödenmesi",
-   "okunur": true
-  },
-  {
    "baslik": "Exclusive video: Cargill cocoa processing York site visit",
    "link": "https://www.confectioneryproduction.com/news/59169/exclusive-video-cargill-cocoa-processing-york-site-visit/",
    "tarih": "2026-08-22T11:10:50+00:00",
@@ -1044,19 +1018,6 @@
    "kaynakUyari": "",
    "baslikTR": "Kamera arkası: Cargill'in York kakao işleme tesisi",
    "okunur": false
-  },
-  {
-   "baslik": "Warnings of potential major fertiliser shortages for key crops including cocoa",
-   "link": "https://www.confectioneryproduction.com/news/59150/industry-warns-of-potential-major-shortages-in-fertiliser-for-key-crops-including-cocoa/",
-   "tarih": "2026-08-20T11:31:27+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao da dahil olmak üzere önemli mahsuller için potansiyel büyük gübre kıtlığına ilişkin uyarılar",
-   "okunur": true
   },
   {
    "baslik": "Chamber of Cocoa Marketers Ghana to Strengthen Role of Buyers in Sector",
@@ -1150,19 +1111,6 @@
    "okunur": true
   },
   {
-   "baslik": "ED(MEM) 1320 – CB meeting Provisional timetable September 2026",
-   "link": "https://www.icco.org/edmem-1319-provisional-timetable-september-2026-meetings/",
-   "tarih": "2026-08-13T12:04:05+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1320 – CB toplantısı Geçici takvim Eylül 2026",
-   "okunur": true
-  },
-  {
    "baslik": "Statement – The Use Of Cocoa Substitutes And The Reformulation Of Chocolate Products",
    "link": "https://www.cighci.org/statement-the-use-of-cocoa-substitutes-and-the-reformulation-of-chocolate-products/",
    "tarih": "2026-08-12T07:11:48+00:00",
@@ -1189,45 +1137,6 @@
    "okunur": true
   },
   {
-   "baslik": "COCOA MARKET TRENDS",
-   "link": "https://panamir.com/cocoa-market-trends-july-2026/",
-   "tarih": "2026-08-06T16:23:17+00:00",
-   "ozet": "",
-   "kaynak": "Panamir",
-   "grup": "Panamir",
-   "alan": "panamir.com",
-   "w": 1.2,
-   "kaynakUyari": "",
-   "baslikTR": "KAKAO PİYASASI TRENDLERİ",
-   "okunur": true
-  },
-  {
-   "baslik": "ED(MEM) 1318",
-   "link": "https://www.icco.org/edmem-1318-depositary-notification-ica-2026/",
-   "tarih": "2026-08-05T12:01:12+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1318",
-   "okunur": true
-  },
-  {
-   "baslik": "ED(MEM) 1317 – ANNOUNCEMENT SEPTEMBER 2026 MEETINGS",
-   "link": "https://www.icco.org/edmem-1317-announcement-september-2026-meetings/",
-   "tarih": "2026-08-04T10:18:46+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1317 – DUYURU EYLÜL 2026 TOPLANTILARI",
-   "okunur": true
-  },
-  {
    "baslik": "Strengthening Regional Cooperation In The Cocoa Sector",
    "link": "https://www.cighci.org/strengthening-regional-cooperation-in-the-cocoa-sector/",
    "tarih": "2026-08-03T21:21:39+00:00",
@@ -1251,19 +1160,6 @@
    "w": 1.35,
    "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
    "baslikTR": "TRACT Dayanıklılığın Geleceği",
-   "okunur": true
-  },
-  {
-   "baslik": "ED(MEM) 1316-Rev.1 – EUDR-ECA Due Diligence Protocol",
-   "link": "https://www.icco.org/edmem-1316-eudr-eca-due-diligence-protocol/",
-   "tarih": "2026-07-29T12:42:17+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1316-Rev.1 – EUDR-ECA Durum Tespiti Protokolü",
    "okunur": true
   },
   {
@@ -1426,26 +1322,26 @@
  "rapor": [
   [
    "ICCO",
-   "7 haber",
-   1147,
-   "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "dogrudan",
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   67812,
+   "",
+   "",
    null,
-   13
+   0
   ],
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1435,
+   5849,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "dogrudan",
+   "vekil",
    null,
    16
   ],
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3671,
+   4009,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1454,7 +1350,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57478,
+   60054,
    "",
    "",
    null,
@@ -1463,7 +1359,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   199,
+   141,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1472,7 +1368,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   592,
+   496,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1481,7 +1377,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1319,
+   1375,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1490,7 +1386,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   114,
+   443,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1498,17 +1394,17 @@
   ],
   [
    "Panamir",
-   "1 haber",
-   1389,
+   "2 haber",
+   2174,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
-   19
+   18
   ],
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1102,
+   1175,
    "",
    "",
    null,
@@ -1517,7 +1413,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   343,
+   799,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1526,7 +1422,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   187,
+   756,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1535,7 +1431,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6662,
+   9375,
    "",
    "",
    null,
@@ -1544,7 +1440,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   462,
+   766,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1553,7 +1449,7 @@
   [
    "Confectionery Production",
    "6 haber",
-   1758,
+   2455,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1562,7 +1458,7 @@
   [
    "MyJoyOnline · GH",
    "17 haber",
-   1012,
+   1120,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1570,8 +1466,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "3 haber",
-   10763,
+   "2 haber",
+   19042,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1580,7 +1476,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   35095,
+   39111,
    "",
    "",
    null,
@@ -1589,7 +1485,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   439,
+   676,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1598,7 +1494,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   535,
+   683,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1607,7 +1503,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   570,
+   981,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1616,16 +1512,16 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2227,
+   7022,
    "https://www.anecacao.com/feed/",
-   "dogrudan",
+   "vekil",
    null,
    5
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   554,
+   1103,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1634,7 +1530,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14659,
+   16323,
    "",
    "",
    null,
@@ -1642,8 +1538,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (476676 bayt, vekil)",
-   6895,
+   "besleme tanimsiz (476345 bayt, vekil)",
+   8700,
    "",
    "",
    null,
@@ -1652,18 +1548,18 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   10909,
+   19979,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Ghanaian Times",
    "5 haber",
-   4874,
+   5916,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ]
