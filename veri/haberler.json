@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-13T18:09:14.499159+00:00",
+ "uretim": "2026-09-13T20:44:34.190557+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
  "haberSayisi": 102,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cameroon Renews Cocoa Traceability Partnership With Germany’s Cooko",
+   "link": "https://www.businessincameroon.com/agriculture/1309-16735-cameroon-renews-cocoa-traceability-partnership-with-germany-s-cooko",
+   "tarih": "2026-09-13T18:31:56+00:00",
+   "ozet": "Cameroon’s National Cocoa and Coffee Board, ONCC, and Cooko, a German company specializing in post-harvest cocoa fermentation and digital traceability, signed a new three-year memorandum of understanding in Douala on September 10, 2026. The agreement replaces ",
+   "kaynak": "Business in Cameroon",
+   "grup": "Business in Cameroon",
+   "alan": "businessincameroon.com",
+   "w": 0.95,
+   "kaynakUyari": "",
+   "baslikTR": "Kamerun, Alman Cooko ile Kakao İzlenebilirlik Ortaklığını Yeniliyor",
+   "okunur": true
+  },
   {
    "baslik": "Cacao : l’ONCC et Cooko renouvellent leur accord pour trois ans, sans bilan ni objectifs chiffrés publics",
    "link": "https://www.investiraucameroun.com/agriculture/1309-23789-cacao-l-oncc-et-cooko-renouvellent-leur-accord-pour-trois-ans-sans-bilan-ni-objectifs-chiffres-publics",
@@ -302,19 +315,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Küresel Tanıkların Bulguları Mondelēz Kakao Stratejisine İlişkin Soruları Derinleştiriyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Cameroon’s Cocoa Processing Falls 13% as Bean Supply Shrinks",
-   "link": "https://www.businessincameroon.com/agriculture/0909-16705-cameroon-s-cocoa-processing-falls-13-as-bean-supply-shrinks",
-   "tarih": "2026-09-09T09:23:18+00:00",
-   "ozet": "Cameroon’s cocoa processors handled 95,946 tons of beans during the 2025-26 season, a 13% decline that ended the country’s brief run above the 100,000-ton threshold as the overall supply of marketed cocoa contracted sharply. According to the National Cocoa and",
-   "kaynak": "Business in Cameroon",
-   "grup": "Business in Cameroon",
-   "alan": "businessincameroon.com",
-   "w": 0.95,
-   "kaynakUyari": "",
-   "baslikTR": "Kamerun'un Kakao İşlemesi, Fasulye Arzının Azalmasıyla %13 Düştü",
    "okunur": true
   },
   {
@@ -1335,8 +1335,8 @@
  "rapor": [
   [
    "ICCO",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   66141,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
+   27241,
    "",
    "",
    null,
@@ -1345,7 +1345,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1464,
+   1576,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1354,7 +1354,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4338,
+   3956,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1363,7 +1363,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58365,
+   57766,
    "",
    "",
    null,
@@ -1372,7 +1372,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   163,
+   155,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1381,7 +1381,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   503,
+   625,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1390,7 +1390,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   940,
+   21658,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1399,7 +1399,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   460,
+   193,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1408,7 +1408,7 @@
   [
    "Panamir",
    "2 haber",
-   2606,
+   2458,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1417,7 +1417,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1935,
+   1190,
    "",
    "",
    null,
@@ -1426,7 +1426,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   730,
+   195,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1435,7 +1435,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   310,
+   571,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1444,7 +1444,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8777,
+   6551,
    "",
    "",
    null,
@@ -1453,7 +1453,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   485,
+   201,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1462,7 +1462,7 @@
   [
    "Confectionery Production",
    "6 haber",
-   2260,
+   1878,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1471,7 +1471,7 @@
   [
    "MyJoyOnline · GH",
    "15 haber",
-   1201,
+   1017,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1480,7 +1480,7 @@
   [
    "AIP · CI resmî ajans",
    "5 haber",
-   8881,
+   7762,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1488,8 +1488,8 @@
   ],
   [
    "Sika Finance · CI",
-   "besleme tanimsiz (17328 bayt, vekil)",
-   38879,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   39527,
    "",
    "",
    null,
@@ -1498,7 +1498,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   593,
+   483,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1507,7 +1507,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   709,
+   522,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1516,7 +1516,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   866,
+   507,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1525,7 +1525,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   1762,
+   1968,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1534,7 +1534,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1131,
+   589,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1543,7 +1543,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   15441,
+   14764,
    "",
    "",
    null,
@@ -1551,8 +1551,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (334988 bayt, vekil)",
-   15539,
+   "besleme tanimsiz (334841 bayt, vekil)",
+   6953,
    "",
    "",
    null,
@@ -1561,7 +1561,7 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   928,
+   7833,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1570,7 +1570,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   4809,
+   5104,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
