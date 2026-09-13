@@ -1,10 +1,36 @@
 {
- "uretim": "2026-09-13T06:04:12.723099+00:00",
+ "uretim": "2026-09-13T11:45:01.611039+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
- "haberSayisi": 108,
+ "haberSayisi": 109,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "L’OIA café cacao lance depuis Divo une tournée de sensibilisation des producteurs sur la commercialisation pour la campagne 2026",
+   "link": "https://www.aip.ci/loia-cafe-cacao-lance-depuis-divo-une-tournee-de-sensibilisation-des-producteurs-sur-la-commercialisation-pour-la-campagne-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=loia-cafe-cacao-lance-depuis-divo-une-tournee-de-sensibilisation-des-producteurs-sur-la-commercialisation-pour-la-campagne-2026-2027",
+   "tarih": "2026-09-13T09:02:32+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "OIA kahve ve kakao, Divo'dan 2026 kampanyası için üreticilere yönelik pazarlama konusunda bir farkındalık turu başlatıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ L’OIA café cacao lance depuis Divo une tournée de sensibilisation des producteurs sur la commercialisation pour la campagne 2026",
+   "link": "https://www.aip.ci/cote-divoire-aip-loia-cafe-cacao-lance-depuis-divo-une-tournee-de-sensibilisation-des-producteurs-sur-la-commercialisation-pour-la-campagne-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-loia-cafe-cacao-lance-depuis-divo-une-tournee-de-sensibilisation-des-producteurs-sur-la-commercialisation-pour-la-campagne-2026-2027",
+   "tarih": "2026-09-13T08:59:34+00:00",
+   "ozet": "Divo, 13 sept 2026 (AIP) – L’Organisation interprofessionnelle agricole (OIA) café-cacao et certains de ses partenaires de la filière ont lancé, samedi 12 septembre 2026, dans la cour de la préfecture de Divo, une tournée nationale qu’ils organisent dans les 1",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ OIA kafe kakao, 2026 kampanyası için üreticilerin pazarlama konusunda farkındalığını artırmak amacıyla Divo'dan bir tur başlatıyor",
+   "okunur": true
+  },
   {
    "baslik": "AIP/ L’OIT veut renforcer les mécanismes de concertation dans la filière cacao ivoirienne",
    "link": "https://www.aip.ci/aip-loit-veut-renforcer-les-mecanismes-de-concertation-dans-la-filiere-cacao-ivoirienne/?utm_source=rss&utm_medium=rss&utm_campaign=aip-loit-veut-renforcer-les-mecanismes-de-concertation-dans-la-filiere-cacao-ivoirienne",
@@ -185,19 +211,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Çiftçi Teşvikleri Test Edilen %6'lık Artışla Gana Kakao Fiyat Anlaşmazlığı Yoğunlaşıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/Un magasin de stockage de cacao ravagé par un incendie à Sassandra",
-   "link": "https://www.aip.ci/cote-divoire-aip-un-magasin-de-stockage-de-cacao-ravage-par-un-incendie-a-sassandra/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-un-magasin-de-stockage-de-cacao-ravage-par-un-incendie-a-sassandra",
-   "tarih": "2026-09-10T10:09:36+00:00",
-   "ozet": "Sassandra, 10 sept 2026 (AIP) – Un magasin de stockage de cacao appartenant à Yao Kouadio a été ravagé par un incendie, jeudi 10 septembre 2026, dans le village de Djoroplo, dans la commune de Sassandra. Le feu s’est déclaré aux environs de 4 heures du matin, ",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Sassandra'daki yangında harap olan bir kakao deposu",
    "okunur": true
   },
   {
@@ -1414,7 +1427,7 @@
   [
    "ICCO",
    "7 haber",
-   1577,
+   1711,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1423,7 +1436,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1731,
+   2058,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1432,7 +1445,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3992,
+   4501,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1441,7 +1454,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59373,
+   59805,
    "",
    "",
    null,
@@ -1450,7 +1463,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   139,
+   125,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1459,7 +1472,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   543,
+   635,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1468,7 +1481,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1179,
+   22260,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1477,7 +1490,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   157,
+   444,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1486,7 +1499,7 @@
   [
    "Panamir",
    "2 haber",
-   2505,
+   2698,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1495,7 +1508,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1605,
+   1301,
    "",
    "",
    null,
@@ -1504,7 +1517,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   297,
+   374,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1513,7 +1526,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   171,
+   364,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1522,7 +1535,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   5268,
+   10543,
    "",
    "",
    null,
@@ -1531,7 +1544,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   202,
+   409,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1540,7 +1553,7 @@
   [
    "Confectionery Production",
    "6 haber",
-   1745,
+   2430,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1549,7 +1562,7 @@
   [
    "MyJoyOnline · GH",
    "15 haber",
-   1011,
+   1216,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1557,17 +1570,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "4 haber",
-   7027,
+   "5 haber",
+   101478,
    "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Sika Finance · CI",
-   "besleme tanimsiz (17328 bayt, vekil)",
-   10169,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   62435,
    "",
    "",
    null,
@@ -1576,7 +1589,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   444,
+   688,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1585,7 +1598,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   413,
+   713,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1594,7 +1607,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   609,
+   828,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1603,7 +1616,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   4585,
+   1721,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1612,7 +1625,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   740,
+   768,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1621,7 +1634,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   15149,
+   48019,
    "",
    "",
    null,
@@ -1629,8 +1642,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (475245 bayt, vekil)",
-   6388,
+   "besleme tanimsiz (475688 bayt, vekil)",
+   9556,
    "",
    "",
    null,
@@ -1639,7 +1652,7 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   1656,
+   10325,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1648,7 +1661,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3469,
+   3832,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
