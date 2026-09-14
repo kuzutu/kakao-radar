@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-14T12:56:12.792048+00:00",
+ "uretim": "2026-09-14T18:17:42.246159+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 18,
- "haberSayisi": 96,
+ "calisanKaynak": 20,
+ "haberSayisi": 102,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "NCA Opens Nominations for 2027 Confectionery Industry Awards",
+   "link": "https://cocoaradar.com/nca-opens-nominations-for-2027-confectionery-industry-awards/",
+   "tarih": "2026-09-14T14:31:55+00:00",
+   "ozet": "Four awards will recognise leadership, partnership and advocacy across the US confectionery sector, with recipients to be honoured at the association’s annual State of the Industry Conference in Orlando",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "NCA, 2027 Şekerleme Endüstrisi Ödülleri Adaylarını Açıkladı",
+   "okunur": true
+  },
   {
    "baslik": "Futures Correct, but Physical Supply Risks Are Rebuilding (11 September 2026)",
    "link": "https://www.cocoaintel.com/futures-correct-but-physical-supply-risks-are-rebuilding-11-september-2026/",
@@ -159,19 +172,6 @@
    "w": 0.8,
    "kaynakUyari": "",
    "baslikTR": "Adil ticaret, El Nino uyarılarına ilişkin kakao ve tarım kaygılarını yansıtıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/Trois nouvelles salles de classe renforcent les capacités d’accueil de l’EPP de Kirifi",
-   "link": "https://www.aip.ci/cote-divoire-aip-trois-nouvelles-salles-de-classe-renforcent-les-capacites-daccueil-de-lepp-de-kirifi/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-trois-nouvelles-salles-de-classe-renforcent-les-capacites-daccueil-de-lepp-de-kirifi",
-   "tarih": "2026-09-11T15:01:58+00:00",
-   "ozet": "Abengourou, 11 sept 2026 (AIP)- L’École primaire publique (EPP) de Kirifi, un village de la commune d’Abengourou, dispose désormais de trois nouvelles salles de classe et d’un bureau de directeur, réalisés par la coopérative agricole café-cacao COOP-CA Ahonto ",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Üç yeni sınıf, Kirifi EPP'nin resepsiyon kapasitesini güçlendiriyor",
    "okunur": true
   },
   {
@@ -393,6 +393,19 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "THG ve Merck, EUDR'nin Son Tarihinden Önce Kakao İzlenebilirlik Sistemini Kullanıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1322",
+   "link": "https://www.icco.org/edmem-1322-entry-into-force-of-ica-2026/",
+   "tarih": "2026-09-08T09:57:46+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1322",
    "okunur": true
   },
   {
@@ -799,6 +812,19 @@
    "okunur": true
   },
   {
+   "baslik": "August 2026 Quarterly Bulletin of Cocoa Statistics",
+   "link": "https://www.icco.org/august-2026-quarterly-bulletin-of-cocoa-statistics/",
+   "tarih": "2026-08-31T19:47:05+00:00",
+   "ozet": "Abidjan, Côte d’Ivoire, 29 May 2026 – The International Cocoa Organization today releases Issue No. 3 – Volume LII of the Quarterly Bulletin of Cocoa Statistics, for the 2025/26 cocoa year. This issue reflects the most recent information available to the Secre",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "Ağustos 2026 Üç Aylık Kakao İstatistikleri Bülteni",
+   "okunur": true
+  },
+  {
    "baslik": "CPC’s revenue plunges 47% as net loss widens to GH¢144m",
    "link": "https://www.myjoyonline.com/cpcs-revenue-plunges-47-as-net-loss-widens-to-gh%c2%a2144m-siga/",
    "tarih": "2026-08-31T14:07:34+00:00",
@@ -903,32 +929,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa Board law lacks clear strategy to attract young farmers and technology",
-   "link": "https://www.myjoyonline.com/cocoa-board-law-lacks-clear-strategy-to-attract-young-farmers-and-technology-cocoa-farmers-association/",
-   "tarih": "2026-08-27T11:12:21+00:00",
-   "ozet": "The Spokesperson for the Ghana National Cocoa Farmers Association, Nana Aduna II, says the newly enacted Ghana Cocoa Board Law offers no clear strategy for attracting young people and technological innovation into the cocoa industry.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Kurulu yasasında genç çiftçileri ve teknolojiyi çekecek net bir strateji yok",
-   "okunur": true
-  },
-  {
-   "baslik": "Farmgate Cocoa Price: Côte d'Ivoire Faces a Major Dilemma",
-   "link": "https://cocoaradar.com/farmgate-cocoa-price-cote-divoire-faces-a-major-dilemma/",
-   "tarih": "2026-08-26T14:05:39+00:00",
-   "ozet": "EXCLUSIVE: Days before the announcement of the new farmgate cocoa price, scheduled for 3 September, the Conseil du Café-Cacao (CCC) is facing one of its most difficult equations in recent years ...",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Farmgate Kakao Fiyatı: Fildişi Sahili Büyük Bir İkilemle Karşı Karşıya",
-   "okunur": true
-  },
-  {
    "baslik": "Studies reveal one in four cocoa audits in Ivory Coast feature manipulated data",
    "link": "https://www.confectioneryproduction.com/news/59242/studies-reveal-one-in-four-cocoa-audits-in-ivory-coast-feature-manipulated-data/",
    "tarih": "2026-08-26T12:44:37+00:00",
@@ -968,6 +968,19 @@
    "okunur": true
   },
   {
+   "baslik": "ED(MEM) 1321 – Payment of Outstanding Contributions",
+   "link": "https://www.icco.org/edmem-1321-payment-of-outstanding-contributions/",
+   "tarih": "2026-08-24T08:49:24+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1321 – Ödenmemiş Katkı Paylarının Ödenmesi",
+   "okunur": true
+  },
+  {
    "baslik": "Exclusive video: Cargill cocoa processing York site visit",
    "link": "https://www.confectioneryproduction.com/news/59169/exclusive-video-cargill-cocoa-processing-york-site-visit/",
    "tarih": "2026-08-22T11:10:50+00:00",
@@ -981,19 +994,6 @@
    "okunur": true
   },
   {
-   "baslik": "Behind the scenes: Cargill’s York cocoa processing",
-   "link": "https://www.confectioneryproduction.com/video/59167/behind-the-scenes-cargills-york-cocoa-processing/",
-   "tarih": "2026-08-22T10:59:58+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Kamera arkası: Cargill'in York kakao işleme tesisi",
-   "okunur": false
-  },
-  {
    "baslik": "Chamber of Cocoa Marketers Ghana to Strengthen Role of Buyers in Sector",
    "link": "https://thecocoapost.com/chamber-of-cocoa-marketers-ghana-to-strengthen-role-of-buyers-in-sector/",
    "tarih": "2026-08-19T00:02:35+00:00",
@@ -1004,6 +1004,19 @@
    "w": 1.15,
    "kaynakUyari": "",
    "baslikTR": "Kakao Pazarlamacılar Odası Gana, Sektördeki Alıcıların Rolünü Güçlendirecek",
+   "okunur": true
+  },
+  {
+   "baslik": "Nigeria/West Africa Cocoa Origins meet EU Cocoa Industry",
+   "link": "https://www.eurococoa.com/events/nigeria-west-africa-cocoa-origins-meet-eu-cocoa-industry/",
+   "tarih": "2026-08-14T10:44:03+00:00",
+   "ozet": "",
+   "kaynak": "ECA · Avrupa öğütme",
+   "grup": "ECA · Avrupa öğütme",
+   "alan": "eurococoa.com",
+   "w": 1.35,
+   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
+   "baslikTR": "Nijerya/Batı Afrika Kakao Kökenleri AB Kakao Endüstrisiyle buluşuyor",
    "okunur": true
   },
   {
@@ -1059,6 +1072,19 @@
    "okunur": true
   },
   {
+   "baslik": "ED(MEM) 1320 – CB meeting Provisional timetable September 2026",
+   "link": "https://www.icco.org/edmem-1319-provisional-timetable-september-2026-meetings/",
+   "tarih": "2026-08-13T12:04:05+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1320 – CB toplantısı Geçici takvim Eylül 2026",
+   "okunur": true
+  },
+  {
    "baslik": "Statement – The Use Of Cocoa Substitutes And The Reformulation Of Chocolate Products",
    "link": "https://www.cighci.org/statement-the-use-of-cocoa-substitutes-and-the-reformulation-of-chocolate-products/",
    "tarih": "2026-08-12T07:11:48+00:00",
@@ -1085,6 +1111,32 @@
    "okunur": true
   },
   {
+   "baslik": "ED(MEM) 1318",
+   "link": "https://www.icco.org/edmem-1318-depositary-notification-ica-2026/",
+   "tarih": "2026-08-05T12:01:12+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1318",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1317 – ANNOUNCEMENT SEPTEMBER 2026 MEETINGS",
+   "link": "https://www.icco.org/edmem-1317-announcement-september-2026-meetings/",
+   "tarih": "2026-08-04T10:18:46+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1317 – DUYURU EYLÜL 2026 TOPLANTILARI",
+   "okunur": true
+  },
+  {
    "baslik": "Strengthening Regional Cooperation In The Cocoa Sector",
    "link": "https://www.cighci.org/strengthening-regional-cooperation-in-the-cocoa-sector/",
    "tarih": "2026-08-03T21:21:39+00:00",
@@ -1095,6 +1147,32 @@
    "w": 1.3,
    "kaynakUyari": "",
    "baslikTR": "Kakao Sektöründe Bölgesel İşbirliğinin Güçlendirilmesi",
+   "okunur": true
+  },
+  {
+   "baslik": "TRACT Future of Resiliency",
+   "link": "https://www.eurococoa.com/events/tract-future-of-resiliency/",
+   "tarih": "2026-07-30T13:51:47+00:00",
+   "ozet": "Join TRACT for a gathering of supply chain leaders in coffee, cocoa, palm oil, and soy. Future of Resiliency with TRACT brings together supply chain and sustainability leaders from across the coffee, cocoa, palm oil, and soy sectors for a day of conversation, ",
+   "kaynak": "ECA · Avrupa öğütme",
+   "grup": "ECA · Avrupa öğütme",
+   "alan": "eurococoa.com",
+   "w": 1.35,
+   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
+   "baslikTR": "TRACT Dayanıklılığın Geleceği",
+   "okunur": true
+  },
+  {
+   "baslik": "ED(MEM) 1316-Rev.1 – EUDR-ECA Due Diligence Protocol",
+   "link": "https://www.icco.org/edmem-1316-eudr-eca-due-diligence-protocol/",
+   "tarih": "2026-07-29T12:42:17+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1316-Rev.1 – EUDR-ECA Durum Tespiti Protokolü",
    "okunur": true
   },
   {
@@ -1257,35 +1335,35 @@
  "rapor": [
   [
    "ICCO",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 520: <none>",
-   64699,
-   "",
-   "",
+   "7 haber",
+   1063,
+   "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
+   "dogrudan",
    null,
-   0
+   13
   ],
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   4643,
+   850,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "vekil",
+   "dogrudan",
    null,
    16
   ],
   [
    "ECA · Avrupa öğütme",
-   "3 kayit var ama hepsi 60 gunden eski",
-   612202,
-   "",
-   "",
+   "2 haber",
+   3942,
+   "https://www.eurococoa.com/?s=cocoa&feed=rss2",
+   "dogrudan",
    null,
-   0
+   8
   ],
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57973,
+   58110,
    "",
    "",
    null,
@@ -1294,7 +1372,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   180,
+   115,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1303,7 +1381,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   520,
+   474,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1312,7 +1390,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1148,
+   1005,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1321,7 +1399,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   387,
+   80,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1330,7 +1408,7 @@
   [
    "Panamir",
    "2 haber",
-   2514,
+   2421,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1339,7 +1417,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1323,
+   1424,
    "",
    "",
    null,
@@ -1348,7 +1426,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   213,
+   71,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1357,7 +1435,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6030,
+   4532,
    "",
    "",
    null,
@@ -1366,7 +1444,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6252,
+   6472,
    "",
    "",
    null,
@@ -1375,7 +1453,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   369,
+   283,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1383,8 +1461,8 @@
   ],
   [
    "Confectionery Production",
-   "6 haber",
-   1835,
+   "5 haber",
+   2012,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1392,8 +1470,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "14 haber",
-   1032,
+   "13 haber",
+   1000,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1401,8 +1479,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "5 haber",
-   12751,
+   "4 haber",
+   31840,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1411,7 +1489,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   61997,
+   61481,
    "",
    "",
    null,
@@ -1420,7 +1498,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   476,
+   441,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1429,7 +1507,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   514,
+   562,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1438,7 +1516,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   507,
+   528,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1447,16 +1525,16 @@
   [
    "Anecacao · EC",
    "5 haber",
-   6541,
+   2050,
    "https://www.anecacao.com/feed/",
-   "vekil",
+   "dogrudan",
    null,
    5
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   565,
+   532,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1465,7 +1543,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   452050,
+   408563,
    "",
    "",
    null,
@@ -1473,8 +1551,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (334966 bayt, vekil)",
-   5799,
+   "besleme tanimsiz (336240 bayt, vekil)",
+   10092,
    "",
    "",
    null,
@@ -1483,18 +1561,18 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   17875,
+   11292,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ],
   [
    "Ghanaian Times",
    "3 haber",
-   1003332,
+   5139,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ]
