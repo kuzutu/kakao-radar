@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-14T01:07:50.751397+00:00",
+ "uretim": "2026-09-14T06:17:40.629035+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
- "haberSayisi": 102,
+ "haberSayisi": 101,
  "cevirili": true,
  "haberler": [
   {
@@ -929,19 +929,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa Board Bill consultation was inadequate – Ghana National Cocoa Farmers Association",
-   "link": "https://www.myjoyonline.com/cocoa-board-bill-consultation-was-inadequate-ghana-national-cocoa-farmers-association/",
-   "tarih": "2026-08-27T11:11:11+00:00",
-   "ozet": "The Spokesperson for the Ghana National Cocoa Farmers Association, Nana Aduna II, has criticised the consultation process preceding the passage of the Ghana Cocoa Board Bill, 2026, describing it as inadequate and poorly managed.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Kurulu Tasarısı istişareleri yetersizdi – Gana Ulusal Kakao Çiftçileri Birliği",
-   "okunur": true
-  },
-  {
    "baslik": "Farmgate Cocoa Price: Côte d'Ivoire Faces a Major Dilemma",
    "link": "https://cocoaradar.com/farmgate-cocoa-price-cote-divoire-faces-a-major-dilemma/",
    "tarih": "2026-08-26T14:05:39+00:00",
@@ -1335,8 +1322,8 @@
  "rapor": [
   [
    "ICCO",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
-   53474,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   70498,
    "",
    "",
    null,
@@ -1345,7 +1332,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1487,
+   1682,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1354,7 +1341,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3767,
+   4352,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1363,7 +1350,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58164,
+   60351,
    "",
    "",
    null,
@@ -1372,7 +1359,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   183,
+   137,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1381,7 +1368,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   557,
+   497,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1390,7 +1377,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   63401,
+   62974,
    "https://thecocoapost.com/wp-json/wp/v2/posts?per_page=25&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1399,7 +1386,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   142,
+   494,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1408,7 +1395,7 @@
   [
    "Panamir",
    "2 haber",
-   1855,
+   2700,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1417,7 +1404,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1396,
+   1417,
    "",
    "",
    null,
@@ -1426,7 +1413,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   110,
+   253,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1435,7 +1422,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   248,
+   653,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1444,7 +1431,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6342,
+   8126,
    "",
    "",
    null,
@@ -1453,7 +1440,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   178,
+   649,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1462,7 +1449,7 @@
   [
    "Confectionery Production",
    "6 haber",
-   1852,
+   2109,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1470,8 +1457,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "15 haber",
-   936,
+   "14 haber",
+   1150,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1480,7 +1467,7 @@
   [
    "AIP · CI resmî ajans",
    "5 haber",
-   7646,
+   16316,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1489,7 +1476,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   61810,
+   61573,
    "",
    "",
    null,
@@ -1498,7 +1485,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   468,
+   679,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1507,7 +1494,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   488,
+   864,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1516,7 +1503,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   554,
+   3468,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1525,7 +1512,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2018,
+   2128,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1534,7 +1521,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   522,
+   740,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1542,8 +1529,8 @@
   ],
   [
    "Bank of Ghana",
-   "worker: The read operation timed out | allorigins: The read operation ",
-   496771,
+   "konuya uyan haber yok (3 kayit tarandi)",
+   414899,
    "",
    "",
    null,
@@ -1551,8 +1538,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (334792 bayt, vekil)",
-   7610,
+   "besleme tanimsiz (334857 bayt, vekil)",
+   9206,
    "",
    "",
    null,
@@ -1561,7 +1548,7 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   1775,
+   8387,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1570,7 +1557,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3863,
+   3893,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
