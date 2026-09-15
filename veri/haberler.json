@@ -1,10 +1,101 @@
 {
- "uretim": "2026-09-15T05:18:06.747801+00:00",
+ "uretim": "2026-09-15T10:26:43.492752+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
- "haberSayisi": 104,
+ "haberSayisi": 105,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "ED(MEM) 1323 – EData submission compliance report",
+   "link": "https://www.icco.org/edmem-1323-edata-submission-compliance-report/",
+   "tarih": "2026-09-15T10:35:18+00:00",
+   "ozet": "",
+   "kaynak": "ICCO",
+   "grup": "ICCO",
+   "alan": "icco.org",
+   "w": 1.3,
+   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
+   "baslikTR": "ED(MEM) 1323 – EVeri gönderimi uyumluluk raporu",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ 38 000 producteurs ont vendu leur cacao avec leurs cartes depuis le 1er septembre",
+   "link": "https://www.aip.ci/cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre",
+   "tarih": "2026-09-15T08:13:45+00:00",
+   "ozet": "Abidjan, 15 sept 2026 (AIP) – Quelque 38 000 producteurs de cacao ont effectué des transactions en utilisant leurs cartes de producteur entre le 1er et le 13 septembre 2026, soit moins de deux semaines après l’entrée en vigueur du Système national de traçabili",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ 1 Eylül'den bu yana 38.000 üretici kakaosunu kartlarıyla sattı",
+   "okunur": true
+  },
+  {
+   "baslik": "Quelque 38 000 producteurs ont vendu leur cacao avec leurs cartes entre le 1er et le 13 septembre 2026 (Reuters)",
+   "link": "https://www.aip.ci/quelque-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-entre-le-1er-et-le-13-septembre-2026-reuters/?utm_source=rss&utm_medium=rss&utm_campaign=quelque-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-entre-le-1er-et-le-13-septembre-2026-reuters",
+   "tarih": "2026-09-15T07:30:48+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "1-13 Eylül 2026 tarihleri arasında yaklaşık 38.000 üretici kakaolarını kartlarıyla sattı (Reuters)",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/Revue de presse/ Rentrée scolaire, élevage et actualité politique au menu des titres des journaux du jour",
+   "link": "https://www.aip.ci/cote-divoire-aip-revue-de-presse-rentree-scolaire-elevage-et-actualite-politique-au-menu-des-titres-des-journaux-du-jour/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-revue-de-presse-rentree-scolaire-elevage-et-actualite-politique-au-menu-des-titres-des-journaux-du-jour",
+   "tarih": "2026-09-15T07:27:38+00:00",
+   "ozet": "Abidjan, 15 sept 2026 (AIP) – La rentrée scolaire 2026-2027, la modernisation de l’élevage, les tensions dans la filière café-cacao et l’actualité politique, notamment l’affaire Koné Katinan, constituent les principaux sujets à la Une des journaux ivoiriens pa",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Basın incelemesi/ Günlük gazete manşetlerinin menüsünde okula dönüş, hayvancılık ve siyasi haberler",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/26 000 tonnes de cacao achetées en une semaine via le système national de traçabilité",
+   "link": "https://www.aip.ci/cote-divoire-aip-26-000-tonnes-de-cacao-achetees-en-une-semaine-via-le-systeme-national-de-tracabilite/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-26-000-tonnes-de-cacao-achetees-en-une-semaine-via-le-systeme-national-de-tracabilite",
+   "tarih": "2026-09-15T06:35:35+00:00",
+   "ozet": "Abidjan, 15 sept 2026 (AIP) – Quelque 26 000 tonnes de fèves de cacao ont été achetées auprès des producteurs, du 7 au 13 septembre 2026, au prix garanti de 1 200 FCFA le kilogramme, dans le cadre du Système national de traçabilité (SNT), selon le bilan hebdom",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ulusal izlenebilirlik sistemi aracılığıyla bir haftada 26.000 ton kakao satın alındı",
+   "okunur": true
+  },
+  {
+   "baslik": "Brazil Coffee Export Pipeline Builds as Cerrado Arabica Harvest Reaches 99% (14 September 2026)",
+   "link": "https://www.cocoaintel.com/brazil-coffee-export-pipeline-builds-as-cerrado-arabica-harvest-reaches-99-14-september-2026/",
+   "tarih": "2026-09-15T06:06:47+00:00",
+   "ozet": "Brazil’s September coffee export pipeline strengthens as Cerrado Mineiro’s Arabica harvest reaches 99% and early flowering shifts focus to 2027.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Cerrado Arabica Hasadının %99'a Ulaşmasıyla Brezilya Kahve İhracat Boru Hattı İnşa Ediliyor (14 Eylül 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Rebounds as Côte d’Ivoire Weather and Arrivals Raise Supply Risks (14 September 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-rebounds-as-cote-divoire-weather-and-arrivals-raise-supply-risks-14-september-2026/",
+   "tarih": "2026-09-15T06:04:25+00:00",
+   "ozet": "Cocoa futures rebound as Côte d’Ivoire faces weak rainfall, slow port arrivals and traceability delays, while Brazil expands supply.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili Hava Durumu ve Gelişlerin Tedarik Risklerini Artırmasıyla Kakao Yükseliyor (14 Eylül 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Cocoa farmers call for urgent protection of their farms",
    "link": "https://3news.com/news/cocoa-farmers-call-for-urgent-protection-of-their-farms",
@@ -146,45 +237,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "OIA kahve ve kakao, Divo'dan 2026 kampanyası için üreticilere yönelik pazarlama konusunda bir farkındalık turu başlatıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ L’OIA café cacao lance depuis Divo une tournée de sensibilisation des producteurs sur la commercialisation pour la campagne 2026",
-   "link": "https://www.aip.ci/cote-divoire-aip-loia-cafe-cacao-lance-depuis-divo-une-tournee-de-sensibilisation-des-producteurs-sur-la-commercialisation-pour-la-campagne-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-loia-cafe-cacao-lance-depuis-divo-une-tournee-de-sensibilisation-des-producteurs-sur-la-commercialisation-pour-la-campagne-2026-2027",
-   "tarih": "2026-09-13T08:59:34+00:00",
-   "ozet": "Divo, 13 sept 2026 (AIP) – L’Organisation interprofessionnelle agricole (OIA) café-cacao et certains de ses partenaires de la filière ont lancé, samedi 12 septembre 2026, dans la cour de la préfecture de Divo, une tournée nationale qu’ils organisent dans les 1",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ OIA kafe kakao, 2026 kampanyası için üreticilerin pazarlama konusunda farkındalığını artırmak amacıyla Divo'dan bir tur başlatıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "AIP/ L’OIT veut renforcer les mécanismes de concertation dans la filière cacao ivoirienne",
-   "link": "https://www.aip.ci/aip-loit-veut-renforcer-les-mecanismes-de-concertation-dans-la-filiere-cacao-ivoirienne/?utm_source=rss&utm_medium=rss&utm_campaign=aip-loit-veut-renforcer-les-mecanismes-de-concertation-dans-la-filiere-cacao-ivoirienne",
-   "tarih": "2026-09-12T18:19:25+00:00",
-   "ozet": "Yamoussoukro, 12 sept 2026 (AIP) – L’Organisation internationale du Travail (OIT) a organisé du mercredi 9 au vendredi 11 septembre 2026 à Yamoussoukro, un atelier consacré au dialogue social et à l’amélioration des revenus dans la cacaoculture, en vue de renf",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "AIP/ ILO, Fildişi Sahili kakao sektöründe istişare mekanizmalarını güçlendirmek istiyor",
-   "okunur": true
-  },
-  {
-   "baslik": "L’OIT veut renforcer les mécanismes de concertation dans la filière cacao ivoirienne",
-   "link": "https://www.aip.ci/loit-veut-renforcer-les-mecanismes-de-concertation-dans-la-filiere-cacao-ivoirienne/?utm_source=rss&utm_medium=rss&utm_campaign=loit-veut-renforcer-les-mecanismes-de-concertation-dans-la-filiere-cacao-ivoirienne",
-   "tarih": "2026-09-12T14:20:21+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "ILO, Fildişi Sahili kakao sektöründe istişare mekanizmalarını güçlendirmek istiyor",
    "okunur": true
   },
   {
@@ -669,19 +721,6 @@
    "okunur": true
   },
   {
-   "baslik": "Coffee Falls to Multi-Week Lows as Brazil’s Supply Outlook Improves (2 September 2026)",
-   "link": "https://www.cocoaintel.com/coffee-falls-to-multi-week-lows-as-brazils-supply-outlook-improves-2-september-2026/",
-   "tarih": "2026-09-03T07:00:37+00:00",
-   "ozet": "Arabica closes at 297.43 cents as StoneX raises Brazil’s 2026/27 coffee crop to a record 77.2 million bags, increasing pressure on global prices.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Brezilya'nın Arz Görünümü İyileşirken Kahve Birkaç Haftanın En Düşük Seviyesine Düştü (2 Eylül 2026)",
-   "okunur": true
-  },
-  {
    "baslik": "Women and Youth Must Shape Cocoa’s Future, CAA Farmer Forum Hears",
    "link": "https://cocoaradar.com/women-and-youth-must-shape-cocoas-future-caa-farmer-forum-hears/",
    "tarih": "2026-09-03T03:31:13+00:00",
@@ -783,19 +822,6 @@
    "w": 0.85,
    "kaynakUyari": "",
    "baslikTR": "Gelecek Nesli Kakaoyla İlgilendirmek",
-   "okunur": true
-  },
-  {
-   "baslik": "Coffee futures retreat as technical selling outweighs weather concerns (1 September 2026)",
-   "link": "https://www.cocoaintel.com/coffee-futures-retreat-as-technical-selling-outweighs-weather-concerns-1-september-2026/",
-   "tarih": "2026-09-02T06:33:09+00:00",
-   "ozet": "Arabica and Robusta fell as technical selling outweighed bullish weather concerns, slower Brazilian shipments and lean Japanese stocks.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Teknik satışların hava durumu endişelerini aşması nedeniyle kahve vadeli işlemleri geriledi (1 Eylül 2026)",
    "okunur": true
   },
   {
@@ -968,6 +994,19 @@
    "okunur": true
   },
   {
+   "baslik": "Cocoa Board law lacks clear strategy to attract young farmers and technology",
+   "link": "https://www.myjoyonline.com/cocoa-board-law-lacks-clear-strategy-to-attract-young-farmers-and-technology-cocoa-farmers-association/",
+   "tarih": "2026-08-27T11:12:21+00:00",
+   "ozet": "The Spokesperson for the Ghana National Cocoa Farmers Association, Nana Aduna II, says the newly enacted Ghana Cocoa Board Law offers no clear strategy for attracting young people and technological innovation into the cocoa industry.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Kurulu yasasında genç çiftçileri ve teknolojiyi çekecek net bir strateji bulunmuyor",
+   "okunur": true
+  },
+  {
    "baslik": "Studies reveal one in four cocoa audits in Ivory Coast feature manipulated data",
    "link": "https://www.confectioneryproduction.com/news/59242/studies-reveal-one-in-four-cocoa-audits-in-ivory-coast-feature-manipulated-data/",
    "tarih": "2026-08-26T12:44:37+00:00",
@@ -994,19 +1033,6 @@
    "okunur": true
   },
   {
-   "baslik": "Volta, Oti cocoa farmers cry over unpaid beans",
-   "link": "https://ghanaiantimes.com.gh/volta-oti-cocoa-farmers-cry-over-unpaid-beans/",
-   "tarih": "2026-08-25T14:28:54+00:00",
-   "ozet": "",
-   "kaynak": "Ghanaian Times",
-   "grup": "Ghanaian Times",
-   "alan": "ghanaiantimes.com.gh",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Volta ve Oti kakao çiftçileri ödenmeyen çekirdekler yüzünden ağlıyor",
-   "okunur": true
-  },
-  {
    "baslik": "ED(MEM) 1321 – Payment of Outstanding Contributions",
    "link": "https://www.icco.org/edmem-1321-payment-of-outstanding-contributions/",
    "tarih": "2026-08-24T08:49:24+00:00",
@@ -1017,19 +1043,6 @@
    "w": 1.3,
    "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
    "baslikTR": "ED(MEM) 1321 – Ödenmemiş Katkı Paylarının Ödenmesi",
-   "okunur": true
-  },
-  {
-   "baslik": "Exclusive video: Cargill cocoa processing York site visit",
-   "link": "https://www.confectioneryproduction.com/news/59169/exclusive-video-cargill-cocoa-processing-york-site-visit/",
-   "tarih": "2026-08-22T11:10:50+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Özel video: Cargill kakao işleme York tesisi ziyareti",
    "okunur": true
   },
   {
@@ -1361,17 +1374,17 @@
  "rapor": [
   [
    "ICCO",
-   "7 haber",
-   1256,
+   "8 haber",
+   1675,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
-   13
+   12
   ],
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1542,
+   1690,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1380,7 +1393,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4455,
+   4887,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1389,7 +1402,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58996,
+   60001,
    "",
    "",
    null,
@@ -1398,7 +1411,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   177,
+   103,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1407,7 +1420,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   466,
+   807,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1416,7 +1429,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   4299,
+   1845,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1425,7 +1438,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   410,
+   430,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1434,7 +1447,7 @@
   [
    "Panamir",
    "2 haber",
-   2084,
+   2526,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1443,7 +1456,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   2101,
+   1888,
    "",
    "",
    null,
@@ -1452,7 +1465,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   368,
+   756,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1461,7 +1474,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6294,
+   10786,
    "",
    "",
    null,
@@ -1470,7 +1483,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7970,
+   8919,
    "",
    "",
    null,
@@ -1479,7 +1492,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   448,
+   706,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1487,8 +1500,8 @@
   ],
   [
    "Confectionery Production",
-   "5 haber",
-   2219,
+   "4 haber",
+   2748,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1496,8 +1509,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "13 haber",
-   1200,
+   "14 haber",
+   1425,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1505,8 +1518,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "5 haber",
-   21126,
+   "6 haber",
+   25012,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1515,7 +1528,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   60356,
+   63320,
    "",
    "",
    null,
@@ -1524,7 +1537,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   560,
+   1625,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1533,7 +1546,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   633,
+   726,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1542,7 +1555,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   483,
+   517,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1551,7 +1564,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   12731,
+   2333,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1560,7 +1573,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   842,
+   1051,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1569,7 +1582,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14868,
+   15820,
    "",
    "",
    null,
@@ -1578,7 +1591,7 @@
   [
    "3News · GH",
    "1 haber",
-   3280,
+   5126,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1587,7 +1600,7 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   7627,
+   30023,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1595,8 +1608,8 @@
   ],
   [
    "Ghanaian Times",
-   "3 haber",
-   4349,
+   "2 haber",
+   5016,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
