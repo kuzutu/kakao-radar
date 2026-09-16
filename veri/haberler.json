@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-16T09:56:16.546303+00:00",
+ "uretim": "2026-09-16T14:55:14.673419+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
- "haberSayisi": 105,
+ "haberSayisi": 104,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Women of Cacao Summit Brings Sustainability, Innovation and Culture Into Focus",
+   "link": "https://cocoaradar.com/women-of-cacao-summit-brings-sustainability-innovation-and-culture-into-focus/",
+   "tarih": "2026-09-16T10:46:42+00:00",
+   "ozet": "The four-day bilingual gathering will connect women across the cacao value chain through discussions spanning wellness, ethical sourcing, chocolate technology and cultural heritage",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Kakaolu Kadınlar Zirvesi Sürdürülebilirliği, İnovasyonu ve Kültürü Odak Noktasına Getiriyor",
+   "okunur": true
+  },
   {
    "baslik": "Webinar: EU Decision-Making",
    "link": "https://www.eurococoa.com/events/eu-decision-making-webinar/",
@@ -773,19 +786,6 @@
    "okunur": true
   },
   {
-   "baslik": "Mars launches world’s first digital chocolate bar",
-   "link": "https://www.confectionerynews.com/Article/2026/09/02/mars-takes-snickers-into-ai-with-worlds-first-digital-chocolate-bar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-09-02T15:01:17+00:00",
-   "ozet": "Mars-owned Snickers has launched Hungr.AI, a digital chocolate bar designed to \"feed\" AI assistants, marking a novel approach to brand engagement.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "confectionerynews.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Mars dünyanın ilk dijital çikolatasını piyasaya sürüyor",
-   "okunur": true
-  },
-  {
    "baslik": "A Fundação Mundial do Cacau e o COCOBOD anunciam o Gana como anfitrião do Encontro de Parceiros 2027",
    "link": "https://worldcocoafoundation.org/news-and-resources/press-release/a-fundacao-mundial-do-cacau-e-o-cocobod-anunciam-o-gana-como-anfitriao-do-encontro-de-parceiros-2027",
    "tarih": "2026-09-02T10:13:23+02:00",
@@ -978,19 +978,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Gana'nın dış sektörünün görünümü 2026'nın ikinci yarısı için olumlu olmaya devam ediyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Beyond the Price Spike: Singapore Prepares for Cocoa’s Next Big Conversation",
-   "link": "https://cocoaradar.com/beyond-the-price-spike-singapore-prepares-for-cocoas-next-big-conversation/",
-   "tarih": "2026-08-28T09:22:27+00:00",
-   "ozet": "As the global cocoa sector confronts volatile markets, regulatory upheaval and questions over future supply, the Cocoa Association of Asia is bringing the industry together. CocoaRadar speaks exclusively with CAA Secretary General and COO Shirley Choo about wh",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Fiyat Artışının Ötesinde: Singapur, Cocoa'nın Bir Sonraki Büyük Konuşmasına Hazırlanıyor",
    "okunur": true
   },
   {
@@ -1375,7 +1362,7 @@
   [
    "ICCO",
    "8 haber",
-   1084,
+   1317,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1384,7 +1371,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   895,
+   1632,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1393,7 +1380,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4652,
+   3659,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1402,7 +1389,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58842,
+   57220,
    "",
    "",
    null,
@@ -1411,7 +1398,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   214,
+   116,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1420,7 +1407,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   480,
+   457,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1429,7 +1416,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   4582,
+   1110,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1438,7 +1425,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   607,
+   369,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1447,7 +1434,7 @@
   [
    "Panamir",
    "2 haber",
-   1450,
+   1922,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1456,7 +1443,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1786,
+   1001,
    "",
    "",
    null,
@@ -1464,8 +1451,8 @@
   ],
   [
    "ConfectioneryNews",
-   "5 haber",
-   605,
+   "4 haber",
+   258,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1474,7 +1461,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6357,
+   5650,
    "",
    "",
    null,
@@ -1483,7 +1470,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8666,
+   6168,
    "",
    "",
    null,
@@ -1492,7 +1479,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   399,
+   230,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1501,7 +1488,7 @@
   [
    "Confectionery Production",
    "4 haber",
-   1897,
+   2285,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1510,7 +1497,7 @@
   [
    "MyJoyOnline · GH",
    "14 haber",
-   1290,
+   897,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1519,7 +1506,7 @@
   [
    "AIP · CI resmî ajans",
    "6 haber",
-   8960,
+   21966,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1528,7 +1515,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   62736,
+   61995,
    "",
    "",
    null,
@@ -1537,7 +1524,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   533,
+   1591,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1546,7 +1533,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   682,
+   485,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1555,7 +1542,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   8916,
+   532,
    "https://businessday.ng/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1564,7 +1551,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2214,
+   2077,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1573,7 +1560,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   761,
+   1653,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1582,7 +1569,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   13122,
+   14492,
    "",
    "",
    null,
@@ -1590,8 +1577,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (336153 bayt, vekil)",
-   7312,
+   "besleme tanimsiz (336312 bayt, vekil)",
+   7191,
    "",
    "",
    null,
@@ -1600,7 +1587,7 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   12169,
+   8953,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1609,7 +1596,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   5312,
+   9767,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
