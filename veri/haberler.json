@@ -1,10 +1,36 @@
 {
- "uretim": "2026-09-18T05:59:12.247602+00:00",
+ "uretim": "2026-09-18T11:18:16.433387+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 19,
- "haberSayisi": 104,
+ "calisanKaynak": 16,
+ "haberSayisi": 98,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Arabica Tests 275 as Coffee Sell-Off Extends; Hail Damage Clouds 2027 Supply (17 September 2026)",
+   "link": "https://www.cocoaintel.com/arabica-tests-275-as-coffee-sell-off-extends-hail-damage-clouds-2027-supply-17-september-2026/",
+   "tarih": "2026-09-18T06:19:07+00:00",
+   "ozet": "Arabica tests 275 cents as US futures fall, while rising ICE stocks and Brazilian supply offset hail damage and uncertainty over Colombia’s crop.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Kahve Satışları Artarken Arabica 275'i Test Ediyor; Dolu Hasarı Bulutları 2027 Arzı (17 Eylül 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Breaks Support as Selling Accelerates (17 September 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-breaks-support-as-selling-accelerates-17-september-2026/",
+   "tarih": "2026-09-18T06:16:04+00:00",
+   "ozet": "New York December cocoa fell 5.56% to a last trade of $5,620. Explore the technical breakdown, supply news and Friday’s key support levels.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Satış Hızlanırken Kakao Desteğini Kırdı (17 Eylül 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Afarinick, Meiji deepen partnership to advance sustainable cocoa production",
    "link": "https://www.myjoyonline.com/afarinick-meiji-deepen-partnership-to-advance-sustainable-cocoa-production/",
@@ -42,19 +68,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Gana 2026 ve 2027'de büyük bir cari fazla daha verecek",
-   "okunur": true
-  },
-  {
-   "baslik": "Standard Chartered to participate in COCOBOD financing programme",
-   "link": "https://asaaseradio.com/standard-chartered-to-participate-in-cocobod-financing-programme/",
-   "tarih": "2026-09-17T11:32:05+00:00",
-   "ozet": "",
-   "kaynak": "Asaase Radio · GH",
-   "grup": "Asaase Radio · GH",
-   "alan": "asaaseradio.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Standard Chartered COCOBOD finansman programına katılacak",
    "okunur": true
   },
   {
@@ -149,6 +162,19 @@
    "okunur": true
   },
   {
+   "baslik": "El Niño threatens Ghana, Côte d’Ivoire cocoa exports",
+   "link": "https://businessday.ng/agriculture/article/el-nino-threatens-ghana-cote-divoire-cocoa-exports-fitch-says/",
+   "tarih": "2026-09-16T12:48:26+00:00",
+   "ozet": "",
+   "kaynak": "BusinessDay · NG",
+   "grup": "BusinessDay · NG",
+   "alan": "businessday.ng",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "El Niño, Gana ve Fildişi Sahili kakao ihracatını tehdit ediyor",
+   "okunur": true
+  },
+  {
    "baslik": "Women of Cacao Summit Brings Sustainability, Innovation and Culture Into Focus",
    "link": "https://cocoaradar.com/women-of-cacao-summit-brings-sustainability-innovation-and-culture-into-focus/",
    "tarih": "2026-09-16T10:46:42+00:00",
@@ -172,19 +198,6 @@
    "w": 1.35,
    "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
    "baslikTR": "Web Semineri: AB Karar Alma Süreci",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ REVUE DE PRESSE: L’affaire Koné Katinan et la crise dans la filière cacao en Une",
-   "link": "https://www.aip.ci/cote-divoire-aip-revue-de-presse-laffaire-kone-katinan-et-la-crise-dans-la-filiere-cacao-en-une/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-revue-de-presse-laffaire-kone-katinan-et-la-crise-dans-la-filiere-cacao-en-une",
-   "tarih": "2026-09-16T07:47:04+00:00",
-   "ozet": "Abidjan, 16 sept 2026 (AIP)- L’affaire Koné Katinan, la crise dans la filière cacao et les projets d’infrastructures sont les principaux sujets qui dominent la Une des journaux ivoiriens parus le mercredi 16 septembre 2026. Sur l’affaire Koné Katinan, les jour",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/BASIN İNCELEMESİ: Koné Katinan olayı ve kakao sektöründeki kriz ön sayfada",
    "okunur": true
   },
   {
@@ -279,19 +292,6 @@
    "okunur": true
   },
   {
-   "baslik": "Meiji signs Letter of Intent with Ghana to support sustainable cocoa industry",
-   "link": "https://asaaseradio.com/meiji-signs-letter-of-intent-with-ghana-to-support-sustainable-cocoa-industry/",
-   "tarih": "2026-09-14T19:23:45+00:00",
-   "ozet": "",
-   "kaynak": "Asaase Radio · GH",
-   "grup": "Asaase Radio · GH",
-   "alan": "asaaseradio.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Meiji, sürdürülebilir kakao endüstrisini desteklemek için Gana ile Niyet Mektubu imzaladı",
-   "okunur": true
-  },
-  {
    "baslik": "Respect for human rights: stakeholders from forty cocoa-growing communities trained",
    "link": "https://www.cocoainitiative.org/news/respect-human-rights-stakeholders-forty-cocoa-growing-communities-trained",
    "tarih": "2026-09-14T18:21:37+00:00",
@@ -341,19 +341,6 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "Kakao, Eylül Sonu (11 Eylül 2026) Öncesinde Satış Baskısının Artmasıyla Düşüşe Döndü",
-   "okunur": true
-  },
-  {
-   "baslik": "Cacao : l’ONCC et Cooko renouvellent leur accord pour trois ans, sans bilan ni objectifs chiffrés publics",
-   "link": "https://www.investiraucameroun.com/agriculture/1309-23789-cacao-l-oncc-et-cooko-renouvellent-leur-accord-pour-trois-ans-sans-bilan-ni-objectifs-chiffres-publics",
-   "tarih": "2026-09-13T14:21:30+00:00",
-   "ozet": "L’Office national du cacao et du café (ONCC) et Cooko , entreprise allemande spécialisée dans la fermentation post-récolte et la traçabilité numérique du cacao, ont signé, le 10 septembre 2026 à Douala, un nouveau protocole d’accord de trois ans. Celui-ci remp",
-   "kaynak": "Investir au Cameroun",
-   "grup": "Investir au Cameroun",
-   "alan": "investiraucameroun.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao: ONCC ve Cooko, sonuçlar veya kamuya mal olmuş rakamlar olmadan anlaşmalarını üç yıl süreyle yeniledi",
    "okunur": true
   },
   {
@@ -461,19 +448,6 @@
    "okunur": true
   },
   {
-   "baslik": "IMF raises concerns over political control of COCOBOD, GPHA and VRA boards",
-   "link": "https://asaaseradio.com/imf-raises-concerns-over-political-control-of-gpha-vra-cocobod-boards/",
-   "tarih": "2026-09-11T05:31:01+00:00",
-   "ozet": "",
-   "kaynak": "Asaase Radio · GH",
-   "grup": "Asaase Radio · GH",
-   "alan": "asaaseradio.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "IMF, COCOBOD, GPHA ve VRA kurullarının siyasi kontrolüne ilişkin endişelerini dile getirdi",
-   "okunur": true
-  },
-  {
    "baslik": "IMF identifies political appointments as major weakness in GPHA, VRA, COCOBOD and other SOEs",
    "link": "https://www.myjoyonline.com/imf-identifies-political-appointments-as-major-weakness-in-gpha-vra-cocobod-and-other-soes/",
    "tarih": "2026-09-10T20:52:37+00:00",
@@ -539,19 +513,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa lands now “security zones” as farmers step up anti-galamsey campaign",
-   "link": "https://asaaseradio.com/cocoa-lands-now-security-zones-as-farmers-step-up-anti-galamsey-campaign/",
-   "tarih": "2026-09-10T04:35:37+00:00",
-   "ozet": "",
-   "kaynak": "Asaase Radio · GH",
-   "grup": "Asaase Radio · GH",
-   "alan": "asaaseradio.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Çiftçiler Galamsey karşıtı kampanyayı hızlandırdıkça kakao artık “güvenlik bölgelerine” çıkıyor",
-   "okunur": true
-  },
-  {
    "baslik": "Ivory Coast cocoa sellers struggle to use new traceability system",
    "link": "https://www.myjoyonline.com/ivory-coast-cocoa-sellers-struggle-to-use-new-traceability-system/",
    "tarih": "2026-09-10T03:26:00+00:00",
@@ -591,19 +552,6 @@
    "okunur": true
   },
   {
-   "baslik": "New York Cocoa Falls 4.02% to $5,927; Dry Weather and Labour Shortages Cloud Brazil’s Main-Crop Outlook (8 September 2026)",
-   "link": "https://www.cocoaintel.com/new-york-cocoa-falls-4-02-to-5-927-dry-weather-and-labour-shortages-cloud-brazils-main-crop-outlook-8-september-2026/",
-   "tarih": "2026-09-09T06:00:04+00:00",
-   "ozet": "December New York cocoa came under sustained selling pressure on 8 September, closing at $5,927/t, down $248, or 4.02%, from the previous session’s $6,175 close. After opening at $6,119 and reaching a session high of $6,237, the",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "New York Cocoa %4,02 düşüşle 5.927 dolara düştü; Kuru Hava ve İşgücü Kıtlığı Brezilya'nın Ana Mahsul Görünümünü Etkiliyor (8 Eylül 2026)",
-   "okunur": true
-  },
-  {
    "baslik": "Terry’s Chocolate Orange x Baileys fuel confectionery’s hottest trend",
    "link": "https://www.confectionerynews.com/Article/2026/09/08/terrys-chocolate-orange-and-baileys-team-up-for-festive-confectionery-collab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-09-08T15:15:38+00:00",
@@ -640,19 +588,6 @@
    "w": 1.3,
    "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
    "baslikTR": "ED(MEM) 1322",
-   "okunur": true
-  },
-  {
-   "baslik": "Coffee Market Opens the Week on a Cautious Footing After Heavy Fund Liquidation (4/7 Септембер 2026)",
-   "link": "https://www.cocoaintel.com/coffee-market-opens-the-week-on-a-cautious-footing-after-heavy-fund-liquidation-4-7-september-2026/",
-   "tarih": "2026-09-08T06:57:30+00:00",
-   "ozet": "Coffee markets face fund selling, Vietnam weather risks and tighter Colombian supply as arabica and robusta enter a volatile new week.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Kahve Piyasası Ağır Fon Tasfiyesinin Ardından Haftayı Dikkatli Bir Şekilde Açtı (7/4 Eylül 2026)",
    "okunur": true
   },
   {
@@ -1280,19 +1215,6 @@
    "okunur": true
   },
   {
-   "baslik": "Oyo govt receives Gestpoint Nigeria on cocoa investment initiative",
-   "link": "https://businessday.ng/news/article/oyo-govt-receives-gestpoint-nigeria-on-cocoa-investment-initiative/",
-   "tarih": "2026-07-20T09:14:34+00:00",
-   "ozet": "",
-   "kaynak": "BusinessDay · NG",
-   "grup": "BusinessDay · NG",
-   "alan": "businessday.ng",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Oyo hükümeti, kakao yatırım girişimi konusunda Gestpoint Nijerya'yı aldı",
-   "okunur": true
-  },
-  {
    "baslik": "Good practices for setting up bridging classes in cocoa communities with Sabina Vigani",
    "link": "https://www.cocoainitiative.org/news/latest-videos/good-practices-setting-bridging-classes-cocoa-communities-sabina-vigani",
    "tarih": "2026-07-16T12:51:27+00:00",
@@ -1362,7 +1284,7 @@
   [
    "ICCO",
    "8 haber",
-   965,
+   1137,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1371,7 +1293,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "4 haber",
-   1351,
+   1402,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1380,7 +1302,7 @@
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   3987,
+   3968,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1389,7 +1311,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57683,
+   58337,
    "",
    "",
    null,
@@ -1398,7 +1320,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   98,
+   183,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1407,7 +1329,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   471,
+   396,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1416,7 +1338,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1130,
+   1168,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1425,7 +1347,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   152,
+   290,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1434,7 +1356,7 @@
   [
    "Panamir",
    "2 haber",
-   1897,
+   1845,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1443,7 +1365,7 @@
   [
    "Barchart · Softs",
    "besleme tanimsiz (0 bayt, vekil)",
-   1297,
+   1142,
    "",
    "",
    null,
@@ -1452,7 +1374,7 @@
   [
    "ConfectioneryNews",
    "2 haber",
-   225,
+   414,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1461,7 +1383,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   5558,
+   5742,
    "",
    "",
    null,
@@ -1470,7 +1392,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   5865,
+   6315,
    "",
    "",
    null,
@@ -1478,17 +1400,17 @@
   ],
   [
    "Bakery & Snacks",
-   "1 haber",
-   136,
-   "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
-   "dogrudan",
+   "konuya uyan haber yok (20 kayit tarandi)",
+   7949,
+   "",
+   "",
    null,
    0
   ],
   [
    "Confectionery Production",
    "4 haber",
-   1621,
+   1708,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1497,7 +1419,7 @@
   [
    "MyJoyOnline · GH",
    "17 haber",
-   927,
+   1028,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1505,8 +1427,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "5 haber",
-   7032,
+   "4 haber",
+   17467,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1514,8 +1436,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
-   46085,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   61682,
    "",
    "",
    null,
@@ -1523,8 +1445,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (184748 bayt, vekil)",
-   28527,
+   "besleme tanimsiz (182455 bayt, vekil)",
+   14719,
    "",
    "",
    null,
@@ -1532,26 +1454,26 @@
   ],
   [
    "Investir au Cameroun",
-   "1 haber",
-   419,
-   "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
-   "onbellek",
+   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
+   29996,
+   "",
+   "",
    null,
    0
   ],
   [
    "BusinessDay · NG",
    "1 haber",
-   472,
-   "https://businessday.ng/tag/cocoa/feed/",
+   857,
+   "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
-   4
+   0
   ],
   [
    "Anecacao · EC",
    "5 haber",
-   6075,
+   1954,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1560,7 +1482,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   600,
+   587,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1568,8 +1490,8 @@
   ],
   [
    "Bank of Ghana",
-   "worker: The read operation timed out | allorigins: HTTP Error 500: Int",
-   482080,
+   "konuya uyan haber yok (3 kayit tarandi)",
+   453158,
    "",
    "",
    null,
@@ -1577,8 +1499,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (340604 bayt, vekil)",
-   9090,
+   "besleme tanimsiz (342806 bayt, vekil)",
+   9344,
    "",
    "",
    null,
@@ -1586,17 +1508,17 @@
   ],
   [
    "Asaase Radio · GH",
-   "5 haber",
-   10026,
-   "https://asaaseradio.com/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "worker: The read operation timed out | allorigins: The read operation ",
+   650730,
+   "",
+   "",
    null,
    0
   ],
   [
    "Ghanaian Times",
    "2 haber",
-   3737,
+   3954,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
