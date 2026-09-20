@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-20T19:50:05.778778+00:00",
+ "uretim": "2026-09-20T21:57:16.955153+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 19,
- "haberSayisi": 106,
+ "haberSayisi": 105,
  "cevirili": true,
  "haberler": [
   {
@@ -1020,19 +1020,6 @@
    "okunur": true
   },
   {
-   "baslik": "COCOBOD revenue surges to GH¢48.6bn, returns to GH¢5.1bn profit in 2025",
-   "link": "https://www.myjoyonline.com/cocobod-revenue-surges-to-gh%c2%a248-6bn-returns-to-gh%c2%a25-1bn-profit-in-2025/",
-   "tarih": "2026-08-31T12:20:10+00:00",
-   "ozet": "The Ghana Cocoa Board (COCOBOD) returned to profitability in 2025 after recording significant growth in cocoa purchases, export sales and local sales.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "COCOBOD geliri 48,6 milyar GH¢'ye yükseldi, 2025'te GH¢5,1 milyar kâra geri döndü",
-   "okunur": true
-  },
-  {
    "baslik": "Ferrero welcomes key progress from sector-wide cocoa initiative tackling child labour",
    "link": "https://www.confectioneryproduction.com/news/59261/ferrero-welcomes-key-progress-from-sector-wide-cocoa-initiative-tackling-child-labour/",
    "tarih": "2026-08-27T15:23:35+00:00",
@@ -1388,7 +1375,7 @@
   [
    "ICCO",
    "8 haber",
-   917,
+   875,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1397,7 +1384,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1567,
+   1333,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1406,7 +1393,7 @@
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   3868,
+   3953,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1415,7 +1402,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59023,
+   58029,
    "",
    "",
    null,
@@ -1424,7 +1411,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   191,
+   110,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1433,7 +1420,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   474,
+   465,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1442,7 +1429,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1006,
+   1331,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1451,7 +1438,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   301,
+   139,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1460,7 +1447,7 @@
   [
    "Panamir",
    "2 haber",
-   1851,
+   2225,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1469,7 +1456,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   116,
+   217,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1478,7 +1465,7 @@
   [
    "ConfectioneryNews",
    "3 haber",
-   326,
+   1287,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1487,7 +1474,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   158,
+   169,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1496,7 +1483,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8398,
+   7080,
    "",
    "",
    null,
@@ -1505,7 +1492,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   9059,
+   6490,
    "",
    "",
    null,
@@ -1514,7 +1501,7 @@
   [
    "Confectionery Production",
    "5 haber",
-   1441,
+   1684,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1522,8 +1509,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "15 haber",
-   5918,
+   "14 haber",
+   1021,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1532,7 +1519,7 @@
   [
    "AIP · CI resmî ajans",
    "6 haber",
-   12129,
+   7065,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1540,8 +1527,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   61890,
+   "besleme tanimsiz (17318 bayt, vekil)",
+   38899,
    "",
    "",
    null,
@@ -1549,8 +1536,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (187844 bayt, vekil)",
-   31540,
+   "besleme tanimsiz (187808 bayt, vekil)",
+   36600,
    "",
    "",
    null,
@@ -1558,8 +1545,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
-   19264,
+   "besleme tanimsiz (5 bayt, vekil)",
+   9587,
    "",
    "",
    null,
@@ -1568,7 +1555,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   550,
+   720,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1577,7 +1564,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   1473,
+   1998,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1586,7 +1573,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   929,
+   692,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1594,8 +1581,8 @@
   ],
   [
    "Bank of Ghana",
-   "worker: The read operation timed out | allorigins: HTTP Error 500: Int",
-   472875,
+   "worker: The read operation timed out | allorigins: HTTP Error 408: Req",
+   472803,
    "",
    "",
    null,
@@ -1603,8 +1590,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (341026 bayt, vekil)",
-   7303,
+   "besleme tanimsiz (341095 bayt, vekil)",
+   6864,
    "",
    "",
    null,
@@ -1613,7 +1600,7 @@
   [
    "Asaase Radio · GH",
    "5 haber",
-   8503,
+   1537,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1622,7 +1609,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   3542,
+   3847,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
