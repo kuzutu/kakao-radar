@@ -1481,20 +1481,6 @@
 "Hizmet URL'si: politikalar.google.com (yeni bir pencerede açılır)"
 ]
 },
-"https://www.aip.ci/tracabilite-du-cacao-600-cooperatives-effectuent-tous-leurs-achats-avec-la-carte-du-producteur/?utm_source=rss&utm_medium=rss&utm_campaign=tracabilite-du-cacao-600-cooperatives-effectuent-tous-leurs-achats-avec-la-carte-du-producteur": {
-"p": [
-"Essential cookies enable basic functions and are necessary for the proper function of the website.",
-"Statistics cookies collect information anonymously. This information helps us understand how visitors use our website.",
-"Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.",
-"Service URL: policies.google.com (opens in a new window)"
-],
-"pTR": [
-"Temel çerezler temel işlevleri etkinleştirir ve web sitesinin düzgün çalışması için gereklidir.",
-"İstatistik çerezleri bilgileri anonim olarak toplar. Bu bilgi, ziyaretçilerin web sitemizi nasıl kullandığını anlamamıza yardımcı olur.",
-"Google Analytics, bilinçli pazarlama kararları için web sitesi trafiğini izleyen ve analiz eden güçlü bir araçtır.",
-"Hizmet URL'si: politikalar.google.com (yeni bir pencerede açılır)"
-]
-},
 "https://www.barchart.com/story/news/4682664/cocoa-prices-plummet-on-ample-near-term-supplies": {
 "hata": "govde cikarilamadi",
 "p": [],
@@ -1506,6 +1492,11 @@
 "pTR": []
 },
 "https://www.barchart.com/story/news/4714429/cocoa-prices-rebound-on-forecasts-for-dry-weather-in-the-ivory-coast": {
+"hata": "govde cikarilamadi",
+"p": [],
+"pTR": []
+},
+"https://www.barchart.com/story/news/4716850/cocoa-prices-supported-by-forecasts-for-dry-weather-in-the-ivory-coast": {
 "hata": "govde cikarilamadi",
 "p": [],
 "pTR": []
