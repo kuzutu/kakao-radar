@@ -1,10 +1,101 @@
 {
- "uretim": "2026-09-23T07:43:41.003614+00:00",
+ "uretim": "2026-09-23T13:01:49.521746+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 22,
- "haberSayisi": 107,
+ "calisanKaynak": 23,
+ "haberSayisi": 112,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Indonesia",
+   "link": "https://www.eurococoa.com/events/indonesia-eu-business-forum-2026/",
+   "tarih": "2026-09-23T12:22:30+00:00",
+   "ozet": "",
+   "kaynak": "ECA · Avrupa öğütme",
+   "grup": "ECA · Avrupa öğütme",
+   "alan": "eurococoa.com",
+   "w": 1.35,
+   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
+   "baslikTR": "Endonezya",
+   "okunur": true
+  },
+  {
+   "baslik": "Cameroon Climbs Global Rankings for Rubber, Cocoa Paste and Bananas Despite 5% Drop in Total Exports",
+   "link": "https://www.businessincameroon.com/agriculture/2309-16813-cameroon-climbs-global-rankings-for-rubber-cocoa-paste-and-bananas-despite-5-drop-in-total-exports",
+   "tarih": "2026-09-23T11:44:15+00:00",
+   "ozet": "Cameroon moved up one place in global export rankings for natural rubber, cocoa paste and bananas in 2025, but national trade data show that the higher rankings did not consistently translate into stronger export volumes or revenues across the three products. ",
+   "kaynak": "Business in Cameroon",
+   "grup": "Business in Cameroon",
+   "alan": "businessincameroon.com",
+   "w": 0.95,
+   "kaynakUyari": "",
+   "baslikTR": "Kamerun, Toplam İhracattaki %5 Düşüşe Rağmen Kauçuk, Kakao Ezmesi ve Muzda Küresel Sıralamada Yükseliyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Sunbeth Publishes Inaugural Sustainability Report as Cocoa Supply Chains Face Higher Disclosure Expectations",
+   "link": "https://cocoaradar.com/sunbeth-publishes-inaugural-sustainability-report-as-cocoa-supply-chains-face-higher-disclosure-expectations/",
+   "tarih": "2026-09-23T11:03:49+00:00",
+   "ozet": "The company’s 2025 Sustainability Report sets out its approach to traceability, deforestation risk, farmer livelihoods and responsible sourcing as sustainability expectations across the cocoa sector continue to rise",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Kakao Tedarik Zincirleri Artan Açıklama Beklentileriyle Karşı Karşıyayken Sunbeth İlk Sürdürülebilirlik Raporunu Yayınladı",
+   "okunur": true
+  },
+  {
+   "baslik": "From Mars to Ferrero: Confectionery bets big on ultra-premium chocolate",
+   "link": "https://www.foodnavigator.com/Article/2026/09/23/mars-nestle-lindt-and-ferrero-lead-ultra-premium-chocolate-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "tarih": "2026-09-23T10:44:10+00:00",
+   "ozet": "From Lindt and Ferrero to Mondelēz and Nestlé, chocolate giants are embracing ultra-premium innovation as demand for luxury, sustainability and craftsmanship continues to rise.",
+   "kaynak": "ConfectioneryNews",
+   "grup": "ConfectioneryNews",
+   "alan": "foodnavigator.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Mars'tan Ferrero'ya: Şekerleme sektörü ultra premium çikolataya büyük yatırım yapıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire : SIR, Eni, Olam Cocoa… les dix premières entreprises ont frôlé 7 500 milliards FCFA de chiffre d’affaires en 2025",
+   "link": "https://www.sikafinance.com/premium/cote-divoire-sir-eni-olam-cocoa-les-dix-premieres-entreprises-ont-frole-7-500-milliards-fcfa-de-chiffre-daffaires-en-2025_64453",
+   "tarih": "2026-09-23T10:38:24+00:00",
+   "ozet": "Présentes dans le quotidien des Ivoiriens, à travers les hydrocarbures, les télécommunications, la distribution, les jeux de hasard, le cacao ou enco...",
+   "kaynak": "Sika Finance · CI",
+   "grup": "Sika Finance · CI",
+   "alan": "sikafinance.com",
+   "w": 0.85,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili : SIR, Eni, Olam Cocoa… 2025'te 7.500 milyarlık FCFA satış ortaklığındaki ilk girişimler",
+   "okunur": true
+  },
+  {
+   "baslik": "Absa, IFC announce $50m facility for cocoa buyers",
+   "link": "https://ghanaiantimes.com.gh/absa-ifc-announce-50m-facility-for-cocoa-buyers/",
+   "tarih": "2026-09-23T08:02:07+00:00",
+   "ozet": "",
+   "kaynak": "Ghanaian Times",
+   "grup": "Ghanaian Times",
+   "alan": "ghanaiantimes.com.gh",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Absa ve IFC, kakao alıcıları için 50 milyon dolarlık tesis duyurdu",
+   "okunur": true
+  },
+  {
+   "baslik": "Absa Bank Ghana and IFC announce $50m facility to expand cocoa financing",
+   "link": "https://www.myjoyonline.com/absa-bank-ghana-and-ifc-announce-50m-facility-to-expand-cocoa-financing/",
+   "tarih": "2026-09-23T07:46:50+00:00",
+   "ozet": "Absa Bank Ghana LTD and IFC have announced a $50 million unfunded risk participation facility to expand financing for Licensed Buying Companies purchasing traceable cocoa from farmers across Ghana.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Absa Bank Gana ve IFC, kakao finansmanını genişletmek için 50 milyon dolarlık tesis duyurdu",
+   "okunur": true
+  },
   {
    "baslik": "Arabica sell-off approaches 20% as Brazilian supply pressure builds, while flowering weather remains a risk (22 September 2026)",
    "link": "https://www.cocoaintel.com/arabica-sell-off-approaches-20-as-brazilian-supply-pressure-builds-while-flowering-weather-remains-a-risk-22-september-2026/",
@@ -263,19 +354,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Rusya, Nestlé Operasyonlarının Kontrolünü Ele Alarak Küresel Şekerleme Sektöründe Riskleri Artırıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Moody’s évalue la pertinence de la dernière notation de la Côte d’Ivoire",
-   "link": "https://www.sikafinance.com/premium/moodys-evalue-la-pertinence-de-la-derniere-notation-de-la-cote-divoire_64385",
-   "tarih": "2026-09-21T09:27:20+00:00",
-   "ozet": "Dynamique de croissance, recul des recettes cacaoyères, diversification de l'économie et évolution de la dette publique : l'agence Moody's a passé en...",
-   "kaynak": "Sika Finance · CI",
-   "grup": "Sika Finance · CI",
-   "alan": "sikafinance.com",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "Moody's, Fildişi Sahili'nin son notunun uygunluğunu değerlendiriyor",
    "okunur": true
   },
   {
@@ -994,19 +1072,6 @@
    "okunur": true
   },
   {
-   "baslik": "Women and Youth Must Shape Cocoa’s Future, CAA Farmer Forum Hears",
-   "link": "https://cocoaradar.com/women-and-youth-must-shape-cocoas-future-caa-farmer-forum-hears/",
-   "tarih": "2026-09-03T03:31:13+00:00",
-   "ozet": "Speakers at the CAA International Cocoa Conference in Singapore called for community-led investment, broader resilience measures, and stronger pathways for women and younger people to become decision-makers and entrepreneurs",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "CAA Çiftçi Forumu, Kakaonun Geleceğini Kadınlar ve Gençlerin Şekillendirmesi Gerektiğini Duydu",
-   "okunur": true
-  },
-  {
    "baslik": "A Fundação Mundial do Cacau e o COCOBOD anunciam o Gana como anfitrião do Encontro de Parceiros 2027",
    "link": "https://worldcocoafoundation.org/news-and-resources/press-release/a-fundacao-mundial-do-cacau-e-o-cocobod-anunciam-o-gana-como-anfitriao-do-encontro-de-parceiros-2027",
    "tarih": "2026-09-02T10:13:23+02:00",
@@ -1401,7 +1466,7 @@
   [
    "ICCO",
    "8 haber",
-   1256,
+   884,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1410,7 +1475,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1155,
+   1003,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1418,17 +1483,17 @@
   ],
   [
    "ECA · Avrupa öğütme",
-   "4 haber",
-   5109,
+   "5 haber",
+   4444,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
-   6
+   5
   ],
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   60187,
+   58083,
    "",
    "",
    null,
@@ -1437,7 +1502,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   99,
+   267,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1446,7 +1511,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   740,
+   555,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1455,7 +1520,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1158,
+   1062,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1464,7 +1529,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   547,
+   392,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1473,7 +1538,7 @@
   [
    "Panamir",
    "2 haber",
-   2162,
+   2076,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1482,7 +1547,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   181,
+   105,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1490,8 +1555,8 @@
   ],
   [
    "ConfectioneryNews",
-   "3 haber",
-   1019,
+   "4 haber",
+   474,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1499,8 +1564,8 @@
   ],
   [
    "FoodNavigator",
-   "2 haber",
-   324,
+   "3 haber",
+   626,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1509,7 +1574,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   9718,
+   6604,
    "",
    "",
    null,
@@ -1518,7 +1583,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   10182,
+   8995,
    "",
    "",
    null,
@@ -1527,7 +1592,7 @@
   [
    "Confectionery Production",
    "5 haber",
-   2276,
+   2369,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1535,8 +1600,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "12 haber",
-   1267,
+   "13 haber",
+   1166,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1545,7 +1610,7 @@
   [
    "AIP · CI resmî ajans",
    "6 haber",
-   18994,
+   19698,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1554,7 +1619,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   793,
+   656,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1562,26 +1627,26 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (191759 bayt, vekil)",
-   36883,
-   "",
-   "",
+   "1 haber",
+   1315,
+   "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
+   "onbellek",
    null,
    0
   ],
   [
    "Investir au Cameroun",
    "1 haber",
-   3611,
+   779,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
-   "kesif",
+   "onbellek",
    null,
    0
   ],
   [
    "BusinessDay · NG",
    "1 haber",
-   10243,
+   1313,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1590,7 +1655,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2304,
+   2258,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1599,7 +1664,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   915,
+   803,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1608,7 +1673,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   44509,
+   15091,
    "",
    "",
    null,
@@ -1617,7 +1682,7 @@
   [
    "3News · GH",
    "1 haber",
-   5511,
+   6388,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1626,7 +1691,7 @@
   [
    "Asaase Radio · GH",
    "6 haber",
-   15972,
+   13042,
    "https://asaaseradio.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1634,8 +1699,8 @@
   ],
   [
    "Ghanaian Times",
-   "1 haber",
-   4280,
+   "2 haber",
+   6309,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
