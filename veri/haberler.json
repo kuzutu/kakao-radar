@@ -1,10 +1,23 @@
 {
- "uretim": "2026-09-24T00:03:09.625941+00:00",
+ "uretim": "2026-09-24T04:47:21.616602+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 22,
- "haberSayisi": 109,
+ "calisanKaynak": 23,
+ "haberSayisi": 115,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocobod pitches $1.4 billion domestic financing plan",
+   "link": "https://www.myjoyonline.com/cocobod-pitches-1-4-billion-domestic-financing-plan/",
+   "tarih": "2026-09-24T03:06:00+00:00",
+   "ozet": "Ghana Cocoa Board (COCOBOD) is seeking to raise GH¢16.3 billion ($1.4 billion) from domestic investors to fund cocoa purchases for the upcoming season, according to a government presentation to investors.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Cocobod 1,4 milyar dolarlık yurt içi finansman planı sunuyor",
+   "okunur": true
+  },
   {
    "baslik": "Bicec Loses CFA16.4 Billion Damages Claim in Dispute Over Cocoa and Coffee Loans",
    "link": "https://www.businessincameroon.com/finance/2309-16820-bicec-loses-cfa16-4-billion-damages-claim-in-dispute-over-cocoa-and-coffee-loans",
@@ -370,6 +383,19 @@
    "okunur": true
   },
   {
+   "baslik": "“Let money flow” — Martin Adu demands financing assurance for cocoa farmers",
+   "link": "https://asaaseradio.com/let-money-flow-martin-adu-demands-financing-assurance-for-cocoa-farmers/",
+   "tarih": "2026-09-22T09:52:15+00:00",
+   "ozet": "",
+   "kaynak": "Asaase Radio · GH",
+   "grup": "Asaase Radio · GH",
+   "alan": "asaaseradio.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "“Paranın akmasına izin verin” — Martin Adu, kakao çiftçileri için finansman güvencesi talep ediyor",
+   "okunur": true
+  },
+  {
    "baslik": "Coffee Futures Retreat as Brazilian Shipments Accelerate and Weather Risks Shift to the Next Crop (21 September 2026)",
    "link": "https://www.cocoaintel.com/coffee-futures-retreat-as-brazilian-shipments-accelerate-and-weather-risks-shift-to-the-next-crop-21-september-2026/",
    "tarih": "2026-09-22T06:57:31+00:00",
@@ -591,6 +617,19 @@
    "okunur": true
   },
   {
+   "baslik": "Standard Chartered to participate in COCOBOD financing programme",
+   "link": "https://asaaseradio.com/standard-chartered-to-participate-in-cocobod-financing-programme/",
+   "tarih": "2026-09-17T11:32:05+00:00",
+   "ozet": "",
+   "kaynak": "Asaase Radio · GH",
+   "grup": "Asaase Radio · GH",
+   "alan": "asaaseradio.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Standard Chartered COCOBOD finansman programına katılacak",
+   "okunur": true
+  },
+  {
    "baslik": "Arabica Tests Critical Support as Spreads Weaken and Weather Risks Return (16 September 2026)",
    "link": "https://www.cocoaintel.com/arabica-tests-critical-support-as-spreads-weaken-and-weather-risks-return-16-september-2026/",
    "tarih": "2026-09-17T06:37:52+00:00",
@@ -760,6 +799,19 @@
    "okunur": true
   },
   {
+   "baslik": "Meiji signs Letter of Intent with Ghana to support sustainable cocoa industry",
+   "link": "https://asaaseradio.com/meiji-signs-letter-of-intent-with-ghana-to-support-sustainable-cocoa-industry/",
+   "tarih": "2026-09-14T19:23:45+00:00",
+   "ozet": "",
+   "kaynak": "Asaase Radio · GH",
+   "grup": "Asaase Radio · GH",
+   "alan": "asaaseradio.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Meiji, sürdürülebilir kakao endüstrisini desteklemek için Gana ile Niyet Mektubu imzaladı",
+   "okunur": true
+  },
+  {
    "baslik": "Respect for human rights: stakeholders from forty cocoa-growing communities trained",
    "link": "https://www.cocoainitiative.org/news/respect-human-rights-stakeholders-forty-cocoa-growing-communities-trained",
    "tarih": "2026-09-14T18:21:37+00:00",
@@ -864,6 +916,19 @@
    "okunur": true
   },
   {
+   "baslik": "IMF raises concerns over political control of COCOBOD, GPHA and VRA boards",
+   "link": "https://asaaseradio.com/imf-raises-concerns-over-political-control-of-gpha-vra-cocobod-boards/",
+   "tarih": "2026-09-11T05:31:01+00:00",
+   "ozet": "",
+   "kaynak": "Asaase Radio · GH",
+   "grup": "Asaase Radio · GH",
+   "alan": "asaaseradio.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "IMF, COCOBOD, GPHA ve VRA kurullarının siyasi kontrolüne ilişkin endişelerini dile getirdi",
+   "okunur": true
+  },
+  {
    "baslik": "IMF identifies political appointments as major weakness in GPHA, VRA, COCOBOD and other SOEs",
    "link": "https://www.myjoyonline.com/imf-identifies-political-appointments-as-major-weakness-in-gpha-vra-cocobod-and-other-soes/",
    "tarih": "2026-09-10T20:52:37+00:00",
@@ -887,6 +952,19 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Çiftçi Teşvikleri Test Edilen %6'lık Artışla Gana Kakao Fiyat Anlaşmazlığı Yoğunlaşıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa lands now “security zones” as farmers step up anti-galamsey campaign",
+   "link": "https://asaaseradio.com/cocoa-lands-now-security-zones-as-farmers-step-up-anti-galamsey-campaign/",
+   "tarih": "2026-09-10T04:35:37+00:00",
+   "ozet": "",
+   "kaynak": "Asaase Radio · GH",
+   "grup": "Asaase Radio · GH",
+   "alan": "asaaseradio.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Çiftçiler Galamsey karşıtı kampanyayı hızlandırdıkça kakao artık “güvenlik bölgelerine” çıkıyor",
    "okunur": true
   },
   {
@@ -1427,7 +1505,7 @@
   [
    "ICCO",
    "8 haber",
-   979,
+   1113,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1436,7 +1514,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1584,
+   1534,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1445,7 +1523,7 @@
   [
    "ECA · Avrupa öğütme",
    "5 haber",
-   4272,
+   4789,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1454,7 +1532,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58396,
+   59470,
    "",
    "",
    null,
@@ -1463,7 +1541,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   166,
+   139,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1472,7 +1550,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   719,
+   746,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1481,7 +1559,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1254,
+   983,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1490,7 +1568,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   674,
+   251,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1499,7 +1577,7 @@
   [
    "Panamir",
    "2 haber",
-   2290,
+   2630,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1508,7 +1586,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   334,
+   186,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1517,7 +1595,7 @@
   [
    "ConfectioneryNews",
    "3 haber",
-   593,
+   811,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1526,7 +1604,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   231,
+   733,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1535,7 +1613,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7936,
+   10133,
    "",
    "",
    null,
@@ -1544,7 +1622,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   11158,
+   9667,
    "",
    "",
    null,
@@ -1553,7 +1631,7 @@
   [
    "Confectionery Production",
    "5 haber",
-   2179,
+   2403,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1561,8 +1639,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "13 haber",
-   1358,
+   "14 haber",
+   1251,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1571,7 +1649,7 @@
   [
    "AIP · CI resmî ajans",
    "7 haber",
-   7018,
+   10158,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1580,7 +1658,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   744,
+   116,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1589,7 +1667,7 @@
   [
    "Business in Cameroon",
    "3 haber",
-   689,
+   1935,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1598,7 +1676,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   671,
+   800,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1607,7 +1685,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1625,
+   1149,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1616,7 +1694,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2092,
+   2037,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1625,7 +1703,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1043,
+   1220,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1634,7 +1712,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   446178,
+   453335,
    "",
    "",
    null,
@@ -1643,7 +1721,7 @@
   [
    "3News · GH",
    "1 haber",
-   7005,
+   5270,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1651,17 +1729,17 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: The read operation timed out | allorigins: The read operation ",
-   131285,
-   "",
-   "",
+   "6 haber",
+   5348,
+   "https://asaaseradio.com/?s=cocoa&feed=rss2",
+   "dogrudan",
    null,
    0
   ],
   [
    "Ghanaian Times",
    "2 haber",
-   4366,
+   3724,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
