@@ -1,10 +1,101 @@
 {
- "uretim": "2026-09-25T10:40:39.877575+00:00",
+ "uretim": "2026-09-25T15:33:39.519155+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 21,
- "haberSayisi": 112,
+ "calisanKaynak": 22,
+ "haberSayisi": 114,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cameroon Steps Up Cocoa Compliance Push to Keep Access to EU Market",
+   "link": "https://www.businessincameroon.com/public-management/2509-16834-cameroon-steps-up-cocoa-compliance-push-to-keep-access-to-eu-market",
+   "tarih": "2026-09-25T15:10:12+00:00",
+   "ozet": "Cameroon is stepping up preparations to keep its cocoa exports compliant with European Union market requirements. The push comes ahead of the December 30, 2026 application of the bloc’s deforestation regulation and includes work on legality, due diligence, sus",
+   "kaynak": "Business in Cameroon",
+   "grup": "Business in Cameroon",
+   "alan": "businessincameroon.com",
+   "w": 0.95,
+   "kaynakUyari": "",
+   "baslikTR": "Kamerun, AB Pazarına Erişimi Sürdürmek İçin Kakao Uyumluluğunu Artırıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Cameroon to Host International Cocoa Initiative Board for First Time",
+   "link": "https://www.businessincameroon.com/agribusiness/2509-16833-cameroon-to-host-international-cocoa-initiative-board-for-first-time",
+   "tarih": "2026-09-25T14:54:18+00:00",
+   "ozet": "Cameroon will host the Board of Directors of the International Cocoa Initiative (ICI) for the first time from November 2 to 5, 2026. The meeting comes as the organization expands its presence in the country and engages authorities on producer livelihoods, work",
+   "kaynak": "Business in Cameroon",
+   "grup": "Business in Cameroon",
+   "alan": "businessincameroon.com",
+   "w": 0.95,
+   "kaynakUyari": "",
+   "baslikTR": "Kamerun, Uluslararası Kakao Girişimi Kuruluna İlk Kez Ev Sahipliği Yapacak",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Le Conseil du café-cacao diagnostique et catégorise 339 sociétés coopératives du Guémon et du Cavally",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-diagnostique-et-categorise-339-societes-cooperatives-du-guemon-et-du-cavally/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-du-cafe-cacao-diagnostique-et-categorise-339-societes-cooperatives-du-guemon-et-du-cavally",
+   "tarih": "2026-09-25T14:11:29+00:00",
+   "ozet": "Guiglo, 25 sept 2026 (AIP) – L’étude diagnostique et de catégorisation de 339 sociétés coopératives relevant de la délégation régionale du Conseil du café-cacao du Guémon et du Cavally a été restituée, jeudi 24 septembre 2026 à Guiglo, lors d’un atelier organi",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Le Café-cacao diagnostique ve kategorize 339 Guémon ve Cavally Kooperatifi Topluluğu",
+   "okunur": true
+  },
+  {
+   "baslik": "New cocoa producer price looms as COCOBOD seeks funding for 2026/27 season",
+   "link": "https://www.myjoyonline.com/new-cocoa-producer-price-looms-as-cocobod-seeks-funding-for-2026-27-season/",
+   "tarih": "2026-09-25T14:04:29+00:00",
+   "ozet": "Ghana is preparing to enter the 2026/2027 cocoa season with a new producer price expected to be announced by government as authorities work to secure the financing needed to purchase cocoa from farmers.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD 2026/27 sezonu için fon ararken yeni kakao üreticisi fiyatı ufukta görünüyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Bia West: 111 young people trained in vocational apprenticeships",
+   "link": "https://3news.com/news/bia-west-111-young-people-trained-in-vocational-apprenticeships",
+   "tarih": "2026-09-25T13:45:30+00:00",
+   "ozet": "Cargill Ghana, in collaboration with the International Cocoa Initiative (ICI) have trained 111 young people who successfully completed various vocational apprenticeship training programs between 2023 and 2026.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Bia West: Mesleki çıraklık eğitimi alan 111 genç",
+   "okunur": true
+  },
+  {
+   "baslik": "Exclusive: Fairtrade cocoa premium prices kick-in offering key farmer support",
+   "link": "https://www.confectioneryproduction.com/news/59574/exclusive-fairtrade-cocoa-premium-prices-kick-in-offering-key-farmer-support/",
+   "tarih": "2026-09-25T12:52:29+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Ayrıcalıklı: Adil ticaret kakao premium fiyatları devreye giriyor ve önemli çiftçi desteği sağlıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "London Chocolate Forum Sets Three-Part Agenda For 2026 Event",
+   "link": "https://cocoaradar.com/london-chocolate-forum-sets-three-part-agenda-for-2026-event/",
+   "tarih": "2026-09-25T11:07:20+00:00",
+   "ozet": "The London Chocolate Forum will return on 5 October with a programme spanning changing consumer behaviour, pressure on the cocoa supply chain and new directions in craft chocolate and innovation. CocoaRadar will be covering the event and its key industry discu",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Londra Çikolata Forumu 2026 Etkinliği İçin Üç Bölümlü Gündemi Belirledi",
+   "okunur": true
+  },
   {
    "baslik": "Coffee Holds Near 275 as Brazil’s Record Crop Puts Quality in Focus (24 September 2026)",
    "link": "https://www.cocoaintel.com/coffee-holds-near-275-as-brazils-record-crop-puts-quality-in-focus-24-september-2026/",
@@ -318,19 +409,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire : SIR, Eni, Olam Cocoa… les dix premières entreprises ont passé 7 500 milliards FCFA de chiffre d’affaires en 2025",
-   "link": "https://www.sikafinance.com/premium/cote-divoire-sir-eni-olam-cocoa-les-dix-premieres-entreprises-ont-passe-7-500-milliards-fcfa-de-chiffre-daffaires-en-2025_64453",
-   "tarih": "2026-09-23T10:38:24+00:00",
-   "ozet": "Présentes dans le quotidien des Ivoiriens, à travers les hydrocarbures, les télécommunications, la distribution, les jeux de hasard, le cacao ou enco...",
-   "kaynak": "Sika Finance · CI",
-   "grup": "Sika Finance · CI",
-   "alan": "sikafinance.com",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili: SIR, Eni, Olam Cocoa… 2025'te cirosu 7.500 milyar FCFA'yı geçen ilk on şirket",
-   "okunur": true
-  },
-  {
    "baslik": "Absa, IFC announce $50m facility for cocoa buyers",
    "link": "https://ghanaiantimes.com.gh/absa-ifc-announce-50m-facility-for-cocoa-buyers/",
    "tarih": "2026-09-23T08:02:07+00:00",
@@ -575,19 +653,6 @@
    "w": 0.8,
    "kaynakUyari": "",
    "baslikTR": "Mars, Incorporated, Cocoa For Generations raporuyla kayda değer kazanımlar elde ettiğini iddia ediyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le Conseil du Café-Cacao assure du bon fonctionnement du système de traçabilité",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-assure-du-bon-fonctionnement-du-systeme-de-tracabilite/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-du-cafe-cacao-assure-du-bon-fonctionnement-du-systeme-de-tracabilite",
-   "tarih": "2026-09-18T19:10:57+00:00",
-   "ozet": "Abidjan, 18 sept 2026 (AIP) – Le Conseil du Café-Cacao assure du bon fonctionnement du Système national de traçabilité (SNT), mis en œuvre depuis le 1er septembre 2026 avec l’utilisation obligatoire de la carte du producteur, dans le cadre de la campagne de co",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Café-Cacao Konseyi izlenebilirlik sisteminin düzgün işleyişini sağlıyor",
    "okunur": true
   },
   {
@@ -1007,19 +1072,6 @@
    "okunur": true
   },
   {
-   "baslik": "El Niño Tests Cocoa’s Thin Supply Buffer as Industry Outlooks Diverge",
-   "link": "https://cocoaradar.com/el-nino-tests-cocoas-thin-supply-buffer-as-industry-outlooks-diverge/",
-   "tarih": "2026-09-07T14:16:09+00:00",
-   "ozet": "Côte d’Ivoire has opened its 2026-27 campaign, Ghana’s operating terms remain unclear and Ecuador is preparing for potentially damaging rain. Yet the industry is divided over whether the coming crop will bring another shortage, CocoaRadar can exclusively repor",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "El Niño, Sektörün Görünümü Farklılaşırken Kakao'nun İnce Tedarik Tamponunu Test Ediyor",
-   "okunur": true
-  },
-  {
    "baslik": "Cocoa Board and debt exchange: Ghana’s path to renewal",
    "link": "https://ghanaiantimes.com.gh/cocoa-board-and-debt-exchange-ghanas-path-to-renewal/",
    "tarih": "2026-09-07T07:36:43+00:00",
@@ -1056,19 +1108,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Bawumia çiftçiler için yeni kakao politika paketi hazırlıyor – Annoh-Dompreh",
-   "okunur": true
-  },
-  {
-   "baslik": "Gideon Boako: Cocoa farmers deserve better support",
-   "link": "https://www.myjoyonline.com/gideon-boako-cocoa-farmers-deserve-better-support/",
-   "tarih": "2026-09-05T10:04:00+00:00",
-   "ozet": "Tano North Member of Parliament, Dr Gideon Boako, has reiterated his commitment to improving the livelihoods of cocoa farmers in his constituency through targeted support and the provision of essential farming equipment.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Gideon Boako: Kakao çiftçileri daha iyi desteği hak ediyor",
    "okunur": true
   },
   {
@@ -1160,19 +1199,6 @@
    "w": 1.3,
    "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
    "baslikTR": "Ağustos 2026 Üç Aylık Kakao İstatistikleri Bülteni",
-   "okunur": true
-  },
-  {
-   "baslik": "Ferrero welcomes key progress from sector-wide cocoa initiative tackling child labour",
-   "link": "https://www.confectioneryproduction.com/news/59261/ferrero-welcomes-key-progress-from-sector-wide-cocoa-initiative-tackling-child-labour/",
-   "tarih": "2026-08-27T15:23:35+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Ferrero, çocuk işçiliğiyle mücadeleye yönelik sektör çapındaki kakao girişimindeki önemli ilerlemeyi memnuniyetle karşıladı",
    "okunur": true
   },
   {
@@ -1466,7 +1492,7 @@
   [
    "ICCO",
    "8 haber",
-   1171,
+   892,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1475,7 +1501,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1153,
+   1418,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1484,7 +1510,7 @@
   [
    "ECA · Avrupa öğütme",
    "5 haber",
-   4040,
+   4568,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1493,7 +1519,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59054,
+   58531,
    "",
    "",
    null,
@@ -1502,7 +1528,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   124,
+   138,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1511,7 +1537,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   761,
+   614,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1520,7 +1546,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   908,
+   1204,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1529,7 +1555,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   384,
+   455,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1538,7 +1564,7 @@
   [
    "Panamir",
    "2 haber",
-   2370,
+   2243,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1547,7 +1573,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   231,
+   235,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1556,7 +1582,7 @@
   [
    "ConfectioneryNews",
    "3 haber",
-   5571,
+   596,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1564,8 +1590,8 @@
   ],
   [
    "FoodNavigator",
-   "2 haber",
-   370,
+   "1 haber",
+   147,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1574,7 +1600,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8706,
+   8677,
    "",
    "",
    null,
@@ -1583,7 +1609,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8163,
+   7950,
    "",
    "",
    null,
@@ -1592,7 +1618,7 @@
   [
    "Confectionery Production",
    "5 haber",
-   2346,
+   2181,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1601,7 +1627,7 @@
   [
    "MyJoyOnline · GH",
    "16 haber",
-   1030,
+   1147,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1610,7 +1636,7 @@
   [
    "AIP · CI resmî ajans",
    "6 haber",
-   23731,
+   18399,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1618,8 +1644,8 @@
   ],
   [
    "Sika Finance · CI",
-   "2 haber",
-   841,
+   "1 haber",
+   653,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1627,8 +1653,8 @@
   ],
   [
    "Business in Cameroon",
-   "3 haber",
-   731,
+   "5 haber",
+   668,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1637,7 +1663,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   707,
+   693,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1646,7 +1672,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1403,
+   1058,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1655,7 +1681,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   2147,
+   2397,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1664,7 +1690,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   758,
+   713,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1673,7 +1699,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   39052,
+   14852,
    "",
    "",
    null,
@@ -1681,17 +1707,17 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (341670 bayt, vekil)",
-   9961,
-   "",
-   "",
+   "1 haber",
+   5934,
+   "https://3news.com/feed/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
-   "worker: The read operation timed out | allorigins: The read operation ",
-   498179,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   36977,
    "",
    "",
    null,
@@ -1700,7 +1726,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   4144,
+   4483,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
