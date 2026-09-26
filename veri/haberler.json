@@ -1,8 +1,8 @@
 {
- "uretim": "2026-09-26T19:29:45.344023+00:00",
+ "uretim": "2026-09-26T22:17:40.331454+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 22,
- "haberSayisi": 116,
+ "calisanKaynak": 21,
+ "haberSayisi": 114,
  "cevirili": true,
  "haberler": [
   {
@@ -383,19 +383,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cacao : le prix aux producteurs recule de 150 à 200 FCFA en trois semaines, mais reste plus élevé qu’en Côte d’Ivoire",
-   "link": "https://www.investiraucameroun.com/agriculture/2309-23856-cacao-le-prix-aux-producteurs-recule-de-150-a-200-fcfa-en-trois-semaines-mais-reste-plus-eleve-qu-en-cote-d-ivoire",
-   "tarih": "2026-09-23T17:18:31+00:00",
-   "ozet": "Entre le 31 août et le 21 septembre 2026, les prix servis aux producteurs dans les bassins de production de cacao du Cameroun ont reculé de 150 à 200 FCFA. Selon les données compilées par le Système d’information des filières (SIF), dispositif d’alerte sur les",
-   "kaynak": "Investir au Cameroun",
-   "grup": "Investir au Cameroun",
-   "alan": "investiraucameroun.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao: Üreticilere verilen fiyat üç haftada 150 ila 200 FCFA düştü ancak Fildişi Sahili'ndeki fiyattan yüksek olmaya devam ediyor",
-   "okunur": true
-  },
-  {
    "baslik": "Le gouvernement crée un Institut du café et du cacao pour renforcer la recherche et la compétitivité de la filière",
    "link": "https://www.aip.ci/le-gouvernement-cree-un-institut-du-cafe-et-du-cacao-pour-renforcer-la-recherche-et-la-competitivite-de-la-filiere/?utm_source=rss&utm_medium=rss&utm_campaign=le-gouvernement-cree-un-institut-du-cafe-et-du-cacao-pour-renforcer-la-recherche-et-la-competitivite-de-la-filiere",
    "tarih": "2026-09-23T17:02:10+00:00",
@@ -510,19 +497,6 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "New York Kakao, Alıcıların 5.300 Doları Savunmasıyla %2,1 Yükselirken, Endonezya Taze Tedarik Riskini Ekledi (22 Eylül 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Caoutchouc, pâte de cacao, bananes : le Cameroun gagne une place dans trois classements mondiaux en 2025",
-   "link": "https://www.investiraucameroun.com/agriculture/2309-23849-caoutchouc-pate-de-cacao-bananes-le-cameroun-gagne-une-place-dans-trois-classements-mondiaux-en-2025",
-   "tarih": "2026-09-23T06:00:01+00:00",
-   "ozet": "Le Cameroun a gagné une place en 2025 dans les classements mondiaux des exportateurs de caoutchouc naturel, de pâte de cacao et de bananes, selon le Rapport sur l’état de la compétitivité de l’économie camerounaise en 2025. Le document du Comité de compétitivi",
-   "kaynak": "Investir au Cameroun",
-   "grup": "Investir au Cameroun",
-   "alan": "investiraucameroun.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kauçuk, kakao ezmesi, muz: Kamerun 2025'te üç dünya sıralamasında yer alacak",
    "okunur": true
   },
   {
@@ -1518,7 +1492,7 @@
   [
    "ICCO",
    "8 haber",
-   1175,
+   840,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1527,7 +1501,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1105,
+   1510,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1536,7 +1510,7 @@
   [
    "ECA · Avrupa öğütme",
    "5 haber",
-   4361,
+   4636,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1545,7 +1519,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59083,
+   58079,
    "",
    "",
    null,
@@ -1554,7 +1528,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   237,
+   66,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1563,7 +1537,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   622,
+   537,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1572,7 +1546,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1531,
+   1252,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1581,7 +1555,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   419,
+   102,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1590,7 +1564,7 @@
   [
    "Panamir",
    "2 haber",
-   3157,
+   2281,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1599,7 +1573,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   81,
+   282,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1608,7 +1582,7 @@
   [
    "ConfectioneryNews",
    "3 haber",
-   659,
+   967,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1617,7 +1591,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   654,
+   322,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1626,7 +1600,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8604,
+   8902,
    "",
    "",
    null,
@@ -1635,7 +1609,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   10340,
+   7563,
    "",
    "",
    null,
@@ -1644,7 +1618,7 @@
   [
    "Confectionery Production",
    "5 haber",
-   2299,
+   1891,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1653,7 +1627,7 @@
   [
    "MyJoyOnline · GH",
    "16 haber",
-   959,
+   762,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1662,7 +1636,7 @@
   [
    "AIP · CI resmî ajans",
    "7 haber",
-   16365,
+   17766,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1671,7 +1645,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   865,
+   131,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1680,7 +1654,7 @@
   [
    "Business in Cameroon",
    "4 haber",
-   684,
+   6012,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1688,17 +1662,17 @@
   ],
   [
    "Investir au Cameroun",
-   "2 haber",
-   814,
-   "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
-   "onbellek",
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   224374,
+   "",
+   "",
    null,
    0
   ],
   [
    "BusinessDay · NG",
    "1 haber",
-   1867,
+   498,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1707,7 +1681,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   1572,
+   2032,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1716,7 +1690,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   850,
+   889,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1725,7 +1699,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   453009,
+   409109,
    "",
    "",
    null,
@@ -1734,7 +1708,7 @@
   [
    "3News · GH",
    "3 haber",
-   5291,
+   3264,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1742,8 +1716,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "besleme tanimsiz (5767 bayt, vekil)",
-   33850,
+   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
+   56932,
    "",
    "",
    null,
@@ -1752,7 +1726,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   4420,
+   4046,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
