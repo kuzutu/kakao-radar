@@ -1,10 +1,36 @@
 {
- "uretim": "2026-09-26T06:42:02.048802+00:00",
+ "uretim": "2026-09-26T11:54:14.479605+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
- "haberSayisi": 108,
+ "haberSayisi": 109,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Scales of deception removed – Annoh-Dompreh attacks new cocoa price",
+   "link": "https://www.myjoyonline.com/scales-of-deception-removed-annoh-dompreh-attacks-new-cocoa-price/",
+   "tarih": "2026-09-26T07:21:00+00:00",
+   "ozet": "Minority Chief Whip Frank Annoh-Dompreh has criticised the government’s new cocoa producer price, describing the GH¢2,650 per 64-kilogramme bag as a disappointment to farmers.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Aldatmacanın ölçeği kaldırıldı – Annoh-Dompreh yeni kakao fiyatına saldırdı",
+   "okunur": true
+  },
+  {
+   "baslik": "PLAYBACK: The KeyPoints- illicit drugs, desalination plant, attempted arrest of MP and cocoa price",
+   "link": "https://3news.com/news/live-the-keypoints-illicit-drugs-desalination-plant-attempted-arrest-of-mp-and-cocoa-price",
+   "tarih": "2026-09-26T07:11:21+00:00",
+   "ozet": "Attempted arrest of MP by EOCO: Abuse of the law?",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "OYNATMA: KeyPoints- yasa dışı uyuşturucular, tuzdan arındırma tesisi, MP'nin tutuklanması girişimi ve kakao fiyatı",
+   "okunur": true
+  },
   {
    "baslik": "Dry Conditions in the Ivory Coast Lift Cocoa Prices",
    "link": "https://www.barchart.com/story/news/4805768/dry-conditions-in-the-ivory-coast-lift-cocoa-prices",
@@ -1020,19 +1046,6 @@
    "okunur": true
   },
   {
-   "baslik": "IERPP questions GH¢2,500 Cocoa price despite reported US$3.86bn export earnings, GH¢5.11bn COCOBOD revenue",
-   "link": "https://www.myjoyonline.com/ierpp-questions-gh%c2%a22500-cocoa-price-despite-reported-us3-86bn-export-earnings-gh%c2%a25-11bn-cocobod-revenue/",
-   "tarih": "2026-09-06T22:20:00+00:00",
-   "ozet": "The Institute of Economic Research and Public Policy (IERPP) is demanding a transparent explanation for what it describes as a sharp disparity between Ghana's booming cocoa export earnings and the producer price paid to farmers.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "IERPP, GH¢2.500 Kakao fiyatını, 3,86 milyar ABD$ ihracat kazancı ve GH¢5,11 milyar COCOBOD geliri bildirmesine rağmen sorguluyor",
-   "okunur": true
-  },
-  {
    "baslik": "A Fundação Mundial do Cacau e o COCOBOD anunciam o Gana como anfitrião do Encontro de Parceiros 2027",
    "link": "https://worldcocoafoundation.org/news-and-resources/press-release/a-fundacao-mundial-do-cacau-e-o-cocobod-anunciam-o-gana-como-anfitriao-do-encontro-de-parceiros-2027",
    "tarih": "2026-09-02T10:13:23+02:00",
@@ -1414,7 +1427,7 @@
   [
    "ICCO",
    "8 haber",
-   645,
+   964,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1423,7 +1436,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   916,
+   1468,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1432,7 +1445,7 @@
   [
    "ECA · Avrupa öğütme",
    "5 haber",
-   5158,
+   5177,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1441,7 +1454,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58653,
+   58848,
    "",
    "",
    null,
@@ -1450,7 +1463,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   131,
+   188,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1459,7 +1472,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   415,
+   470,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1468,7 +1481,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1293,
+   1328,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1477,7 +1490,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   164,
+   248,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1486,7 +1499,7 @@
   [
    "Panamir",
    "2 haber",
-   2508,
+   2345,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1495,7 +1508,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   198,
+   281,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1504,7 +1517,7 @@
   [
    "ConfectioneryNews",
    "3 haber",
-   341,
+   722,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1513,7 +1526,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   489,
+   176,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1522,7 +1535,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   5932,
+   7779,
    "",
    "",
    null,
@@ -1531,7 +1544,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   5574,
+   9235,
    "",
    "",
    null,
@@ -1540,7 +1553,7 @@
   [
    "Confectionery Production",
    "5 haber",
-   1751,
+   2058,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1549,7 +1562,7 @@
   [
    "MyJoyOnline · GH",
    "16 haber",
-   842,
+   1066,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1557,8 +1570,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "konuya uyan haber yok (10 kayit tarandi)",
-   142585,
+   "worker: The read operation timed out | allorigins: HTTP Error 408: Req",
+   593954,
    "",
    "",
    null,
@@ -1567,7 +1580,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   82,
+   612,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1576,7 +1589,7 @@
   [
    "Business in Cameroon",
    "4 haber",
-   452,
+   586,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1585,7 +1598,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   497,
+   561,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1594,7 +1607,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   539,
+   1577,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1603,7 +1616,7 @@
   [
    "Anecacao · EC",
    "5 haber",
-   1679,
+   2432,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1612,7 +1625,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   695,
+   793,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1621,7 +1634,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   412000,
+   13798,
    "",
    "",
    null,
@@ -1629,8 +1642,8 @@
   ],
   [
    "3News · GH",
-   "2 haber",
-   3276,
+   "3 haber",
+   3800,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1638,8 +1651,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   35005,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   46845,
    "",
    "",
    null,
@@ -1648,7 +1661,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   3790,
+   5446,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
