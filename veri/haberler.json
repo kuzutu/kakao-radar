@@ -1,10 +1,49 @@
 {
- "uretim": "2026-09-28T15:24:08.680772+00:00",
+ "uretim": "2026-09-28T21:38:43.646232+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 22,
  "haberSayisi": 118,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa Prices Pressured by Ample Ivory Coast Cocoa Supplies",
+   "link": "https://www.barchart.com/story/news/4838571/cocoa-prices-pressured-by-ample-ivory-coast-cocoa-supplies",
+   "tarih": "2026-09-28T18:24:33+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed down -30 (-0.53%) on Monday, and December ICE London cocoa #7 (CAZ26 ) closed down -30 (-0.71%). Cocoa prices fell from 1-week highs on Monday and settled lower on signs of abundant cocoa supplies from the Ivory Coast. Acc",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Fiyatları Fildişi Sahili'ndeki Kakao Tedariğinin Bolluğu Nedeniyle Baskı Altında",
+   "okunur": false
+  },
+  {
+   "baslik": "Cargill, ICI equip 111 youth with vocational skills to tackle child labour",
+   "link": "https://www.myjoyonline.com/cargill-ici-equip-111-youth-with-vocational-skills-to-tackle-child-labour/",
+   "tarih": "2026-09-28T17:06:13+00:00",
+   "ozet": "Cargill Ghana, in partnership with the International Cocoa Initiative, has equipped young people in cocoa-growing communities in the Western North Region with entrepreneurial and vocational skills to reduce their vulnerability to child labour and promote finan",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Cargill, ICI 111 genci çocuk işçiliğiyle mücadele için mesleki becerilerle donatıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Prices Erase Early Gains on Abundant Ivory Coast Supplies",
+   "link": "https://www.barchart.com/story/news/4836141/cocoa-prices-erase-early-gains-on-abundant-ivory-coast-supplies",
+   "tarih": "2026-09-28T16:07:56+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) is down -17 (-0.30%) today, and December ICE London cocoa #7 (CAZ26 ) is down -24 (-0.57%). Cocoa prices fell from 1-week highs today and turned lower on signs of abundant cocoa supplies from the Ivory Coast. According to Ivory C",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Fiyatları, Fildişi Sahili'ndeki Bol Tedarikteki Erken Kazanımları Sildi",
+   "okunur": false
+  },
   {
    "baslik": "GLP-1 Users Still Eat Chocolate, but the Demand Picture Is More Complex",
    "link": "https://cocoaradar.com/glp-1-users-still-eat-chocolate-but-the-demand-picture-is-more-complex/",
@@ -422,19 +461,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa Prices Climb on Slack Rains in the Ivory Coast",
-   "link": "https://www.barchart.com/story/news/4784999/cocoa-prices-climb-on-slack-rains-in-the-ivory-coast",
-   "tarih": "2026-09-24T18:21:03+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) closed up +62 (+1.12%) on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed up +55 (+1.33%). Cocoa prices settled higher for a third consecutive session on Thursday amid dry conditions in West Africa. Forecasts for below",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili'ndeki Yağışlar Kakao Fiyatlarını Yükseltti",
-   "okunur": false
-  },
-  {
    "baslik": "Cargill Ghana and International Cocoa Initiative celebrate 111 young graduates building skills for the future",
    "link": "https://www.myjoyonline.com/cargill-ghana-and-international-cocoa-initiative-celebrate-111-young-graduates-building-skills-for-the-future/",
    "tarih": "2026-09-24T17:44:17+00:00",
@@ -446,19 +472,6 @@
    "kaynakUyari": "",
    "baslikTR": "Cargill Gana ve Uluslararası Kakao Girişimi, geleceğe yönelik beceriler geliştiren 111 genç mezunu kutluyor",
    "okunur": true
-  },
-  {
-   "baslik": "Dry Conditions in West Africa Boost Cocoa Prices",
-   "link": "https://www.barchart.com/story/news/4782595/dry-conditions-in-west-africa-boost-cocoa-prices",
-   "tarih": "2026-09-24T16:05:34+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) is up +71 (+1.28%) today, and December ICE London cocoa #7 (CAZ26 ) is up +63 (+1.53%). Cocoa prices are climbing for a second session today amid dry conditions in West Africa. Forecasts for below-normal rains in the Ivory Coast ",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Batı Afrika'daki Kurak Koşullar Kakao Fiyatlarını Artırıyor",
-   "okunur": false
   },
   {
    "baslik": "Global Cocoa Crop Nears Multi-Year High; Record Claim Unproven",
@@ -510,19 +523,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Cocobod 1,4 milyar dolarlık yurt içi finansman planı sunuyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Bicec Loses CFA16.4 Billion Damages Claim in Dispute Over Cocoa and Coffee Loans",
-   "link": "https://www.businessincameroon.com/finance/2309-16820-bicec-loses-cfa16-4-billion-damages-claim-in-dispute-over-cocoa-and-coffee-loans",
-   "tarih": "2026-09-23T19:35:43+00:00",
-   "ozet": "Bicec has lost a CFA16.4 billion damages claim in France tied to loans it extended to three Cameroonian cocoa and coffee operators, after an appeals court found that the bank had not sufficiently established that alleged commodity losses resulted from failures",
-   "kaynak": "Business in Cameroon",
-   "grup": "Business in Cameroon",
-   "alan": "businessincameroon.com",
-   "w": 0.95,
-   "kaynakUyari": "",
-   "baslikTR": "Bicec, Kakao ve Kahve Kredileriyle İlgili Anlaşmazlıkta 16,4 Milyar CFA Tazminat Talebini Kaybetti",
    "okunur": true
   },
   {
@@ -1544,7 +1544,7 @@
   [
    "ICCO",
    "7 haber",
-   1154,
+   837,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1553,7 +1553,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1293,
+   1477,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1562,7 +1562,7 @@
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   4873,
+   3555,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1571,7 +1571,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   60782,
+   58228,
    "",
    "",
    null,
@@ -1580,7 +1580,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   592,
+   118,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1589,7 +1589,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   790,
+   541,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1598,7 +1598,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1828,
+   1150,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1607,7 +1607,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   1038,
+   528,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1616,7 +1616,7 @@
   [
    "Panamir",
    "2 haber",
-   2750,
+   2055,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1625,7 +1625,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   672,
+   95,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1634,7 +1634,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   1159,
+   362,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1643,7 +1643,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   1474,
+   224,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1652,7 +1652,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   14251,
+   6120,
    "",
    "",
    null,
@@ -1661,7 +1661,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   13819,
+   6851,
    "",
    "",
    null,
@@ -1670,7 +1670,7 @@
   [
    "Confectionery Production",
    "6 haber",
-   4039,
+   1706,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1678,8 +1678,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "20 haber",
-   1472,
+   "21 haber",
+   832,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1688,7 +1688,7 @@
   [
    "AIP · CI resmî ajans",
    "7 haber",
-   51726,
+   16548,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1697,7 +1697,7 @@
   [
    "Sika Finance · CI",
    "2 haber",
-   1118,
+   530,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1705,8 +1705,8 @@
   ],
   [
    "Business in Cameroon",
-   "3 haber",
-   947,
+   "2 haber",
+   1562,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1715,7 +1715,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   942,
+   395,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1724,7 +1724,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   801,
+   714,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1733,7 +1733,7 @@
   [
    "Anecacao · EC",
    "4 haber",
-   2552,
+   1981,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1742,7 +1742,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1766,
+   754,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1751,7 +1751,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   18532,
+   412806,
    "",
    "",
    null,
@@ -1760,7 +1760,7 @@
   [
    "3News · GH",
    "2 haber",
-   7878,
+   3555,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1768,8 +1768,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   62326,
+   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
+   59437,
    "",
    "",
    null,
@@ -1778,7 +1778,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   12315,
+   1003013,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "vekil",
    null,
