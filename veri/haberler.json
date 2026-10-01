@@ -1,10 +1,62 @@
 {
- "uretim": "2026-10-01T00:16:13.578586+00:00",
+ "uretim": "2026-10-01T05:46:10.318114+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 20,
- "haberSayisi": 109,
+ "calisanKaynak": 21,
+ "haberSayisi": 121,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Agric Committee chair commends NAFCO for turnaround from GH¢20m debt to GH¢96m profit",
+   "link": "https://www.myjoyonline.com/agric-committee-chair-commends-nafco-for-turnaround-from-gh%c2%a220m-debt-to-gh%c2%a296m-profit/",
+   "tarih": "2026-10-01T05:28:00+00:00",
+   "ozet": "The Parliamentary Committee on Food, Agriculture and Cocoa Affairs has commended the National Food Buffer Stock Company (NAFCO) for its significant financial turnaround, moving from a debt position of about GH¢20 million to recording more than GH¢96 million in",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Tarım Komitesi başkanı NAFCO'yu 20 milyon GH¢ borcundan GH¢96 milyon GH¢ kâra dönüştürmesinden ötürü övdü",
+   "okunur": true
+  },
+  {
+   "baslik": "Dr Jasaw calls for National Agriculture Development Fund to accelerate food systems transformation",
+   "link": "https://www.myjoyonline.com/dr-jasaw-calls-for-national-agriculture-development-fund-to-accelerate-food-systems-transformation/",
+   "tarih": "2026-10-01T05:08:00+00:00",
+   "ozet": "The Chairman of Parliament’s Food, Agriculture and Cocoa Affairs Committee, Dr Godfred Seidu Jasaw, has called for the establishment of a National Agriculture Development Fund to accelerate Ghana’s food systems transformation agenda.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Dr Jasaw, gıda sistemleri dönüşümünü hızlandırmak için Ulusal Tarımsal Kalkınma Fonu çağrısında bulundu",
+   "okunur": true
+  },
+  {
+   "baslik": "Armah-Kofi Buah honoured for developmental initiatives in Aiyinasi-North",
+   "link": "https://www.myjoyonline.com/armah-kofi-buah-honoured-for-developmental-initiatives-in-aiyinasi-north/",
+   "tarih": "2026-10-01T05:04:00+00:00",
+   "ozet": "The Odikro and people of Mandumgbane, a cocoa farming community in Aiyinasi-North of the Ellembelle District, have honoured Mr. Emmanuel Armah-Kofi Buah, the Member of Parliament (MP) for Ellembelle, for his outstanding leadership in pushing development to the",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Armah-Kofi Buah, Aiyinasi-Kuzey'deki gelişimsel girişimlerden dolayı onurlandırıldı",
+   "okunur": true
+  },
+  {
+   "baslik": "COCOBOD’S GH¢16.3bn SPV: Real progress toward a sustainable cocoa sector",
+   "link": "https://www.myjoyonline.com/cocobods-gh%c2%a216-3bn-spv-real-progress-toward-a-sustainable-cocoa-sector/",
+   "tarih": "2026-10-01T01:56:00+00:00",
+   "ozet": "From a development finance perspective, this separation of functions is important. A dedicated financing vehicle can create greater clarity around the purpose of the funding, the cash flows supporting repayment and the responsibilities of the various participa",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD'S GH¢16,3 milyar SPV: Sürdürülebilir kakao sektörüne doğru gerçek ilerleme",
+   "okunur": true
+  },
   {
    "baslik": "Cocoa Prices Fall as Demand Weakens",
    "link": "https://www.barchart.com/story/news/4887353/cocoa-prices-fall-as-demand-weakens",
@@ -17,6 +69,19 @@
    "kaynakUyari": "",
    "baslikTR": "Talebin Zayıflaması Kakao Fiyatları Düşüyor",
    "okunur": false
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Cacao : le Conseil café-cacao salue l’engagement des producteurs de la Nawa en faveur de la traçabilité",
+   "link": "https://www.aip.ci/cote-divoire-aip-cacao-le-conseil-cafe-cacao-salue-lengagement-des-producteurs-de-la-nawa-en-faveur-de-la-tracabilite/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-cacao-le-conseil-cafe-cacao-salue-lengagement-des-producteurs-de-la-nawa-en-faveur-de-la-tracabilite",
+   "tarih": "2026-09-30T17:55:47+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kakao: Kahve-Kakao Konseyi, Nawa üreticilerinin izlenebilirlik konusundaki kararlılığını memnuniyetle karşılıyor",
+   "okunur": true
   },
   {
    "baslik": "Demand Concerns Weigh on Cocoa Prices",
@@ -58,6 +123,19 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP/ Campagne 2026-2027: le Conseil du café-cacao sensibilise sur les nouvelles règles de commercialisation",
+   "link": "https://www.aip.ci/cote-divoire-aip-campagne-2026-2027-le-conseil-du-cafe-cacao-sensibilise-sur-les-nouvelles-regles-de-commercialisation/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-campagne-2026-2027-le-conseil-du-cafe-cacao-sensibilise-sur-les-nouvelles-regles-de-commercialisation",
+   "tarih": "2026-09-30T15:11:14+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ 2026-2027 kampanyası: Kahve-Kakao Konseyi yeni pazarlama kuralları hakkında farkındalığı artırıyor",
+   "okunur": true
+  },
+  {
    "baslik": "Mars Raises Cocoa Bar, But Living Income Remains Missing Measure",
    "link": "https://cocoaradar.com/mars-raises-cocoa-bar-but-living-income-remains-missing-measure/",
    "tarih": "2026-09-30T14:19:25+00:00",
@@ -68,6 +146,32 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Mars Kakao Çıtasını Yükseltiyor Ancak Yaşama Geliri Ölçüsü Eksik Kalıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/Traçabilité du cacao : Doumbia Siaka appelle les acteurs de la Nawa à se conformer aux exigences européenne",
+   "link": "https://www.aip.ci/cote-divoire-aip-tracabilite-du-cacao-doumbia-siaka-appelle-les-acteurs-de-la-nawa-a-se-conformer-aux-exigences-europeenne/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-tracabilite-du-cacao-doumbia-siaka-appelle-les-acteurs-de-la-nawa-a-se-conformer-aux-exigences-europeenne",
+   "tarih": "2026-09-30T13:59:56+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Kakao izlenebilirliği: Doumbia Siaka, Nawa paydaşlarını Avrupa gerekliliklerine uymaya çağırıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/Qualité du cacao : la Nawa conserve son leadership national malgré la baisse des volumes",
+   "link": "https://www.aip.ci/cote-divoire-aip-qualite-du-cacao-la-nawa-conserve-son-leadership-national-malgre-la-baisse-des-volumes/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-qualite-du-cacao-la-nawa-conserve-son-leadership-national-malgre-la-baisse-des-volumes",
+   "tarih": "2026-09-30T13:20:58+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Kakao kalitesi: Nawa, hacimlerdeki düşüşe rağmen ulusal liderliğini koruyor",
    "okunur": true
   },
   {
@@ -240,6 +344,19 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP/ Revue de presse : rentrée parlementaire, actualité politique, plusieurs questions sociales et la filière café-cacao dominent les titres des journaux du jour",
+   "link": "https://www.aip.ci/cote-divoire-aip-revue-de-presse-rentree-parlementaire-actualite-politique-plusieurs-questions-sociales-et-la-filiere-cafe-cacao-dominent-les-titres-des-journaux-du-jour/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-revue-de-presse-rentree-parlementaire-actualite-politique-plusieurs-questions-sociales-et-la-filiere-cafe-cacao-dominent-les-titres-des-journaux-du-jour",
+   "tarih": "2026-09-29T11:54:03+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Basın incelemesi: parlamentonun dönüşü, siyasi haberler, çeşitli sosyal konular ve kahve-kakao sektörü günün gazetelerinin manşetlerine hakim",
+   "okunur": true
+  },
+  {
    "baslik": "Dubai chocolate products recalled by major distributor due to salmonella",
    "link": "https://www.foodmanufacture.co.uk/Article/2026/09/29/dubai-chocolate-products-have-been-withdrawn-due-to-salmonella/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-09-29T10:47:44+00:00",
@@ -263,6 +380,19 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "COCOBOD, 1,4 milyar dolarlık yurt içi finansmanın pazarın dışlanmasından kaynaklanmadığını, stratejik bir değişim olduğunu söyledi",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/Café-cacao : une tournée de lancement de la campagne 2026-2027 annoncée dans la Nawa",
+   "link": "https://www.aip.ci/cote-divoire-aip-cafe-cacao-une-tournee-de-lancement-de-la-campagne-2026-2027-annoncee-dans-la-nawa/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-cafe-cacao-une-tournee-de-lancement-de-la-campagne-2026-2027-annoncee-dans-la-nawa",
+   "tarih": "2026-09-29T07:07:27+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Café-cacao: 2026-2027 kampanyasının lansman turu Nawa'da duyuruldu",
    "okunur": true
   },
   {
@@ -305,6 +435,19 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP / Duékoué : 28 % des coopératives de café-cacao affichent une gestion professionnelle (Étude)",
+   "link": "https://www.aip.ci/cote-divoire-aip-duekoue-28-des-cooperatives-de-cafe-cacao-affichent-une-gestion-professionnelle-etude/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-duekoue-28-des-cooperatives-de-cafe-cacao-affichent-une-gestion-professionnelle-etude",
+   "tarih": "2026-09-29T03:45:50+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / Duékoué: Kahve-kakao kooperatiflerinin %28'i profesyonel yönetim sergiliyor (Çalışma)",
+   "okunur": true
+  },
+  {
    "baslik": "Cargill, ICI equip 111 youth with vocational skills to tackle child labour",
    "link": "https://www.myjoyonline.com/cargill-ici-equip-111-youth-with-vocational-skills-to-tackle-child-labour/",
    "tarih": "2026-09-28T17:06:13+00:00",
@@ -328,6 +471,32 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "GLP-1 Kullanıcıları Hala Çikolata Yiyor, Ancak Talep Resmi Daha Karmaşık",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Des organisations de producteurs café-cacao appellent à préserver la continuité de la campagne de commercialisation",
+   "link": "https://www.aip.ci/cote-divoire-aip-des-organisations-de-producteurs-cafe-cacao-appellent-a-preserver-la-continuite-de-la-campagne-de-commercialisation/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-des-organisations-de-producteurs-cafe-cacao-appellent-a-preserver-la-continuite-de-la-campagne-de-commercialisation",
+   "tarih": "2026-09-28T13:48:29+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kahve-kakao üreticisi örgütleri, pazarlama kampanyasının sürekliliğinin korunması çağrısında bulunuyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Café-cacao : les producteurs du Tonkpi et du Bafing rejettent le trafic du cacao vers les pays voisins à Danané",
+   "link": "https://www.aip.ci/cote-divoire-aip-cafe-cacao-les-producteurs-du-tonkpi-et-du-bafing-rejettent-le-trafic-du-cacao-vers-les-pays-voisins-a-danane/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-cafe-cacao-les-producteurs-du-tonkpi-et-du-bafing-rejettent-le-trafic-du-cacao-vers-les-pays-voisins-a-danane",
+   "tarih": "2026-09-28T13:24:41+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Kahve-kakao: Tonkpi ve Bafing üreticileri Danané'deki komşu ülkelere kakao kaçakçılığını reddediyor",
    "okunur": true
   },
   {
@@ -1085,19 +1254,6 @@
    "okunur": true
   },
   {
-   "baslik": "87% of COCOBOD’s past cocoa road contracts were directly awarded",
-   "link": "https://www.myjoyonline.com/87-of-cocobods-past-cocoa-road-contracts-were-directly-awarded/",
-   "tarih": "2026-09-11T05:36:00+00:00",
-   "ozet": "Editor’s Note: An earlier version of this story has been updated to improve accuracy and clarity. The International Monetary Fund (IMF) has highlighted significant procurement and project-management weaknesses associated with the Cocoa Roads (COCOROADS) progra",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "COCOBOD'un geçmiş kakao yolu sözleşmelerinin %87'si doğrudan imzalandı",
-   "okunur": true
-  },
-  {
    "baslik": "ED(MEM) 1322",
    "link": "https://www.icco.org/edmem-1322-entry-into-force-of-ica-2026/",
    "tarih": "2026-09-08T09:57:46+00:00",
@@ -1427,7 +1583,7 @@
   [
    "ICCO",
    "7 haber",
-   893,
+   1272,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1436,7 +1592,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1539,
+   1757,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1445,7 +1601,7 @@
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   4230,
+   4233,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1454,7 +1610,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58702,
+   59683,
    "",
    "",
    null,
@@ -1463,7 +1619,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   131,
+   226,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1472,7 +1628,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   509,
+   566,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1481,7 +1637,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1082,
+   910,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1490,7 +1646,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   321,
+   404,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1499,7 +1655,7 @@
   [
    "Panamir",
    "2 haber",
-   2431,
+   1915,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1508,7 +1664,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   130,
+   198,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1517,7 +1673,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   259,
+   184,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1526,7 +1682,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   199,
+   125,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1535,7 +1691,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   199,
+   725,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1544,7 +1700,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   238,
+   206,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1553,7 +1709,7 @@
   [
    "Confectionery Production",
    "7 haber",
-   1350,
+   2225,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1561,8 +1717,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "20 haber",
-   698,
+   "23 haber",
+   1054,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1570,17 +1726,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "worker: The read operation timed out | allorigins: HTTP Error 408: Req",
-   204543,
-   "",
-   "",
+   "9 haber",
+   14730,
+   "https://www.aip.ci/?s=cacao&feed=rss2",
+   "dogrudan",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "besleme tanimsiz (17318 bayt, vekil)",
-   3700,
+   39659,
    "",
    "",
    null,
@@ -1589,7 +1745,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   414,
+   553,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1597,8 +1753,8 @@
   ],
   [
    "Investir au Cameroun",
-   "besleme tanimsiz (5 bayt, vekil)",
-   5508,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   36119,
    "",
    "",
    null,
@@ -1607,7 +1763,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   116485,
+   28852,
    "",
    "",
    null,
@@ -1616,7 +1772,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1421,
+   2516,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1625,7 +1781,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   647,
+   919,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1634,7 +1790,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   410589,
+   57874,
    "",
    "",
    null,
@@ -1643,7 +1799,7 @@
   [
    "3News · GH",
    "2 haber",
-   3174,
+   5549,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1651,8 +1807,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "besleme tanimsiz (5874 bayt, vekil)",
-   759,
+   "besleme tanimsiz (5767 bayt, vekil)",
+   35215,
    "",
    "",
    null,
@@ -1661,9 +1817,9 @@
   [
    "Ghanaian Times",
    "2 haber",
-   5879,
+   4992,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ]
