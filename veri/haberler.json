@@ -1,10 +1,36 @@
 {
- "uretim": "2026-10-01T18:52:20.047522+00:00",
+ "uretim": "2026-10-01T23:09:04.478769+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
  "haberSayisi": 119,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Agboville: la campagne café-cacao 2026-2027 placée sous le signe de la traçabilité et de la lutte contre la fraude",
+   "link": "https://www.aip.ci/cote-divoire-aip-agboville-la-campagne-cafe-cacao-2026-2027-placee-sous-le-signe-de-la-tracabilite-et-de-la-lutte-contre-la-fraude/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-agboville-la-campagne-cafe-cacao-2026-2027-placee-sous-le-signe-de-la-tracabilite-et-de-la-lutte-contre-la-fraude",
+   "tarih": "2026-10-01T21:49:06+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Agboville: 2026-2027 kahve-kakao kampanyası izlenebilirliğe ve dolandırıcılıkla mücadeleye odaklandı",
+   "okunur": true
+  },
+  {
+   "baslik": "Market first claimed for York Cocoa Works innovative alt choc launch",
+   "link": "https://www.confectioneryproduction.com/news/59684/market-first-claimed-for-york-cocoa-works-innovative-alt-choc-launch/",
+   "tarih": "2026-10-01T20:14:52+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Pazar ilk kez York Cocoa Works'ün yenilikçi alt çikolata lansmanını talep etti",
+   "okunur": true
+  },
   {
    "baslik": "Supply Risks Support Cocoa Prices",
    "link": "https://www.barchart.com/story/news/4913817/supply-risks-support-cocoa-prices",
@@ -513,19 +539,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP / Duékoué : 28 % des coopératives de café-cacao affichent une gestion professionnelle (Étude)",
-   "link": "https://www.aip.ci/cote-divoire-aip-duekoue-28-des-cooperatives-de-cafe-cacao-affichent-une-gestion-professionnelle-etude/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-duekoue-28-des-cooperatives-de-cafe-cacao-affichent-une-gestion-professionnelle-etude",
-   "tarih": "2026-09-29T03:45:50+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP / Duékoué: Kahve-kakao kooperatiflerinin %28'i profesyonel yönetim sergiliyor (Çalışma)",
-   "okunur": true
-  },
-  {
    "baslik": "Cargill, ICI equip 111 youth with vocational skills to tackle child labour",
    "link": "https://www.myjoyonline.com/cargill-ici-equip-111-youth-with-vocational-skills-to-tackle-child-labour/",
    "tarih": "2026-09-28T17:06:13+00:00",
@@ -549,19 +562,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "GLP-1 Kullanıcıları Hala Çikolata Yiyor, Ancak Talep Resmi Daha Karmaşık",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Des organisations de producteurs café-cacao appellent à préserver la continuité de la campagne de commercialisation",
-   "link": "https://www.aip.ci/cote-divoire-aip-des-organisations-de-producteurs-cafe-cacao-appellent-a-preserver-la-continuite-de-la-campagne-de-commercialisation/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-des-organisations-de-producteurs-cafe-cacao-appellent-a-preserver-la-continuite-de-la-campagne-de-commercialisation",
-   "tarih": "2026-09-28T13:48:29+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kahve-kakao üreticisi örgütleri, pazarlama kampanyasının sürekliliğinin korunması çağrısında bulunuyor",
    "okunur": true
   },
   {
@@ -1557,7 +1557,7 @@
   [
    "ICCO",
    "8 haber",
-   752,
+   1060,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1566,16 +1566,16 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   4194,
+   1524,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "vekil",
+   "dogrudan",
    null,
    18
   ],
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   3904,
+   3876,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1584,7 +1584,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59571,
+   59043,
    "",
    "",
    null,
@@ -1593,7 +1593,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   158,
+   66,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1602,7 +1602,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   469,
+   401,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1611,7 +1611,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1263,
+   5068,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1620,7 +1620,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   408,
+   247,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1629,7 +1629,7 @@
   [
    "Panamir",
    "2 haber",
-   2111,
+   1974,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1638,7 +1638,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   207,
+   144,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1647,7 +1647,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   466,
+   187,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1656,7 +1656,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   566,
+   292,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1665,7 +1665,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   745,
+   732,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1674,7 +1674,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   546,
+   396,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1682,8 +1682,8 @@
   ],
   [
    "Confectionery Production",
-   "7 haber",
-   2041,
+   "8 haber",
+   1764,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1692,7 +1692,7 @@
   [
    "MyJoyOnline · GH",
    "23 haber",
-   962,
+   845,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1700,8 +1700,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "9 haber",
-   7619,
+   "8 haber",
+   15833,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1710,7 +1710,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   33231,
+   46896,
    "",
    "",
    null,
@@ -1719,7 +1719,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   1866,
+   437,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1728,7 +1728,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   20974,
+   34767,
    "",
    "",
    null,
@@ -1737,7 +1737,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   32183,
+   55348,
    "",
    "",
    null,
@@ -1746,16 +1746,16 @@
   [
    "Anecacao · EC",
    "3 haber",
-   8668,
+   2026,
    "https://www.anecacao.com/feed/",
-   "vekil",
+   "dogrudan",
    null,
    7
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   780,
+   721,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1764,7 +1764,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   14270,
+   14529,
    "",
    "",
    null,
@@ -1772,8 +1772,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (341523 bayt, vekil)",
-   8838,
+   "besleme tanimsiz (341136 bayt, vekil)",
+   6117,
    "",
    "",
    null,
@@ -1782,7 +1782,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61725,
+   54839,
    "",
    "",
    null,
