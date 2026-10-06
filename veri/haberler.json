@@ -1,10 +1,49 @@
 {
- "uretim": "2026-10-06T00:46:37.377217+00:00",
+ "uretim": "2026-10-06T07:31:33.267262+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
  "haberSayisi": 121,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Sugar Breaks Above 20 Cents as Brazil Rain Risks Persist (5 October 2026)",
+   "link": "https://www.cocoaintel.com/sugar-breaks-above-20-cents-as-brazil-rain-risks-persist-5-october-2026/",
+   "tarih": "2026-10-06T06:07:30+00:00",
+   "ozet": "Sugar jumps 4% as Brazil rain risks persist. Track ICE prices, India's ethanol proposal, Philippine supply and Eurasian beet output on 5 October.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Brezilya Yağmur Riski Devam Ederken Şeker 20 Sent Üzerine Kırıldı (5 Ekim 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Coffee Recovery Extends as Arabica Nears 300 and Robusta Holds Above $3,500 (5 October 2026)",
+   "link": "https://www.cocoaintel.com/coffee-recovery-extends-as-arabica-nears-300-and-robusta-holds-above-3-500-5-october-2026/",
+   "tarih": "2026-10-06T06:05:29+00:00",
+   "ozet": "Arabica rises to 292.55 cents as Robusta holds above $3,500. Weather risks, certified stocks and limited Brazilian sales shape the coffee market.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica'nın 300'e Yaklaşması ve Robusta'nın 3.500 Doların Üstünde Tutulmasıyla Kahve Toparlanması Uzadı (5 Ekim 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Extends Recovery as Ivorian Crop Risks Persist (5 October 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-extends-recovery-as-ivorian-crop-risks-persist-5-october-2026/",
+   "tarih": "2026-10-06T06:02:06+00:00",
+   "ozet": "New York cocoa rises 4.33% as Ivorian crop risks persist. Review futures curves, ICE stocks, volume, open interest and Tuesday’s trading setup.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili Mahsul Riskleri Devam Ettiğinden Kakao Toparlanma Uzatıyor (5 Ekim 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Cocoa Prices Rally as Heavy Rains Slow Deliveries in the Ivory Coast",
    "link": "https://www.barchart.com/story/news/4967612/cocoa-prices-rally-as-heavy-rains-slow-deliveries-in-the-ivory-coast",
@@ -400,10 +439,10 @@
    "link": "https://www.foodnavigator.com/Article/2026/10/02/alternative-cocoa-gains-ground-as-chocolate-industry-tackles-supply-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-10-02T10:49:37+00:00",
    "ozet": "Alt cocoa is gaining traction as cocoa shortages, climate pressures and price volatility push manufacturers to explore new ways to secure chocolate supply.",
-   "kaynak": "FoodNavigator",
-   "grup": "FoodNavigator",
+   "kaynak": "Bakery & Snacks",
+   "grup": "Bakery & Snacks",
    "alan": "foodnavigator.com",
-   "w": 0.85,
+   "w": 0.7,
    "kaynakUyari": "",
    "baslikTR": "Kakaosuz çikolata olur mu? Sektör neden alternatifleri ciddiye alıyor?",
    "okunur": true
@@ -744,45 +783,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "COCOBOD, 1,4 milyar dolarlık yurt içi finansmanın pazarın dışlanmasından kaynaklanmadığını, stratejik bir değişim olduğunu söyledi",
-   "okunur": true
-  },
-  {
-   "baslik": "Sugar Recovery Fades as Brazil Rain and Export Risks Persist (28 September 2026)",
-   "link": "https://www.cocoaintel.com/sugar-recovery-fades-as-brazil-rain-and-export-risks-persist-28-september-2026/",
-   "tarih": "2026-09-29T06:17:49+00:00",
-   "ozet": "Sugar futures ended mixed as Brazil rain threatened harvesting, exports slowed and key crop developments shaped supply risk for the next session.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Brezilya'da Yağmur ve İhracat Risklerinin Devam Etmesiyle Şekerde Toparlanma Azalıyor (28 Eylül 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Coffee Rebounds as Weather Risk Returns to the Price Equation (28 September 2026)",
-   "link": "https://www.cocoaintel.com/coffee-rebounds-as-weather-risk-returns-to-the-price-equation-28-september-2026/",
-   "tarih": "2026-09-29T06:05:43+00:00",
-   "ozet": "Arabica jumps 3.6% as Brazil hail, El Niño risks and falling ICE stocks revive concerns over global coffee supply in 2027.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Hava Durumu Riski Fiyat Denklemine Döndüğünde Kahve Toparlanıyor (28 Eylül 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa Market Faces Selling Pressure and Supply Uncertainty (28 September 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-market-faces-selling-pressure-and-supply-uncertainty-28-september-2026/",
-   "tarih": "2026-09-29T05:57:52+00:00",
-   "ozet": "Cocoa market analysis covering selling pressure, Ivorian weather, port arrivals, Ghana financing and supply developments in Brazil and Ecuador.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Piyasası Satış Baskısı ve Arz Belirsizliğiyle Karşı Karşıya (28 Eylül 2026)",
    "okunur": true
   },
   {
@@ -1583,7 +1583,7 @@
   [
    "ICCO",
    "8 haber",
-   1628,
+   883,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1592,7 +1592,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "3 haber",
-   2017,
+   1403,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1601,7 +1601,7 @@
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   4245,
+   4073,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1610,7 +1610,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58120,
+   58890,
    "",
    "",
    null,
@@ -1619,7 +1619,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   321,
+   161,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1628,7 +1628,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   564,
+   705,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1637,7 +1637,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   2332,
+   1225,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1646,7 +1646,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   432,
+   323,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1655,7 +1655,7 @@
   [
    "Panamir",
    "2 haber",
-   4217,
+   2681,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1664,7 +1664,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   186,
+   120,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1673,7 +1673,7 @@
   [
    "ConfectioneryNews",
    "7 haber",
-   888,
+   481,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1681,8 +1681,8 @@
   ],
   [
    "FoodNavigator",
-   "3 haber",
-   536,
+   "2 haber",
+   118,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1691,7 +1691,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   456,
+   123,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1700,7 +1700,7 @@
   [
    "Bakery & Snacks",
    "4 haber",
-   874,
+   377,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1709,7 +1709,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   2213,
+   2055,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1718,7 +1718,7 @@
   [
    "MyJoyOnline · GH",
    "23 haber",
-   887,
+   925,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1727,7 +1727,7 @@
   [
    "AIP · CI resmî ajans",
    "7 haber",
-   7895,
+   29054,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1736,7 +1736,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   779,
+   151,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1745,7 +1745,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   1690,
+   539,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1753,8 +1753,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
-   31379,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   22294,
    "",
    "",
    null,
@@ -1763,7 +1763,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   57615,
+   59478,
    "",
    "",
    null,
@@ -1772,7 +1772,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   2237,
+   2314,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1781,7 +1781,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   629,
+   658,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1790,7 +1790,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   15522,
+   14585,
    "",
    "",
    null,
@@ -1798,8 +1798,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (339992 bayt, vekil)",
-   8415,
+   "besleme tanimsiz (340303 bayt, vekil)",
+   6411,
    "",
    "",
    null,
@@ -1807,8 +1807,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   46991,
+   "besleme tanimsiz (5767 bayt, vekil)",
+   10866,
    "",
    "",
    null,
@@ -1817,7 +1817,7 @@
   [
    "Ghanaian Times",
    "2 haber",
-   3477,
+   4193,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
