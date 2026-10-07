@@ -1,10 +1,75 @@
 {
- "uretim": "2026-10-07T05:49:55.456427+00:00",
+ "uretim": "2026-10-07T13:17:29.890442+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 20,
- "haberSayisi": 122,
+ "calisanKaynak": 19,
+ "haberSayisi": 113,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Agroforestry initiatives from ‘big chocolate’ offer industry hope",
+   "link": "https://www.confectioneryproduction.com/blog/59781/agroforestry-initiatives-from-big-chocolate-offer-industry-hope/",
+   "tarih": "2026-10-07T11:27:56+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "'Büyük çikolata'nın tarımsal ormancılık girişimleri sektöre umut sunuyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Tourism more sustainable than gold, cocoa",
+   "link": "https://ghanaiantimes.com.gh/tourism-more-sustainable-than-gold-cocoa-forestry-commission/",
+   "tarih": "2026-10-07T08:06:10+00:00",
+   "ozet": "",
+   "kaynak": "Ghanaian Times",
+   "grup": "Ghanaian Times",
+   "alan": "ghanaiantimes.com.gh",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Turizm altından ve kakaodan daha sürdürülebilir",
+   "okunur": true
+  },
+  {
+   "baslik": "White Sugar Leads the Rally; Brazil Reports Lower September Exports (6 October 2026)",
+   "link": "https://www.cocoaintel.com/white-sugar-leads-the-rally-brazil-reports-lower-september-exports-6-october-2026/",
+   "tarih": "2026-10-07T06:10:40+00:00",
+   "ozet": "Sugar climbs on 6 Oct as white futures outperform. Brazil exports fall, Germany cuts its crop forecast, and weather risks shape the next session.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Beyaz Şeker Ralli'ye Liderlik Ediyor; Brezilya Eylül İhracatında Düşüş Bildirdi (6 Ekim 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Arabica Breaks 300 as Stocks Fall Despite Brazil’s Export Surge (6 October 2026)",
+   "link": "https://www.cocoaintel.com/arabica-breaks-300-as-stocks-fall-despite-brazils-export-surge-6-october-2026/",
+   "tarih": "2026-10-07T06:10:26+00:00",
+   "ozet": "Arabica’s recovery gained strength on Tuesday as December futures cleared 300 cents and finished above the level that had repeatedly capped recent advances. The contract settled at 304.45 cents per pound, up 11.90 cents, or 4.07%, after trading between 291.50 ",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica, Brezilya'nın İhracat Artışına Rağmen Hisse Senedi Düşerken 300'ü Kırdı (6 Ekim 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Pulls Back Despite Persistent Crop Risks (6 October 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-pulls-back-despite-persistent-crop-risks-6-october-2026/",
+   "tarih": "2026-10-07T06:10:13+00:00",
+   "ozet": "New York cocoa fell 1.54% and London 2.61%. Ecuador crop risks, futures spreads, positioning and key support levels shape Wednesday’s outlook.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao, Devam Eden Mahsul Risklerine Rağmen Geri Çekiliyor (6 Ekim 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Soaring ICE Inventories Weigh on Cocoa Prices",
    "link": "https://www.barchart.com/story/news/4990158/soaring-ice-inventories-weigh-on-cocoa-prices",
@@ -136,32 +201,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/Guitry : 21 000 tonnes de cacao évacuées vers San-Pedro lors de la campagne écoulée",
-   "link": "https://www.aip.ci/cote-divoire-aip-guitry-21-000-tonnes-de-cacao-evacuees-vers-san-pedro-lors-de-la-campagne-ecoulee/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-guitry-21-000-tonnes-de-cacao-evacuees-vers-san-pedro-lors-de-la-campagne-ecoulee",
-   "tarih": "2026-10-05T22:17:00+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Guitry: Geçtiğimiz kampanya sırasında 21.000 ton kakao San-Pedro'ya tahliye edildi",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/Guitry : le Conseil du café-cacao sensibilise les producteurs au nouveau système de traçabilité",
-   "link": "https://www.aip.ci/cote-divoire-aip-guitry-le-conseil-du-cafe-cacao-sensibilise-les-producteurs-au-nouveau-systeme-de-tracabilite/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-guitry-le-conseil-du-cafe-cacao-sensibilise-les-producteurs-au-nouveau-systeme-de-tracabilite",
-   "tarih": "2026-10-05T22:01:32+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Guitry: Kahve-Kakao Konseyi, üreticilerin yeni izlenebilirlik sistemi konusundaki farkındalığını artırıyor",
-   "okunur": true
-  },
-  {
    "baslik": "Cocoa Prices Rally as Heavy Rains Slow Deliveries in the Ivory Coast",
    "link": "https://www.barchart.com/story/news/4967612/cocoa-prices-rally-as-heavy-rains-slow-deliveries-in-the-ivory-coast",
    "tarih": "2026-10-05T18:23:11+00:00",
@@ -240,19 +279,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ Plus de 42 T de cacao en fuite vers le Ghana saisies par les agents de l’opération Verrou 322 à Abengourou",
-   "link": "https://www.aip.ci/cote-divoire-aip-plus-de-42-t-de-cacao-en-fuite-vers-le-ghana-saisies-par-les-agents-de-loperation-verrou-322-a-abengourou/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-plus-de-42-t-de-cacao-en-fuite-vers-le-ghana-saisies-par-les-agents-de-loperation-verrou-322-a-abengourou",
-   "tarih": "2026-10-05T15:00:35+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Abengourou'daki Verrou 322 Operasyonu ajanları tarafından Gana'ya kaçan 42 tondan fazla kakao ele geçirildi",
-   "okunur": true
-  },
-  {
    "baslik": "Cameroon Cocoa Firms Invited to Tunis Expo for Market Opportunities",
    "link": "https://www.businessincameroon.com/public-management/0510-16898-cameroon-cocoa-firms-invited-to-tunis-expo-for-market-opportunities",
    "tarih": "2026-10-05T14:58:30+00:00",
@@ -263,45 +289,6 @@
    "w": 0.95,
    "kaynakUyari": "",
    "baslikTR": "Kamerun Kakao Firmaları Pazar Fırsatları İçin Tunus Fuarına Davet Edildi",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/Le préfet de Méagui exhorte les producteurs de cacao à intégrer le système national de traçabilité",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-prefet-de-meagui-exhorte-les-producteurs-de-cacao-a-integrer-le-systeme-national-de-tracabilite/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-prefet-de-meagui-exhorte-les-producteurs-de-cacao-a-integrer-le-systeme-national-de-tracabilite",
-   "tarih": "2026-10-05T14:38:35+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Méagui Valisi kakao üreticilerini ulusal izlenebilirlik sistemini entegre etmeye çağırıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le conseil café-cacao de Divo satisfait du bilan de la campagne 2025-2026",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-cafe-cacao-de-divo-satisfait-du-bilan-de-la-campagne-2025-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-cafe-cacao-de-divo-satisfait-du-bilan-de-la-campagne-2025-2026",
-   "tarih": "2026-10-05T13:11:41+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Divo kahve-kakao konseyi 2025-2026 kampanyasının sonuçlarından memnun",
-   "okunur": true
-  },
-  {
-   "baslik": "Plus de 42 T de cacao en fuite vers le Ghana saisies par les agents de l’opération Verrou 322 à Abengourou",
-   "link": "https://www.aip.ci/plus-de-42-t-de-cacao-en-fuite-vers-le-ghana-saisies-par-les-agents-de-loperation-verrou-322-a-abengourou/?utm_source=rss&utm_medium=rss&utm_campaign=plus-de-42-t-de-cacao-en-fuite-vers-le-ghana-saisies-par-les-agents-de-loperation-verrou-322-a-abengourou",
-   "tarih": "2026-10-05T13:02:07+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Abengourou'daki Lock 322 Operasyonu ajanları tarafından Gana'ya kaçan 42 tondan fazla kakao ele geçirildi",
    "okunur": true
   },
   {
@@ -734,45 +721,6 @@
    "okunur": true
   },
   {
-   "baslik": "Sugar Futures Rise Amid Brazil Rain and Global Crop Risks (29 September 2026)",
-   "link": "https://www.cocoaintel.com/sugar-futures-rise-amid-brazil-rain-and-global-crop-risks-29-september-2026/",
-   "tarih": "2026-09-30T06:13:06+00:00",
-   "ozet": "March raw sugar gained 1.51% on 29 September. Brazil rain, India's crop risks, global supplies, Pakistan exports and Wednesday's trading outlook.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Şeker Vadeli İşlemleri Brezilya Yağmuru ve Küresel Mahsul Riskleri Ortamında Yükseliyor (29 Eylül 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Arabica Extends Recovery as Brazil Quality Risks Offset Heavy Exports (29 September 2026)",
-   "link": "https://www.cocoaintel.com/arabica-extends-recovery-as-brazil-quality-risks-offset-heavy-exports-29-september-2026/",
-   "tarih": "2026-09-30T06:10:45+00:00",
-   "ozet": "Arabica closes at 289.45 cents as widening spreads and Brazilian quality concerns offset heavy exports and improving rainfall.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Brezilya Kalite Riskleri Ağır İhracatı Dengelerken Arabica Toparlanmayı Uzatıyor (29 Eylül 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa Falls Back to Support as Lindt Cuts Sales Outlook (29 September 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-falls-back-to-support-as-lindt-cuts-sales-outlook-29-september-2026/",
-   "tarih": "2026-09-30T06:08:58+00:00",
-   "ozet": "Cocoa retests $5350 support as Lindt cuts its sales outlook. Analysis of futures, spreads, stocks, positioning and Wednesday’s key trading levels",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Lindt'in Satış Görünümünü Düşürmesiyle Kakao Desteğine Geri Döndü (29 Eylül 2026)",
-   "okunur": true
-  },
-  {
    "baslik": "Chocolate giant sets up base near Magnum Ice Cream",
    "link": "https://www.foodmanufacture.co.uk/Article/2026/09/30/barry-callebaut-has-established-a-base-at-gastronomica-next-to-the-magnum-ice-cream-company/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-09-30T06:00:00+00:00",
@@ -901,19 +849,6 @@
    "kaynakUyari": "",
    "baslikTR": "Doğa kakaoyu kurtarabilir mi? Tedarik krizine endüstrinin tepkisi",
    "okunur": true
-  },
-  {
-   "baslik": "COCOBOD pegs 2026/2027 producer price at GH¢42,000 …represents 71.18 per cent of FOB",
-   "link": "https://ghanaiantimes.com.gh/cocobod-pegs-2026-2027-producer-price-at-gh%c2%a242000-represents-71-18-per-cent-of-fob/",
-   "tarih": "2026-09-28T07:01:43+00:00",
-   "ozet": "",
-   "kaynak": "Ghanaian Times",
-   "grup": "Ghanaian Times",
-   "alan": "ghanaiantimes.com.gh",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "COCOBOD 2026/2027 üretici fiyatını GH¢42.000 olarak sabitledi…FOB'un yüzde 71,18'ini temsil ediyor",
-   "okunur": false
   },
   {
    "baslik": "COCOBOD asks investors to fund cocoa purchases, but proceeds may also repay old debt",
@@ -1124,45 +1059,6 @@
    "okunur": true
   },
   {
-   "baslik": "From Mars to Ferrero: Confectionery bets big on ultra-premium chocolate",
-   "link": "https://www.foodnavigator.com/Article/2026/09/23/mars-nestle-lindt-and-ferrero-lead-ultra-premium-chocolate-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-09-23T10:44:10+00:00",
-   "ozet": "From Lindt and Ferrero to Mondelēz and Nestlé, chocolate giants are embracing ultra-premium innovation as demand for luxury, sustainability and craftsmanship continues to rise.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "foodnavigator.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Mars'tan Ferrero'ya: Şekerleme sektörü ultra premium çikolataya büyük yatırım yapıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Absa, IFC announce $50m facility for cocoa buyers",
-   "link": "https://ghanaiantimes.com.gh/absa-ifc-announce-50m-facility-for-cocoa-buyers/",
-   "tarih": "2026-09-23T08:02:07+00:00",
-   "ozet": "",
-   "kaynak": "Ghanaian Times",
-   "grup": "Ghanaian Times",
-   "alan": "ghanaiantimes.com.gh",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Absa ve IFC, kakao alıcıları için 50 milyon dolarlık tesis duyurdu",
-   "okunur": true
-  },
-  {
-   "baslik": "Absa Bank Ghana and IFC announce $50m facility to expand cocoa financing",
-   "link": "https://www.myjoyonline.com/absa-bank-ghana-and-ifc-announce-50m-facility-to-expand-cocoa-financing/",
-   "tarih": "2026-09-23T07:46:50+00:00",
-   "ozet": "Absa Bank Ghana LTD and IFC have announced a $50 million unfunded risk participation facility to expand financing for Licensed Buying Companies purchasing traceable cocoa from farmers across Ghana.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Absa Bank Gana ve IFC, kakao finansmanını genişletmek için 50 milyon dolarlık tesis duyurdu",
-   "okunur": true
-  },
-  {
    "baslik": "Spooky season starts with a bang for UK’s Hames Chocolates",
    "link": "https://www.confectioneryproduction.com/news/59530/spooky-season-starts-with-a-bang-for-uks-hames-chocolates/",
    "tarih": "2026-09-22T20:03:15+00:00",
@@ -1303,19 +1199,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "İnsan haklarına saygı: kakao yetiştiren kırk topluluktan paydaşlara eğitim verildi",
-   "okunur": true
-  },
-  {
-   "baslik": "Luker Chocolate marks 120th anniversary with London festival appearance",
-   "link": "https://www.confectioneryproduction.com/news/59420/luker-chocolate-marks-120th-anniversary-with-london-festival-appearance/",
-   "tarih": "2026-09-12T09:10:40+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Luker Çikolata 120. yıl dönümünü Londra festivaliyle kutluyor",
    "okunur": true
   },
   {
@@ -1596,7 +1479,7 @@
   [
    "ICCO",
    "8 haber",
-   927,
+   819,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1605,7 +1488,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "3 haber",
-   1511,
+   1810,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1614,7 +1497,7 @@
   [
    "ECA · Avrupa öğütme",
    "4 haber",
-   4226,
+   3818,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1623,7 +1506,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   56827,
+   58693,
    "",
    "",
    null,
@@ -1632,7 +1515,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   241,
+   269,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1641,7 +1524,7 @@
   [
    "World Cocoa Foundation",
    "9 haber",
-   554,
+   492,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1650,7 +1533,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1854,
+   3088,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1659,7 +1542,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   380,
+   598,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1668,7 +1551,7 @@
   [
    "Panamir",
    "2 haber",
-   1845,
+   1384,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1677,7 +1560,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   187,
+   236,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1685,8 +1568,8 @@
   ],
   [
    "ConfectioneryNews",
-   "8 haber",
-   263,
+   "7 haber",
+   560,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1695,7 +1578,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   203,
+   212,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1704,7 +1587,7 @@
   [
    "Food Manufacture",
    "3 haber",
-   489,
+   539,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1712,8 +1595,8 @@
   ],
   [
    "Bakery & Snacks",
-   "5 haber",
-   521,
+   "4 haber",
+   697,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1722,7 +1605,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   1682,
+   2170,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1730,8 +1613,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "25 haber",
-   823,
+   "24 haber",
+   884,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1739,17 +1622,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "6 haber",
-   8342,
-   "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "worker: The read operation timed out | allorigins: HTTP Error 408: Req",
+   205244,
+   "",
+   "",
    null,
    0
   ],
   [
    "Sika Finance · CI",
-   "besleme tanimsiz (17414 bayt, vekil)",
-   9433,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   58490,
    "",
    "",
    null,
@@ -1758,7 +1641,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   488,
+   585,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1766,8 +1649,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   36557,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
+   35219,
    "",
    "",
    null,
@@ -1776,7 +1659,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   31987,
+   31191,
    "",
    "",
    null,
@@ -1785,7 +1668,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   2548,
+   2227,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1794,7 +1677,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   599,
+   859,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1803,7 +1686,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   15557,
+   14614,
    "",
    "",
    null,
@@ -1811,8 +1694,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (339691 bayt, vekil)",
-   8411,
+   "besleme tanimsiz (339723 bayt, vekil)",
+   7789,
    "",
    "",
    null,
@@ -1820,8 +1703,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "besleme tanimsiz (5767 bayt, vekil)",
-   35621,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   44041,
    "",
    "",
    null,
@@ -1829,8 +1712,8 @@
   ],
   [
    "Ghanaian Times",
-   "2 haber",
-   5055,
+   "1 haber",
+   4990,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
