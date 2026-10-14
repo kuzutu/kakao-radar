@@ -1,10 +1,62 @@
 {
- "uretim": "2026-10-14T10:37:03.885866+00:00",
+ "uretim": "2026-10-14T15:28:39.203015+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 19,
- "haberSayisi": 109,
+ "calisanKaynak": 21,
+ "haberSayisi": 112,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa financing proceeds will not fund other legacy debts",
+   "link": "https://3news.com/business/cocoa-financing-proceeds-will-not-fund-other-legacy-debts-cocobod-ceo",
+   "tarih": "2026-10-14T14:40:34+00:00",
+   "ozet": "The Chief Executive of Ghana Cocoa Board (COCOBOD), Dr Ransford Anertey Abbey, says proceeds from the Board’s maiden commercial paper issuance will be restricted to cocoa purchases and core operations, and will not be used to settle other legacy debts.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao finansmanından elde edilen gelirler diğer eski borçları finanse etmeyecek",
+   "okunur": true
+  },
+  {
+   "baslik": "Over half of Nigeria’s cocoa may fail EU deforestation rule",
+   "link": "https://businessday.ng/agriculture/article/over-half-of-nigerias-cocoa-may-fail-eu-deforestation-rule-lcci/",
+   "tarih": "2026-10-14T14:29:38+00:00",
+   "ozet": "…calls for rapid farm mapping and national platform More than half of Nigeria’s cocoa beans may fail to meet the",
+   "kaynak": "BusinessDay · NG",
+   "grup": "BusinessDay · NG",
+   "alan": "businessday.ng",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Nijerya'daki kakaonun yarısından fazlası AB'nin ormansızlaştırma kuralına uymayabilir",
+   "okunur": true
+  },
+  {
+   "baslik": "COCOBOD raises GH¢3.396bn as it shifts cocoa financing to domestic market",
+   "link": "https://3news.com/business/cocobod-raises-gh-3-396bn-as-it-shifts-cocoa-financing-to-domestic-market",
+   "tarih": "2026-10-14T14:24:44+00:00",
+   "ozet": "Ghana Cocoa Board (COCOBOD) has raised GH¢3.396 billion from domestic institutional investors through the maiden commercial paper issuance of Cocoa Capital PLC, as the Board moves to reduce its reliance on external borrowing to finance cocoa purchases.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD, kakao finansmanını iç pazara kaydırarak GH¢3.396 milyar artırdı",
+   "okunur": true
+  },
+  {
+   "baslik": "Peru’s cocoa exporters face a test beyond the farm map",
+   "link": "https://cocoaradar.com/perus-cocoa-exporters-face-a-test-beyond-the-farm-map/",
+   "tarih": "2026-10-14T14:07:00+00:00",
+   "ozet": "Europe buys more than half of Peru’s cocoa bean exports by value. Preserving that market will require the country’s mapping drive to connect individual farms with the beans shipped overseas after the new EUDR regulations come into effect",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Peru'nun kakao ihracatçıları çiftlik haritasının ötesinde bir sınavla karşı karşıya",
+   "okunur": true
+  },
   {
    "baslik": "COCOBOD raises GH¢3.4bn as Cocoa Capital PLC lists inaugural commercial paper on GFIM",
    "link": "https://www.myjoyonline.com/cocobod-raises-gh%c2%a23-4bn-as-cocoa-capital-plc-lists-inaugural-commercial-paper-on-gfim/",
@@ -1124,19 +1176,6 @@
    "okunur": true
   },
   {
-   "baslik": "Global Cocoa Crop Nears Multi-Year High; Record Claim Unproven",
-   "link": "https://cocoaradar.com/global-cocoa-crop-nears-multi-year-high-record-claim-unproven/",
-   "tarih": "2026-09-24T15:46:52+00:00",
-   "ozet": "Pro Briefing: Evidence of a broad cocoa-supply recovery is strengthening expectations of a sizable global surplus in 2025-26, although claims of record production remain unsupported",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Küresel Kakao Mahsulleri Son Yılların En Yüksek Seviyesine Yakın; Kayıt İddiası Kanıtlanmamış",
-   "okunur": true
-  },
-  {
    "baslik": "Indonesia",
    "link": "https://www.eurococoa.com/events/indonesia-eu-business-forum-2026/",
    "tarih": "2026-09-23T12:22:30+00:00",
@@ -1427,7 +1466,7 @@
   [
    "ICCO",
    "8 haber",
-   795,
+   1391,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1436,7 +1475,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   5846,
+   1602,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1445,7 +1484,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3863,
+   4045,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1454,7 +1493,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59222,
+   60355,
    "",
    "",
    null,
@@ -1463,7 +1502,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   474,
+   304,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1472,7 +1511,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   4391,
+   515,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1481,7 +1520,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1486,
+   1461,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1490,7 +1529,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   4201,
+   510,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1499,7 +1538,7 @@
   [
    "Panamir",
    "2 haber",
-   1848,
+   2729,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1508,7 +1547,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   175,
+   156,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1517,7 +1556,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   265,
+   836,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1526,7 +1565,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7444,
+   8265,
    "",
    "",
    null,
@@ -1535,7 +1574,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7354,
+   8888,
    "",
    "",
    null,
@@ -1544,7 +1583,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   271,
+   683,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1553,7 +1592,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   2267,
+   2466,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1562,7 +1601,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   902,
+   971,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1571,7 +1610,7 @@
   [
    "AIP · CI resmî ajans",
    "5 haber",
-   14825,
+   14202,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1579,8 +1618,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 408: Reques",
-   61268,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   62966,
    "",
    "",
    null,
@@ -1589,7 +1628,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   657,
+   817,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1598,7 +1637,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   691,
+   905,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1606,17 +1645,17 @@
   ],
   [
    "BusinessDay · NG",
-   "konuya uyan haber yok (5 kayit tarandi)",
-   126667,
-   "",
-   "",
+   "1 haber",
+   1298,
+   "https://businessday.ng/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
+   "onbellek",
    null,
    0
   ],
   [
    "Anecacao · EC",
    "3 haber",
-   1390,
+   1622,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1625,7 +1664,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   637,
+   707,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1634,7 +1673,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   15939,
+   16722,
    "",
    "",
    null,
@@ -1642,17 +1681,17 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (342628 bayt, vekil)",
-   7864,
-   "",
-   "",
+   "2 haber",
+   7079,
+   "https://3news.com/feed/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   42805,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   46878,
    "",
    "",
    null,
@@ -1661,7 +1700,7 @@
   [
    "Ghanaian Times",
    "3 haber",
-   5583,
+   4716,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
