@@ -1,10 +1,75 @@
 {
- "uretim": "2026-10-14T05:20:57.779083+00:00",
+ "uretim": "2026-10-14T10:37:03.885866+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 19,
- "haberSayisi": 105,
+ "haberSayisi": 109,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "COCOBOD raises GH¢3.4bn as Cocoa Capital PLC lists inaugural commercial paper on GFIM",
+   "link": "https://www.myjoyonline.com/cocobod-raises-gh%c2%a23-4bn-as-cocoa-capital-plc-lists-inaugural-commercial-paper-on-gfim/",
+   "tarih": "2026-10-14T10:20:45+00:00",
+   "ozet": "The Ghana Cocoa Board (COCOBOD) has raised GH¢3.396 billion from domestic institutional investors through its inaugural commercial paper issuance, as the cocoa regulator moves to diversify its financing sources and reduce reliance on external borrowing. The fu",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD, Cocoa Capital PLC'nin GFIM'deki açılış ticari senetini listelemesiyle GH¢3,4 milyar artırdı",
+   "okunur": true
+  },
+  {
+   "baslik": "Wall Street to host Africa Cocoa Finance, Investment Forum",
+   "link": "https://ghanaiantimes.com.gh/wall-street-to-host-africa-cocoa-finance-investment-forum/",
+   "tarih": "2026-10-14T07:48:30+00:00",
+   "ozet": "",
+   "kaynak": "Ghanaian Times",
+   "grup": "Ghanaian Times",
+   "alan": "ghanaiantimes.com.gh",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Wall Street, Afrika Kakao Finansmanı ve Yatırım Forumu'na ev sahipliği yapacak",
+   "okunur": true
+  },
+  {
+   "baslik": "Raw Sugar Advances as France Cuts Beet Forecast (13 October 2026)",
+   "link": "https://www.cocoaintel.com/raw-sugar-advances-as-france-cuts-beet-forecast-13-october-2026/",
+   "tarih": "2026-10-14T06:07:27+00:00",
+   "ozet": "Raw sugar rises as France cuts its beet forecast. USDA harvest progress, Brazil rain, global balances and Asian trade developments.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Fransa Pancar Tahminini Düşürürken Ham Şeker Yükseliyor (13 Ekim 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Arabica Extends Recovery as Robusta Slips and Stocks Shrink (13 October 2026)",
+   "link": "https://www.cocoaintel.com/arabica-extends-recovery-as-robusta-slips-and-stocks-shrink-13-october-2026/",
+   "tarih": "2026-10-14T06:07:16+00:00",
+   "ozet": "Arabica closes at 292.70 cents as ICE stocks fall below 250,000 bags. Robusta weakens amid new Brazil weather and global coffee updates.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica, Robusta'nın Kayması ve Hisse Senetlerinin Küçülmesiyle Toparlanmasını Uzatıyor (13 Ekim 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Reaches Month Highs on Weather Risks Ahead of Q3 Grindings (13 October 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-reaches-month-highs-on-weather-risks-ahead-of-q3-grindings-13-october-2026/",
+   "tarih": "2026-10-14T06:06:53+00:00",
+   "ozet": "Cocoa reaches month highs before fading.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao, Üçüncü Çeyrek Öğütmeleri Öncesinde Hava Riskleri Açısından Ayın En Yüksek Seviyesine Ulaştı (13 Ekim 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Italy’s Domori chocolate unveils couverture series for UK professional market",
    "link": "https://www.confectioneryproduction.com/news/59868/italys-domori-chocolate-unveils-couverture-series-for-uk-professional-market/",
@@ -35,7 +100,7 @@
    "baslik": "Côte d’Ivoire-AIP/ Le Conseil du café-cacao lance la campagne principale 2026-2027 dans le Bélier",
    "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-lance-la-campagne-principale-2026-2027-dans-le-belier/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-du-cafe-cacao-lance-la-campagne-principale-2026-2027-dans-le-belier",
    "tarih": "2026-10-13T17:01:48+00:00",
-   "ozet": "",
+   "ozet": "Toumodi, 13 sept 2026 (AIP) – Le Conseil du café-cacao a lancé officiellement, mardi 13 septembre 2026, la campagne principale café-cacao 2026-2027 dans la région du Bélier, lors d’une cérémonie organisée à la préfecture de Toumodi, marquée par un appel au res",
    "kaynak": "AIP · CI resmî ajans",
    "grup": "AIP · CI resmî ajans",
    "alan": "aip.ci",
@@ -175,6 +240,19 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP / Le préfet de Lakota annonce un don d’ambulance pour le département",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-prefet-de-lakota-annonce-un-don-dambulance-pour-le-departement/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-prefet-de-lakota-annonce-un-don-dambulance-pour-le-departement",
+   "tarih": "2026-10-12T16:37:02+00:00",
+   "ozet": "Lakota, 12 oct 2026 (AIP) – Le préfet du département de Lakota, Lassina Binaté, a annoncé lundi 12 octobre 2026, la mise à disposition prochaine d’une ambulance offerte par le Conseil du Café-Cacao (CCC) au profit des populations locales, lors de la cérémonie ",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / Lakota Valisi departmana ambulans bağışlandığını duyurdu",
+   "okunur": true
+  },
+  {
    "baslik": "Cargill’s global earnings drop amid cocoa market and agricultural challenges",
    "link": "https://www.confectioneryproduction.com/news/59859/cargills-global-earnings-drop-amid-cocoa-market-and-agricultural-challenges/",
    "tarih": "2026-10-12T16:22:23+00:00",
@@ -266,10 +344,36 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP/Lutte contre l’orpaillage illégal : quatre individus interpellés à Méagui",
+   "link": "https://www.aip.ci/cote-divoire-aip-lutte-contre-lorpaillage-illegal-quatre-individus-interpelles-a-meagui/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-lutte-contre-lorpaillage-illegal-quatre-individus-interpelles-a-meagui",
+   "tarih": "2026-10-11T17:09:11+00:00",
+   "ozet": "Soubré, 11 oct 2026 (AIP) – Quatre individus ont été interpellés lors d’une opération de lutte contre l’orpaillage illégal menée mardi 6 octobre 2026 à Cacaokro, un village relevant de Sarakagui, dans la sous-préfecture de Gnamangui, département de Méagui, ave",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Yasadışı altın aramayla mücadele: Méagui'de dört kişi tutuklandı",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Projet SCOLUR-CI : les partenaires en visite de terrain à Guiglo et Bloléquin",
+   "link": "https://www.aip.ci/cote-divoire-aip-projet-scolur-ci-les-partenaires-en-visite-de-terrain-a-guiglo-et-blolequin/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-projet-scolur-ci-les-partenaires-en-visite-de-terrain-a-guiglo-et-blolequin",
+   "tarih": "2026-10-11T16:46:21+00:00",
+   "ozet": "Guiglo, 11 oct 2026 (AIP) -Une mission conjointe des partenaires du projet SCOLUR-CI (Développement des systèmes alimentaires à base de cacao, de l’aménagement du territoire et de la restauration des sols/ Innovations transformatrices en Côte d’Ivoire),a effec",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ SCOLUR-CI Projesi: Guiglo ve Bloléquin'e saha ziyaretinde ortaklar",
+   "okunur": true
+  },
+  {
    "baslik": "Côte d’Ivoire-AIP/Café-cacao : le corps préfectoral de la Nawa appelle les producteurs à éviter la grève",
    "link": "https://www.aip.ci/cote-divoire-aip-cafe-cacao-le-corps-prefectoral-de-la-nawa-appelle-les-producteurs-a-eviter-la-greve/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-cafe-cacao-le-corps-prefectoral-de-la-nawa-appelle-les-producteurs-a-eviter-la-greve",
    "tarih": "2026-10-11T16:24:32+00:00",
-   "ozet": "",
+   "ozet": "Soubré, 11 oct 2026 (AIP) – Le corps préfectoral de la région de la Nawa a appelé les producteurs de café-cacao à faire confiance au gouvernement et à privilégier le dialogue pour la conduite de la campagne de commercialisation 2026-2027, lors d’une tournée d’",
    "kaynak": "AIP · CI resmî ajans",
    "grup": "AIP · CI resmî ajans",
    "alan": "aip.ci",
@@ -471,45 +575,6 @@
    "w": 0.8,
    "kaynakUyari": "",
    "baslikTR": "Turizm altından ve kakaodan daha sürdürülebilir",
-   "okunur": true
-  },
-  {
-   "baslik": "White Sugar Leads the Rally; Brazil Reports Lower September Exports (6 October 2026)",
-   "link": "https://www.cocoaintel.com/white-sugar-leads-the-rally-brazil-reports-lower-september-exports-6-october-2026/",
-   "tarih": "2026-10-07T06:10:40+00:00",
-   "ozet": "Sugar climbs on 6 Oct as white futures outperform. Brazil exports fall, Germany cuts its crop forecast, and weather risks shape the next session.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Beyaz Şeker Ralli'ye Liderlik Ediyor; Brezilya Eylül İhracatında Düşüş Bildirdi (6 Ekim 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Arabica Breaks 300 as Stocks Fall Despite Brazil’s Export Surge (6 October 2026)",
-   "link": "https://www.cocoaintel.com/arabica-breaks-300-as-stocks-fall-despite-brazils-export-surge-6-october-2026/",
-   "tarih": "2026-10-07T06:10:26+00:00",
-   "ozet": "Arabica’s recovery gained strength on Tuesday as December futures cleared 300 cents and finished above the level that had repeatedly capped recent advances. The contract settled at 304.45 cents per pound, up 11.90 cents, or 4.07%, after trading between 291.50 ",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Arabica, Brezilya'nın İhracat Artışına Rağmen Hisse Senedi Düşerken 300'ü Kırdı (6 Ekim 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa Pulls Back Despite Persistent Crop Risks (6 October 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-pulls-back-despite-persistent-crop-risks-6-october-2026/",
-   "tarih": "2026-10-07T06:10:13+00:00",
-   "ozet": "New York cocoa fell 1.54% and London 2.61%. Ecuador crop risks, futures spreads, positioning and key support levels shape Wednesday’s outlook.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao, Devam Eden Mahsul Risklerine Rağmen Geri Çekiliyor (6 Ekim 2026)",
    "okunur": true
   },
   {
@@ -1033,19 +1098,6 @@
    "okunur": true
   },
   {
-   "baslik": "Annoh-Dompreh slams GH¢2,650 cocoa price, says farmers deserve better",
-   "link": "https://www.myjoyonline.com/annoh-dompreh-slams-gh%c2%a22650-cocoa-price-says-farmers-deserve-better/",
-   "tarih": "2026-09-26T07:21:00+00:00",
-   "ozet": "Minority Chief Whip Frank Annoh-Dompreh has criticised the government’s new cocoa producer price, describing the GH¢2,650 per 64-kilogramme bag as a disappointment to farmers.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Annoh-Dompreh, çiftçilerin daha iyisini hak ettiğini söyleyerek GH 2.650 kakao fiyatını düşürdü",
-   "okunur": true
-  },
-  {
    "baslik": "Exclusive: Fairtrade cocoa premium prices kick-in offering key farmer support",
    "link": "https://www.confectioneryproduction.com/news/59574/exclusive-fairtrade-cocoa-premium-prices-kick-in-offering-key-farmer-support/",
    "tarih": "2026-09-25T12:52:29+00:00",
@@ -1375,7 +1427,7 @@
   [
    "ICCO",
    "8 haber",
-   1082,
+   795,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1384,7 +1436,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1667,
+   5846,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1393,7 +1445,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4038,
+   3863,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1402,7 +1454,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59199,
+   59222,
    "",
    "",
    null,
@@ -1411,7 +1463,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   192,
+   474,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1420,7 +1472,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   590,
+   4391,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1429,7 +1481,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1152,
+   1486,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1438,7 +1490,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   485,
+   4201,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1447,7 +1499,7 @@
   [
    "Panamir",
    "2 haber",
-   2795,
+   1848,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1456,7 +1508,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   244,
+   175,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1465,7 +1517,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   477,
+   265,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1474,7 +1526,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7095,
+   7444,
    "",
    "",
    null,
@@ -1483,7 +1535,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7104,
+   7354,
    "",
    "",
    null,
@@ -1492,7 +1544,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   549,
+   271,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1501,7 +1553,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   2091,
+   2267,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1510,7 +1562,7 @@
   [
    "MyJoyOnline · GH",
    "20 haber",
-   957,
+   902,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1518,8 +1570,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "2 haber",
-   12804,
+   "5 haber",
+   14825,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1527,8 +1579,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   62343,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 408: Reques",
+   61268,
    "",
    "",
    null,
@@ -1537,7 +1589,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   1565,
+   657,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1546,7 +1598,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   609,
+   691,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1555,7 +1607,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   57316,
+   126667,
    "",
    "",
    null,
@@ -1564,7 +1616,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   2366,
+   1390,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1573,7 +1625,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   807,
+   637,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1582,7 +1634,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   15068,
+   15939,
    "",
    "",
    null,
@@ -1590,8 +1642,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (343031 bayt, vekil)",
-   9013,
+   "besleme tanimsiz (342628 bayt, vekil)",
+   7864,
    "",
    "",
    null,
@@ -1599,8 +1651,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   46682,
+   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
+   42805,
    "",
    "",
    null,
@@ -1608,8 +1660,8 @@
   ],
   [
    "Ghanaian Times",
-   "2 haber",
-   5310,
+   "3 haber",
+   5583,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
