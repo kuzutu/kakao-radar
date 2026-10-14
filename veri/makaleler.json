@@ -1245,22 +1245,22 @@
 "Bu ortak misyon, sahada yürütülen faaliyetlerin etkinliğini doğrulamayı ve Fildişi Sahili'ndeki orman ekosistemlerinin restorasyonuna ve kakao üretiminin sürdürülebilirliğine katkıda bulunmayı amaçlayan SCOLUR-CI projesinin uygulanmasında kaydedilen ilerlemeyi değerlendirmeyi amaçlıyordu."
 ]
 },
-"https://www.barchart.com/story/news/6205485/cocoa-prices-supported-as-rains-in-the-ivory-coast-delay-the-harvest": {
-"hata": "govde cikarilamadi",
-"p": [],
-"pTR": []
-},
-"https://www.barchart.com/story/news/6242446/cocoa-harvest-delays-in-the-ivory-coast-support-prices": {
-"hata": "govde cikarilamadi",
-"p": [],
-"pTR": []
-},
 "https://www.barchart.com/story/news/6894615/ivory-coast-harvest-delays-boost-cocoa-prices": {
 "hata": "govde cikarilamadi",
 "p": [],
 "pTR": []
 },
 "https://www.barchart.com/story/news/6980397/cocoa-prices-settle-higher-on-ivory-coast-harvest-delays": {
+"hata": "govde cikarilamadi",
+"p": [],
+"pTR": []
+},
+"https://www.barchart.com/story/news/7642946/signs-of-stronger-demand-support-cocoa-prices": {
+"hata": "govde cikarilamadi",
+"p": [],
+"pTR": []
+},
+"https://www.barchart.com/story/news/7673876/cocoa-prices-edge-higher-on-demand-strength": {
 "hata": "govde cikarilamadi",
 "p": [],
 "pTR": []
@@ -3708,6 +3708,42 @@
 "Komite Başkanı, üyelerin hükümetin projeyi canlandırma yönündeki beyanını dikkate aldığını ve bu taahhüdün somut eyleme dönüşmesini sağlamak için ilgili makamlarla temasa geçmeye devam edeceklerini söyledi.",
 "\"Biz de bu yanıtları bilmek istiyoruz, ancak taahhüdü duyduk ve bu yüzden geri dönüp bunun güvence altına alındığından emin olmak için nasıl takip edebileceğimizi görmek istiyoruz\" diye ekledi.",
 "Pwalugu Sulama Barajı, kuzey Gana'da sulamaya dayalı çiftçiliği desteklemeyi ve tarımsal üretimi iyileştirmeyi amaçlayan önemli bir tarımsal altyapı girişimi olarak kabul ediliyor."
+]
+},
+"https://www.sikafinance.com/premium/cote-divoire-la-transformation-du-cacao-bondit-de-46-6-en-septembre_64961": {
+"p": [
+"Côte d’Ivoire : La transformation du cacao bondit de 46,6 % en septembre",
+"La Côte d'Ivoire s'est fixé pour objectif de transformer localement au moins 50 % de sa production de cacao, afin de capter une plus grande part de la valeur ajoutée de cette filière stratégique. Cette ambition, soutenue par des mesures incitatives en faveur des industriels, prend une importance particulière pour le premier producteur mondi ...",
+"14/10/2026 Le bénéfice de la SAPH baisse de 58 % à fin septembre, malgré la hausse du caoutchouc",
+"14/10/2026 BICICI : Le bénéfice bondit de 23 % au S1 2026 malgré l’alourdissement du coût du risque",
+"13/10/2026 L’IA, la dette et les hackers, 3 bombes à retardement sous la résilience des marchés financiers",
+"13/10/2026 BRVM : Ces mauvais élèves qui font tâche dans le paysage boursier",
+"13/10/2026 UEMOA : Les prix des principales denrées alimentaires grimpent de 9,8% en juillet, sous l’effet des huiles végétales et du blé",
+"12/10/2026 Dette publique : Le Sénégal veut boucler en 3 mois une restructuration qui a pris 6 ans à la Zambie",
+"12/10/2026 Afrique : Quels pays paient le mieux leurs travailleurs",
+"12/10/2026 BRVM/SEMAINE 40 : Bridge Bank Group CI et Orange CI soutiennent un marché à l’équilibre",
+"12/10/2026 Oragroup : Le recul de 80 % du coût du risque stabilise le bénéfice à 18,5 milliards FCFA au S1 2026",
+"09/10/2026 Afrique subsaharienne : Face au recul de 25% de l’aide au développement en 2025, le défi de l’autonomie financière",
+"09/10/2026 UEMOA : Les prix des produits de base exportés ont progressé de 4,9% en juillet",
+"08/10/2026 Seuls 5% des datacenters africains sont actuellement prêts pour l'IA",
+"08/10/2026 PALMCI / S1 2026 : Un bénéfice en retrait de 41 %, le plus faible depuis 2020"
+],
+"pTR": [
+"Fildişi Sahili: Kakao işleme Eylül ayında %46,6 arttı",
+"Fildişi Sahili, bu stratejik sektörün katma değerinden daha büyük bir pay elde etmek amacıyla, kakao üretiminin en az %50'sini yerel olarak işlemeyi kendisine hedef olarak belirlemiştir. Üreticiler lehine teşvik tedbirleriyle desteklenen bu hırs, dünyanın lider üreticisi için ayrı bir önem taşıyor...",
+"14/10/2026 SAPH'ın karı kauçuktaki artışa rağmen Eylül sonunda %58 düştü",
+"14/10/2026 BICICI: Risk maliyetindeki artışa rağmen 2026'nın ilk yarısında kâr %23 arttı",
+"10/13/2026 Yapay zeka, borç ve bilgisayar korsanları, finansal piyasaların dayanıklılığı altında 3 saatli bomba",
+"13.10.2026 BRVM: Borsada iz bırakan bu kötü performans gösterenler",
+"13/10/2026 UEMOA: Temel gıda fiyatları Temmuz ayında bitkisel yağlar ve buğdayın etkisiyle %9,8 arttı",
+"10/12/2026 Kamu borcu: Senegal, Zambiya'nın 6 yıl süren yeniden yapılanmasını 3 ayda tamamlamak istiyor",
+"12/10/2026 Afrika: Hangi ülkeler işçilerine en iyi maaşı veriyor",
+"10/12/2026 BRVM/WEEK 40: Bridge Bank Group CI ve Orange CI dengeli bir piyasayı destekliyor",
+"12/10/2026 Oragroup: Risk maliyetindeki %80'lik düşüş, 2026'nın ilk yarısında kârı 18,5 milyar FCFA'da sabitledi",
+"09/10/2026 Sahra Altı Afrika: 2025'te kalkınma yardımlarında %25'lik bir düşüşle karşı karşıya kalan mali özerklik sorunu",
+"09/10/2026 UEMOA: İhraç edilen emtia fiyatları Temmuz ayında %4,9 arttı",
+"08/10/2026 Afrika veri merkezlerinin yalnızca %5'i şu anda yapay zekaya hazır",
+"08/10/2026 PALMCI / 2026'nın 1. Yarısı: Kâr %41 düştü, 2020'den bu yana en düşük seviye"
 ]
 }
 }
