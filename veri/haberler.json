@@ -1,10 +1,23 @@
 {
- "uretim": "2026-10-15T19:23:57.652578+00:00",
+ "uretim": "2026-10-15T22:40:43.571441+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
  "haberSayisi": 107,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Fairtrade Africa’s Cocoa Hubs Project strengthens rural service centres in cocoa-growing communities",
+   "link": "https://www.myjoyonline.com/fairtrade-africas-cocoa-hubs-project-strengthens-rural-service-centres-in-cocoa-growing-communities/",
+   "tarih": "2026-10-15T21:12:30+00:00",
+   "ozet": "Fairtrade Africa, as part of its Cocoa Hubs Project of Strengthening Rural Service Centers for a Sustainable and Resilient Cocoa Sector in Ghana, has equipped facilitators of Village Savings and Loans Associations (VSLAs) in cocoa-growing communities across Gh",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Adil Ticaret Afrika'nın Kakao Merkezleri Projesi, kakao yetiştiren topluluklardaki kırsal hizmet merkezlerini güçlendiriyor",
+   "okunur": true
+  },
   {
    "baslik": "Cocoa Prices Rise as Chocolate Demand Improves",
    "link": "https://www.barchart.com/story/news/7939375/cocoa-prices-rise-as-chocolate-demand-improves",
@@ -1059,19 +1072,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cargill, ICI equip 111 youth with vocational skills to tackle child labour",
-   "link": "https://www.myjoyonline.com/cargill-ici-equip-111-youth-with-vocational-skills-to-tackle-child-labour/",
-   "tarih": "2026-09-28T17:06:13+00:00",
-   "ozet": "Cargill Ghana, in partnership with the International Cocoa Initiative, has equipped young people in cocoa-growing communities in the Western North Region with entrepreneurial and vocational skills to reduce their vulnerability to child labour and promote finan",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Cargill, ICI 111 genci çocuk işçiliğiyle mücadele için mesleki becerilerle donatıyor",
-   "okunur": true
-  },
-  {
    "baslik": "GLP-1 Users Still Eat Chocolate, but the Demand Picture Is More Complex",
    "link": "https://cocoaradar.com/glp-1-users-still-eat-chocolate-but-the-demand-picture-is-more-complex/",
    "tarih": "2026-09-28T14:13:14+00:00",
@@ -1401,7 +1401,7 @@
   [
    "ICCO",
    "8 haber",
-   1146,
+   1135,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1410,7 +1410,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1572,
+   1794,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1419,7 +1419,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4000,
+   4073,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1428,7 +1428,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58927,
+   59911,
    "",
    "",
    null,
@@ -1437,7 +1437,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   227,
+   112,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1446,7 +1446,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   566,
+   519,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1455,7 +1455,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1946,
+   1282,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1464,7 +1464,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   443,
+   106,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1473,7 +1473,7 @@
   [
    "Panamir",
    "2 haber",
-   4830,
+   2526,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1482,7 +1482,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   50,
+   128,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1491,7 +1491,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   397,
+   180,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1500,7 +1500,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7820,
+   8230,
    "",
    "",
    null,
@@ -1518,7 +1518,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8305,
+   9284,
    "",
    "",
    null,
@@ -1527,7 +1527,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   2223,
+   2521,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1536,7 +1536,7 @@
   [
    "MyJoyOnline · GH",
    "17 haber",
-   1003,
+   1110,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1545,7 +1545,7 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   8859,
+   7469,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1554,7 +1554,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   779,
+   99,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1563,7 +1563,7 @@
   [
    "Business in Cameroon",
    "besleme tanimsiz (202393 bayt, vekil)",
-   16080,
+   37533,
    "",
    "",
    null,
@@ -1572,7 +1572,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   732,
+   724,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1581,7 +1581,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1727,
+   3607,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1590,7 +1590,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   3147,
+   2789,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1599,7 +1599,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1017,
+   990,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1608,7 +1608,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   23543,
+   23553,
    "",
    "",
    null,
@@ -1617,7 +1617,7 @@
   [
    "3News · GH",
    "1 haber",
-   6198,
+   9771,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1625,8 +1625,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61487,
+   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
+   43055,
    "",
    "",
    null,
@@ -1635,7 +1635,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   5326,
+   4101,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
