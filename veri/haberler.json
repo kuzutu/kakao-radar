@@ -1,10 +1,49 @@
 {
- "uretim": "2026-10-16T15:31:45.686587+00:00",
+ "uretim": "2026-10-16T19:16:16.983027+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
- "haberSayisi": 106,
+ "haberSayisi": 108,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Weak North American Cocoa Demand Hammers Prices",
+   "link": "https://www.barchart.com/story/news/8108766/weak-north-american-cocoa-demand-hammers-prices",
+   "tarih": "2026-10-16T18:24:30+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed down -186 (-3.19%) on Friday, and December ICE London cocoa #7 (CAZ26 ) closed down -141 (-3.23%). Cocoa prices sold off sharply on Friday on news of weaker-than-expected Q3 North American cocoa demand. The National Confec",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kuzey Amerika Kakao Talebi Çekiç Fiyatları Zayıf",
+   "okunur": false
+  },
+  {
+   "baslik": "Cocoa Prices Retreat as North American Cocoa Demand Unexpectedly Falters",
+   "link": "https://www.barchart.com/story/news/8103175/cocoa-prices-retreat-as-north-american-cocoa-demand-unexpectedly-falters",
+   "tarih": "2026-10-16T16:05:09+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) is down -162 (-2.78%) today, and December ICE London cocoa #7 (CAZ26 ) is down -122 (-2.80%). Cocoa prices are retreating today on weaker-than-expected Q3 North American cocoa demand. The National Confectioners Association report",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kuzey Amerika Kakao Talebi Beklenmedik Bir Şekilde Düşerse Kakao Fiyatları Geri Çekiliyor",
+   "okunur": false
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ La traçabilité au cœur du lancement de la campagne principale de café-cacao 2026-2027 à Dabou",
+   "link": "https://www.aip.ci/cote-divoire-aip-la-tracabilite-au-coeur-du-lancement-de-la-campagne-principale-de-cafe-cacao-2026-2027-a-dabou/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-la-tracabilite-au-coeur-du-lancement-de-la-campagne-principale-de-cafe-cacao-2026-2027-a-dabou",
+   "tarih": "2026-10-16T15:31:38+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Dabou'da 2026-2027 ana kahve-kakao kampanyasının başlatılmasının merkezinde izlenebilirlik yer alıyor",
+   "okunur": true
+  },
   {
    "baslik": "Ghirardelli joins Dubai chocolate craze with new-look Squares",
    "link": "https://www.confectionerynews.com/Article/2026/10/16/ghirardelli-joins-dubai-chocolate-trend-with-revamped-squares/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
@@ -237,19 +276,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Kakao Fiyatları Talep Gücüyle Yükseldi",
-   "okunur": false
-  },
-  {
-   "baslik": "Signs of Stronger Demand Support Cocoa Prices",
-   "link": "https://www.barchart.com/story/news/7642946/signs-of-stronger-demand-support-cocoa-prices",
-   "tarih": "2026-10-14T16:03:55+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) is up +0.12 (+0.21%) today, and December ICE London cocoa #7 (CAZ26 ) is up +31 (+0.72%). Cocoa prices extended this week’s rally today, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Signs of strength in co",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Güçlü Talebin İşaretleri Kakao Fiyatlarını Destekliyor",
    "okunur": false
   },
   {
@@ -1388,7 +1414,7 @@
   [
    "ICCO",
    "8 haber",
-   933,
+   945,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1397,7 +1423,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1856,
+   1511,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1406,7 +1432,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3524,
+   3190,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1415,7 +1441,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58422,
+   58092,
    "",
    "",
    null,
@@ -1424,7 +1450,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   156,
+   62,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1433,7 +1459,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   560,
+   553,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1442,7 +1468,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1425,
+   1492,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1451,7 +1477,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   168,
+   93,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1460,7 +1486,7 @@
   [
    "Panamir",
    "2 haber",
-   2336,
+   2693,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1468,8 +1494,8 @@
   ],
   [
    "Barchart · Softs",
-   "4 haber",
-   45,
+   "5 haber",
+   132,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1478,7 +1504,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   219,
+   256,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1487,7 +1513,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   268,
+   375,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1496,7 +1522,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   5762,
+   8556,
    "",
    "",
    null,
@@ -1505,7 +1531,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6599,
+   7571,
    "",
    "",
    null,
@@ -1514,7 +1540,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1788,
+   1587,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1523,7 +1549,7 @@
   [
    "MyJoyOnline · GH",
    "16 haber",
-   920,
+   898,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1531,8 +1557,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "1 haber",
-   12322,
+   "2 haber",
+   9620,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1541,7 +1567,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   528,
+   486,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1549,8 +1575,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (197163 bayt, vekil)",
-   35843,
+   "besleme tanimsiz (197070 bayt, vekil)",
+   35338,
    "",
    "",
    null,
@@ -1559,7 +1585,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   514,
+   467,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1568,7 +1594,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1771,
+   978,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1577,7 +1603,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1355,
+   1962,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1586,7 +1612,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   637,
+   739,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1595,7 +1621,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   23868,
+   22617,
    "",
    "",
    null,
@@ -1603,8 +1629,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (341803 bayt, vekil)",
-   9252,
+   "besleme tanimsiz (341828 bayt, vekil)",
+   10071,
    "",
    "",
    null,
@@ -1613,7 +1639,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61414,
+   61194,
    "",
    "",
    null,
@@ -1622,9 +1648,9 @@
   [
    "Ghanaian Times",
    "5 haber",
-   6070,
+   1005797,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ]
