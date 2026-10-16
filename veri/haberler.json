@@ -1,10 +1,36 @@
 {
- "uretim": "2026-10-16T11:15:58.816645+00:00",
+ "uretim": "2026-10-16T15:31:45.686587+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
  "haberSayisi": 106,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Ghirardelli joins Dubai chocolate craze with new-look Squares",
+   "link": "https://www.confectionerynews.com/Article/2026/10/16/ghirardelli-joins-dubai-chocolate-trend-with-revamped-squares/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "tarih": "2026-10-16T14:55:33+00:00",
+   "ozet": "Ghirardelli has joined the Dubai chocolate trend, redesigning its iconic Squares with a thicker format to accommodate the viral treat's signature pistachio filling and crispy kataifi. The launch highlights the growing influence of Dubai-style chocolate on conf",
+   "kaynak": "ConfectioneryNews",
+   "grup": "ConfectioneryNews",
+   "alan": "confectionerynews.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Ghirardelli, yeni görünümlü Square'lerle Dubai'deki çikolata çılgınlığına katılıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "From Dorita’s Farm to the First Handover: Following Cacao Through San Martín",
+   "link": "https://cocoaradar.com/from-doritas-farm-to-the-first-handover-following-cacao-through-san-martin/",
+   "tarih": "2026-10-16T11:35:00+00:00",
+   "ozet": "From organic farmer Dorita Sangama Salas’s six-hectare plot to Machu Picchu Foods’ Tarapoto facility, my visit revealed how cacao begins its journey – and how identity, certification and environmental claims follow the beans",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Dorita'nın Çiftliğinden İlk Devir Teslime: San Martín'de Kakao'yu Takip Etmek",
+   "okunur": true
+  },
   {
    "baslik": "Protein boom powers confectionery growth",
    "link": "https://www.confectionerynews.com/Article/2026/10/16/protein-powers-confectionerys-next-growth-wave/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
@@ -1046,32 +1072,6 @@
    "okunur": true
   },
   {
-   "baslik": "COCOBOD says $1.4bn domestic funding is a strategic shift, not due to market exclusion",
-   "link": "https://www.myjoyonline.com/cocobod-says-1-4bn-domestic-funding-is-a-strategic-shift-not-due-to-market-exclusion/",
-   "tarih": "2026-09-29T09:35:40+00:00",
-   "ozet": "The Ghana Cocoa Board (COCOBOD) has rejected suggestions that its decision to raise $1.4 billion from domestic investors to finance cocoa purchases for the 2026/2027 season is the result of being shut out of international financial markets. The proposed financ",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "COCOBOD, 1,4 milyar dolarlık yurt içi finansmanın pazarın dışlanmasından kaynaklanmadığını, stratejik bir değişim olduğunu söyledi",
-   "okunur": true
-  },
-  {
-   "baslik": "GLP-1 Users Still Eat Chocolate, but the Demand Picture Is More Complex",
-   "link": "https://cocoaradar.com/glp-1-users-still-eat-chocolate-but-the-demand-picture-is-more-complex/",
-   "tarih": "2026-09-28T14:13:14+00:00",
-   "ozet": "US research suggests consumers taking weight-loss medicines are still eating chocolate and candy. Independent purchasing data, European adoption patterns and a new focus on food-company valuations show why continued indulgence should not be confused with uncha",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "GLP-1 Kullanıcıları Hala Çikolata Yiyor, Ancak Talep Resmi Daha Karmaşık",
-   "okunur": true
-  },
-  {
    "baslik": "Ghana’s Cocobod lifts cocoa crop prices, yet wider major market challenges remain",
    "link": "https://www.confectioneryproduction.com/news/59610/ghanas-cocobod-lifts-cocoa-crop-prices-yet-wider-major-market-challenges-remain/",
    "tarih": "2026-09-28T11:19:09+00:00",
@@ -1388,7 +1388,7 @@
   [
    "ICCO",
    "8 haber",
-   997,
+   933,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1397,7 +1397,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1696,
+   1856,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1406,7 +1406,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3569,
+   3524,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1415,7 +1415,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59121,
+   58422,
    "",
    "",
    null,
@@ -1424,7 +1424,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   105,
+   156,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1433,7 +1433,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   596,
+   560,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1442,7 +1442,7 @@
   [
    "The Cocoa Post",
    "1 haber",
-   1192,
+   1425,
    "https://thecocoapost.com/feed/",
    "dogrudan",
    null,
@@ -1451,7 +1451,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   380,
+   168,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1460,7 +1460,7 @@
   [
    "Panamir",
    "2 haber",
-   2522,
+   2336,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1469,7 +1469,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   179,
+   45,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1477,8 +1477,8 @@
   ],
   [
    "ConfectioneryNews",
-   "5 haber",
-   769,
+   "6 haber",
+   219,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1486,8 +1486,8 @@
   ],
   [
    "FoodNavigator",
-   "2 haber",
-   373,
+   "3 haber",
+   268,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1496,7 +1496,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8834,
+   5762,
    "",
    "",
    null,
@@ -1505,7 +1505,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   10222,
+   6599,
    "",
    "",
    null,
@@ -1514,7 +1514,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1978,
+   1788,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1522,8 +1522,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "17 haber",
-   976,
+   "16 haber",
+   920,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1532,7 +1532,7 @@
   [
    "AIP · CI resmî ajans",
    "1 haber",
-   7479,
+   12322,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1541,7 +1541,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   622,
+   528,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1549,8 +1549,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (202121 bayt, vekil)",
-   36210,
+   "besleme tanimsiz (197163 bayt, vekil)",
+   35843,
    "",
    "",
    null,
@@ -1559,7 +1559,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   1774,
+   514,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1568,7 +1568,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   2015,
+   1771,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1577,7 +1577,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1585,
+   1355,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1586,7 +1586,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   878,
+   637,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1595,7 +1595,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   19747,
+   23868,
    "",
    "",
    null,
@@ -1603,8 +1603,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (340571 bayt, vekil)",
-   10893,
+   "besleme tanimsiz (341803 bayt, vekil)",
+   9252,
    "",
    "",
    null,
@@ -1613,7 +1613,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   36872,
+   61414,
    "",
    "",
    null,
@@ -1622,7 +1622,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   7497,
+   6070,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
