@@ -1,10 +1,23 @@
 {
- "uretim": "2026-10-18T11:40:41.407320+00:00",
+ "uretim": "2026-10-18T14:48:47.286318+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 19,
- "haberSayisi": 107,
+ "haberSayisi": 108,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa Hubs Project advances gender mainstreaming in rural agricultural service delivery",
+   "link": "https://www.myjoyonline.com/cocoa-hubs-project-advances-gender-mainstreaming-in-rural-agricultural-service-delivery/",
+   "tarih": "2026-10-18T12:16:43+00:00",
+   "ozet": "The Cocoa Hubs Project, implemented by Fairtrade Africa, is taking steps to advance gender mainstreaming in rural agricultural service delivery by strengthening women’s participation and leadership across cocoa-growing regions in Ghana. As part of this initiat",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Merkezleri Projesi, kırsal tarımsal hizmet sunumunda toplumsal cinsiyet eşitliğini ilerletiyor",
+   "okunur": true
+  },
   {
    "baslik": "Côte d’Ivoire-AIP/ Le Conseil du café-cacao mise sur la traçabilité pour relancer la production à Botro",
    "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-mise-sur-la-tracabilite-pour-relancer-la-production-a-botro/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-du-cafe-cacao-mise-sur-la-tracabilite-pour-relancer-la-production-a-botro",
@@ -1401,7 +1414,7 @@
   [
    "ICCO",
    "8 haber",
-   1012,
+   947,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1410,7 +1423,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1533,
+   970,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1419,7 +1432,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3822,
+   3651,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1428,7 +1441,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58246,
+   58994,
    "",
    "",
    null,
@@ -1437,7 +1450,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   152,
+   161,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1446,7 +1459,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   570,
+   370,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1455,7 +1468,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8889,
+   9134,
    "",
    "",
    null,
@@ -1464,7 +1477,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   439,
+   207,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1473,7 +1486,7 @@
   [
    "Panamir",
    "2 haber",
-   3799,
+   2292,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1482,7 +1495,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   243,
+   130,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1491,7 +1504,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   530,
+   309,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1500,7 +1513,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   476,
+   192,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1509,7 +1522,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6863,
+   8809,
    "",
    "",
    null,
@@ -1518,7 +1531,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7646,
+   7345,
    "",
    "",
    null,
@@ -1527,7 +1540,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1490,
+   1556,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1535,8 +1548,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "16 haber",
-   974,
+   "17 haber",
+   845,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1545,7 +1558,7 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   21313,
+   13861,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1554,7 +1567,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   725,
+   76,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1562,8 +1575,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (197072 bayt, vekil)",
-   36671,
+   "besleme tanimsiz (197148 bayt, vekil)",
+   19124,
    "",
    "",
    null,
@@ -1572,7 +1585,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   631,
+   464,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1581,7 +1594,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1602,
+   1313,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1590,7 +1603,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1688,
+   1475,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1599,7 +1612,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   774,
+   610,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1608,7 +1621,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   19603,
+   23153,
    "",
    "",
    null,
@@ -1616,8 +1629,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (342297 bayt, vekil)",
-   7743,
+   "besleme tanimsiz (342186 bayt, vekil)",
+   6048,
    "",
    "",
    null,
@@ -1626,7 +1639,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   55332,
+   61147,
    "",
    "",
    null,
@@ -1635,7 +1648,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   4835,
+   3796,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
