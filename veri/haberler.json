@@ -1,10 +1,75 @@
 {
- "uretim": "2026-10-19T11:17:54.340815+00:00",
+ "uretim": "2026-10-19T17:29:05.611300+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 18,
- "haberSayisi": 101,
+ "haberSayisi": 99,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Côte d’Ivoire-AIP / Campagne café-cacao 2026-2027 : les communautés de Grabo plaident pour un contrôle rigoureux à la frontière ivoiro-libérienne",
+   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cafe-cacao-2026-2027-les-communautes-de-grabo-plaident-pour-un-controle-rigoureux-a-la-frontiere-ivoiro-liberienne/",
+   "tarih": "2026-10-19T16:08:28+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / 2026-2027 kahve-kakao kampanyası: Grabo toplulukları Fildişi Sahili-Liberya sınırında sıkı kontrol talebinde bulunuyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Smaller Ivory Coast Cocoa Deliveries Lift Prices",
+   "link": "https://www.barchart.com/story/news/8202055/smaller-ivory-coast-cocoa-deliveries-lift-prices",
+   "tarih": "2026-10-19T16:07:43+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) is up +60 (+1.065%) today, and December ICE London cocoa #7 (CAZ26 ) is up +29 (+0.69%). Cocoa prices are moving higher today amid signs of smaller cocoa supplies from the Ivory Coast after Ivory Coast government data showed farm",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili'ndeki Küçük Kakao Teslimatları Fiyatları Arttırdı",
+   "okunur": false
+  },
+  {
+   "baslik": "ICE CoT Moves To Centre Of Cocoa Trade’s EUDR Response",
+   "link": "https://cocoaradar.com/ice-cot-moves-to-centre-of-cocoa-trades-eudr-response/",
+   "tarih": "2026-10-19T14:08:20+00:00",
+   "ozet": "Sustainability expert Nicko Debenham told this month’s London Chocolate Forum that the 2026–27 cocoa crop is already exposed to the EU deforestation law’s traceability and contract risks, strengthening the case for a common compliance standard",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "ICE CoT, Kakao Ticaretinin EUDR Yanıtının Merkezine Taşınıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Cargill unveils Cocoanera cocoa butter range, amid market affordability challenges",
+   "link": "https://www.confectioneryproduction.com/news/59940/cargill-unveils-cocoanera-cocoa-butter-equivalents-amid-market-affordability-challenges/",
+   "tarih": "2026-10-19T12:15:37+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Cargill, pazardaki satın alınabilirlik zorluklarının ortasında Cocoanera kakao yağı serisini tanıttı",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/Le Conseil du café-cacao salue l’adhésion des producteurs de la Nawa à la réforme de la traçabilité",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-salue-ladhesion-des-producteurs-de-la-nawa-a-la-reforme-de-la-tracabilite/",
+   "tarih": "2026-10-19T12:14:41+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Kahve-Kakao Konseyi, Nawa üreticilerinin izlenebilirlik reformuna verdiği desteği memnuniyetle karşılıyor",
+   "okunur": true
+  },
   {
    "baslik": "Lindt ousts CEO in bid to reignite growth",
    "link": "https://www.confectionerynews.com/Article/2026/10/19/lindt-ceo-out-as-board-seeks-to-reignite-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
@@ -68,19 +133,6 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "Beklenenden Güçlü Öğütmelere Rağmen Kakao Kayıyor (16 Ekim 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le sous-préfet de Botro invite les planteurs à la diversification agricole et à la traçabilité du café-cacao",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-sous-prefet-de-botro-invite-les-planteurs-a-la-diversification-agricole-et-a-la-tracabilite-du-cafe-cacao/",
-   "tarih": "2026-10-18T15:18:04+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Botro kaymakamı yetiştiricileri tarımsal çeşitlendirmeye ve kahve-kakao izlenebilirliğine davet ediyor",
    "okunur": true
   },
   {
@@ -201,19 +253,6 @@
    "okunur": true
   },
   {
-   "baslik": "ANZ Focus: COA protein chocolate, Australia labels and Food Top 25",
-   "link": "https://www.foodnavigator.com/Article/2026/10/16/anz-focus-coa-protein-chocolate-australia-labels-and-food-top-25/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-10-16T00:42:11+00:00",
-   "ozet": "COA protein chocolate, Australia labels and Food Top 25 feature in this edition of ANZ Focus",
-   "kaynak": "FoodNavigator",
-   "grup": "FoodNavigator",
-   "alan": "foodnavigator.com",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "ANZ Focus: COA proteinli çikolata, Avustralya etiketleri ve Gıda Top 25",
-   "okunur": true
-  },
-  {
    "baslik": "Fairtrade Africa’s Cocoa Hubs Project strengthens rural service centres in cocoa-growing communities",
    "link": "https://www.myjoyonline.com/fairtrade-africas-cocoa-hubs-project-strengthens-rural-service-centres-in-cocoa-growing-communities/",
    "tarih": "2026-10-15T21:12:30+00:00",
@@ -237,19 +276,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Çikolata Talebi Arttıkça Kakao Fiyatları Yükseliyor",
-   "okunur": false
-  },
-  {
-   "baslik": "Improving Global Cocoa Demand Boosts Prices",
-   "link": "https://www.barchart.com/story/news/7908113/improving-global-cocoa-demand-boosts-prices",
-   "tarih": "2026-10-15T15:50:40+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) is up +73 (+1.27%) today, and December ICE London cocoa #7 (CAZ26 ) is up +21 (+0.49%). Cocoa prices are moving higher today on signs of stronger global demand. The Cocoa Association of Asia reported today that Q3 Asian cocoa gri",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Küresel Kakao Talebinin İyileşmesi Fiyatları Artırıyor",
    "okunur": false
   },
   {
@@ -708,19 +734,6 @@
    "okunur": true
   },
   {
-   "baslik": "Ferrero targets protein-led growth beyond chocolate",
-   "link": "https://www.confectionerynews.com/Article/2026/10/06/ferrero-targets-growth-beyond-chocolate-with-power-crunch-refresh/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-10-06T14:52:31+00:00",
-   "ozet": "Ferrero is revamping Power Crunch with a lighter, crunchier recipe as competition intensifies in the fast-growing protein snacking market.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "confectionerynews.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Ferrero çikolatanın ötesinde protein odaklı büyümeyi hedefliyor",
-   "okunur": true
-  },
-  {
    "baslik": "Hotel Chocolat Maps US Expansion As It Builds An All-Season Café Model",
    "link": "https://cocoaradar.com/hotel-chocolat-maps-us-expansion-as-it-builds-an-all-season-cafe-model/",
    "tarih": "2026-10-06T14:29:14+00:00",
@@ -955,32 +968,6 @@
    "okunur": true
   },
   {
-   "baslik": "Agric Committee chair commends NAFCO for turnaround from GH¢20m debt to GH¢96m profit",
-   "link": "https://www.myjoyonline.com/agric-committee-chair-commends-nafco-for-turnaround-from-gh%c2%a220m-debt-to-gh%c2%a296m-profit/",
-   "tarih": "2026-10-01T05:28:00+00:00",
-   "ozet": "The Parliamentary Committee on Food, Agriculture and Cocoa Affairs has commended the National Food Buffer Stock Company (NAFCO) for its significant financial turnaround, moving from a debt position of about GH¢20 million to recording more than GH¢96 million in",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Tarım Komitesi başkanı NAFCO'yu 20 milyon GH¢ borcundan GH¢96 milyon GH¢ kâra dönüştürmesinden ötürü övdü",
-   "okunur": true
-  },
-  {
-   "baslik": "Mars Raises Cocoa Bar, But Living Income Remains Missing Measure",
-   "link": "https://cocoaradar.com/mars-raises-cocoa-bar-but-living-income-remains-missing-measure/",
-   "tarih": "2026-09-30T14:19:25+00:00",
-   "ozet": "Analysis: Mars reports almost 100% responsible sourcing, farm mapping and universal child-labour monitoring. Yet its figures also expose the industry’s central weakness: companies are getting better at documenting cocoa without demonstrating that farmers earn ",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Mars Kakao Çıtasını Yükseltiyor Ancak Yaşama Geliri Ölçüsü Eksik Kalıyor",
-   "okunur": true
-  },
-  {
    "baslik": "From Measuring Forest Loss to Driving Forest Protection",
    "link": "https://worldcocoafoundation.org/news-and-resources/article/from-measuring-forest-loss-to-driving-forest-protection",
    "tarih": "2026-09-30T12:21:07+02:00",
@@ -1095,19 +1082,6 @@
    "w": 1.35,
    "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
    "baslikTR": "Web semineri: Avrupa Limanları baskı altında: Kakao Sektöründe Tedarik Zinciri Güvenliği. Uyuşturucu Kaçakçılığı Risklerinin Azaltılması”",
-   "okunur": true
-  },
-  {
-   "baslik": "Mars, Incorporated claims notable gains with Cocoa For Generations report",
-   "link": "https://www.confectioneryproduction.com/news/59500/mars-incorporated-claims-notable-gains-with-latest-cocoa-for-generations-report/",
-   "tarih": "2026-09-18T20:37:27+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Mars, Incorporated, Cocoa For Generations raporuyla kayda değer kazanımlar elde ettiğini iddia ediyor",
    "okunur": true
   },
   {
@@ -1323,7 +1297,7 @@
   [
    "ICCO",
    "8 haber",
-   883,
+   928,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1332,7 +1306,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1539,
+   1448,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1341,7 +1315,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4052,
+   3564,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1350,7 +1324,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59767,
+   57693,
    "",
    "",
    null,
@@ -1359,7 +1333,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   263,
+   230,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1368,7 +1342,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   524,
+   564,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1377,7 +1351,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   7535,
+   11036,
    "",
    "",
    null,
@@ -1386,7 +1360,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   380,
+   256,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1395,7 +1369,7 @@
   [
    "Panamir",
    "2 haber",
-   2683,
+   2270,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1404,7 +1378,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   31,
+   299,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1412,8 +1386,8 @@
   ],
   [
    "ConfectioneryNews",
-   "6 haber",
-   356,
+   "5 haber",
+   352,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1421,8 +1395,8 @@
   ],
   [
    "FoodNavigator",
-   "4 haber",
-   50,
+   "3 haber",
+   172,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1431,7 +1405,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   702,
+   638,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1440,7 +1414,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   9514,
+   6708,
    "",
    "",
    null,
@@ -1449,7 +1423,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1610,
+   1703,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1457,8 +1431,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "14 haber",
-   1044,
+   "13 haber",
+   833,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1466,17 +1440,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "1 haber",
-   240462,
+   "2 haber",
+   3397,
    "https://www.aip.ci/rss.xml",
-   "kesif",
+   "onbellek",
    null,
    1
   ],
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   62175,
+   62301,
    "",
    "",
    null,
@@ -1484,8 +1458,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (196312 bayt, vekil)",
-   36446,
+   "besleme tanimsiz (199785 bayt, vekil)",
+   38041,
    "",
    "",
    null,
@@ -1494,7 +1468,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   36092,
+   36165,
    "",
    "",
    null,
@@ -1503,7 +1477,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   1174,
+   1386,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1512,7 +1486,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   2128,
+   2064,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1521,7 +1495,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   940,
+   480,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1530,7 +1504,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   21411,
+   23712,
    "",
    "",
    null,
@@ -1538,8 +1512,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (340644 bayt, vekil)",
-   11029,
+   "besleme tanimsiz (341016 bayt, vekil)",
+   7915,
    "",
    "",
    null,
@@ -1547,8 +1521,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   59877,
+   "besleme tanimsiz (5756 bayt, vekil)",
+   7915,
    "",
    "",
    null,
@@ -1557,7 +1531,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   4197,
+   4149,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
