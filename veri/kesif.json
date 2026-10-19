@@ -1,4 +1,5 @@
 {
+ "AIP · CI resmî ajans": "https://www.aip.ci/rss.xml",
  "BusinessDay · NG": "https://businessday.ng/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
  "Intl Cocoa Initiative": "https://www.cocoainitiative.org/rss.xml",
  "Investir au Cameroun": "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
