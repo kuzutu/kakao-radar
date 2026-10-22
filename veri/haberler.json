@@ -1,10 +1,36 @@
 {
- "uretim": "2026-10-22T09:47:09.238135+00:00",
+ "uretim": "2026-10-22T14:40:06.150042+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 18,
- "haberSayisi": 94,
+ "calisanKaynak": 19,
+ "haberSayisi": 103,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Overdependence on gold, cocoa leaves Ghana exposed to changes in global commodity prices",
+   "link": "https://www.myjoyonline.com/overdependence-on-gold-cocoa-leaves-ghana-exposed-to-changes-in-global-commodity-prices-isser/",
+   "tarih": "2026-10-22T12:43:54+00:00",
+   "ozet": "“A strong trade surplus does not necessarily indicate that the economy has become more diversified or internationally competitive”, it warned.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Altın ve kakaoya olan aşırı bağımlılık, Gana'yı küresel emtia fiyatlarındaki değişikliklere maruz bırakıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Romex Introduces New Cocoa Powder Line to Meet Evolving Food Industry Demands",
+   "link": "https://cocoaradar.com/romex-introduces-new-cocoa-powder-line-to-meet-evolving-food-industry-demands/",
+   "tarih": "2026-10-22T11:48:00+00:00",
+   "ozet": "The food industry continues to demand ingredients that deliver flavour and functionality while helping manufacturers achieve increasingly specific visual characteristics in their products",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Romex, Gelişen Gıda Endüstrisinin Taleplerini Karşılamak İçin Yeni Kakao Tozu Hattını Tanıttı",
+   "okunur": true
+  },
   {
    "baslik": "From Data to Impact: Tackling deforestation at its roots",
    "link": "https://worldcocoafoundation.org/news-and-resources/article/from-data-to-impact-tackling-deforestation-at-its-roots",
@@ -16,6 +42,19 @@
    "w": 0.85,
    "kaynakUyari": "",
    "baslikTR": "Verilerden Etkiye: Ormansızlaşmayı kökünden ele almak",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Le Conseil du Café-Cacao offre 400 kits scolaires à six coopératives de producteurs à Bonon",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-offre-400-kits-scolaires-a-six-cooperatives-de-producteurs-a-bonon/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-du-cafe-cacao-offre-400-kits-scolaires-a-six-cooperatives-de-producteurs-a-bonon",
+   "tarih": "2026-10-22T10:26:53+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Café-Cacao Konseyi, Bonon'daki altı üretici kooperatifine 400 okul seti sunuyor",
    "okunur": true
   },
   {
@@ -97,6 +136,32 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP/ Le projet CLMRS-OFI profile 3 460 ménages producteurs de cacao en 15 mois",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-projet-clmrs-ofi-profile-3-460-menages-producteurs-de-cacao-en-15-mois/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-projet-clmrs-ofi-profile-3-460-menages-producteurs-de-cacao-en-15-mois",
+   "tarih": "2026-10-21T15:53:14+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ CLMRS-OFI projesi, 15 ayda kakao üreten 3.460 hanenin profilini çıkarıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Le préfet exhorte les producteurs de café-cacao à privilégier la qualité à Guiglo",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-prefet-exhorte-les-producteurs-de-cafe-cacao-a-privilegier-la-qualite-a-guiglo/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-prefet-exhorte-les-producteurs-de-cafe-cacao-a-privilegier-la-qualite-a-guiglo",
+   "tarih": "2026-10-21T15:14:34+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Vali, kahve-kakao üreticilerini Guiglo'da kaliteye öncelik vermeye çağırıyor",
+   "okunur": true
+  },
+  {
    "baslik": "EU Sustainability Rollback Raises New Questions For Cocoa Supply Chains",
    "link": "https://cocoaradar.com/eu-sustainability-rollback-raises-new-questions-for-cocoa-supply-chains/",
    "tarih": "2026-10-21T14:23:00+00:00",
@@ -107,6 +172,45 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "AB Sürdürülebilirliğinin Geri Dönüşü Kakao Tedarik Zincirleri İçin Yeni Soruları Ortaya Çıkarıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ L’OIA Café-Cacao dément tout soutien au mouvement de grève illustré par une vidéo (Communiqué)",
+   "link": "https://www.aip.ci/cote-divoire-aip-loia-cafe-cacao-dement-tout-soutien-au-mouvement-de-greve-illustre-par-une-video-communique/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-loia-cafe-cacao-dement-tout-soutien-au-mouvement-de-greve-illustre-par-une-video-communique",
+   "tarih": "2026-10-21T14:07:41+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/OIA Café-Cacao, bir videoyla gösterilen grev hareketine herhangi bir destek verdiğini yalanladı (Basın açıklaması)",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Les planteurs de Ouaninou sensibilisés à la traçabilité et aux paiements sécurisés de la campagne café-cacao 2026-2027",
+   "link": "https://www.aip.ci/cote-divoire-aip-les-planteurs-de-ouaninou-sensibilises-a-la-tracabilite-et-aux-paiements-securises-de-la-campagne-cafe-cacao-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-les-planteurs-de-ouaninou-sensibilises-a-la-tracabilite-et-aux-paiements-securises-de-la-campagne-cafe-cacao-2026-2027",
+   "tarih": "2026-10-21T13:59:49+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Ouaninou yetiştiricileri, 2026-2027 kahve-kakao kampanyası için izlenebilirlik ve güvenli ödemelerin farkına vardı",
+   "okunur": true
+  },
+  {
+   "baslik": "L’OIA Café-Cacao dément tout soutien au mouvement de grève illustré par une de ses vidéos",
+   "link": "https://www.aip.ci/loia-cafe-cacao-dement-tout-soutien-au-mouvement-de-greve-illustre-par-une-de-ses-videos/?utm_source=rss&utm_medium=rss&utm_campaign=loia-cafe-cacao-dement-tout-soutien-au-mouvement-de-greve-illustre-par-une-de-ses-videos",
+   "tarih": "2026-10-21T12:10:36+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "OIA Café-Cacao, videolarından birinde gösterilen grev hareketine herhangi bir destek verdiğini reddediyor",
    "okunur": true
   },
   {
@@ -123,6 +227,19 @@
    "okunur": true
   },
   {
+   "baslik": "Côte d’Ivoire-AIP/ Conseil café-cacao : la délégation régionale du Guémon/Cavally présente les nouvelles mesures de commercialisation 2026-2027 à Guiglo",
+   "link": "https://www.aip.ci/cote-divoire-aip-conseil-cafe-cacao-la-delegation-regionale-du-guemon-cavally-presente-les-nouvelles-mesures-de-commercialisation-2026-2027-a-guiglo/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-conseil-cafe-cacao-la-delegation-regionale-du-guemon-cavally-presente-les-nouvelles-mesures-de-commercialisation-2026-2027-a-guiglo",
+   "tarih": "2026-10-21T11:11:23+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/Kahve-kakao konseyi: Guémon/Cavally bölgesel delegasyonu Guiglo'da 2026-2027 yeni pazarlama önlemlerini sunuyor",
+   "okunur": true
+  },
+  {
    "baslik": "Cordillera Chocolate Expands ATENEA Programme After More Than 200 Women Cocoa Farmers Graduate",
    "link": "https://cocoaradar.com/cordillera-chocolate-expands-atenea-programme-after-more-than-200-women-cocoa-farmers-graduate/",
    "tarih": "2026-10-21T11:00:00+00:00",
@@ -133,6 +250,32 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Cordillera Chocolate, 200'den Fazla Kadın Kakao Çiftçisinin Mezun Olması Sonra ATENEA Programını Genişletiyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Qualité du cacao : Sikensi classé premier de la délégation régionale d’Abidjan",
+   "link": "https://www.aip.ci/cote-divoire-aip-qualite-du-cacao-sikensi-classe-premier-de-la-delegation-regionale-dabidjan/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-qualite-du-cacao-sikensi-classe-premier-de-la-delegation-regionale-dabidjan",
+   "tarih": "2026-10-21T10:47:58+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kakao kalitesi: Sikensi, Abidjan bölge heyetinde birinci sırada yer aldı",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Des producteurs de cacao rejettent la grève contre le prix bord champ de 1 200 FCFA/kg à Sikensi",
+   "link": "https://www.aip.ci/cote-divoire-aip-des-producteurs-de-cacao-rejettent-la-greve-contre-le-prix-bord-champ-de-1-200-fcfa-kg-a-sikensi/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-des-producteurs-de-cacao-rejettent-la-greve-contre-le-prix-bord-champ-de-1-200-fcfa-kg-a-sikensi",
+   "tarih": "2026-10-21T10:10:51+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kakao üreticileri Sikensi'de çiftlik giriş fiyatı olan 1.200 FCFA/kg'a karşı grevi reddetti",
    "okunur": true
   },
   {
@@ -695,19 +838,6 @@
    "okunur": true
   },
   {
-   "baslik": "Barry Callebaut’s move beyond chocolate fails to convince investors",
-   "link": "https://www.foodnavigator.com/Article/2026/10/09/barry-callebauts-move-beyond-chocolate-fails-to-convince-investors/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-10-09T11:18:08+00:00",
-   "ozet": "Barry Callebaut's expansion beyond chocolate into complete product solutions signals a new direction for the ingredients industry. But as cocoa market volatility continues to dominate investor thinking, can growth ambitions outweigh near-term challenges?",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "foodnavigator.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Barry Callebaut'un çikolatanın ötesine geçmesi yatırımcıları ikna edemedi",
-   "okunur": true
-  },
-  {
    "baslik": "Cargill Cocoa Loss Adds To Pressure On Futures",
    "link": "https://cocoaradar.com/cargill-cocoa-loss-adds-to-pressure-on-futures/",
    "tarih": "2026-10-08T15:31:00+00:00",
@@ -731,19 +861,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "COCOBOD, ilk kakao notu teklifinde GH¢3,4 milyar artırdı; gösterge niteliğindeki GH¢4 milyar hedefinin %15 altında",
-   "okunur": true
-  },
-  {
-   "baslik": "Ferrero Expands ‘Adultoween’ Push as US Halloween Spending Holds Firm",
-   "link": "https://cocoaradar.com/ferrero-expands-adultoween-push-as-us-halloween-spending-holds-firm/",
-   "tarih": "2026-10-07T14:07:04+00:00",
-   "ozet": "The confectionery group is using social media, consumer research and a broad seasonal range to target adult shoppers as consumers continue to prioritise Halloween despite elevated confectionery prices",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Ferrero, ABD'nin Cadılar Bayramı Harcamalarının Sabit Kalmasıyla \"Adultoween\" Kampanyasını Genişletiyor",
    "okunur": true
   },
   {
@@ -1232,7 +1349,7 @@
   [
    "ICCO",
    "8 haber",
-   1176,
+   1048,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1241,7 +1358,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1691,
+   1835,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1250,7 +1367,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3477,
+   3986,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1259,7 +1376,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58000,
+   59393,
    "",
    "",
    null,
@@ -1268,7 +1385,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   147,
+   242,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1277,7 +1394,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   400,
+   492,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1286,7 +1403,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   14048,
+   11187,
    "",
    "",
    null,
@@ -1295,7 +1412,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   330,
+   590,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1304,7 +1421,7 @@
   [
    "Panamir",
    "2 haber",
-   2887,
+   2169,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1313,7 +1430,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   77,
+   188,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1321,8 +1438,8 @@
   ],
   [
    "ConfectioneryNews",
-   "5 haber",
-   162,
+   "4 haber",
+   677,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1331,7 +1448,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   103,
+   182,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1340,7 +1457,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   214,
+   690,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1349,7 +1466,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   172,
+   194,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1358,7 +1475,7 @@
   [
    "Confectionery Production",
    "9 haber",
-   1515,
+   2212,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1366,8 +1483,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "12 haber",
-   850,
+   "13 haber",
+   1039,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1375,17 +1492,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "worker: The read operation timed out | allorigins: HTTP Error 408: Req",
-   659935,
-   "",
-   "",
+   "9 haber",
+   21298,
+   "https://www.aip.ci/?s=cacao&feed=rss2",
+   "dogrudan",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   61854,
+   63298,
    "",
    "",
    null,
@@ -1394,7 +1511,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   488,
+   734,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1403,7 +1520,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   35559,
+   36971,
    "",
    "",
    null,
@@ -1412,7 +1529,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   55710,
+   58063,
    "",
    "",
    null,
@@ -1421,7 +1538,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1739,
+   2095,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1430,7 +1547,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   658,
+   914,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1439,7 +1556,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25061,
+   25498,
    "",
    "",
    null,
@@ -1447,8 +1564,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (341404 bayt, vekil)",
-   6186,
+   "besleme tanimsiz (343211 bayt, vekil)",
+   10545,
    "",
    "",
    null,
@@ -1456,8 +1573,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   37668,
+   "besleme tanimsiz (5756 bayt, vekil)",
+   36735,
    "",
    "",
    null,
@@ -1466,7 +1583,7 @@
   [
    "Ghanaian Times",
    "4 haber",
-   3892,
+   4674,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
