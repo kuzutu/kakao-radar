@@ -1,8 +1,8 @@
 {
- "uretim": "2026-10-22T00:00:04.762793+00:00",
+ "uretim": "2026-10-22T04:35:44.107811+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 19,
- "haberSayisi": 104,
+ "haberSayisi": 103,
  "cevirili": true,
  "haberler": [
   {
@@ -159,19 +159,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Cordillera Chocolate, 200'den Fazla Kadın Kakao Çiftçisinin Mezun Olması Sonra ATENEA Programını Genişletiyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Des producteurs de cacao rejettent la grève contre le prix bord champ de 1 200 FCFA/kg à Sikensi",
-   "link": "https://www.aip.ci/cote-divoire-aip-des-producteurs-de-cacao-rejettent-la-greve-contre-le-prix-bord-champ-de-1-200-fcfa-kg-a-sikensi/",
-   "tarih": "2026-10-21T10:31:33+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kakao üreticileri Sikensi'de çiftlik giriş fiyatı olan 1.200 FCFA/kg'a karşı grevi reddetti",
    "okunur": true
   },
   {
@@ -1362,7 +1349,7 @@
   [
    "ICCO",
    "8 haber",
-   1153,
+   1016,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1371,7 +1358,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1737,
+   1127,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1380,7 +1367,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4006,
+   3803,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1389,7 +1376,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59295,
+   59768,
    "",
    "",
    null,
@@ -1398,7 +1385,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   256,
+   181,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1407,7 +1394,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   582,
+   626,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1416,7 +1403,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   14530,
+   10587,
    "",
    "",
    null,
@@ -1425,7 +1412,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   428,
+   496,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1434,7 +1421,7 @@
   [
    "Panamir",
    "2 haber",
-   1982,
+   2701,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1443,7 +1430,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   248,
+   214,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1452,7 +1439,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   735,
+   578,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1461,7 +1448,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   1100,
+   238,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1470,7 +1457,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   600,
+   376,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1479,7 +1466,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   369,
+   660,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1488,7 +1475,7 @@
   [
    "Confectionery Production",
    "9 haber",
-   3356,
+   1949,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1497,7 +1484,7 @@
   [
    "MyJoyOnline · GH",
    "12 haber",
-   1157,
+   900,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1505,8 +1492,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "8 haber",
-   25478,
+   "7 haber",
+   23043,
    "https://www.aip.ci/rss.xml",
    "onbellek",
    null,
@@ -1514,8 +1501,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   72095,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
+   31740,
    "",
    "",
    null,
@@ -1524,7 +1511,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   681,
+   1680,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1533,7 +1520,7 @@
   [
    "Investir au Cameroun",
    "besleme tanimsiz (5 bayt, vekil)",
-   15801,
+   11670,
    "",
    "",
    null,
@@ -1542,7 +1529,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   29699,
+   52221,
    "",
    "",
    null,
@@ -1551,7 +1538,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1620,
+   1563,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1560,7 +1547,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   940,
+   933,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1568,8 +1555,8 @@
   ],
   [
    "Bank of Ghana",
-   "besleme tanimsiz (7742 bayt, vekil)",
-   79681,
+   "worker: HTTP Error 525: <none> | allorigins: The read operation timed ",
+   104967,
    "",
    "",
    null,
@@ -1577,8 +1564,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (340644 bayt, vekil)",
-   21433,
+   "besleme tanimsiz (340699 bayt, vekil)",
+   18485,
    "",
    "",
    null,
@@ -1586,8 +1573,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 520: <none>",
-   65147,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   61790,
    "",
    "",
    null,
@@ -1596,7 +1583,7 @@
   [
    "Ghanaian Times",
    "5 haber",
-   3797,
+   4797,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
