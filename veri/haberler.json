@@ -1,10 +1,36 @@
 {
- "uretim": "2026-10-23T15:55:02.022031+00:00",
+ "uretim": "2026-10-23T19:57:07.817508+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 19,
- "haberSayisi": 101,
+ "calisanKaynak": 18,
+ "haberSayisi": 100,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa Prices Close Mildly Higher Despite 2.5-year High in ICE Inventories",
+   "link": "https://www.barchart.com/story/news/8378499/cocoa-prices-close-mildly-higher-despite-2-5-year-high-in-ice-inventories",
+   "tarih": "2026-10-23T18:51:43+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed +10 (+0.18%) on Friday, and December ICE London cocoa #7 (CAZ26 ) closed up +17 (+0.41%). NY cocoa prices closed higher on Friday despite rising ICE cocoa inventories. ICE cocoa inventories have steadily increased since th",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Fiyatları, Buz Stoklarındaki 2,5 Yılın En Yüksek Seviyesine Rağmen Hafif Yükselişle Kapandı",
+   "okunur": false
+  },
+  {
+   "baslik": "Cocoa Prices Fall on Rising ICE Inventories and Higher Nigerian Exports",
+   "link": "https://www.barchart.com/story/news/8374361/cocoa-prices-fall-on-rising-ice-inventories-and-higher-nigerian-exports",
+   "tarih": "2026-10-23T16:23:00+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) is down -24 (-0.43%), and December ICE London cocoa #7 (CAZ26 ) is up +17 (+0.41%). NY cocoa prices are trading lower on rising ICE cocoa inventories and technical selling, with today’s new 2-week low. Also, there was bearish new",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Fiyatları Artan Buz Stokları ve Nijerya'nın İhracatındaki Artış Nedeniyle Düşüyor",
+   "okunur": false
+  },
   {
    "baslik": "Where Are Cocoa Prices Heading in 2027?",
    "link": "https://www.barchart.com/story/news/8371417/where-are-cocoa-prices-heading-in-2027",
@@ -107,19 +133,6 @@
    "w": 0.95,
    "kaynakUyari": "",
    "baslikTR": "Kamerun Kakao İhracatçıları, İhracat Fiyatlarındaki %4,2 Düşüşe Rağmen Alım Fiyatlarını Sabit Tutuyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Europe wants deforestation-free cocoa. Can Ghana protect its farmers and its export market?",
-   "link": "https://3news.com/opinion/europe-wants-deforestation-free-cocoa-can-ghana-protect-its-farmers-and-its-export-market",
-   "tarih": "2026-10-22T18:39:31+00:00",
-   "ozet": "What does the EU Deforestation Regulation mean for Ghana's cocoa industry? Explore the challenges of traceability, compliance, and farm-level impact.",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Avrupa ormansızlaşmadan kakao istiyor. Gana çiftçilerini ve ihracat pazarını koruyabilir mi?",
    "okunur": true
   },
   {
@@ -279,19 +292,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
-   "link": "https://www.barchart.com/story/news/8287431/cocoa-prices-continue-higher-on-smaller-deliveries-from-the-ivory-coast",
-   "tarih": "2026-10-21T18:36:06+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, d",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili'nden Küçük Teslimatlarda Kakao Fiyatları Artmaya Devam Ediyor",
-   "okunur": false
-  },
-  {
    "baslik": "Godfred Seidu Jasaw proposes mandatory procurement of prison-made goods by government institutions",
    "link": "https://www.myjoyonline.com/godfred-seidu-jasaw-proposes-mandatory-procurement-of-prison-made-goods-by-government-institutions/",
    "tarih": "2026-10-21T16:59:08+00:00",
@@ -315,19 +315,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Fildişi Sahili-AIP/ CLMRS-OFI projesi, 15 ayda kakao üreten 3.460 hanenin profilini çıkarıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le préfet exhorte les producteurs de café-cacao à privilégier la qualité à Guiglo",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-prefet-exhorte-les-producteurs-de-cafe-cacao-a-privilegier-la-qualite-a-guiglo/",
-   "tarih": "2026-10-21T15:14:34+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Vali, kahve-kakao üreticilerini Guiglo'da kaliteye öncelik vermeye çağırıyor",
    "okunur": true
   },
   {
@@ -1323,7 +1310,7 @@
   [
    "ICCO",
    "8 haber",
-   800,
+   851,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1332,7 +1319,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1577,
+   1623,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1341,7 +1328,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3618,
+   3814,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1350,7 +1337,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58607,
+   58279,
    "",
    "",
    null,
@@ -1359,7 +1346,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   150,
+   152,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1368,7 +1355,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   465,
+   649,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1377,7 +1364,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   30018,
+   9700,
    "",
    "",
    null,
@@ -1386,7 +1373,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   205,
+   464,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1395,7 +1382,7 @@
   [
    "Panamir",
    "2 haber",
-   1841,
+   2338,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1404,7 +1391,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   279,
+   162,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1413,7 +1400,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   178,
+   538,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1422,7 +1409,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   4993,
+   6390,
    "",
    "",
    null,
@@ -1431,7 +1418,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   6548,
+   9275,
    "",
    "",
    null,
@@ -1440,7 +1427,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   131,
+   817,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1449,7 +1436,7 @@
   [
    "Confectionery Production",
    "9 haber",
-   1637,
+   1540,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1458,7 +1445,7 @@
   [
    "MyJoyOnline · GH",
    "13 haber",
-   840,
+   971,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1466,8 +1453,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "5 haber",
-   19959,
+   "4 haber",
+   16813,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1476,7 +1463,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   59414,
+   59309,
    "",
    "",
    null,
@@ -1485,7 +1472,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   418,
+   584,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1494,7 +1481,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   328,
+   665,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1503,7 +1490,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   55886,
+   30463,
    "",
    "",
    null,
@@ -1512,7 +1499,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   2103,
+   2785,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1521,7 +1508,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   576,
+   760,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1530,7 +1517,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25251,
+   26002,
    "",
    "",
    null,
@@ -1538,17 +1525,17 @@
   ],
   [
    "3News · GH",
-   "1 haber",
-   6958,
-   "https://3news.com/feed/",
-   "dogrudan",
+   "besleme tanimsiz (342191 bayt, vekil)",
+   9006,
+   "",
+   "",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   60917,
+   61685,
    "",
    "",
    null,
@@ -1557,7 +1544,7 @@
   [
    "Ghanaian Times",
    "4 haber",
-   4520,
+   5449,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
