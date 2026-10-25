@@ -1,5 +1,5 @@
 {
- "uretim": "2026-10-25T01:04:44.076350+00:00",
+ "uretim": "2026-10-25T06:02:06.390682+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 18,
  "haberSayisi": 98,
@@ -125,7 +125,7 @@
   {
    "baslik": "Cameroon Cocoa Exporters Hold Purchase Prices Steady Despite 4.2% Drop in Export Prices",
    "link": "https://www.businessincameroon.com/agriculture/2210-17027-cameroon-cocoa-exporters-hold-purchase-prices-steady-despite-4-2-drop-in-export-prices",
-   "tarih": "2026-10-22T19:07:22+00:00",
+   "tarih": "2026-10-22T19:07:22+02:00",
    "ozet": "Cocoa exporters in Douala, Cameroon’s main port city, maintained their purchase prices at CFA2,700–2,800 per kilogram as of October 21, 2026, despite a decline in export reference prices. According to data from the Cocoa and Coffee Sector Information System (S",
    "kaynak": "Business in Cameroon",
    "grup": "Business in Cameroon",
@@ -151,7 +151,7 @@
   {
    "baslik": "Cacao : les exportateurs maintiennent leurs prix d’achat à Douala malgré le recul du cours FOB",
    "link": "https://www.investiraucameroun.com/agriculture/2210-24004-cacao-les-exportateurs-maintiennent-leurs-prix-d-achat-a-douala-malgre-le-recul-du-cours-fob",
-   "tarih": "2026-10-22T16:04:35+00:00",
+   "tarih": "2026-10-22T16:04:35+02:00",
    "ozet": "Les prix d’achat du cacao pratiqués par les exportateurs à Douala se situent entre 2 700 et 2 800 FCFA le kilogramme au 21 octobre 2026, selon les données du Système d’information des filières (SIF) de l’Office national du cacao et du café (ONCC). Cette fourch",
    "kaynak": "Investir au Cameroun",
    "grup": "Investir au Cameroun",
@@ -1284,7 +1284,7 @@
   [
    "ICCO",
    "8 haber",
-   911,
+   796,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1293,7 +1293,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1597,
+   1439,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1302,7 +1302,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3900,
+   3578,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1311,7 +1311,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58269,
+   57755,
    "",
    "",
    null,
@@ -1320,7 +1320,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   137,
+   110,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1329,7 +1329,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   450,
+   513,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1338,7 +1338,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8080,
+   12867,
    "",
    "",
    null,
@@ -1347,7 +1347,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   382,
+   149,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1356,7 +1356,7 @@
   [
    "Panamir",
    "2 haber",
-   1357,
+   1371,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1365,7 +1365,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   197,
+   212,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1374,7 +1374,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   818,
+   177,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1383,7 +1383,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8732,
+   5027,
    "",
    "",
    null,
@@ -1392,7 +1392,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   9474,
+   7977,
    "",
    "",
    null,
@@ -1401,7 +1401,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   816,
+   186,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1410,7 +1410,7 @@
   [
    "Confectionery Production",
    "9 haber",
-   1995,
+   1578,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1419,7 +1419,7 @@
   [
    "MyJoyOnline · GH",
    "12 haber",
-   980,
+   888,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1428,16 +1428,16 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   22928,
+   98773,
    "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "Sika Finance · CI",
-   "besleme tanimsiz (17414 bayt, vekil)",
-   10023,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   60889,
    "",
    "",
    null,
@@ -1446,7 +1446,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   549,
+   381,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1455,7 +1455,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   649,
+   464,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1464,7 +1464,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   5324,
+   28425,
    "",
    "",
    null,
@@ -1473,7 +1473,7 @@
   [
    "Anecacao · EC",
    "3 haber",
-   2040,
+   2089,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1482,7 +1482,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   759,
+   634,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1491,7 +1491,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   24875,
+   27440,
    "",
    "",
    null,
@@ -1499,8 +1499,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (341873 bayt, vekil)",
-   9315,
+   "besleme tanimsiz (341834 bayt, vekil)",
+   5527,
    "",
    "",
    null,
@@ -1508,8 +1508,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   49977,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   56691,
    "",
    "",
    null,
@@ -1518,7 +1518,7 @@
   [
    "Ghanaian Times",
    "4 haber",
-   3700,
+   4476,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
