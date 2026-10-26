@@ -1,10 +1,23 @@
 {
- "uretim": "2026-10-26T01:41:25.703791+00:00",
+ "uretim": "2026-10-26T07:05:40.310549+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 18,
- "haberSayisi": 97,
+ "haberSayisi": 95,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Chocolake targets APAC markets as Dubai chocolate trend endures",
+   "link": "https://www.foodnavigator.com/Article/2026/10/26/chocolake-targets-apac-markets-as-dubai-chocolate-trend-endures/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "tarih": "2026-10-26T05:33:17+00:00",
+   "ozet": "Jordan’s Chocolake is targeting APAC expansion as premium chocolate demand rises and the Dubai chocolate trend drives interest in pistachio.",
+   "kaynak": "FoodNavigator",
+   "grup": "FoodNavigator",
+   "alan": "foodnavigator.com",
+   "w": 0.85,
+   "kaynakUyari": "",
+   "baslikTR": "Dubai çikolata trendi devam ederken Chocolake APAC pazarlarını hedefliyor",
+   "okunur": true
+  },
   {
    "baslik": "Art can give ecological restoration a local voice",
    "link": "https://www.myjoyonline.com/art-can-give-ecological-restoration-a-local-voice-world-resources-institute/",
@@ -1046,19 +1059,6 @@
    "okunur": true
   },
   {
-   "baslik": "Indonesia",
-   "link": "https://www.eurococoa.com/events/indonesia-eu-business-forum-2026/",
-   "tarih": "2026-09-23T12:22:30+00:00",
-   "ozet": "",
-   "kaynak": "ECA · Avrupa öğütme",
-   "grup": "ECA · Avrupa öğütme",
-   "alan": "eurococoa.com",
-   "w": 1.35,
-   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
-   "baslikTR": "Endonezya",
-   "okunur": true
-  },
-  {
    "baslik": "Implementation guides for interventions aimed at addressing child labour",
    "link": "https://www.cocoainitiative.org/knowledge-hub/implementation-guides-interventions-aimed-addressing-child-labour",
    "tarih": "2026-09-22T15:28:09+00:00",
@@ -1069,32 +1069,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Çocuk işçiliğine yönelik müdahalelere yönelik uygulama kılavuzları",
-   "okunur": true
-  },
-  {
-   "baslik": "Webinar: European Ports under pressure: Supply Chain Security in the Cocoa Sector. Mitigating Drug-Trafficking Risks”",
-   "link": "https://www.eurococoa.com/events/webinar-european-ports-under-pressure-supply-chain-security-in-the-cocoa-sector-mitigating-drug-trafficking-risks/",
-   "tarih": "2026-09-21T07:38:53+00:00",
-   "ozet": "",
-   "kaynak": "ECA · Avrupa öğütme",
-   "grup": "ECA · Avrupa öğütme",
-   "alan": "eurococoa.com",
-   "w": 1.35,
-   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
-   "baslikTR": "Web semineri: Avrupa Limanları baskı altında: Kakao Sektöründe Tedarik Zinciri Güvenliği. Uyuşturucu Kaçakçılığı Risklerinin Azaltılması”",
-   "okunur": true
-  },
-  {
-   "baslik": "Webinar: EU Decision-Making",
-   "link": "https://www.eurococoa.com/events/eu-decision-making-webinar/",
-   "tarih": "2026-09-16T08:19:48+00:00",
-   "ozet": "Navigating the EU regulatory landscape is critical for our industry. To help you better understand how European policies are shaped – and how ECA advocates on your behalf – we are launching an ECA Priorities & EU Decision-Making Webinar Series. The series’ obj",
-   "kaynak": "ECA · Avrupa öğütme",
-   "grup": "ECA · Avrupa öğütme",
-   "alan": "eurococoa.com",
-   "w": 1.35,
-   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
-   "baslikTR": "Web Semineri: AB Karar Alma Süreci",
    "okunur": true
   },
   {
@@ -1271,7 +1245,7 @@
   [
    "ICCO",
    "8 haber",
-   938,
+   826,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1280,25 +1254,25 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1627,
+   4872,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "dogrudan",
+   "vekil",
    null,
    18
   ],
   [
    "ECA · Avrupa öğütme",
-   "3 haber",
-   3802,
-   "https://www.eurococoa.com/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "3 kayit var ama hepsi 60 gunden eski",
+   612183,
+   "",
+   "",
    null,
-   7
+   0
   ],
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59175,
+   58625,
    "",
    "",
    null,
@@ -1307,7 +1281,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   174,
+   171,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1316,7 +1290,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   619,
+   491,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1325,7 +1299,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   10721,
+   8287,
    "",
    "",
    null,
@@ -1334,7 +1308,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   288,
+   154,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1343,7 +1317,7 @@
   [
    "Panamir",
    "2 haber",
-   1929,
+   1923,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1352,7 +1326,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   322,
+   201,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1361,7 +1335,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   895,
+   666,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1369,17 +1343,17 @@
   ],
   [
    "FoodNavigator",
-   "konuya uyan haber yok (20 kayit tarandi)",
-   9180,
-   "",
-   "",
+   "1 haber",
+   347,
+   "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   10100,
+   7558,
    "",
    "",
    null,
@@ -1388,7 +1362,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   719,
+   453,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1397,7 +1371,7 @@
   [
    "Confectionery Production",
    "9 haber",
-   2152,
+   1872,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1406,7 +1380,7 @@
   [
    "MyJoyOnline · GH",
    "13 haber",
-   1005,
+   981,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1414,8 +1388,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "konuya uyan haber yok (10 kayit tarandi)",
-   147831,
+   "worker: The read operation timed out | allorigins: The read operation ",
+   184556,
    "",
    "",
    null,
@@ -1423,8 +1397,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 408: Reques",
-   41643,
+   "besleme tanimsiz (17414 bayt, vekil)",
+   41212,
    "",
    "",
    null,
@@ -1433,7 +1407,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   725,
+   557,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1442,7 +1416,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   759,
+   642,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1451,7 +1425,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   30643,
+   30139,
    "",
    "",
    null,
@@ -1460,16 +1434,16 @@
   [
    "Anecacao · EC",
    "3 haber",
-   1999,
+   6759,
    "https://www.anecacao.com/feed/",
-   "dogrudan",
+   "vekil",
    null,
    7
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   828,
+   737,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1478,7 +1452,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25337,
+   24020,
    "",
    "",
    null,
@@ -1487,7 +1461,7 @@
   [
    "3News · GH",
    "1 haber",
-   4936,
+   4152,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1496,7 +1470,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61516,
+   61576,
    "",
    "",
    null,
@@ -1505,7 +1479,7 @@
   [
    "Ghanaian Times",
    "4 haber",
-   5602,
+   4849,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
