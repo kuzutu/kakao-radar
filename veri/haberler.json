@@ -1,10 +1,62 @@
 {
- "uretim": "2026-10-29T15:41:23.972952+00:00",
+ "uretim": "2026-10-29T20:34:54.672118+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 20,
- "haberSayisi": 96,
+ "calisanKaynak": 21,
+ "haberSayisi": 97,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.barchart.com/story/news/8536182/cocoa-remains-weak-on-rising-ice-inventories-and-potential-brazilian-cocoa-sales",
+   "tarih": "2026-10-29T18:41:52+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao, Artan ICE Stokları ve Potansiyel Brezilya Kakao Satışları Nedeniyle Zayıf Kalmaya Devam Ediyor",
+   "okunur": false
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Le Conseil du café-cacao annonce le décès de son directeur général adjoint, Dr Koffi N’Goran",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-annonce-le-deces-de-son-directeur-general-adjoint-dr-koffi-ngoran/",
+   "tarih": "2026-10-29T17:43:38+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kahve-Kakao Konseyi, genel müdür yardımcısı Dr. Koffi N'Goran'ın öldüğünü duyurdu",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP / Soubré : l’OIT appelle les jeunes travailleurs agricoles du cacao à se regrouper en réseau",
+   "link": "https://www.aip.ci/cote-divoire-aip-soubre-loit-appelle-les-jeunes-travailleurs-agricoles-du-cacao-a-se-regrouper-en-reseau/",
+   "tarih": "2026-10-29T17:41:03+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / Soubré: ILO genç kakao tarım işçilerini bir ağ oluşturmaya çağırıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP / Soubré : le comité intersyndical des jeunes mobilise les cacaoculteurs pour la défense de leurs droits",
+   "link": "https://www.aip.ci/cote-divoire-aip-soubre-le-comite-intersyndical-des-jeunes-mobilise-les-cacaoculteurs-pour-la-defense-de-leurs-droits/",
+   "tarih": "2026-10-29T17:32:07+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / Soubré: Birlikler arası gençlik komitesi kakao çiftçilerini haklarını savunmak için harekete geçiriyor",
+   "okunur": true
+  },
   {
    "baslik": "New cocoa powder alternative targets GLP-1 trends and supply risks",
    "link": "https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
@@ -225,19 +277,6 @@
    "kaynakUyari": "",
    "baslikTR": "Benjamin Larweh: Gana'nın kakao çiftlikleri altına hücumun kurbanı olmamalı",
    "okunur": true
-  },
-  {
-   "baslik": "Cocoa Prices Recover from Monday’s 3-week Low",
-   "link": "https://www.barchart.com/story/news/8483474/cocoa-prices-recover-from-mondays-3-week-low",
-   "tarih": "2026-10-27T18:37:47+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) on Tuesday closed up +87 (+1.58%), and December ICE London cocoa #7 (CAZ26 ) closed up +90 (+2.16%). Cocoa prices on Tuesday recovered most of Monday’s losses, which were sparked by the plunge in the Brazilian real in response to",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Fiyatları Pazartesi günkü 3 haftanın en düşük seviyesinden toparlanıyor",
-   "okunur": false
   },
   {
    "baslik": "Barry Callebaut Names New Cameroon CEO After 14% Drop in Cocoa Bean Purchases",
@@ -786,19 +825,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa farmers battle declining yields in Bono East",
-   "link": "https://ghanaiantimes.com.gh/cocoa-farmers-battle-declining-yields-in-bono-east/",
-   "tarih": "2026-10-15T08:04:03+00:00",
-   "ozet": "",
-   "kaynak": "Ghanaian Times",
-   "grup": "Ghanaian Times",
-   "alan": "ghanaiantimes.com.gh",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao çiftçileri Bono East'te azalan verimlerle mücadele ediyor",
-   "okunur": true
-  },
-  {
    "baslik": "Peru’s cocoa exporters face a test beyond the farm map",
    "link": "https://cocoaradar.com/perus-cocoa-exporters-face-a-test-beyond-the-farm-map/",
    "tarih": "2026-10-14T14:07:00+00:00",
@@ -874,19 +900,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Ashanti kakao çiftçileri yeni COCOBOD Yasasını memnuniyetle karşıladı",
-   "okunur": true
-  },
-  {
-   "baslik": "COCOBOD raises GH¢3.4bn in first cocoa notes offer, 15% below indicative GH¢4bn target",
-   "link": "https://www.myjoyonline.com/cocobod-raises-gh%c2%a23-4bn-in-first-cocoa-notes-offer-15-below-indicative-gh%c2%a24bn-target/",
-   "tarih": "2026-10-08T11:48:49+00:00",
-   "ozet": "COCOBOD has raised approximately GH¢3.4 billion through its first commercial paper issuance, falling about GH¢604 million short of the indicative GH¢4 billion presented to investors. The funds were raised through Cocoa Capital PLC, the wholly owned company est",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "COCOBOD, ilk kakao notu teklifinde GH¢3,4 milyar artırdı; gösterge niteliğindeki GH¢4 milyar hedefinin %15 altında",
    "okunur": true
   },
   {
@@ -1258,7 +1271,7 @@
   [
    "ICCO",
    "8 haber",
-   794,
+   971,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1267,7 +1280,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1126,
+   1787,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1276,7 +1289,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3667,
+   4376,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1285,7 +1298,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57778,
+   60470,
    "",
    "",
    null,
@@ -1294,7 +1307,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   227,
+   288,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1303,7 +1316,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   535,
+   690,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1312,7 +1325,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   12242,
+   11882,
    "",
    "",
    null,
@@ -1321,7 +1334,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   219,
+   396,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1330,7 +1343,7 @@
   [
    "Panamir",
    "2 haber",
-   2901,
+   2347,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1339,7 +1352,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   74,
+   84,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1348,7 +1361,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   399,
+   811,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1357,7 +1370,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   208,
+   336,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1366,7 +1379,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   131,
+   765,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1375,7 +1388,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   340,
+   475,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1384,7 +1397,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1900,
+   2143,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1392,8 +1405,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "12 haber",
-   866,
+   "11 haber",
+   1359,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1401,17 +1414,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "worker: The read operation timed out | allorigins: The read operation ",
-   599547,
-   "",
-   "",
+   "3 haber",
+   112154,
+   "https://www.aip.ci/?s=cacao&feed=rss2",
+   "vekil",
    null,
    0
   ],
   [
    "Sika Finance · CI",
    "1 haber",
-   119,
+   902,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1420,7 +1433,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   450,
+   788,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1429,7 +1442,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   1789,
+   1781,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1438,7 +1451,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   70573,
+   57784,
    "",
    "",
    null,
@@ -1447,7 +1460,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   1389,
+   1729,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1456,7 +1469,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   618,
+   703,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1465,7 +1478,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   29607,
+   27790,
    "",
    "",
    null,
@@ -1473,8 +1486,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (340785 bayt, vekil)",
-   55267,
+   "besleme tanimsiz (340627 bayt, vekil)",
+   9731,
    "",
    "",
    null,
@@ -1483,7 +1496,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   54196,
+   61643,
    "",
    "",
    null,
@@ -1491,8 +1504,8 @@
   ],
   [
    "Ghanaian Times",
-   "2 haber",
-   5394,
+   "1 haber",
+   7489,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
