@@ -1,5 +1,5 @@
 {
- "uretim": "2026-10-31T19:48:18.257515+00:00",
+ "uretim": "2026-10-31T22:48:28.304826+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
  "haberSayisi": 96,
@@ -1258,7 +1258,7 @@
   [
    "ICCO",
    "7 haber",
-   870,
+   1334,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1267,7 +1267,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   990,
+   1835,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1276,7 +1276,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3833,
+   4480,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1285,7 +1285,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58703,
+   59550,
    "",
    "",
    null,
@@ -1294,7 +1294,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   33,
+   251,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1303,7 +1303,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   551,
+   683,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1312,7 +1312,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   11544,
+   8023,
    "",
    "",
    null,
@@ -1321,7 +1321,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   315,
+   251,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1330,7 +1330,7 @@
   [
    "Panamir",
    "2 haber",
-   2685,
+   2100,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1339,7 +1339,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   2144,
+   100,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1348,7 +1348,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   466,
+   248,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1357,7 +1357,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   323,
+   150,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1366,7 +1366,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   492,
+   536,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1375,7 +1375,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   384,
+   173,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1384,7 +1384,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1578,
+   2043,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1393,7 +1393,7 @@
   [
    "MyJoyOnline · GH",
    "12 haber",
-   871,
+   1174,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1402,7 +1402,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   14717,
+   10490,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1411,7 +1411,7 @@
   [
    "Sika Finance · CI",
    "besleme tanimsiz (17414 bayt, vekil)",
-   7538,
+   29003,
    "",
    "",
    null,
@@ -1420,7 +1420,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   448,
+   1946,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1429,7 +1429,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   461,
+   482,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1438,7 +1438,7 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   435,
+   1291,
    "https://businessday.ng/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "onbellek",
    null,
@@ -1447,7 +1447,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   1345,
+   1395,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1456,7 +1456,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   698,
+   912,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1465,7 +1465,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   24636,
+   28137,
    "",
    "",
    null,
@@ -1473,8 +1473,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (278570 bayt, vekil)",
-   9624,
+   "besleme tanimsiz (279715 bayt, vekil)",
+   7483,
    "",
    "",
    null,
@@ -1483,7 +1483,7 @@
   [
    "Asaase Radio · GH",
    "besleme tanimsiz (5756 bayt, vekil)",
-   6402,
+   13247,
    "",
    "",
    null,
@@ -1492,9 +1492,9 @@
   [
    "Ghanaian Times",
    "1 haber",
-   1002835,
+   4744,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
-   "vekil",
+   "dogrudan",
    null,
    0
   ]
