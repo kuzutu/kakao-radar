@@ -1,10 +1,23 @@
 {
- "uretim": "2026-10-31T08:51:10.599783+00:00",
+ "uretim": "2026-10-31T15:17:26.591487+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 20,
- "haberSayisi": 93,
+ "haberSayisi": 94,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "COCOBOD CEO woos investors with Ghana’s new cocoa financing model at New York forum",
+   "link": "https://www.myjoyonline.com/cocobod-ceo-woos-investors-with-ghanas-new-cocoa-financing-model-at-new-york-forum/",
+   "tarih": "2026-10-31T14:27:08+00:00",
+   "ozet": "The Chief Executive Officer of the Ghana Cocoa Board (COCOBOD), Dr Ransford Anertey Abbey, has presented Ghana’s new cocoa financing model and outlined reforms aimed at strengthening the cocoa sector at the Africa Cocoa Finance & Investment Forum (ACFIF) in Ne",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD CEO'su New York forumunda Gana'nın yeni kakao finansman modeliyle yatırımcıları cezbetti",
+   "okunur": true
+  },
   {
    "baslik": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
    "link": "https://www.barchart.com/story/news/8560822/cocoa-remains-weak-on-rising-ice-inventories-and-potential-brazilian-cocoa-sales",
@@ -1219,7 +1232,7 @@
   [
    "ICCO",
    "7 haber",
-   790,
+   890,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1228,7 +1241,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1072,
+   1449,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1237,7 +1250,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4424,
+   4434,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1246,7 +1259,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58985,
+   59564,
    "",
    "",
    null,
@@ -1255,7 +1268,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   123,
+   120,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1264,7 +1277,7 @@
   [
    "World Cocoa Foundation",
    "5 haber",
-   493,
+   519,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1273,7 +1286,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8213,
+   9349,
    "",
    "",
    null,
@@ -1282,7 +1295,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   260,
+   168,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1291,7 +1304,7 @@
   [
    "Panamir",
    "2 haber",
-   3422,
+   2352,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1300,7 +1313,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   116,
+   200,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1309,7 +1322,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   487,
+   552,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1318,7 +1331,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   475,
+   632,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1327,7 +1340,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   318,
+   326,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1336,7 +1349,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   670,
+   439,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1345,7 +1358,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   1975,
+   1951,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1353,8 +1366,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "11 haber",
-   1043,
+   "12 haber",
+   1007,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1363,7 +1376,7 @@
   [
    "AIP · CI resmî ajans",
    "3 haber",
-   14345,
+   17072,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1372,7 +1385,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   62377,
+   62829,
    "",
    "",
    null,
@@ -1381,7 +1394,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   1640,
+   650,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1390,7 +1403,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   1918,
+   623,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1399,7 +1412,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   28526,
+   30167,
    "",
    "",
    null,
@@ -1408,7 +1421,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   1645,
+   2450,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1417,7 +1430,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   658,
+   826,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1426,7 +1439,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   23169,
+   50563,
    "",
    "",
    null,
@@ -1434,8 +1447,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (276453 bayt, vekil)",
-   4778,
+   "besleme tanimsiz (277924 bayt, vekil)",
+   5854,
    "",
    "",
    null,
@@ -1444,7 +1457,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61146,
+   61480,
    "",
    "",
    null,
@@ -1453,7 +1466,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   5276,
+   4541,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
