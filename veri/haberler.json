@@ -1,14 +1,14 @@
 {
- "uretim": "2026-11-01T02:09:04.966349+00:00",
+ "uretim": "2026-11-01T09:08:50.868829+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 21,
- "haberSayisi": 96,
+ "haberSayisi": 94,
  "cevirili": true,
  "haberler": [
   {
    "baslik": "Nigeria seeks EU investment for 1m hectare cocoa expansion",
    "link": "https://businessday.ng/agriculture/article/nigeria-seeks-eu-investment-for-1m-hectare-cocoa-expansion/",
-   "tarih": "2026-10-31T19:49:29+00:00",
+   "tarih": "2026-10-31T18:49:29+00:00",
    "ozet": "The Federal Government will present Nigeria’s one-million-hectare tree crops expansion programme to European cocoa industry leaders and investors in Brussels,",
    "kaynak": "BusinessDay · NG",
    "grup": "BusinessDay · NG",
@@ -1137,32 +1137,6 @@
    "okunur": true
   },
   {
-   "baslik": "La Fundación Mundial del Cacao y COCOBOD anuncian a Ghana como sede de la Reunión de Asociación 2027",
-   "link": "https://worldcocoafoundation.org/news-and-resources/press-release/la-fundacion-mundial-del-cacao-y-cocobod-anuncian-a-ghana-como-sede-de-la-reunion-de-asociacion-2027",
-   "tarih": "2026-09-02T10:12:48+02:00",
-   "ozet": "Ghana acogerá la Reunión de Asociación WCF 2027 (17-18 marzo), centrada en resiliencia, sostenibilidad y el futuro del sector cacaotero.",
-   "kaynak": "World Cocoa Foundation",
-   "grup": "World Cocoa Foundation",
-   "alan": "worldcocoafoundation.org",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "La Fundación Mundial del Cacao ve COCOBOD, Asociación Toplantısı 2027'de Gana'da duyuruyor",
-   "okunur": true
-  },
-  {
-   "baslik": "World Cocoa Foundation and COCOBOD Announce Ghana as Host of Partnership Meeting 2027",
-   "link": "https://worldcocoafoundation.org/news-and-resources/press-release/world-cocoa-foundation-and-cocobod-announce-ghana-as-host-of-partnership-meeting-2027",
-   "tarih": "2026-09-02T10:12:20+02:00",
-   "ozet": "WCF and COCOBOD announce Ghana as host of the 2027 Partnership Meeting (17–18 March), focused on cocoa resilience, sustainability and farmer livelihoods.",
-   "kaynak": "World Cocoa Foundation",
-   "grup": "World Cocoa Foundation",
-   "alan": "worldcocoafoundation.org",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "Dünya Kakao Vakfı ve COCOBOD, Gana'yı 2027 Ortaklık Toplantısının Ev Sahibi Olarak Açıkladı",
-   "okunur": true
-  },
-  {
    "baslik": "El mercado del cacao después de la tormenta: Lecciones de la más grande crisis global.",
    "link": "https://anecacao.com/el-mercado-del-cacao-despues-de-la-tormenta-lecciones-de-la-mas-grande-crisis-global/",
    "tarih": "2026-09-01T19:41:25+00:00",
@@ -1258,7 +1232,7 @@
   [
    "ICCO",
    "7 haber",
-   1054,
+   805,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1267,7 +1241,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   2106,
+   1841,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1276,7 +1250,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4547,
+   4121,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1285,7 +1259,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59097,
+   59181,
    "",
    "",
    null,
@@ -1294,7 +1268,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   177,
+   123,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1302,17 +1276,17 @@
   ],
   [
    "World Cocoa Foundation",
-   "5 haber",
-   646,
+   "3 haber",
+   474,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
-   5
+   7
   ],
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   9864,
+   7792,
    "",
    "",
    null,
@@ -1321,7 +1295,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   256,
+   177,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1330,7 +1304,7 @@
   [
    "Panamir",
    "2 haber",
-   3038,
+   2530,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1339,7 +1313,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   242,
+   218,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1348,7 +1322,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   592,
+   382,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1357,7 +1331,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   345,
+   436,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1366,7 +1340,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   463,
+   346,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1375,7 +1349,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   773,
+   258,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1384,7 +1358,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   2020,
+   1732,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1393,7 +1367,7 @@
   [
    "MyJoyOnline · GH",
    "12 haber",
-   976,
+   1026,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1402,7 +1376,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   7544,
+   18391,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1411,7 +1385,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   63278,
+   62828,
    "",
    "",
    null,
@@ -1420,7 +1394,7 @@
   [
    "Business in Cameroon",
    "2 haber",
-   682,
+   1676,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1429,7 +1403,7 @@
   [
    "Investir au Cameroun",
    "2 haber",
-   684,
+   612,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1438,16 +1412,16 @@
   [
    "BusinessDay · NG",
    "1 haber",
-   998,
-   "https://businessday.ng/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "onbellek",
+   1748,
+   "https://businessday.ng/category/agriculture/feed/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Anecacao · EC",
    "2 haber",
-   2099,
+   2181,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1456,7 +1430,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1157,
+   616,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1465,7 +1439,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   24183,
+   26001,
    "",
    "",
    null,
@@ -1473,8 +1447,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (279719 bayt, vekil)",
-   5447,
+   "besleme tanimsiz (279840 bayt, vekil)",
+   7337,
    "",
    "",
    null,
@@ -1482,8 +1456,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   29481,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   61232,
    "",
    "",
    null,
@@ -1492,7 +1466,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   6111,
+   3828,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
