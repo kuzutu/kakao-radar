@@ -1,10 +1,88 @@
 {
- "uretim": "2026-11-05T01:27:25.355770+00:00",
+ "uretim": "2026-11-05T08:34:40.496802+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 20,
- "haberSayisi": 96,
+ "calisanKaynak": 22,
+ "haberSayisi": 98,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Assin Akrofuom: Father and son held after man allegedly tied to pole and beaten over cocoa",
+   "link": "https://3news.com/crime/assin-akrofuom-killing-father-son-custody",
+   "tarih": "2026-11-05T08:17:23+00:00",
+   "ozet": "Police recovered a nylon rope at the scene; relatives say he was dragged from his room, while a suspect says he caught him stealing cocoa beans.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Assin Akrofuom: Baba ve oğul, direğe bağlayıp kakao yüzünden dövdüğü iddia edilen adamın ardından alıkonuldu",
+   "okunur": true
+  },
+  {
+   "baslik": "Cacao : une coopérative de Manyu déclare 1,03 milliard de FCFA de taxes sur ses exportations vers le Nigeria",
+   "link": "https://www.investiraucameroun.com/agriculture/0511-24070-cacao-une-cooperative-de-manyu-declare-1-03-milliard-de-fcfa-de-taxes-sur-ses-exportations-vers-le-nigeria",
+   "tarih": "2026-11-05T07:24:06+00:00",
+   "ozet": "La South West Manyu Cocoa Farmers Exporters Cooperative affirme avoir versé au Trésor public 1,03 milliard de FCFA de droits de douane et taxes en 2025, contre plus de 860 millions de FCFA en 2024, au titre de ses activités d'exportation de cacao vers le Niger",
+   "kaynak": "Investir au Cameroun",
+   "grup": "Investir au Cameroun",
+   "alan": "investiraucameroun.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao: Bir Manyu kooperatifi, Nijerya'ya ihracatta 1,03 milyar FCFA vergi beyan etti",
+   "okunur": true
+  },
+  {
+   "baslik": "Arabica Falls Below 280 as Robusta Recovers (4 November 2026)",
+   "link": "https://www.cocoaintel.com/arabica-falls-below-280-as-robusta-recovers-4-november-2026/",
+   "tarih": "2026-11-05T07:02:00+00:00",
+   "ozet": "Arabica falls 1.48% as December premiums narrow. Robusta gains, Brazil’s exports exceed five million bags, and India cuts its crop estimate.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Robusta İyileşirken Arabica 280'in Altına Düştü (4 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Cocoa Weighs Ivorian Crop Cuts Against Ample Stocks (4 November 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-weighs-ivorian-crop-cuts-against-ample-stocks-4-november-2026/",
+   "tarih": "2026-11-05T07:02:00+00:00",
+   "ozet": "Ivorian crop downgrades and Ecuador’s El Niño risks threaten cocoa supply, while ample stocks and weak chocolate demand temper the outlook.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao, Fildişi Sahili'ndeki Mahsul Kesintilerini Bol Stoklara Karşı Ağırlaştırıyor (4 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Sugar Rebounds in New York as Rabobank Sees Brazil Recovery (4 November 2026)",
+   "link": "https://www.cocoaintel.com/sugar-rebounds-in-new-york-as-rabobank-sees-brazil-recovery-4-november-2026/",
+   "tarih": "2026-11-05T07:00:00+00:00",
+   "ozet": "Raw sugar rebounds while nearby whites weaken. Rabobank forecasts a larger Brazilian crop; open interest confirms Tuesday’s position reduction.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Rabobank Brezilya'da İyileşme Görürken New York'ta Şeker Yükselişi (4 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Nigeria’s value-addition push hits EU tariff wall for cocoa processors",
+   "link": "https://businessday.ng/agriculture/article/nigerias-value-addition-push-hits-eu-tariff-wall-for-cocoa-processors/",
+   "tarih": "2026-11-05T02:00:31+00:00",
+   "ozet": "",
+   "kaynak": "BusinessDay · NG",
+   "grup": "BusinessDay · NG",
+   "alan": "businessday.ng",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Nijerya'nın katma değer hamlesi, kakao işleyicilerine yönelik AB tarife duvarına çarptı",
+   "okunur": true
+  },
   {
    "baslik": "Cargill Kokoo Sourcing Limited rewards 563 cocoa farmers with pruning machines as it marks 10 years",
    "link": "https://www.myjoyonline.com/cargill-kokoo-sourcing-limited-rewards-563-cocoa-farmers-with-pruning-machines-as-it-marks-10-years/",
@@ -484,58 +562,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Magnum, Yaz Sıcaklarının Dondurma Talebini Arttırmasıyla Satış Görünümünü Yükseltti",
-   "okunur": true
-  },
-  {
-   "baslik": "Cacao-café : le Fonds vert approuve son premier prêt souverain direct, de 51,4 milliards de FCFA, au Cameroun",
-   "link": "https://www.investiraucameroun.com/finance/2910-24040-cacao-cafe-le-fonds-vert-approuve-son-premier-pret-souverain-direct-de-51-4-milliards-de-fcfa-au-cameroun",
-   "tarih": "2026-10-29T08:33:43+00:00",
-   "ozet": "Le Fonds vert pour le climat (FVC) a approuvé, le 27 octobre 2026, un prêt souverain direct de 87,68 millions de dollars, soit environ 51,4 milliards de FCFA, destiné aux filières cacao et café du Cameroun. Il s'agit, selon l'institution, du premier prêt souve",
-   "kaynak": "Investir au Cameroun",
-   "grup": "Investir au Cameroun",
-   "alan": "investiraucameroun.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakaolu kafe: Fonds, Kamerun'da FCFA'nın 51,4 milyar dolarlık ilk doğrudan satışını onayladı",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa Rebound Fades as Range Trading Persists; StoneX Forecasts Renewed Deficit (28 October 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-rebound-fades-as-range-trading-persists-stonex-forecasts-renewed-deficit-28-october-2026/",
-   "tarih": "2026-10-29T07:02:00+00:00",
-   "ozet": "Cocoa retreats as its rebound fades. After the close, StoneX forecasts a 64,000-tonne global deficit for 2026/27 amid weaker supply.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Menzil Ticareti Devam Ettikçe Kakao Geri Tepmesi Zayıflıyor; StoneX Tahminleri Yenilenen Açık (28 Ekim 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Arabica Extends Its Slide as the December Premium Shrinks (28 October 2026)",
-   "link": "https://www.cocoaintel.com/arabica-extends-its-slide-as-the-december-premium-shrinks-28-october-2026/",
-   "tarih": "2026-10-29T07:01:00+00:00",
-   "ozet": "Arabica falls 2.38% as December positions unwind. ICE stocks near September’s low, Brazil’s exports rise and Robusta holds near $3,200.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Arabica Aralık Primi Küçülürken Kaymasını Uzatıyor (28 Ekim 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Sugar Extends Recovery and Brazil Reports Lower October Output (28 October 2026)",
-   "link": "https://www.cocoaintel.com/sugar-extends-recovery-and-brazil-reports-lower-october-output-29-october-2026/",
-   "tarih": "2026-10-29T07:00:00+00:00",
-   "ozet": "Sugar rises for a second day. Brazil’s October output falls sharply, white premiums strengthen, and Indian cash prices diverge.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Şeker Toparlanmayı Uzatıyor ve Brezilya Ekim Üretiminin Düşüşünü Bildiriyor (28 Ekim 2026)",
    "okunur": true
   },
   {
@@ -1258,7 +1284,7 @@
   [
    "ICCO",
    "7 haber",
-   866,
+   880,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1267,7 +1293,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1410,
+   1396,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1276,7 +1302,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4178,
+   3998,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1285,7 +1311,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58677,
+   57307,
    "",
    "",
    null,
@@ -1294,7 +1320,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   109,
+   140,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1303,7 +1329,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   506,
+   350,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1312,7 +1338,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   9833,
+   14851,
    "",
    "",
    null,
@@ -1321,7 +1347,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   199,
+   221,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1330,7 +1356,7 @@
   [
    "Panamir",
    "2 haber",
-   1861,
+   2328,
    "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1339,7 +1365,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   202,
+   130,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1348,7 +1374,7 @@
   [
    "ConfectioneryNews",
    "8 haber",
-   919,
+   268,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1357,7 +1383,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   585,
+   398,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1366,7 +1392,7 @@
   [
    "Food Manufacture",
    "2 haber",
-   558,
+   308,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1375,7 +1401,7 @@
   [
    "Bakery & Snacks",
    "4 haber",
-   262,
+   209,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1384,7 +1410,7 @@
   [
    "Confectionery Production",
    "9 haber",
-   1928,
+   1544,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1393,7 +1419,7 @@
   [
    "MyJoyOnline · GH",
    "12 haber",
-   901,
+   1125,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1402,7 +1428,7 @@
   [
    "AIP · CI resmî ajans",
    "2 haber",
-   7443,
+   15329,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1410,8 +1436,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   60901,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
+   46552,
    "",
    "",
    null,
@@ -1420,7 +1446,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   604,
+   488,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1429,7 +1455,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   724,
+   468,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1437,17 +1463,17 @@
   ],
   [
    "BusinessDay · NG",
-   "konuya uyan haber yok (5 kayit tarandi)",
-   23794,
-   "",
-   "",
+   "1 haber",
+   1129,
+   "https://businessday.ng/category/agriculture/feed/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Anecacao · EC",
    "2 haber",
-   1557,
+   2131,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1456,7 +1482,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   648,
+   487,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1464,8 +1490,8 @@
   ],
   [
    "Bank of Ghana",
-   "konuya uyan haber yok (3 kayit tarandi)",
-   22422,
+   "worker: The read operation timed out | allorigins: HTTP Error 408: Req",
+   361781,
    "",
    "",
    null,
@@ -1473,17 +1499,17 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (277730 bayt, vekil)",
-   5848,
-   "",
-   "",
+   "1 haber",
+   2236,
+   "https://3news.com/feed/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
-   51533,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   55087,
    "",
    "",
    null,
@@ -1492,7 +1518,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   4490,
+   4826,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
