@@ -1,10 +1,62 @@
 {
- "uretim": "2026-11-07T09:58:46.400263+00:00",
+ "uretim": "2026-11-07T16:23:07.451689+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 19,
- "haberSayisi": 99,
+ "calisanKaynak": 18,
+ "haberSayisi": 101,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "AMA to close Tudu and Cocoa Board–Kantamanto roads in December",
+   "link": "https://3news.com/news/ama-christmas-roads-kantamanto-tudu",
+   "tarih": "2026-11-07T14:49:15+00:00",
+   "ozet": "Traders without shops will get the Cocoa Board-to-Kantamanto stretch in December, while sellers at Accra bus stops have until Monday to leave.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "AMA Aralık ayında Tudu ve Cocoa Board-Kantamanto yollarını kapatacak",
+   "okunur": true
+  },
+  {
+   "baslik": "Core investment for Audrey’s chocolatiers boost manufacturing",
+   "link": "https://www.confectioneryproduction.com/news/60156/major-investment-for-audreys-chocolatiers-boosts-fresh-manufacturing-drive/",
+   "tarih": "2026-11-07T12:06:12+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Audrey çikolata imalatçılarına yapılan temel yatırım üretimi artırıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "AMA to make room for Christmas traders along Cocoa Board–Kantamanto stretch",
+   "link": "https://www.myjoyonline.com/ama-to-make-room-for-christmas-traders-along-cocoa-board-kantamanto-stretch/",
+   "tarih": "2026-11-07T11:47:21+00:00",
+   "ozet": "The Accra Metropolitan Assembly (AMA) will close selected roads within the Central Business District (CBD) in December to create additional trading spaces for traders ahead of the Christmas festivities.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "AMA, Cocoa Board-Kantamanto boyunca Noel tüccarlarına yer açacak",
+   "okunur": true
+  },
+  {
+   "baslik": "Traffitech must not become government revenue tool at motorists’ expense",
+   "link": "https://www.myjoyonline.com/traffitech-must-not-become-government-revenue-tool-at-motorists-expense-fiifi-boafo/",
+   "tarih": "2026-11-07T10:37:18+00:00",
+   "ozet": "Former Head of Public Affairs at the Ghana Cocoa Board (COCOBOD), Fiifi Boafo, has questioned the financial motive behind the introduction of the new automated traffic enforcement system, Traffitech, warning that it must not become a revenue-generating venture",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Traffitech, sürücülerin pahasına devletin gelir aracı haline gelmemelidir",
+   "okunur": true
+  },
   {
    "baslik": "Côte d’Ivoire-AIP/La fuite du cacao fragilise les coopératives et menace des emplois dans l’Indénié-Djuablin",
    "link": "https://www.aip.ci/cote-divoire-aip-la-fuite-du-cacao-fragilise-les-cooperatives-et-menace-des-emplois-dans-lindenie-djuablin/",
@@ -1085,19 +1137,6 @@
    "okunur": true
   },
   {
-   "baslik": "COCOA MARKET TRENDS",
-   "link": "https://panamir.com/cocoa-market-trends-september-2026/",
-   "tarih": "2026-10-03T12:00:51+00:00",
-   "ozet": "",
-   "kaynak": "Panamir",
-   "grup": "Panamir",
-   "alan": "panamir.com",
-   "w": 1.2,
-   "kaynakUyari": "",
-   "baslikTR": "KAKAO PİYASASI TRENDLERİ",
-   "okunur": true
-  },
-  {
    "baslik": "New International Cocoa Agreement, 2026, enters into force on 1 October",
    "link": "https://www.icco.org/new-international-cocoa-agreement-2026-enters-into-force-on-1-october/",
    "tarih": "2026-10-01T17:57:01+00:00",
@@ -1215,19 +1254,6 @@
    "okunur": true
   },
   {
-   "baslik": "ED(MEM) 1322",
-   "link": "https://www.icco.org/edmem-1322-entry-into-force-of-ica-2026/",
-   "tarih": "2026-09-08T09:57:46+00:00",
-   "ozet": "",
-   "kaynak": "ICCO",
-   "grup": "ICCO",
-   "alan": "icco.org",
-   "w": 1.3,
-   "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
-   "baslikTR": "ED(MEM) 1322",
-   "okunur": true
-  },
-  {
    "baslik": "El mercado del cacao después de la tormenta: Lecciones de la más grande crisis global.",
    "link": "https://anecacao.com/el-mercado-del-cacao-despues-de-la-tormenta-lecciones-de-la-mas-grande-crisis-global/",
    "tarih": "2026-09-01T19:41:25+00:00",
@@ -1296,17 +1322,17 @@
  "rapor": [
   [
    "ICCO",
-   "7 haber",
-   948,
+   "6 haber",
+   869,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
-   13
+   14
   ],
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1470,
+   1511,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1315,7 +1341,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   4564,
+   3686,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1324,7 +1350,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59739,
+   57783,
    "",
    "",
    null,
@@ -1333,7 +1359,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   160,
+   91,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1342,7 +1368,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   501,
+   455,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1351,7 +1377,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   9821,
+   8773,
    "",
    "",
    null,
@@ -1360,7 +1386,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   173,
+   203,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1368,17 +1394,17 @@
   ],
   [
    "Panamir",
-   "2 haber",
-   2483,
-   "https://panamir.com/wp-json/wp/v2/pages?per_page=20&orderby=date&order=desc&search=cocoa&_fields=title,link,date,excerpt",
-   "dogrudan",
+   "besleme tanimsiz (988 bayt, vekil)",
+   39347,
+   "",
+   "",
    null,
-   18
+   0
   ],
   [
    "Barchart · Softs",
    "4 haber",
-   194,
+   122,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1387,7 +1413,7 @@
   [
    "ConfectioneryNews",
    "6 haber",
-   936,
+   296,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1396,7 +1422,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7110,
+   4896,
    "",
    "",
    null,
@@ -1405,7 +1431,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7849,
+   7484,
    "",
    "",
    null,
@@ -1414,7 +1440,7 @@
   [
    "Bakery & Snacks",
    "3 haber",
-   760,
+   401,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1422,8 +1448,8 @@
   ],
   [
    "Confectionery Production",
-   "9 haber",
-   1711,
+   "10 haber",
+   1633,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1431,8 +1457,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "14 haber",
-   1011,
+   "16 haber",
+   828,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1441,7 +1467,7 @@
   [
    "AIP · CI resmî ajans",
    "2 haber",
-   14784,
+   12972,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1449,8 +1475,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   62156,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 520: <none>",
+   50029,
    "",
    "",
    null,
@@ -1459,7 +1485,7 @@
   [
    "Business in Cameroon",
    "3 haber",
-   732,
+   411,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1468,7 +1494,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   769,
+   492,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1477,7 +1503,7 @@
   [
    "BusinessDay · NG",
    "2 haber",
-   1709,
+   1289,
    "https://businessday.ng/category/agriculture/feed/",
    "dogrudan",
    null,
@@ -1486,7 +1512,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   4723,
+   1513,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1495,7 +1521,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   1130,
+   585,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1504,7 +1530,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25314,
+   24189,
    "",
    "",
    null,
@@ -1512,8 +1538,8 @@
   ],
   [
    "3News · GH",
-   "1 haber",
-   4633,
+   "2 haber",
+   2394,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1522,7 +1548,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61466,
+   61062,
    "",
    "",
    null,
@@ -1531,7 +1557,7 @@
   [
    "Ghanaian Times",
    "konuya uyan haber yok (10 kayit tarandi)",
-   6363,
+   7078,
    "",
    "",
    null,
