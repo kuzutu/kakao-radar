@@ -1,10 +1,36 @@
 {
- "uretim": "2026-11-10T18:14:03.979088+00:00",
+ "uretim": "2026-11-10T23:17:12.701703+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 18,
+ "calisanKaynak": 17,
  "haberSayisi": 92,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa Prices Retreat on Supply Optimism",
+   "link": "https://www.barchart.com/story/news/8764919/cocoa-prices-retreat-on-supply-optimism",
+   "tarih": "2026-11-10T19:22:53+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed down -262 (-5.24%) on Tuesday, and ICE London cocoa #7 (CAZ26 ) closed down -145 (-3.84%). Cocoa prices extended their three-week-long sell-off on Tuesday and posted 4.5-month lows. Cocoa prices have trended lower over the",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao Fiyatları Arz İyimserliğiyle Geri Çekildi",
+   "okunur": false
+  },
+  {
+   "baslik": "APPEL D’OFFRES ICI/DAO/005-2026",
+   "link": "https://www.cocoainitiative.org/about-us/careers-ici/current-vacancies/appel-doffres-icidao005-2026",
+   "tarih": "2026-11-10T18:31:22+00:00",
+   "ozet": "",
+   "kaynak": "Intl Cocoa Initiative",
+   "grup": "Intl Cocoa Initiative",
+   "alan": "cocoainitiative.org",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "İHALELER İÇİN BURADAN ÇAĞRI/DAO/005-2026",
+   "okunur": true
+  },
   {
    "baslik": "Supply Optimism Hammers Cocoa Prices",
    "link": "https://www.barchart.com/story/news/8762486/supply-optimism-hammers-cocoa-prices",
@@ -17,19 +43,6 @@
    "kaynakUyari": "",
    "baslikTR": "Arz İyimserliği Kakao Fiyatlarını Çekiyor",
    "okunur": false
-  },
-  {
-   "baslik": "Heat causing 'serious flower abortion' across Ghana's cocoa belt",
-   "link": "https://3news.com/agribusiness/heat-cocoa-flower-abortion-crop-scientist",
-   "tarih": "2026-11-10T15:53:12+00:00",
-   "ozet": "Senior crop scientist Dr Frank Ackah says heat stress is wiping out cocoa flowers and young pods, threatening deeper output losses in the 2026/27 season.",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Sıcaklar Gana'nın kakao kuşağında 'ciddi çiçek kürtajına' neden oluyor",
-   "okunur": true
   },
   {
    "baslik": "Côte d’Ivoire : Le broyage du cacao en hausse de 25% au 1er semestre 2026, porté par les investissements industriels",
@@ -1176,19 +1189,6 @@
    "okunur": true
   },
   {
-   "baslik": "Annual Report 2025",
-   "link": "https://www.cocoainitiative.org/annual-report-2025",
-   "tarih": "2026-07-21T07:52:43+00:00",
-   "ozet": "",
-   "kaynak": "Intl Cocoa Initiative",
-   "grup": "Intl Cocoa Initiative",
-   "alan": "cocoainitiative.org",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Yıllık Rapor 2025",
-   "okunur": false
-  },
-  {
    "baslik": "Cierre de exportaciones sector cacaotero",
    "link": "https://anecacao.com/cierre-de-exportaciones-sector-cacaotero-abril-2026/",
    "tarih": "2026-05-29T17:16:33+00:00",
@@ -1206,7 +1206,7 @@
   [
    "ICCO",
    "8 haber",
-   900,
+   1288,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1215,7 +1215,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   970,
+   1556,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1233,7 +1233,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59973,
+   59325,
    "",
    "",
    null,
@@ -1242,7 +1242,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   293,
+   255,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1251,7 +1251,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   615,
+   621,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1260,7 +1260,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   11607,
+   11840,
    "",
    "",
    null,
@@ -1269,7 +1269,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   485,
+   316,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1278,7 +1278,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   42873,
+   36019,
    "",
    "",
    null,
@@ -1286,8 +1286,8 @@
   ],
   [
    "Barchart · Softs",
-   "3 haber",
-   252,
+   "4 haber",
+   92,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1296,7 +1296,7 @@
   [
    "ConfectioneryNews",
    "5 haber",
-   904,
+   843,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1305,7 +1305,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8798,
+   10768,
    "",
    "",
    null,
@@ -1314,7 +1314,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   9163,
+   9556,
    "",
    "",
    null,
@@ -1323,7 +1323,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   861,
+   748,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1332,7 +1332,7 @@
   [
    "Confectionery Production",
    "10 haber",
-   28626,
+   2132,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1341,7 +1341,7 @@
   [
    "MyJoyOnline · GH",
    "13 haber",
-   1017,
+   1020,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1350,7 +1350,7 @@
   [
    "AIP · CI resmî ajans",
    "1 haber",
-   17782,
+   9827,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1359,7 +1359,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   140,
+   863,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1368,7 +1368,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   781,
+   1144,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1377,7 +1377,7 @@
   [
    "Investir au Cameroun",
    "1 haber",
-   805,
+   1083,
    "https://www.investiraucameroun.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1386,7 +1386,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   23912,
+   34584,
    "",
    "",
    null,
@@ -1395,7 +1395,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   2547,
+   1371,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1404,7 +1404,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   711,
+   702,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1413,7 +1413,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   26366,
+   25213,
    "",
    "",
    null,
@@ -1421,17 +1421,17 @@
   ],
   [
    "3News · GH",
-   "1 haber",
-   5212,
-   "https://3news.com/feed/",
-   "dogrudan",
+   "besleme tanimsiz (322256 bayt, vekil)",
+   7011,
+   "",
+   "",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61842,
+   62076,
    "",
    "",
    null,
@@ -1440,7 +1440,7 @@
   [
    "Ghanaian Times",
    "konuya uyan haber yok (10 kayit tarandi)",
-   7358,
+   7090,
    "",
    "",
    null,
