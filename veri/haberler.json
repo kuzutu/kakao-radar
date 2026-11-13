@@ -1,10 +1,101 @@
 {
- "uretim": "2026-11-13T02:55:11.236504+00:00",
+ "uretim": "2026-11-13T10:54:41.342044+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 15,
- "haberSayisi": 88,
+ "calisanKaynak": 14,
+ "haberSayisi": 87,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Cocoa Extends Rebound as New York Settles Above $5,200 (12 November 2026)",
+   "link": "https://www.cocoaintel.com/cocoa-extends-rebound-as-new-york-settles-above-5-200-12-november-2026/",
+   "tarih": "2026-11-13T07:02:00+00:00",
+   "ozet": "March cocoa settled at $5,204 in New York and £3,986 in London as markets weighed Ivorian crop risks. ICE stocks, spreads and trading levels.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "New York 5.200 Doların Üzerine Yerleşirken Kakao Yükselişini Uzattı (12 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Arabica Reclaims 280 as Stocks Fall and Crop Risks Grow (12 November 2026)",
+   "link": "https://www.cocoaintel.com/arabica-reclaims-280-as-stocks-fall-and-crop-risks-grow-12-november-2026/",
+   "tarih": "2026-11-13T07:01:00+00:00",
+   "ozet": "Arabica rebounds as ICE stocks fall, while Robusta weakens. Brazil flags crop and margin risks; Vietnam's harvest starts slowly.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Arabica, Hisse Senetleri Düşerken ve Mahsul Riskleri Artarken 280'i Geri Aldı (12 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Raw Sugar Slips Below 18¢, Then Settles at 18.22¢ (12 November 2026)",
+   "link": "https://www.cocoaintel.com/raw-sugar-slips-below-18c-then-settles-at-18-22c-12-november-2026/",
+   "tarih": "2026-11-13T07:00:00+00:00",
+   "ozet": "March raws trade below 18¢ and settle at 18.22¢/lb. December whites hold up before expiry as Brazil reports lower late-October sugar output.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Ham Şeker 18¢'nin Altına Düştü, Sonra 18,22¢'ye Yerleşti (12 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "100% local processing of cocoa beans achievable but requires political will",
+   "link": "https://www.myjoyonline.com/100-local-processing-of-cocoa-beans-achievable-but-requires-political-will-dr-opoku-gakpo/",
+   "tarih": "2026-11-13T05:53:00+00:00",
+   "ozet": "Agricultural analyst Dr Joseph Opoku Gakpo says the government’s plan to ensure 100 per cent of Ghana’s raw cocoa beans are processed locally by 2030 is achievable, provided it has strong political will.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao çekirdeklerinin %100 yerli işlenmesi mümkün ancak siyasi irade gerektiriyor",
+   "okunur": true
+  },
+  {
+   "baslik": "‘Come and buy our cocoa beans, but add value here in Ghana’",
+   "link": "https://www.myjoyonline.com/come-and-buy-our-cocoa-beans-but-add-value-here-in-ghana-forson/",
+   "tarih": "2026-11-13T04:25:00+00:00",
+   "ozet": "Finance Minister Dr Cassiel Ato Forson has urged international cocoa buyers to process beans in Ghana, as the government pursues plans to increase local processing to 50% by 2028 and 100% by 2030.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "'Gelin kakao çekirdeklerimizi satın alın, ancak Gana'ya değer katın'",
+   "okunur": true
+  },
+  {
+   "baslik": "‘Dangote has reached out to use Ghana as a hub to process cocoa locally’",
+   "link": "https://www.myjoyonline.com/dangote-has-reached-out-to-use-ghana-as-a-hub-to-process-cocoa-locally-ato-forson/",
+   "tarih": "2026-11-13T01:43:00+00:00",
+   "ozet": "Finance Minister Dr Cassiel Ato Forson says Dangote has expressed interest in using Ghana as a cocoa-processing hub, with discussions underway over a proposed contract involving 500,000 metric tonnes.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "'Dangote, kakaoyu yerel olarak işlemek için Gana'yı bir merkez olarak kullanmak için iletişime geçti'",
+   "okunur": true
+  },
+  {
+   "baslik": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana",
+   "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
+   "tarih": "2026-11-13T00:17:00+00:00",
+   "ozet": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing of 500,000 metric tonnes of cocoa, Finance Minister Dr Cassiel Ato For",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Dangote, Gana'da 500.000 tonluk kakao işleme anlaşmasını hedefliyor",
+   "okunur": true
+  },
   {
    "baslik": "Raw cocoa exports to end by 2030 as Budget targets 100% local processing",
    "link": "https://3news.com/business/agribusiness/raw-cocoa-exports-ban-2030-local-processing-2027-budget",
@@ -16,6 +107,19 @@
    "w": 0.8,
    "kaynakUyari": "",
    "baslikTR": "Bütçe %100 yerel işlemeyi hedeflediği için ham kakao ihracatı 2030 yılına kadar sona erecek",
+   "okunur": true
+  },
+  {
+   "baslik": "Ghana to process at least 50% of its cocoa locally by 2028",
+   "link": "https://www.myjoyonline.com/ghana-to-process-at-least-50-of-its-cocoa-locally-by-2028-ato-forson/",
+   "tarih": "2026-11-12T19:24:00+00:00",
+   "ozet": "Finance Minister Dr Cassiel Ato Forson has announced plans for Ghana to process at least 50 per cent of its cocoa locally by the end of 2028, with the ultimate goal of achieving full local processing by 2030.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Gana, 2028 yılına kadar kakaonun en az %50'sini yerel olarak işleyecek",
    "okunur": true
   },
   {
@@ -68,19 +172,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Kakao Geri Dönüyor, Ancak Toparlanma Hala Kırılgan",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire AIP/ Campagne 2026-2027 : le Conseil du café-cacao sensibilise les producteurs aux nouvelles exigences de traçabilité à Kounahiri",
-   "link": "https://www.aip.ci/cote-divoire-aip-kounahiri-campagne-cafe-cacao-2026-2027-le-conseil-du-cafe-cacao-sensibilise-les-producteurs-aux-nouvelles-exigences-de-tracabilite/",
-   "tarih": "2026-11-12T07:59:08+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili AIP/ 2026-2027 kampanyası: Kahve-Kakao Konseyi, Kounahiri'deki yeni izlenebilirlik gereklilikleri konusunda üreticiler arasında farkındalık yaratıyor",
    "okunur": true
   },
   {
@@ -237,32 +328,6 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "Londra'nın Kazançlarını Geri Vermesiyle Ham Şeker 18¢'in Altına Düştü (10 Kasım 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Filière cacao : les acteurs de la Nawa préparent la mise en place d’un comité local de dialogue social",
-   "link": "https://www.aip.ci/cote-divoire-aip-filiere-cacao-les-acteurs-de-la-nawa-preparent-la-mise-en-place-dun-comite-local-de-dialogue-social/",
-   "tarih": "2026-11-11T06:02:37+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kakao sektörü: Nawa paydaşları yerel bir sosyal diyalog komitesi kurmaya hazırlanıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire : Le broyage du cacao en hausse de 25% au 1er semestre 2026, porté par les investissements industriels",
-   "link": "https://www.sikafinance.com/premium/cote-divoire-le-broyage-du-cacao-en-hausse-de-25-au-1er-semestre-2026-porte-par-les-investissements-industriels_65626",
-   "tarih": "2026-11-10T14:36:38+00:00",
-   "ozet": "Dans les champs ivoiriens, les récoltes ne suivent pas toutes la même trajectoire. À fin juin 2026, le cacao et la banane dessert tirent la pr...",
-   "kaynak": "Sika Finance · CI",
-   "grup": "Sika Finance · CI",
-   "alan": "sikafinance.com",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili: Endüstriyel yatırımların etkisiyle kakao öğütülmesi 2026'nın ilk yarısında %25 arttı",
    "okunur": true
   },
   {
@@ -539,45 +604,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cocoa Stocks Outweigh Crop Risks (5 November 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-stocks-outweigh-crop-risks-5-november-2026/",
-   "tarih": "2026-11-06T07:02:00+00:00",
-   "ozet": "Rising exchange stocks and subdued chocolate demand weigh on cocoa, outweighing weather-related crop risks in West Africa and Ecuador.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Stokları Mahsul Risklerinden Daha Ağır (5 Kasım 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Arabica Falls for a Third Day as Brazilian Coffee Lifts ICE Stocks (5 November 2026)",
-   "link": "https://www.cocoaintel.com/arabica-falls-for-a-third-day-as-brazilian-coffee-lifts-ice-stocks-5-november-2026/",
-   "tarih": "2026-11-06T07:01:00+00:00",
-   "ozet": "Arabica settles at 277.15 cents as Brazilian beans pass ICE grading. Robusta gains, and Rabobank projects an 8.82 million-bag global surplus.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Brezilya Kahvesi ICE Hisselerini Yükseltirken Arabica Üçüncü Gün Düştü (5 Kasım 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Sugar Extends Recovery as Oil Rebounds (5 November 2026)",
-   "link": "https://www.cocoaintel.com/sugar-extends-recovery-as-oil-rebounds-5-november-2026/",
-   "tarih": "2026-11-06T07:00:00+00:00",
-   "ozet": "Sugar gains as oil rebounds. EU stocks draw scrutiny, Indian crushing disputes ease and mixed spreads limit confidence in the recovery.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Petrolün Toparlanmasıyla Şeker Toparlanmasını Uzatıyor (5 Kasım 2026)",
-   "okunur": true
-  },
-  {
    "baslik": "New York found a footing",
    "link": "https://cocoaradar.com/new-york-found-a-footing-london-has-yet-to-follow/",
    "tarih": "2026-11-05T17:21:00+00:00",
@@ -630,32 +656,6 @@
    "okunur": true
   },
   {
-   "baslik": "Cargill Kookoo Sourcing marks 10 years of sustainable cocoa sourcing and youth empowerment",
-   "link": "https://www.myjoyonline.com/cargill-kookoo-sourcing-marks-10-years-of-sustainable-cocoa-sourcing-and-youth-empowerment/",
-   "tarih": "2026-11-04T20:17:03+00:00",
-   "ozet": "Cargill Kokoo Sourcing Limited has rewarded 563 cocoa farmers with standard pruning machines as part of activities marking 10 years of cocoa sourcing operations in Ghana.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Cargill Kookoo Sourcing, sürdürülebilir kakao tedarikinin ve gençlerin güçlendirilmesinin 10. yılını kutluyor",
-   "okunur": true
-  },
-  {
-   "baslik": "ECOM Ghana commissions new school facilities at Konkoma, charges farmers to safeguard cocoa farms",
-   "link": "https://www.myjoyonline.com/ecom-ghana-commissions-new-school-facilities-at-konkoma-charges-farmers-to-safeguard-cocoa-farms/",
-   "tarih": "2026-11-04T18:23:11+00:00",
-   "ozet": "Management of ECOM Ghana and Sustainable Management Services is distraught over the growing trend of cocoa farmers leasing their plantations and lands for illegal mining operations.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "ECOM Gana, Konkoma'da yeni okul tesislerini devreye aldı ve çiftçilere kakao çiftliklerini koruma görevi verdi",
-   "okunur": true
-  },
-  {
    "baslik": "Strengthening Families, Protecting Children: The Impact of the Family Makes the Difference approach in Ntinanko",
    "link": "https://www.cocoainitiative.org/news/strengthening-families-protecting-children-impact-family-makes-difference-approach-ntinanko",
    "tarih": "2026-11-04T11:55:32+00:00",
@@ -705,19 +705,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Barry Callebaut kârın düşmesinin ardından geri dönüş planlıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa farmers hope for March recovery after season starts poorly",
-   "link": "https://www.myjoyonline.com/cocoa-farmers-hope-for-march-recovery-after-season-starts-poorly/",
-   "tarih": "2026-11-04T05:42:00+00:00",
-   "ozet": "Cocoa farmers hope for a recovery in March harvests after a poor start to the season, driven by heavy rains in some areas and drought in others.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao çiftçileri sezon kötü başladıktan sonra Mart ayında toparlanma umuyor",
    "okunur": true
   },
   {
@@ -1154,7 +1141,7 @@
   [
    "ICCO",
    "8 haber",
-   1204,
+   1225,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1163,7 +1150,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1431,
+   826,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1172,7 +1159,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 haber",
-   3897,
+   3620,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1181,7 +1168,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58958,
+   57420,
    "",
    "",
    null,
@@ -1190,7 +1177,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   322,
+   143,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1199,7 +1186,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   750,
+   534,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1208,7 +1195,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8845,
+   9482,
    "",
    "",
    null,
@@ -1217,7 +1204,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   427,
+   232,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1226,7 +1213,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   42020,
+   40585,
    "",
    "",
    null,
@@ -1235,7 +1222,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   164,
+   291,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1244,7 +1231,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   982,
+   157,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1253,7 +1240,7 @@
   [
    "FoodNavigator",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8754,
+   5685,
    "",
    "",
    null,
@@ -1262,7 +1249,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   11897,
+   6596,
    "",
    "",
    null,
@@ -1271,7 +1258,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   11957,
+   7172,
    "",
    "",
    null,
@@ -1280,7 +1267,7 @@
   [
    "Confectionery Production",
    "7 haber",
-   2264,
+   1253,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1288,8 +1275,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "11 haber",
-   951,
+   "13 haber",
+   879,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1297,17 +1284,17 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "2 haber",
-   7628,
-   "https://www.aip.ci/?s=cacao&feed=rss2",
-   "dogrudan",
+   "konuya uyan haber yok (10 kayit tarandi)",
+   164915,
+   "",
+   "",
    null,
    0
   ],
   [
    "Sika Finance · CI",
-   "2 haber",
-   926,
+   "1 haber",
+   82,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1315,8 +1302,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (189245 bayt, vekil)",
-   40169,
+   "besleme tanimsiz (189456 bayt, vekil)",
+   12838,
    "",
    "",
    null,
@@ -1324,8 +1311,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   37741,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
+   21800,
    "",
    "",
    null,
@@ -1334,7 +1321,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   56169,
+   30997,
    "",
    "",
    null,
@@ -1343,7 +1330,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   1761,
+   1451,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1352,7 +1339,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   954,
+   804,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1361,7 +1348,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   24350,
+   28668,
    "",
    "",
    null,
@@ -1370,7 +1357,7 @@
   [
    "3News · GH",
    "1 haber",
-   4784,
+   6451,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1378,8 +1365,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 520: <none>",
-   52458,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   51723,
    "",
    "",
    null,
@@ -1388,7 +1375,7 @@
   [
    "Ghanaian Times",
    "konuya uyan haber yok (10 kayit tarandi)",
-   9051,
+   6867,
    "",
    "",
    null,
