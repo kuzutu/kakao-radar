@@ -1,21 +1,86 @@
 {
- "uretim": "2026-11-17T11:06:45.072923+00:00",
+ "uretim": "2026-11-17T19:47:56.456361+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 19,
- "haberSayisi": 85,
+ "haberSayisi": 86,
  "cevirili": true,
  "haberler": [
   {
-   "baslik": "Ghana's exports to China hit $290 million in June under zero-tariff policy",
-   "link": "https://3news.com/business/ghana-exports-china-zero-tariff-290-million",
-   "tarih": "2026-11-17T08:53:41+00:00",
-   "ozet": "Chinese Ambassador Cong Song says June shipments hit US$290 million, with cocoa, cashew and shea butter among products covered by duty-free access.",
+   "baslik": "Soaring ICE Inventories Weigh on Cocoa Prices",
+   "link": "https://www.barchart.com/story/news/8882460/soaring-ice-inventories-weigh-on-cocoa-prices",
+   "tarih": "2026-11-17T19:22:33+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed down -12 (-0.24%) on Tuesday, and ICE London cocoa #7 (CAZ26 ) closed up +5 (+0.13%). Cocoa prices settled mixed on Tuesday. The overall cocoa market is under pressure amid signs of abundant current supplies. Cocoa prices ",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Artan ICE Stokları Kakao Fiyatlarını Etkiliyor",
+   "okunur": false
+  },
+  {
+   "baslik": "Ghana becomes first African country to receive 6.57 million ART TREES Credits",
+   "link": "https://3news.com/business/ghana-becomes-first-african-country-to-receive-6-57-million-art-trees-credits",
+   "tarih": "2026-11-17T18:38:46+00:00",
+   "ozet": "The milestone is expected to unlock an initial 43 million US dollars in climate finance, rewarding nearly two decades of collaboration among the Ghana government, traditional authorities, cocoa farmers, local communities and development partners.",
    "kaynak": "3News · GH",
    "grup": "3News · GH",
    "alan": "3news.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Sıfır tarife politikası kapsamında Gana'nın Çin'e ihracatı Haziran ayında 290 milyon dolara ulaştı",
+   "baslikTR": "Gana, 6,57 milyon ART TREES Kredisi alan ilk Afrika ülkesi oldu",
+   "okunur": true
+  },
+  {
+   "baslik": "Ample Cocoa Supplies Undercut Prices",
+   "link": "https://www.barchart.com/story/news/8880533/ample-cocoa-supplies-undercut-prices",
+   "tarih": "2026-11-17T17:08:17+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) is down -18 (-0.36%) today, and ICE London cocoa #7 (CAZ26 ) is up +3 (+0.08%). Cocoa prices are mixed today with the overall market under pressure amid signs of abundant current supplies. Cocoa prices have trended lower over the",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Bol Kakao Tedariği Fiyatları Düşürdü",
+   "okunur": false
+  },
+  {
+   "baslik": "Dangote’s bold Agri-Push signals a new era for West African trade",
+   "link": "https://www.myjoyonline.com/dangotes-bold-agri-push-signals-a-new-era-for-west-african-trade-borderless-alliance-president/",
+   "tarih": "2026-11-17T16:03:25+00:00",
+   "ozet": "Africa’s richest man, Aliko Dangote, has set his sights on transforming Ghana’s agricultural sector with massive investments in sugar, cocoa, and rice processing—a move that regional trade advocate Ziad Hamoui believes could finally shift West Africa away from",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Dangote'un cesur Agri-Push'ı Batı Afrika ticaretinde yeni bir döneme işaret ediyor",
+   "okunur": true
+  },
+  {
+   "baslik": "West Africa’s Cocoa Squeeze Tests Ghana’s Processing Ambitions",
+   "link": "https://cocoaradar.com/west-africas-cocoa-squeeze-tests-ghanas-processing-ambitions/",
+   "tarih": "2026-11-17T14:45:00+00:00",
+   "ozet": "CocoaRadar Premium Analysis: Falling Ivorian deliveries and Ghana’s crop warnings sharpen a difficult question for the industry: how can producing countries capture more value while securing enough beans to supply their factories?",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Batı Afrika'nın Kakao Sıkma İşlemi Gana'nın İşleme Hedeflerini Test Ediyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Ghana’s government proposes banning export of raw cocoa by 2030",
+   "link": "https://www.confectioneryproduction.com/news/60307/ghanas-government-proposes-banning-export-of-raw-cocoa-by-2030/",
+   "tarih": "2026-11-17T14:34:07+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Gana hükümeti ham kakao ihracatını 2030 yılına kadar yasaklamayı teklif ediyor",
    "okunur": true
   },
   {
@@ -277,19 +342,6 @@
    "kaynakUyari": "",
    "baslikTR": "Fildişi Sahili-AIP/ Kakao üreticileri, Scio olarak sınıflandırılan ormanın tarımsal ormancılık yeniden ağaçlandırma projesine katılıyor",
    "okunur": true
-  },
-  {
-   "baslik": "Cocoa Prices Climb as Heavy Rains Disrupt Cocoa Transport in Ivory Coast",
-   "link": "https://www.barchart.com/story/news/8827373/cocoa-prices-climb-as-heavy-rains-disrupt-cocoa-transport-in-ivory-coast",
-   "tarih": "2026-11-13T19:19:46+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) closed up +53 (+1.05%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +44 (+1.15%). Cocoa prices settled higher on Friday for a third day. Reports of heavy rains in the Ivory Coast this week that damaged roads and disrupte",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili'nde Şiddetli Yağmurlar Kakao Taşımacılığını Engellerken Kakao Fiyatları Yükseliyor",
-   "okunur": false
   },
   {
    "baslik": "Dangote expresses interest in processing more than 50% of Ghana’s cocoa locally by 2028",
@@ -760,19 +812,6 @@
    "okunur": true
   },
   {
-   "baslik": "Mondelēz trade mark crackdown continues with second challenge in days",
-   "link": "https://www.confectionerynews.com/Article/2026/11/03/mondelezs-trade-mark-crackdown-intensifies-with-moo-free-challenge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-11-03T10:36:59+00:00",
-   "ozet": "Mondelēz is challenging vegan chocolate brand Moo Free over its use of the term ‘snow balls’, reigniting debate over trademark protection, brand enforcement and intellectual property rights in confectionery.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "confectionerynews.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Mondelēz markasına yönelik baskı günlerdir ikinci zorlukla devam ediyor",
-   "okunur": true
-  },
-  {
    "baslik": "Chocolate Makers’ Profits Recover, But Demand Tells a More Uneven Story",
    "link": "https://cocoaradar.com/chocolate-makers-profits-recover-but-demand-tells-a-more-uneven-story/",
    "tarih": "2026-11-02T12:59:00+00:00",
@@ -796,19 +835,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Barry Callebaut Yenilik Swagger'ını Kurtarmak İçin Fermantasyona Bakıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Magnum Lifts Sales Outlook as Summer Heat Boosts Ice Cream Demand",
-   "link": "https://cocoaradar.com/magnum-lifts-sales-outlook-as-summer-heat-boosts-ice-cream-demand/",
-   "tarih": "2026-10-29T14:01:00+00:00",
-   "ozet": "Follow the data: Volume growth and new products helped the ice cream group raise its full-year forecast, while Toblerone’s owner is pursuing a British vegan chocolate maker over its bar design",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Magnum, Yaz Sıcaklarının Dondurma Talebini Arttırmasıyla Satış Görünümünü Yükseltti",
    "okunur": true
   },
   {
@@ -874,19 +900,6 @@
    "w": 1.3,
    "kaynakUyari": "ICCO — haber sayfasi acik, ancak istatistik yayinlari (Quarterly Bulletin, aylik piyasa raporu) ucretli ICCO e-Shop uyeligi gerektirir.",
    "baslikTR": "ED(MEM) 1328 – Yüksek Kakao Fiyatlarına Son Sektörün Tepkileri Üzerine Çalışmalar",
-   "okunur": true
-  },
-  {
-   "baslik": "Sector study shows cocoa and chocolate markets to top $216 billion by 2031",
-   "link": "https://www.confectioneryproduction.com/news/59980/sector-study-shows-cocoa-and-chocolate-markets-to-top-216-billion-by-2031/",
-   "tarih": "2026-10-22T14:58:08+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Sektör araştırması, kakao ve çikolata pazarlarının 2031 yılına kadar 216 milyar doları aşacağını gösteriyor",
    "okunur": true
   },
   {
@@ -1115,7 +1128,7 @@
   [
    "ICCO",
    "7 haber",
-   1152,
+   849,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1124,16 +1137,16 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   5729,
+   1508,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "vekil",
+   "dogrudan",
    null,
    18
   ],
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4091,
+   3380,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1142,7 +1155,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57921,
+   58926,
    "",
    "",
    null,
@@ -1151,7 +1164,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   235,
+   124,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1160,7 +1173,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   655,
+   368,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1169,7 +1182,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   9002,
+   15096,
    "",
    "",
    null,
@@ -1178,7 +1191,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   457,
+   230,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1187,7 +1200,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   42642,
+   17021,
    "",
    "",
    null,
@@ -1195,8 +1208,8 @@
   ],
   [
    "Barchart · Softs",
-   "3 haber",
-   177,
+   "4 haber",
+   114,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1204,8 +1217,8 @@
   ],
   [
    "ConfectioneryNews",
-   "3 haber",
-   180,
+   "2 haber",
+   127,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1214,7 +1227,7 @@
   [
    "FoodNavigator",
    "1 haber",
-   204,
+   237,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1223,7 +1236,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   10721,
+   8380,
    "",
    "",
    null,
@@ -1232,7 +1245,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   663,
+   214,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1241,7 +1254,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   2230,
+   2018,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1249,8 +1262,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "10 haber",
-   610,
+   "11 haber",
+   1126,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1259,7 +1272,7 @@
   [
    "AIP · CI resmî ajans",
    "1 haber",
-   13137,
+   13113,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1268,7 +1281,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   903,
+   350,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1277,7 +1290,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   1953,
+   1107,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1285,8 +1298,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: HTTP Error 5",
-   34661,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   40462,
    "",
    "",
    null,
@@ -1295,7 +1308,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   27973,
+   30101,
    "",
    "",
    null,
@@ -1304,16 +1317,16 @@
   [
    "Anecacao · EC",
    "2 haber",
-   3882,
+   2133,
    "https://www.anecacao.com/feed/",
-   "vekil",
+   "dogrudan",
    null,
    8
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   802,
+   722,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1322,7 +1335,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   26765,
+   27106,
    "",
    "",
    null,
@@ -1331,7 +1344,7 @@
   [
    "3News · GH",
    "1 haber",
-   3570,
+   4565,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1340,7 +1353,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   60966,
+   63178,
    "",
    "",
    null,
@@ -1349,7 +1362,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   4213,
+   4311,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
