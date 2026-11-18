@@ -1,10 +1,88 @@
 {
- "uretim": "2026-11-18T10:41:52.553633+00:00",
+ "uretim": "2026-11-18T19:03:08.874754+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 19,
- "haberSayisi": 90,
+ "haberSayisi": 91,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Ghana-Canada trade climbs 50% to C$752m with cars and cocoa leading the way",
+   "link": "https://3news.com/business/economy/canada-ghana-trade-climbs-50-percent-c752m-2025",
+   "tarih": "2026-11-18T17:50:18+00:00",
+   "ozet": "Ghana has become Canada's eighth-largest trading partner in Africa, with merchandise trade reaching C$752 million in 2025.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Gana-Kanada ticareti, otomobil ve kakaonun başı çekmesiyle %50 artışla 752 milyon Kanada dolarına ulaştı",
+   "okunur": true
+  },
+  {
+   "baslik": "Improved Supply Prospects Undercut Cocoa Prices",
+   "link": "https://www.barchart.com/story/news/8900970/improved-supply-prospects-undercut-cocoa-prices",
+   "tarih": "2026-11-18T17:10:54+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) is down -180 (-3.58%) today, and ICE London cocoa #7 (CAZ26 ) is down -102 (-2.65%). Cocoa prices fell sharply to 1-week lows today and are just above last Tuesday’s 4.75-month lows. Cocoa prices have trended lower over the past ",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "İyileşen Tedarik Beklentileri Kakao Fiyatlarını Düşürdü",
+   "okunur": false
+  },
+  {
+   "baslik": "Nestlé axes confectionery favourite after 20 years",
+   "link": "https://www.confectionerynews.com/Article/2026/11/18/nestle-discontinues-after-eight-bites-after-20-years/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "tarih": "2026-11-18T16:27:53+00:00",
+   "ozet": "Nestlé has discontinued After Eight Bites after 20 years, reflecting a wider confectionery trend towards portfolio simplification. While the popular mint chocolates are gone, the company is investing in new After Eight flavour innovations including Orange, Ras",
+   "kaynak": "ConfectioneryNews",
+   "grup": "ConfectioneryNews",
+   "alan": "confectionerynews.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Nestlé 20 yıl sonra şekerlemenin favorisinden vazgeçti",
+   "okunur": true
+  },
+  {
+   "baslik": "Rice farmers turn to Nigerian and Burkinabe buyers as sales stall, FABAG says",
+   "link": "https://3news.com/business/agribusiness/rice-farmers-nigerian-burkinabe-buyers-fabag-rice-board",
+   "tarih": "2026-11-18T16:10:17+00:00",
+   "ozet": "FABAG wants a Rice Board modelled on cocoa buying to guarantee rice farmers a market and an announced seasonal price.",
+   "kaynak": "3News · GH",
+   "grup": "3News · GH",
+   "alan": "3news.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "FABAG, pirinç çiftçilerinin satışlarını durdurmak için Nijeryalı ve Burkinabe'li alıcılara yöneldiğini söylüyor",
+   "okunur": true
+  },
+  {
+   "baslik": "COP31 Puts Cocoa’s Forest Financing Plans to the Test",
+   "link": "https://cocoaradar.com/cop31-puts-cocoas-forest-financing-plans-to-the-test/",
+   "tarih": "2026-11-18T15:50:00+00:00",
+   "ozet": "Barry Callebaut has pledged CHF 4.75 million ($5.64m) to protect six sites in Côte d’Ivoire, while tropical forest funding pledges and a push to expand carbon markets could have wider implications for cocoa growers",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "COP31, Cocoa'nın Orman Finansman Planlarını Test Ediyor",
+   "okunur": true
+  },
+  {
+   "baslik": "AIP/Inter/ Eurochocolate 2026: les produits des transformateurs ivoiriens séduisent le public italien à Pérouse",
+   "link": "https://www.aip.ci/aip-inter-eurochocolate-2026-les-produits-des-transformateurs-ivoiriens-seduisent-le-public-italien-a-perouse/",
+   "tarih": "2026-11-18T10:40:17+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "AIP/Inter/ Eurochoculate 2026: les produits des transformateurs ivoiriens séduisent le public italien à Pérouse",
+   "okunur": true
+  },
   {
    "baslik": "AIP/Inter/ Eurochocolate 2026: le Conseil du Café-Cacao rassure les industriels européens sur la traçabilité et la durabilité du cacao ivoirien",
    "link": "https://www.aip.ci/aip-inter-eurochocolate-2026-le-conseil-du-cafe-cacao-rassure-les-industriels-europeens-sur-la-tracabilite-et-la-durabilite-du-cacao-ivoirien/",
@@ -162,19 +240,6 @@
    "okunur": false
   },
   {
-   "baslik": "Ghana becomes first African country to receive 6.57 million ART TREES Credits",
-   "link": "https://3news.com/business/ghana-becomes-first-african-country-to-receive-6-57-million-art-trees-credits",
-   "tarih": "2026-11-17T18:38:46+00:00",
-   "ozet": "The milestone is expected to unlock an initial 43 million US dollars in climate finance, rewarding nearly two decades of collaboration among the Ghana government, traditional authorities, cocoa farmers, local communities and development partners.",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Gana, 6,57 milyon ART TREES Kredisi alan ilk Afrika ülkesi oldu",
-   "okunur": true
-  },
-  {
    "baslik": "Ample Cocoa Supplies Undercut Prices",
    "link": "https://www.barchart.com/story/news/8880533/ample-cocoa-supplies-undercut-prices",
    "tarih": "2026-11-17T17:08:17+00:00",
@@ -315,19 +380,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Kakao Fiyatları Bol Tedarik Nedeniyle Düştü",
-   "okunur": false
-  },
-  {
-   "baslik": "Rising ICE Inventories Pressure Cocoa Prices",
-   "link": "https://www.barchart.com/story/news/8858630/rising-ice-inventories-pressure-cocoa-prices",
-   "tarih": "2026-11-16T17:12:00+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) is down -62 (-1.21%) today, and ICE London cocoa #7 (CAZ26 ) is down -21 (-0.54%). Cocoa prices are under pressure today on signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Artan Buz Stokları Kakao Fiyatlarını Baskılıyor",
    "okunur": false
   },
   {
@@ -851,32 +903,6 @@
    "okunur": true
   },
   {
-   "baslik": "Can science keep up with chocolate’s ambitions?",
-   "link": "https://www.bakeryandsnacks.com/Article/2026/11/04/chocolate-innovation-can-science-match-ambition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-11-04T09:34:33+00:00",
-   "ozet": "Fermentation, cocoa alternatives and cultured cacao are giving bakery and snack makers new options for flavour, formulation and supply.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "bakeryandsnacks.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Bilim çikolatanın tutkularına ayak uydurabilecek mi?",
-   "okunur": true
-  },
-  {
-   "baslik": "Barry Callebaut plots comeback after profits tumble",
-   "link": "https://www.foodnavigator.com/Article/2026/11/04/barry-callebaut-profits-fall-but-cocoa-and-chocolate-giant-targets-recovery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-11-04T09:17:08+00:00",
-   "ozet": "Barry Callebaut's sales and profits slide despite return to growth, as the world's largest chocolate maker bets on its Focus for Growth strategy, customer partnerships and operational improvements to drive a recovery in FY 2026/27.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "foodnavigator.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Barry Callebaut kârın düşmesinin ardından geri dönüş planlıyor",
-   "okunur": true
-  },
-  {
    "baslik": "Moving Cocoa: Terry, Watchdogs & the Chocolate Villain",
    "link": "https://cocoaradar.com/moving-cocoa-terry-watchdogs-the-chocolate-villain/",
    "tarih": "2026-11-03T15:50:00+00:00",
@@ -900,19 +926,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Çikolata Üreticilerinin Kârları İyileşiyor, Ancak Talep Daha Dengesiz Bir Hikaye Anlatıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Barry Callebaut Looks To Fermentation To Recover Its Innovation Swagger",
-   "link": "https://cocoaradar.com/barry-callebaut-looks-to-fermentation-to-recover-its-innovation-swagger/",
-   "tarih": "2026-10-30T12:22:00+00:00",
-   "ozet": "Flavourcode’s Antwerp debut puts cocoa flavour and customer collaboration at the centre of the company’s pitch under new CEO Hein Schumacher",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Barry Callebaut Yenilik Swagger'ını Kurtarmak İçin Fermantasyona Bakıyor",
    "okunur": true
   },
   {
@@ -1180,7 +1193,7 @@
   [
    "ICCO",
    "8 haber",
-   1276,
+   1094,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1189,7 +1202,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1454,
+   1602,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1198,7 +1211,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3928,
+   3992,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1207,7 +1220,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   61147,
+   59826,
    "",
    "",
    null,
@@ -1216,7 +1229,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   297,
+   308,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1225,7 +1238,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   523,
+   550,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1234,7 +1247,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8876,
+   12145,
    "",
    "",
    null,
@@ -1243,7 +1256,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   421,
+   98,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1252,7 +1265,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   43661,
+   40578,
    "",
    "",
    null,
@@ -1261,7 +1274,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   190,
+   395,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1269,8 +1282,8 @@
   ],
   [
    "ConfectioneryNews",
-   "2 haber",
-   255,
+   "1 haber",
+   276,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1278,8 +1291,8 @@
   ],
   [
    "FoodNavigator",
-   "1 haber",
-   530,
+   "2 haber",
+   204,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1288,7 +1301,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   182,
+   764,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1297,7 +1310,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   164,
+   734,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1306,7 +1319,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   2468,
+   2169,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1315,7 +1328,7 @@
   [
    "MyJoyOnline · GH",
    "11 haber",
-   1299,
+   683,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1323,8 +1336,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "4 haber",
-   21561,
+   "5 haber",
+   17203,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1333,7 +1346,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   63246,
+   63339,
    "",
    "",
    null,
@@ -1342,7 +1355,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   709,
+   760,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1351,7 +1364,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   36483,
+   37267,
    "",
    "",
    null,
@@ -1360,7 +1373,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   57470,
+   27298,
    "",
    "",
    null,
@@ -1369,7 +1382,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   2236,
+   1492,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1378,7 +1391,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   781,
+   1074,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1387,7 +1400,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   29887,
+   30704,
    "",
    "",
    null,
@@ -1395,8 +1408,8 @@
   ],
   [
    "3News · GH",
-   "1 haber",
-   5335,
+   "2 haber",
+   4844,
    "https://3news.com/feed/",
    "dogrudan",
    null,
@@ -1404,8 +1417,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "besleme tanimsiz (5756 bayt, vekil)",
-   37262,
+   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
+   61807,
    "",
    "",
    null,
@@ -1414,7 +1427,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   6838,
+   3566,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
