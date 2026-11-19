@@ -1,10 +1,49 @@
 {
- "uretim": "2026-11-19T01:07:52.217521+00:00",
+ "uretim": "2026-11-19T08:42:21.681930+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 19,
- "haberSayisi": 92,
+ "calisanKaynak": 18,
+ "haberSayisi": 90,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "U.S. Certified Cocoa Stocks Rise by 27,859 Bags Ahead of December First Notice Day (18 November 2026)",
+   "link": "https://www.cocoaintel.com/u-s-certified-cocoa-stocks-rise-by-27-859-bags-ahead-of-december-first-notice-day-18-november-2026/",
+   "tarih": "2026-11-19T07:02:00+00:00",
+   "ozet": "March cocoa fell 3.38% to $5,002 per tonne in New York. London settled at £3,891, widening its March premium to $121.84 per tonne.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "ABD Sertifikalı Kakao Stokları Aralık İlk İhbar Günü (18 Kasım 2026) Öncesinde 27.859 Torba Arttı",
+   "okunur": true
+  },
+  {
+   "baslik": "Robusta dips below $3,000 as Vietnam’s harvest advances (18 November 2026)",
+   "link": "https://www.cocoaintel.com/robusta-dips-below-3-000-as-vietnams-harvest-advances-18-november-2026/",
+   "tarih": "2026-11-19T07:01:00+00:00",
+   "ozet": "March Arabica fell 2.11% to 275.45¢/lb and January Robusta settled at $3,019/t. Indonesia’s coffee crop is forecast to shrink 8% after heavy rain",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Vietnam'da hasat ilerledikçe Robusta 3.000 doların altına düştü (18 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Brazil Cane Carryover Seen at 40.6m t (18 November 2026)",
+   "link": "https://www.cocoaintel.com/brazil-cane-carryover-seen-at-40-6m-t-18-november-2026/",
+   "tarih": "2026-11-19T07:00:00+00:00",
+   "ozet": "Pecege lifts Brazil cane carryover to 40.58m tonnes and cuts sugar output. March raws settle at 18.04¢/lb. India reallocates import quota.",
+   "kaynak": "CocoaIntel",
+   "grup": "CocoaIntel",
+   "alan": "cocoaintel.com",
+   "w": 1.1,
+   "kaynakUyari": "",
+   "baslikTR": "Brezilya Kamışının Taşınması 40,6 Milyon Tonla Görüldü (18 Kasım 2026)",
+   "okunur": true
+  },
   {
    "baslik": "Has Cocoa Finally Bottomed?",
    "link": "https://www.barchart.com/story/news/8903821/has-cocoa-finally-bottomed",
@@ -32,19 +71,6 @@
    "okunur": false
   },
   {
-   "baslik": "Ghana-Canada trade climbs 50% to C$752m with cars and cocoa leading the way",
-   "link": "https://3news.com/business/economy/canada-ghana-trade-climbs-50-percent-c752m-2025",
-   "tarih": "2026-11-18T17:50:18+00:00",
-   "ozet": "Ghana has become Canada's eighth-largest trading partner in Africa, with merchandise trade reaching C$752 million in 2025.",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Gana-Kanada ticareti, otomobil ve kakaonun başı çekmesiyle %50 artışla 752 milyon Kanada dolarına ulaştı",
-   "okunur": true
-  },
-  {
    "baslik": "Improved Supply Prospects Undercut Cocoa Prices",
    "link": "https://www.barchart.com/story/news/8900970/improved-supply-prospects-undercut-cocoa-prices",
    "tarih": "2026-11-18T17:10:54+00:00",
@@ -68,19 +94,6 @@
    "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Nestlé 20 yıl sonra şekerlemenin favorisinden vazgeçti",
-   "okunur": true
-  },
-  {
-   "baslik": "Rice farmers turn to Nigerian and Burkinabe buyers as sales stall, FABAG says",
-   "link": "https://3news.com/business/agribusiness/rice-farmers-nigerian-burkinabe-buyers-fabag-rice-board",
-   "tarih": "2026-11-18T16:10:17+00:00",
-   "ozet": "FABAG wants a Rice Board modelled on cocoa buying to guarantee rice farmers a market and an announced seasonal price.",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "FABAG, pirinç çiftçilerinin satışlarını durdurmak için Nijeryalı ve Burkinabe'li alıcılara yöneldiğini söylüyor",
    "okunur": true
   },
   {
@@ -387,10 +400,10 @@
    "link": "https://www.foodnavigator.com/Article/2026/11/17/cocoa-supply-recovers-but-demand-and-resilience-remain-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-11-17T03:33:38+00:00",
    "ozet": "Cocoa supply has recovered from its recent deficit, but climate, disease and weak demand continue to expose the industry to volatility.",
-   "kaynak": "Food Manufacture",
-   "grup": "Food Manufacture",
+   "kaynak": "ConfectioneryNews",
+   "grup": "ConfectioneryNews",
    "alan": "foodnavigator.com",
-   "w": 0.85,
+   "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Kakao komplikasyonları: Üst düzey liderler önümüzdeki karmaşık zorluklar konusunda uyarıyor",
    "okunur": true
@@ -666,45 +679,6 @@
    "w": 1.2,
    "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
    "baslikTR": "Kakao Geri Dönüyor, Ancak Toparlanma Hala Kırılgan",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa Reclaims $5,000 as Ivorian Crop Risks Resurface (11 November 2026)",
-   "link": "https://www.cocoaintel.com/cocoa-reclaims-5-000-as-ivorian-crop-risks-resurface-11-november-2026/",
-   "tarih": "2026-11-12T07:02:00+00:00",
-   "ozet": "March cocoa settles at $5,046 as Ivorian crop risks regain attention. Analysis of futures, spreads, volume and open interest.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili Mahsul Risklerinin Yeniden Ortaya Çıkmasıyla Kakao 5.000 Doları Geri Aldı (11 Kasım 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Arabica Breaks 270 as Stocks Rise and Brazil Exports Surge (11 November 2026)",
-   "link": "https://www.cocoaintel.com/arabica-breaks-270-as-stocks-rise-and-brazil-exports-surge-11-november-2026/",
-   "tarih": "2026-11-12T07:01:00+00:00",
-   "ozet": "Coffee falls before options expiry as ICE stocks rise. Brazil posts record exports, while Cooxupé warns of lower 2027 crop potential.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Arabica, Stokların Yükselmesi ve Brezilya İhracatının Artmasıyla 270'i Kırdı (11 Kasım 2026)",
-   "okunur": true
-  },
-  {
-   "baslik": "Raw Sugar Dips Below 18¢ as London Gives Back Gains (11 November 2026)",
-   "link": "https://www.cocoaintel.com/raw-sugar-dips-below-18c-as-london-gives-back-gains-11-november-2026/",
-   "tarih": "2026-11-12T07:00:00+00:00",
-   "ozet": "Raw sugar trades below 18¢/lb and white premiums narrow. China raises its crop forecast while USDA cuts U.S. and Mexican sugar supply estimates.",
-   "kaynak": "CocoaIntel",
-   "grup": "CocoaIntel",
-   "alan": "cocoaintel.com",
-   "w": 1.1,
-   "kaynakUyari": "",
-   "baslikTR": "Londra'nın Kazançlarını Geri Vermesiyle Ham Şeker 18¢'in Altına Düştü (11 Kasım 2026)",
    "okunur": true
   },
   {
@@ -1206,7 +1180,7 @@
   [
    "ICCO",
    "8 haber",
-   1011,
+   1017,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1215,16 +1189,16 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1463,
+   4362,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
-   "dogrudan",
+   "vekil",
    null,
    18
   ],
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   4423,
+   3834,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1233,7 +1207,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59398,
+   59333,
    "",
    "",
    null,
@@ -1242,7 +1216,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   243,
+   160,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1251,7 +1225,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   544,
+   477,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1260,7 +1234,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   11363,
+   8578,
    "",
    "",
    null,
@@ -1269,7 +1243,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   371,
+   440,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1278,7 +1252,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   41675,
+   37822,
    "",
    "",
    null,
@@ -1287,7 +1261,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   114,
+   233,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1295,8 +1269,8 @@
   ],
   [
    "ConfectioneryNews",
-   "1 haber",
-   280,
+   "2 haber",
+   604,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1305,7 +1279,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   174,
+   350,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1314,7 +1288,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   195,
+   412,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1323,7 +1297,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   714,
+   671,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1332,16 +1306,16 @@
   [
    "Confectionery Production",
    "8 haber",
-   2143,
+   5072,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
-   "dogrudan",
+   "vekil",
    null,
    0
   ],
   [
    "MyJoyOnline · GH",
    "11 haber",
-   1394,
+   413,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1350,7 +1324,7 @@
   [
    "AIP · CI resmî ajans",
    "5 haber",
-   7093,
+   44070,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1358,8 +1332,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   59853,
+   "besleme tanimsiz (17492 bayt, vekil)",
+   10712,
    "",
    "",
    null,
@@ -1368,7 +1342,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   9491,
+   549,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1376,8 +1350,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   47743,
+   "besleme tanimsiz (5 bayt, vekil)",
+   10330,
    "",
    "",
    null,
@@ -1386,7 +1360,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   24647,
+   25281,
    "",
    "",
    null,
@@ -1395,16 +1369,16 @@
   [
    "Anecacao · EC",
    "2 haber",
-   1839,
+   6541,
    "https://www.anecacao.com/feed/",
-   "dogrudan",
+   "vekil",
    null,
    8
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   933,
+   663,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1413,7 +1387,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25201,
+   27897,
    "",
    "",
    null,
@@ -1421,17 +1395,17 @@
   ],
   [
    "3News · GH",
-   "2 haber",
-   5627,
-   "https://3news.com/feed/",
-   "dogrudan",
+   "besleme tanimsiz (387836 bayt, vekil)",
+   9526,
+   "",
+   "",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61050,
+   "besleme tanimsiz (5756 bayt, vekil)",
+   11503,
    "",
    "",
    null,
@@ -1440,7 +1414,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   3998,
+   9385,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
