@@ -1,10 +1,23 @@
 {
- "uretim": "2026-11-19T17:39:26.734318+00:00",
+ "uretim": "2026-11-19T23:47:42.003155+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 17,
  "haberSayisi": 90,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
+   "link": "https://www.barchart.com/story/news/8923277/ecuador-flooding-sparks-short-covering-in-cocoa-futures",
+   "tarih": "2026-11-19T19:22:13+00:00",
+   "ozet": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador c",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Ekvador Sel Kakao Vadeli İşlemlerinde Kısa Kapanışlara Yol Açtı",
+   "okunur": false
+  },
   {
    "baslik": "Cocoa Prices Jump as Ecuador Floods Could Disrupt Global Supplies",
    "link": "https://www.barchart.com/story/news/8921277/cocoa-prices-jump-as-ecuador-floods-could-disrupt-global-supplies",
@@ -316,19 +329,6 @@
    "kaynakUyari": "",
    "baslikTR": "AIP/ Fildişi Sahili 2028 yılına kadar %50 yerli kakao işlemeyi hedefliyor (Bakan)",
    "okunur": true
-  },
-  {
-   "baslik": "Soaring ICE Inventories Weigh on Cocoa Prices",
-   "link": "https://www.barchart.com/story/news/8882460/soaring-ice-inventories-weigh-on-cocoa-prices",
-   "tarih": "2026-11-17T19:22:33+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) closed down -12 (-0.24%) on Tuesday, and ICE London cocoa #7 (CAZ26 ) closed up +5 (+0.13%). Cocoa prices settled mixed on Tuesday. The overall cocoa market is under pressure amid signs of abundant current supplies. Cocoa prices ",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Artan ICE Stokları Kakao Fiyatlarını Etkiliyor",
-   "okunur": false
   },
   {
    "baslik": "Dangote’s bold Agri-Push signals a new era for West African trade",
@@ -1180,7 +1180,7 @@
   [
    "ICCO",
    "8 haber",
-   947,
+   912,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1189,7 +1189,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1342,
+   1461,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1198,7 +1198,7 @@
   [
    "ECA · Avrupa öğütme",
    "2 haber",
-   3482,
+   4118,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1207,7 +1207,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58120,
+   60287,
    "",
    "",
    null,
@@ -1216,7 +1216,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   156,
+   240,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1225,7 +1225,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   542,
+   485,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1234,7 +1234,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   10847,
+   11786,
    "",
    "",
    null,
@@ -1243,7 +1243,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   257,
+   749,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1252,7 +1252,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   15296,
+   42547,
    "",
    "",
    null,
@@ -1261,7 +1261,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   132,
+   154,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1270,7 +1270,7 @@
   [
    "ConfectioneryNews",
    "3 haber",
-   199,
+   372,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1279,7 +1279,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   204,
+   210,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1288,7 +1288,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7362,
+   8132,
    "",
    "",
    null,
@@ -1297,7 +1297,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   354,
+   717,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1306,7 +1306,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   1679,
+   2200,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1315,7 +1315,7 @@
   [
    "MyJoyOnline · GH",
    "10 haber",
-   212,
+   1468,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1324,7 +1324,7 @@
   [
    "AIP · CI resmî ajans",
    "5 haber",
-   14980,
+   7678,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1333,7 +1333,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   114,
+   135,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1341,8 +1341,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (202655 bayt, vekil)",
-   36503,
+   "besleme tanimsiz (204196 bayt, vekil)",
+   39807,
    "",
    "",
    null,
@@ -1350,8 +1350,8 @@
   ],
   [
    "Investir au Cameroun",
-   "besleme tanimsiz (5 bayt, vekil)",
-   19661,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   38836,
    "",
    "",
    null,
@@ -1360,7 +1360,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   24255,
+   57104,
    "",
    "",
    null,
@@ -1369,7 +1369,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   2014,
+   2104,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1378,7 +1378,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   654,
+   709,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1387,7 +1387,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   24351,
+   29681,
    "",
    "",
    null,
@@ -1395,8 +1395,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (387807 bayt, vekil)",
-   6653,
+   "besleme tanimsiz (386027 bayt, vekil)",
+   11047,
    "",
    "",
    null,
@@ -1405,7 +1405,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61346,
+   36750,
    "",
    "",
    null,
@@ -1414,7 +1414,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   3858,
+   4160,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
