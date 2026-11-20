@@ -1,10 +1,62 @@
 {
- "uretim": "2026-11-20T07:12:33.511296+00:00",
+ "uretim": "2026-11-20T16:05:19.418370+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 17,
- "haberSayisi": 90,
+ "calisanKaynak": 18,
+ "haberSayisi": 92,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Chocolate’s Future: Who Pays to Keep Cocoa Growing?",
+   "link": "https://cocoaradar.com/chocolates-future-who-pays-to-keep-cocoa-growing/",
+   "tarih": "2026-11-20T13:33:00+00:00",
+   "ozet": "Special Report: As Reading approaches 45 years of cocoa research, its quarantine centre is seeking long-term funding, while biotechnology opens new possibilities for chocolate production",
+   "kaynak": "CocoaRadar",
+   "grup": "CocoaRadar",
+   "alan": "cocoaradar.com",
+   "w": 1.2,
+   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
+   "baslikTR": "Çikolatanın Geleceği: Kakaonun Büyümesini Kim Öder?",
+   "okunur": true
+  },
+  {
+   "baslik": "Ghana Boundary Commission rehabilitates school at Elubo",
+   "link": "https://www.myjoyonline.com/ghana-boundary-commission-rehabilitates-school-at-elubo/",
+   "tarih": "2026-11-20T12:00:40+00:00",
+   "ozet": "The Ghana Boundary Commission has commissioned and handed over a six-unit classroom block and accompanying facilities to the people of Cocoa Town, a border community in the Elubo general area of the Jomoro Municipality, Western Region.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Gana Sınır Komisyonu Elubo'daki okulu rehabilite ediyor",
+   "okunur": true
+  },
+  {
+   "baslik": "The race to turn TikTok trends into supermarket sales",
+   "link": "https://www.foodnavigator.com/Article/2026/11/20/the-viral-food-economy-is-reshaping-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "tarih": "2026-11-20T11:44:04+00:00",
+   "ozet": "How social media is reshaping food innovation, from Dubai chocolate to strawberry matcha, and why manufacturers should focus on consumer needs rather than chasing every viral trend.",
+   "kaynak": "ConfectioneryNews",
+   "grup": "ConfectioneryNews",
+   "alan": "foodnavigator.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "TikTok trendlerini süpermarket satışlarına dönüştürme yarışı",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP / Lutte contre le travail des enfants : 1 431 enfants retirés des plantations de cacao grâce aux actions de la fondation ICI",
+   "link": "https://www.aip.ci/cote-divoire-aip-lutte-contre-le-travail-des-enfants-1-431-enfants-retires-des-plantations-de-cacao-grace-aux-actions-de-la-fondation-ici/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-lutte-contre-le-travail-des-enfants-1-431-enfants-retires-des-plantations-de-cacao-grace-aux-actions-de-la-fondation-ici",
+   "tarih": "2026-11-20T08:11:45+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / Çocuk işçiliğine karşı mücadele: ICI vakfının eylemleri sayesinde 1.431 çocuk kakao tarlalarından uzaklaştırıldı",
+   "okunur": true
+  },
   {
    "baslik": "Ecuador Could Have 10% Less Cocoa to Export in 2027, Exporters Say (19 November 2026)",
    "link": "https://www.cocoaintel.com/ecuador-could-have-10-less-cocoa-to-export-in-2027-exporters-say-19-november-2026/",
@@ -42,6 +94,19 @@
    "w": 1.1,
    "kaynakUyari": "",
    "baslikTR": "FAO 0,8 Milyon Ton Şeker Açığı Görüyor (19 Kasım 2026)",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Cacaoculture : plus de 7 800 enfants retirés du travail des enfants grâce aux actions de l’ICI",
+   "link": "https://www.aip.ci/cote-divoire-aip-lutte-contre-le-travail-des-enfants-dans-la-cacaoculture-7-859-enfants-sortis-du-circuit-du-travail-des-enfants-selon-initiative-cacao-international/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-lutte-contre-le-travail-des-enfants-dans-la-cacaoculture-7-859-enfants-sortis-du-circuit-du-travail-des-enfants-selon-initiative-cacao-international",
+   "tarih": "2026-11-19T23:40:35+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ Kakao çiftçiliği: ICI eylemleri sayesinde 7.800'den fazla çocuk çocuk işçiliğinden kurtarıldı",
    "okunur": true
   },
   {
@@ -669,19 +734,6 @@
    "okunur": true
   },
   {
-   "baslik": "Dangote eyes 500,000-tonne cocoa processing deal in Ghana",
-   "link": "https://www.myjoyonline.com/dangote-eyes-500000-tonne-cocoa-processing-deal-in-ghana-ato-forson/",
-   "tarih": "2026-11-13T00:17:00+00:00",
-   "ozet": "Nigerian billionaire and industrialist Aliko Dangote is seeking to establish a major cocoa-processing operation in Ghana, with a proposed arrangement that could involve the local processing of 500,000 metric tonnes of cocoa, Finance Minister Dr Cassiel Ato For",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Dangote, Gana'da 500.000 tonluk kakao işleme anlaşmasını hedefliyor",
-   "okunur": true
-  },
-  {
    "baslik": "Cocoa Rebounds, But Recovery Remains Fragile",
    "link": "https://cocoaradar.com/cocoa-rebounds-but-recovery-remains-fragile/",
    "tarih": "2026-11-12T11:40:21+00:00",
@@ -903,19 +955,6 @@
    "okunur": true
   },
   {
-   "baslik": "Moving Cocoa: Terry, Watchdogs & the Chocolate Villain",
-   "link": "https://cocoaradar.com/moving-cocoa-terry-watchdogs-the-chocolate-villain/",
-   "tarih": "2026-11-03T15:50:00+00:00",
-   "ozet": "Most companies keep their critics at arm’s length, out of fear. Terry Collingsworth’s life’s work shows what that costs and what opening up could bring",
-   "kaynak": "CocoaRadar",
-   "grup": "CocoaRadar",
-   "alan": "cocoaradar.com",
-   "w": 1.2,
-   "kaynakUyari": "CocoaRadar — ConfectioneryNews eski editoru Anthony Myers tarafindan kuruldu. Haberlerin bir kismi ucretsiz, \"Pro Intelligence Brief\" gibi derin analizler ucretli abonelik gerektirir.",
-   "baslikTR": "Hareketli Kakao: Terry, Bekçi Köpekleri ve Çikolatanın Kötü Adamı",
-   "okunur": true
-  },
-  {
    "baslik": "Barry Callebaut’s Flavourcode aims to raise the cocoa bar to new heights",
    "link": "https://www.confectioneryproduction.com/blog/60081/barry-callebauts-flavourcode-aims-to-raise-the-cocoa-bar-to-new-heights/",
    "tarih": "2026-10-28T22:02:19+00:00",
@@ -1124,19 +1163,6 @@
    "okunur": true
   },
   {
-   "baslik": "Webinar: European Ports under pressure: Supply Chain Security in the Cocoa Sector. Mitigating Drug-Trafficking Risks”",
-   "link": "https://www.eurococoa.com/events/webinar-european-ports-under-pressure-supply-chain-security-in-the-cocoa-sector-mitigating-drug-trafficking-risks/",
-   "tarih": "2026-09-21T07:38:53+00:00",
-   "ozet": "",
-   "kaynak": "ECA · Avrupa öğütme",
-   "grup": "ECA · Avrupa öğütme",
-   "alan": "eurococoa.com",
-   "w": 1.35,
-   "kaynakUyari": "ECA — Grind Stats raporlari herkese acik PDF olarak yayimlanir; Trade MasterTable, EU Regulatory Update ve fact sheet gibi araclar UYELERE ozeldir. Q3 2026 ogutme verisi 15 Ekim 2026, Q4 verisi 21 Ocak 2027 tarihinde yayimlanacak.",
-   "baslikTR": "Web semineri: Avrupa Limanları baskı altında: Kakao Sektöründe Tedarik Zinciri Güvenliği. Uyuşturucu Kaçakçılığı Risklerinin Azaltılması”",
-   "okunur": true
-  },
-  {
    "baslik": "Respect for human rights: stakeholders from forty cocoa-growing communities trained",
    "link": "https://www.cocoainitiative.org/news/respect-human-rights-stakeholders-forty-cocoa-growing-communities-trained",
    "tarih": "2026-09-14T18:21:37+00:00",
@@ -1180,7 +1206,7 @@
   [
    "ICCO",
    "8 haber",
-   836,
+   894,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1189,7 +1215,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1287,
+   831,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1197,17 +1223,17 @@
   ],
   [
    "ECA · Avrupa öğütme",
-   "2 haber",
-   3340,
+   "1 haber",
+   3393,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
-   8
+   9
   ],
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   55871,
+   57784,
    "",
    "",
    null,
@@ -1216,7 +1242,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   43,
+   118,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1225,7 +1251,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   414,
+   515,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1234,7 +1260,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   10884,
+   9792,
    "",
    "",
    null,
@@ -1243,7 +1269,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   416,
+   67,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1252,7 +1278,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   39306,
+   39766,
    "",
    "",
    null,
@@ -1261,7 +1287,7 @@
   [
    "Barchart · Softs",
    "5 haber",
-   24,
+   55,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1269,8 +1295,8 @@
   ],
   [
    "ConfectioneryNews",
-   "3 haber",
-   84,
+   "4 haber",
+   162,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1278,8 +1304,8 @@
   ],
   [
    "FoodNavigator",
-   "2 haber",
-   469,
+   "3 haber",
+   86,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1287,17 +1313,17 @@
   ],
   [
    "Food Manufacture",
-   "konuya uyan haber yok (20 kayit tarandi)",
-   5771,
-   "",
-   "",
+   "1 haber",
+   282,
+   "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Bakery & Snacks",
    "2 haber",
-   163,
+   196,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1306,7 +1332,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   1646,
+   1753,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1315,7 +1341,7 @@
   [
    "MyJoyOnline · GH",
    "10 haber",
-   213,
+   282,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1323,8 +1349,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "5 haber",
-   12818,
+   "7 haber",
+   22053,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1333,7 +1359,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   46,
+   64,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1341,8 +1367,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (206375 bayt, vekil)",
-   39700,
+   "besleme tanimsiz (206201 bayt, vekil)",
+   37920,
    "",
    "",
    null,
@@ -1350,8 +1376,8 @@
   ],
   [
    "Investir au Cameroun",
-   "besleme tanimsiz (5 bayt, vekil)",
-   6358,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   36210,
    "",
    "",
    null,
@@ -1359,8 +1385,8 @@
   ],
   [
    "BusinessDay · NG",
-   "worker: The read operation timed out | allorigins: The read operation ",
-   581018,
+   "konuya uyan haber yok (5 kayit tarandi)",
+   26601,
    "",
    "",
    null,
@@ -1369,7 +1395,7 @@
   [
    "Anecacao · EC",
    "2 haber",
-   1464,
+   2205,
    "https://www.anecacao.com/feed/",
    "dogrudan",
    null,
@@ -1378,7 +1404,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   493,
+   580,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1387,7 +1413,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25334,
+   27852,
    "",
    "",
    null,
@@ -1395,8 +1421,8 @@
   ],
   [
    "3News · GH",
-   "besleme tanimsiz (385592 bayt, vekil)",
-   5475,
+   "besleme tanimsiz (386497 bayt, vekil)",
+   5658,
    "",
    "",
    null,
@@ -1404,8 +1430,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   60581,
+   "besleme tanimsiz (5756 bayt, vekil)",
+   32493,
    "",
    "",
    null,
@@ -1414,7 +1440,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   3619,
+   3728,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
