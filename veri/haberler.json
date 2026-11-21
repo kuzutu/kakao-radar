@@ -1,36 +1,10 @@
 {
- "uretim": "2026-11-21T03:29:30.856588+00:00",
+ "uretim": "2026-11-21T11:44:02.300252+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 19,
- "haberSayisi": 91,
+ "calisanKaynak": 18,
+ "haberSayisi": 87,
  "cevirili": true,
  "haberler": [
-  {
-   "baslik": "GSE Close: Cocoa Processing climbs again as the index falls for a second week",
-   "link": "https://3news.com/business/finance/gse-close-week-20-november-2026",
-   "tarih": "2026-11-20T21:40:29+00:00",
-   "ozet": "Cocoa Processing climbed 18.84 per cent as the GSE Composite Index fell 0.97 per cent to 13,824.50 points in the week to November 20.",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "GSE Kapanışı: Kakao İşleme endeksi ikinci hafta da düşerken yeniden tırmanıyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Dr Zanetor Agyeman-Rawlings showcases cocoa and other homegrown products at COP31",
-   "link": "https://3news.com/news/dr-zanetor-agyeman-rawlings-showcases-cocoa-and-other-homegrown-products-at-cop31",
-   "tarih": "2026-11-20T19:35:10+00:00",
-   "ozet": "The exhibition offered COP31 participants an opportunity to experience Ghana beyond its traditional reputation as one of the world’s leading cocoa-producing nations",
-   "kaynak": "3News · GH",
-   "grup": "3News · GH",
-   "alan": "3news.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Dr Zanetor Agyeman-Rawlings, COP31'de kakao ve diğer evde yetiştirilen ürünleri sergiliyor",
-   "okunur": true
-  },
   {
    "baslik": "Cocoa Prices Supported by Global Supply Risks",
    "link": "https://www.barchart.com/story/news/8941134/cocoa-prices-supported-by-global-supply-risks",
@@ -370,19 +344,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ Deux acteurs de la filière café-cacao de Yamoussoukro récompensés pour leurs performances aux JNCC 2026",
-   "link": "https://www.aip.ci/cote-divoire-aip-deux-acteurs-de-la-filiere-cafe-cacao-de-yamoussoukro-recompenses-pour-leurs-performances-aux-jncc-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-deux-acteurs-de-la-filiere-cafe-cacao-de-yamoussoukro-recompenses-pour-leurs-performances-aux-jncc-2026",
-   "tarih": "2026-11-18T07:51:22+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Yamoussoukro kahve-kakao sektörünün iki oyuncusu JNCC 2026'daki performanslarından dolayı ödüllendirildi",
-   "okunur": true
-  },
-  {
    "baslik": "Côte d’Ivoire’s October Cocoa Grind Falls 1% Year on Year and 11.9% From September (17 November 2026)",
    "link": "https://www.cocoaintel.com/cote-divoires-october-cocoa-grind-falls-1-year-on-year-and-11-9-from-september-17-november-2026/",
    "tarih": "2026-11-18T07:02:00+00:00",
@@ -445,19 +406,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Yönetici Asistanı",
-   "okunur": true
-  },
-  {
-   "baslik": "AIP/ La Côte d’Ivoire vise 50% de transformation locale du cacao d’ici 2028 (Ministre)",
-   "link": "https://www.aip.ci/aip-la-cote-divoire-vise-50-de-transformation-locale-du-cacao-dici-2028-ministre/?utm_source=rss&utm_medium=rss&utm_campaign=aip-la-cote-divoire-vise-50-de-transformation-locale-du-cacao-dici-2028-ministre",
-   "tarih": "2026-11-17T20:25:22+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "AIP/ Fildişi Sahili 2028 yılına kadar %50 yerli kakao işlemeyi hedefliyor (Bakan)",
    "okunur": true
   },
   {
@@ -1193,7 +1141,7 @@
   [
    "ICCO",
    "8 haber",
-   1085,
+   879,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1202,7 +1150,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1601,
+   1619,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1211,7 +1159,7 @@
   [
    "ECA · Avrupa öğütme",
    "1 haber",
-   4104,
+   3565,
    "https://www.eurococoa.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1220,7 +1168,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57623,
+   57169,
    "",
    "",
    null,
@@ -1229,7 +1177,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   263,
+   137,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1238,7 +1186,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   665,
+   525,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1247,7 +1195,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   7792,
+   9332,
    "",
    "",
    null,
@@ -1256,7 +1204,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   322,
+   92,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1265,7 +1213,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   41985,
+   41034,
    "",
    "",
    null,
@@ -1274,7 +1222,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   130,
+   178,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1283,7 +1231,7 @@
   [
    "ConfectioneryNews",
    "4 haber",
-   224,
+   235,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1292,7 +1240,7 @@
   [
    "FoodNavigator",
    "2 haber",
-   198,
+   142,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1301,7 +1249,7 @@
   [
    "Food Manufacture",
    "1 haber",
-   803,
+   203,
    "https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1310,7 +1258,7 @@
   [
    "Bakery & Snacks",
    "2 haber",
-   684,
+   172,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1319,7 +1267,7 @@
   [
    "Confectionery Production",
    "7 haber",
-   1302,
+   1590,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1328,7 +1276,7 @@
   [
    "MyJoyOnline · GH",
    "9 haber",
-   1564,
+   1448,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1336,8 +1284,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "7 haber",
-   7303,
+   "5 haber",
+   20571,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1346,7 +1294,7 @@
   [
    "Sika Finance · CI",
    "1 haber",
-   994,
+   487,
    "https://www.sikafinance.com/rss/actualites_bourse_brvm",
    "onbellek",
    null,
@@ -1354,8 +1302,8 @@
   ],
   [
    "Business in Cameroon",
-   "besleme tanimsiz (218718 bayt, vekil)",
-   36744,
+   "besleme tanimsiz (219298 bayt, vekil)",
+   37963,
    "",
    "",
    null,
@@ -1364,7 +1312,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   38933,
+   35465,
    "",
    "",
    null,
@@ -1373,7 +1321,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   22921,
+   23242,
    "",
    "",
    null,
@@ -1382,16 +1330,16 @@
   [
    "Anecacao · EC",
    "2 haber",
-   174619,
+   1425,
    "https://www.anecacao.com/feed/",
-   "kesif",
+   "dogrudan",
    null,
    8
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   815,
+   729,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1400,7 +1348,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   24655,
+   24555,
    "",
    "",
    null,
@@ -1408,17 +1356,17 @@
   ],
   [
    "3News · GH",
-   "2 haber",
-   3616,
-   "https://3news.com/feed/",
-   "dogrudan",
+   "besleme tanimsiz (386602 bayt, vekil)",
+   8581,
+   "",
+   "",
    null,
    0
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   54100,
+   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 500: Intern",
+   46013,
    "",
    "",
    null,
@@ -1427,7 +1375,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   3700,
+   3583,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
