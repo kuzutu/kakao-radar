@@ -1,10 +1,88 @@
 {
- "uretim": "2026-11-25T18:51:28.543966+00:00",
+ "uretim": "2026-11-26T02:09:59.039213+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 16,
- "haberSayisi": 90,
+ "haberSayisi": 94,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Shareholders back PBC’s GH¢300m debt restructuring plan",
+   "link": "https://www.myjoyonline.com/shareholders-back-pbcs-gh%c2%a2300m-debt-restructuring-plan/",
+   "tarih": "2026-11-25T22:33:00+00:00",
+   "ozet": "Shareholders of Produce Buying Company (PBC), Ghana’s largest licensed cocoa buying company, have approved a plan to raise GH¢300 million from the capital market to restructure the company’s finances and revive its cocoa purchasing operations.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Hissedarlar PBC'nin GH¢300 milyon borç yeniden yapılandırma planını destekledi",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP/ Le SYNAP-CI conteste le bilan de l’opération de rachat des stocks résiduels du Conseil du café-cacao",
+   "link": "https://www.aip.ci/cote-divoire-aip-le-synap-ci-conteste-le-bilan-de-loperation-de-rachat-des-stocks-residuels-du-conseil-du-cafe-cacao/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-synap-ci-conteste-le-bilan-de-loperation-de-rachat-des-stocks-residuels-du-conseil-du-cafe-cacao",
+   "tarih": "2026-11-25T21:34:38+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP/ SYNAP-CI, Kahve-Kakao Konseyi'nin kalan stoklarını geri satın alma operasyonunun sonuçlarına itiraz ediyor",
+   "okunur": true
+  },
+  {
+   "baslik": "COCOBOD awaits committee report on expired fertiliser complaints before action",
+   "link": "https://www.myjoyonline.com/cocobod-awaits-committee-report-on-expired-fertiliser-complaints-before-action/",
+   "tarih": "2026-11-25T20:27:35+00:00",
+   "ozet": "the Ghana Cocoa Board (COCOBOD) says it will determine the next course of action over complaints of expired cocoa fertiliser in the Central Region after receiving a report from a committee investigating the matter.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD, harekete geçmeden önce süresi dolmuş gübre şikayetleriyle ilgili komite raporunu bekliyor",
+   "okunur": true
+  },
+  {
+   "baslik": "COCOBOD recalls potentially affected Natural Asontem fertiliser products in Central Region",
+   "link": "https://www.myjoyonline.com/cocobod-recalls-potentially-affected-natural-asontem-fertiliser-products-in-central-region/",
+   "tarih": "2026-11-25T20:23:25+00:00",
+   "ozet": "The Ghana Cocoa Board (COCOBOD) has initiated arrangements to recall potentially affected Natural Asontem liquid fertiliser products distributed to cocoa farmers in the Central Region following concerns about expiry dates and labelling discrepancies.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "COCOBOD, Orta Bölgedeki potansiyel olarak etkilenmiş Doğal Asontem gübre ürünlerini geri çağırıyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Dollar Weakness Boosts Cocoa Prices",
+   "link": "https://www.barchart.com/story/news/9008917/dollar-weakness-boosts-cocoa-prices",
+   "tarih": "2026-11-25T19:26:12+00:00",
+   "ozet": "March ICE NY cocoa (CCH27 ) closed up +21 (+0.39%) on Wednesday, and ICE London cocoa #7 (CAZ26 ) closed up +32 (+0.80%). Cocoa prices erased early losses on Wednesday and settled higher as short covering emerged after the dollar index ($DXY ) gave up an early",
+   "kaynak": "Barchart · Softs",
+   "grup": "Barchart · Softs",
+   "alan": "barchart.com",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Dolardaki Zayıflık Kakao Fiyatlarını Artırdı",
+   "okunur": false
+  },
+  {
+   "baslik": "Farmers report expired cocoa fertiliser complaints from various communities",
+   "link": "https://www.myjoyonline.com/farmers-report-expired-cocoa-fertiliser-complaints-from-various-communities-association-president/",
+   "tarih": "2026-11-25T19:23:06+00:00",
+   "ozet": "The President of the Ghana National Cocoa Farmers Association, Stephen Anane Boateng, says the association has received several complaints from cocoa farmers in different communities over the alleged supply of expired fertiliser.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Çiftçiler, son kullanma tarihi geçmiş kakaonun çeşitli topluluklardan gelen gübreleme şikayetlerini bildiriyor",
+   "okunur": true
+  },
   {
    "baslik": "Assin Central cocoa farmers accuse gov’t of supplying expired fertiliser, overpricing",
    "link": "https://www.myjoyonline.com/assin-central-cocoa-farmers-accuse-govt-of-supplying-expired-fertiliser-overpricing/",
@@ -84,7 +162,7 @@
    "okunur": true
   },
   {
-   "baslik": "Plant-based Happi range extends key chocolate series",
+   "baslik": "Plant-based Happi range extends established chocolate series",
    "link": "https://www.confectioneryproduction.com/news/60427/plant-based-happi-range-extends-key-chocolate-series/",
    "tarih": "2026-11-25T15:22:50+00:00",
    "ozet": "",
@@ -93,7 +171,7 @@
    "alan": "confectioneryproduction.com",
    "w": 0.8,
    "kaynakUyari": "",
-   "baslikTR": "Bitki bazlı Happi serisi, temel çikolata serisini genişletiyor",
+   "baslikTR": "Bitki bazlı Happi serisi, yerleşik çikolata serisini genişletiyor",
    "okunur": true
   },
   {
@@ -383,19 +461,6 @@
    "okunur": false
   },
   {
-   "baslik": "Cocoa Prices Supported by Reduced Ivory Coast Shipments",
-   "link": "https://www.barchart.com/story/news/8970721/cocoa-prices-supported-by-reduced-ivory-coast-shipments",
-   "tarih": "2026-11-23T19:52:47+00:00",
-   "ozet": "December ICE NY cocoa (CCZ26 ) closed up +61 (+1.19%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed up +40 (+1.02%). Reduced cocoa shipments from the Ivory Coast are supportive of prices. Ivory Coast government data on Monday showed farmers delivered 53,7",
-   "kaynak": "Barchart · Softs",
-   "grup": "Barchart · Softs",
-   "alan": "barchart.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao Fiyatları Fildişi Sahili Sevkiyatlarının Azaltılmasıyla Destekleniyor",
-   "okunur": false
-  },
-  {
    "baslik": "Climate Cop-Out: Who Pays To Keep Cocoa and Palm Growers Selling to Europe?",
    "link": "https://cocoaradar.com/climate-cop-out-who-pays-to-keep-cocoa-and-palm-growers-selling-to-europe/",
    "tarih": "2026-11-23T15:57:36+00:00",
@@ -549,19 +614,6 @@
    "w": 0.9,
    "kaynakUyari": "",
    "baslikTR": "Parlamentonun Tarım ve Kakao İşleri Seçilmiş Komitesi sürdürülebilir balıkçılıkla ilgileniyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/Café-cacao : le SYNAVICI appelle les organisations professionnelles à la responsabilité et au respect des institutions",
-   "link": "https://www.aip.ci/cote-divoire-aip-cafe-cacao-le-synavici-appelle-les-organisations-professionnelles-a-la-responsabilite-et-au-respect-des-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-cafe-cacao-le-synavici-appelle-les-organisations-professionnelles-a-la-responsabilite-et-au-respect-des-institutions",
-   "tarih": "2026-11-22T10:26:24+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/Café-cacao: SYNAVICI, profesyonel kuruluşları sorumlu olmaya ve kurumlara saygı duymaya çağırıyor",
    "okunur": true
   },
   {
@@ -1180,7 +1232,7 @@
   [
    "ICCO",
    "9 haber",
-   1085,
+   853,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1189,7 +1241,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1464,
+   1534,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1198,7 +1250,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 kayit var ama hepsi 60 gunden eski",
-   31767,
+   27228,
    "",
    "",
    null,
@@ -1207,7 +1259,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59712,
+   57757,
    "",
    "",
    null,
@@ -1216,7 +1268,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   239,
+   256,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1225,7 +1277,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   576,
+   502,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1234,7 +1286,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   7048,
+   9501,
    "",
    "",
    null,
@@ -1243,7 +1295,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   406,
+   532,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1252,7 +1304,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   39049,
+   40174,
    "",
    "",
    null,
@@ -1261,7 +1313,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   344,
+   185,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1270,7 +1322,7 @@
   [
    "ConfectioneryNews",
    "7 haber",
-   633,
+   130,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1279,7 +1331,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   453,
+   239,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1288,7 +1340,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   7678,
+   5627,
    "",
    "",
    null,
@@ -1297,7 +1349,7 @@
   [
    "Bakery & Snacks",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8561,
+   7661,
    "",
    "",
    null,
@@ -1306,7 +1358,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   2217,
+   1805,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1314,8 +1366,8 @@
   ],
   [
    "MyJoyOnline · GH",
-   "9 haber",
-   1028,
+   "13 haber",
+   228,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1324,7 +1376,7 @@
   [
    "AIP · CI resmî ajans",
    "6 haber",
-   23583,
+   7388,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1332,8 +1384,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   63212,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 520: <none>",
+   61301,
    "",
    "",
    null,
@@ -1342,16 +1394,16 @@
   [
    "Business in Cameroon",
    "1 haber",
-   4602,
+   399,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
-   "kesif",
+   "onbellek",
    null,
    0
   ],
   [
    "Investir au Cameroun",
-   "besleme tanimsiz (5 bayt, vekil)",
-   9595,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   35405,
    "",
    "",
    null,
@@ -1360,7 +1412,7 @@
   [
    "BusinessDay · NG",
    "konuya uyan haber yok (5 kayit tarandi)",
-   21044,
+   20529,
    "",
    "",
    null,
@@ -1369,7 +1421,7 @@
   [
    "Anecacao · EC",
    "1 haber",
-   1351,
+   1340,
    "https://anecacao.com/feed/",
    "onbellek",
    null,
@@ -1378,7 +1430,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   657,
+   688,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1387,7 +1439,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   31784,
+   47556,
    "",
    "",
    null,
@@ -1396,16 +1448,16 @@
   [
    "3News · GH",
    "1 haber",
-   2216,
+   1447,
    "https://3news.com/tag/cocoa/feed/",
    "dogrudan",
    null,
-   13
+   45
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   37560,
+   "worker: HTTP Error 403: Forbidden | allorigins: HTTP Error 520: <none>",
+   55146,
    "",
    "",
    null,
@@ -1414,7 +1466,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   4002,
+   3467,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
