@@ -1,10 +1,49 @@
 {
- "uretim": "2026-11-26T10:47:46.078035+00:00",
+ "uretim": "2026-11-26T20:07:55.630771+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 16,
- "haberSayisi": 95,
+ "calisanKaynak": 17,
+ "haberSayisi": 94,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Pladis’ R&D boss puts Christmas nostalgia to work",
+   "link": "https://www.bakeryandsnacks.com/Article/2026/11/26/how-pladis-rd-chief-develops-christmas-snack-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+   "tarih": "2026-11-26T16:41:42+00:00",
+   "ozet": "Pladis’ Taryn-Lisa Mollé-McConnell discusses Christmas snack innovation, taking Penguin and Jaffa Cakes into chocolate, and leading teams that challenge her.",
+   "kaynak": "Bakery & Snacks",
+   "grup": "Bakery & Snacks",
+   "alan": "bakeryandsnacks.com",
+   "w": 0.7,
+   "kaynakUyari": "",
+   "baslikTR": "Pladis'in Ar-Ge patronu Noel nostaljisini hayata geçiriyor",
+   "okunur": true
+  },
+  {
+   "baslik": "Control without confiscation: How Ghana can own the chain from pit to port, and turn raw exports into jobs",
+   "link": "https://www.myjoyonline.com/control-without-confiscation-how-ghana-can-own-the-chain-from-pit-to-port-and-turn-raw-exports-into-jobs/",
+   "tarih": "2026-11-26T16:32:47+00:00",
+   "ozet": "Ghana earned about 31 billion dollars from exports in 2025, a record, yet gold alone supplied 63.1 per cent of the total, up from 38.5 per cent in 2004, and gold, cocoa and oil together supplied about 86 per cent. Behind those figures sits a young and underemp",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Müsaderesiz kontrol: Gana, maden ocağından limana kadar zincire nasıl sahip olabilir ve ham ihracatı istihdama nasıl dönüştürebilir?",
+   "okunur": true
+  },
+  {
+   "baslik": "Côte d’Ivoire-AIP / Divo abritera un institut spécialisé dans le café et le cacao",
+   "link": "https://www.aip.ci/cote-divoire-aip-divo-abritera-un-institut-specialise-dans-le-cafe-et-le-cacao/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-divo-abritera-un-institut-specialise-dans-le-cafe-et-le-cacao",
+   "tarih": "2026-11-26T12:32:38+00:00",
+   "ozet": "",
+   "kaynak": "AIP · CI resmî ajans",
+   "grup": "AIP · CI resmî ajans",
+   "alan": "aip.ci",
+   "w": 1.0,
+   "kaynakUyari": "",
+   "baslikTR": "Fildişi Sahili-AIP / Divo, kahve ve kakao konusunda uzmanlaşmış bir enstitüye ev sahipliği yapacak",
+   "okunur": true
+  },
   {
    "baslik": "Cocoa Rallies as Ivorian Deliveries Lag and US Stocks Rise",
    "link": "https://cocoaradar.com/cocoa-rallies-as-ivorian-deliveries-lag-and-us-stocks-rise/",
@@ -422,19 +461,6 @@
    "okunur": true
   },
   {
-   "baslik": "Côte d’Ivoire-AIP/ Campagne cacao 2025-2026: le Conseil du café-cacao fait le bilan de l’opération d’enlèvement de 100 000 tonnes",
-   "link": "https://www.aip.ci/cote-divoire-aip-campagne-cacao-2025-2026-le-conseil-du-cafe-cacao-fait-le-bilan-de-loperation-denlevement-de-100-000-tonnes/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-campagne-cacao-2025-2026-le-conseil-du-cafe-cacao-fait-le-bilan-de-loperation-denlevement-de-100-000-tonnes",
-   "tarih": "2026-11-24T14:02:49+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kakao kampanyası 2025-2026: Kahve-Kakao Konseyi 100.000 tonluk kaldırma işleminin stokunu alıyor",
-   "okunur": true
-  },
-  {
    "baslik": "Beyond compliance: Turning cocoa traceability into a global competitive advantage for Ghana",
    "link": "https://www.myjoyonline.com/beyond-compliance-turning-cocoa-traceability-into-a-global-competitive-advantage-for-ghana/",
    "tarih": "2026-11-24T12:26:55+00:00",
@@ -471,19 +497,6 @@
    "w": 0.8,
    "kaynakUyari": "",
    "baslikTR": "Probat grubu, ISM Üretimi için çekirdek çikolata işleme teknolojisi sunuyor",
-   "okunur": true
-  },
-  {
-   "baslik": "Côte d’Ivoire-AIP/ Le Conseil du café-cacao veut accélérer la recherche en créant un institut dédié à la filière",
-   "link": "https://www.aip.ci/cote-divoire-aip-le-conseil-du-cafe-cacao-veut-accelerer-la-recherche-en-creant-un-institut-dedie-a-la-filiere/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-conseil-du-cafe-cacao-veut-accelerer-la-recherche-en-creant-un-institut-dedie-a-la-filiere",
-   "tarih": "2026-11-24T08:51:37+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Fildişi Sahili-AIP/ Kahve-Kakao Konseyi, sektöre adanmış bir enstitü oluşturarak araştırmaları hızlandırmak istiyor",
    "okunur": true
   },
   {
@@ -524,19 +537,6 @@
    "kaynakUyari": "",
    "baslikTR": "Pakistan Şeker İhracat Kotasını Artırdı (23 Kasım 2026)",
    "okunur": true
-  },
-  {
-   "baslik": "Le Conseil du café-cacao veut accélérer la recherche en créant un institut dédié à la filière",
-   "link": "https://www.aip.ci/le-conseil-du-cafe-cacao-veut-accelerer-la-recherche-en-creant-un-institut-dedie-a-la-filiere/?utm_source=rss&utm_medium=rss&utm_campaign=le-conseil-du-cafe-cacao-veut-accelerer-la-recherche-en-creant-un-institut-dedie-a-la-filiere",
-   "tarih": "2026-11-24T06:00:44+00:00",
-   "ozet": "",
-   "kaynak": "AIP · CI resmî ajans",
-   "grup": "AIP · CI resmî ajans",
-   "alan": "aip.ci",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kahve-Kakao Konseyi, sektöre adanmış bir enstitü oluşturarak araştırmaları hızlandırmak istiyor",
-   "okunur": false
   },
   {
    "baslik": "Climate Cop-Out: Who Pays To Keep Cocoa and Palm Growers Selling to Europe?",
@@ -916,19 +916,6 @@
    "okunur": true
   },
   {
-   "baslik": "BoG warns El Niño could trigger food inflation, threaten cocoa export earnings",
-   "link": "https://www.myjoyonline.com/bog-warns-el-nino-could-trigger-food-inflation-threaten-cocoa-export-earnings/",
-   "tarih": "2026-11-16T14:41:25+00:00",
-   "ozet": "The Bank of Ghana (BoG) has identified the potential impact of an unusually strong El Niño weather phenomenon as a major risk to Ghana’s inflation outlook, agricultural production and foreign exchange earnings in 2027. Governor of the Bank of Ghana, Dr Johnson",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "BoG, El Niño'nun gıda enflasyonunu tetikleyebileceği ve kakao ihracat kazançlarını tehdit edebileceği konusunda uyardı",
-   "okunur": true
-  },
-  {
    "baslik": "Chocolate processing forging ahead despite global tests",
    "link": "https://www.confectioneryproduction.com/feature/60281/chocolate-processing-forging-ahead-despite-global-tests/",
    "tarih": "2026-11-14T17:39:50+00:00",
@@ -1245,7 +1232,7 @@
   [
    "ICCO",
    "10 haber",
-   939,
+   963,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1254,7 +1241,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   5409,
+   1549,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1263,7 +1250,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 kayit var ama hepsi 60 gunden eski",
-   30161,
+   15049,
    "",
    "",
    null,
@@ -1272,7 +1259,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   59239,
+   57271,
    "",
    "",
    null,
@@ -1281,7 +1268,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   228,
+   197,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1290,7 +1277,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   529,
+   594,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1299,7 +1286,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   10050,
+   7027,
    "",
    "",
    null,
@@ -1308,7 +1295,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   423,
+   258,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1317,7 +1304,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   14777,
+   17952,
    "",
    "",
    null,
@@ -1326,7 +1313,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   174,
+   162,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1335,7 +1322,7 @@
   [
    "ConfectioneryNews",
    "7 haber",
-   591,
+   613,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1344,7 +1331,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   132,
+   637,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1353,7 +1340,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8362,
+   5745,
    "",
    "",
    null,
@@ -1361,17 +1348,17 @@
   ],
   [
    "Bakery & Snacks",
-   "konuya uyan haber yok (20 kayit tarandi)",
-   8626,
-   "",
-   "",
+   "1 haber",
+   379,
+   "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
+   "dogrudan",
    null,
    0
   ],
   [
    "Confectionery Production",
    "8 haber",
-   1326,
+   1847,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1380,7 +1367,7 @@
   [
    "MyJoyOnline · GH",
    "14 haber",
-   926,
+   209,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1388,8 +1375,8 @@
   ],
   [
    "AIP · CI resmî ajans",
-   "6 haber",
-   14827,
+   "4 haber",
+   11079,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1398,7 +1385,7 @@
   [
    "Sika Finance · CI",
    "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   63155,
+   59922,
    "",
    "",
    null,
@@ -1407,7 +1394,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   831,
+   432,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1415,8 +1402,8 @@
   ],
   [
    "Investir au Cameroun",
-   "besleme tanimsiz (5 bayt, vekil)",
-   11138,
+   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
+   34727,
    "",
    "",
    null,
@@ -1424,8 +1411,8 @@
   ],
   [
    "BusinessDay · NG",
-   "konuya uyan haber yok (5 kayit tarandi)",
-   25441,
+   "besleme tanimsiz (88301 bayt, vekil)",
+   25755,
    "",
    "",
    null,
@@ -1434,7 +1421,7 @@
   [
    "Anecacao · EC",
    "1 haber",
-   1301,
+   1025,
    "https://anecacao.com/feed/",
    "onbellek",
    null,
@@ -1443,7 +1430,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   775,
+   734,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1452,7 +1439,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   32073,
+   26320,
    "",
    "",
    null,
@@ -1461,7 +1448,7 @@
   [
    "3News · GH",
    "1 haber",
-   2038,
+   1754,
    "https://3news.com/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1469,8 +1456,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61449,
+   "besleme tanimsiz (5756 bayt, vekil)",
+   12598,
    "",
    "",
    null,
@@ -1479,7 +1466,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   4455,
+   5701,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
