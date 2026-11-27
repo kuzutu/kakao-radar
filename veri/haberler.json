@@ -1,19 +1,58 @@
 {
- "uretim": "2026-11-27T02:48:06.759666+00:00",
+ "uretim": "2026-11-27T12:04:23.822242+00:00",
  "kaynakSayisi": 27,
  "calisanKaynak": 17,
- "haberSayisi": 94,
+ "haberSayisi": 93,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Chocoa and Amsterdam cocoa week",
+   "link": "https://www.confectioneryproduction.com/event/60459/chocoa-and-amsterdam-cocoa-week/",
+   "tarih": "2026-11-27T08:16:10+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Chocoa ve Amsterdam kakao haftası",
+   "okunur": true
+  },
+  {
+   "baslik": "Terkper revisits cocoa price controversy as economic pressures mount",
+   "link": "https://www.myjoyonline.com/terkper-revisits-cocoa-price-controversy-as-economic-pressures-mount/",
+   "tarih": "2026-11-27T02:35:00+00:00",
+   "ozet": "Seth Terkper, Presidential Advisor on the Economy, has revisited the controversy over cocoa producer prices, questioning the sector's apparent silence as economic pressures mount.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Terkper, ekonomik baskılar arttıkça kakao fiyatı tartışmasını yeniden değerlendirdi",
+   "okunur": true
+  },
+  {
+   "baslik": "Falling cocoa prices: Terkper questions silence after last year’s fierce debate",
+   "link": "https://www.myjoyonline.com/falling-cocoa-prices-terkper-questions-silence-after-last-years-fierce-debate/",
+   "tarih": "2026-11-26T23:54:00+00:00",
+   "ozet": "Presidential Advisor on the Economy, Seth Terkper, has questioned the apparent silence on falling cocoa prices after last year's intense public debate over payments to cocoa farmers during last year’s budget discussions.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Kakao fiyatları düşüyor: Terkper geçen yılki şiddetli tartışmanın ardından sessizliği sorguluyor",
+   "okunur": true
+  },
   {
    "baslik": "Pladis’ R&D boss puts Christmas nostalgia to work",
    "link": "https://www.bakeryandsnacks.com/Article/2026/11/26/how-pladis-rd-chief-develops-christmas-snack-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
    "tarih": "2026-11-26T16:41:42+00:00",
    "ozet": "Pladis’ Taryn-Lisa Mollé-McConnell discusses Christmas snack innovation, taking Penguin and Jaffa Cakes into chocolate, and leading teams that challenge her.",
-   "kaynak": "Bakery & Snacks",
-   "grup": "Bakery & Snacks",
+   "kaynak": "ConfectioneryNews",
+   "grup": "ConfectioneryNews",
    "alan": "bakeryandsnacks.com",
-   "w": 0.7,
+   "w": 1.0,
    "kaynakUyari": "",
    "baslikTR": "Pladis'in Ar-Ge patronu Noel nostaljisini hayata geçiriyor",
    "okunur": true
@@ -864,45 +903,6 @@
    "okunur": true
   },
   {
-   "baslik": "Oti Regional Minister highlights government development projects",
-   "link": "https://www.myjoyonline.com/oti-regional-minister-highlights-government-development-projects/",
-   "tarih": "2026-11-17T05:13:00+00:00",
-   "ozet": "The government has set a target to process 100 per cent of Ghana’s cocoa locally by 2030 as part of efforts to deepen value addition, expand agro-processing and retain more economic benefits from the cocoa industry.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Oti Bölge Bakanı hükümetin kalkınma projelerini vurguladı",
-   "okunur": true
-  },
-  {
-   "baslik": "BoG warns strong El Niño could affect food prices, cocoa and cedi",
-   "link": "https://www.myjoyonline.com/bog-warns-strong-el-nino-could-affect-food-prices-cocoa-and-cedi/",
-   "tarih": "2026-11-17T05:04:00+00:00",
-   "ozet": "Dr Johnson Pandit Asiama, Governor of the Bank of Ghana (BoG), Monday warned that an unusually strong El Niño episode could affect agricultural production across West Africa, including Ghana.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "BoG, güçlü El Niño'nun gıda fiyatları, kakao ve sediri etkileyebileceği konusunda uyardı",
-   "okunur": true
-  },
-  {
-   "baslik": "Cocoa complications: Senior leaders warn of complex challenges ahead",
-   "link": "https://www.foodnavigator.com/Article/2026/11/17/cocoa-supply-recovers-but-demand-and-resilience-remain-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-   "tarih": "2026-11-17T03:33:38+00:00",
-   "ozet": "Cocoa supply has recovered from its recent deficit, but climate, disease and weak demand continue to expose the industry to volatility.",
-   "kaynak": "ConfectioneryNews",
-   "grup": "ConfectioneryNews",
-   "alan": "foodnavigator.com",
-   "w": 1.0,
-   "kaynakUyari": "",
-   "baslikTR": "Kakao komplikasyonları: Üst düzey liderler önümüzdeki karmaşık zorluklar konusunda uyarıyor",
-   "okunur": true
-  },
-  {
    "baslik": "UK Opens Cocoa Deforestation Consultation as Farmers Warn Over Costs",
    "link": "https://cocoaradar.com/uk-opens-cocoa-deforestation-consultation-as-farmers-warn-over-costs/",
    "tarih": "2026-11-16T15:29:00+00:00",
@@ -1072,19 +1072,6 @@
    "okunur": true
   },
   {
-   "baslik": "Core investment for Audrey’s chocolatiers boost manufacturing",
-   "link": "https://www.confectioneryproduction.com/news/60156/major-investment-for-audreys-chocolatiers-boosts-fresh-manufacturing-drive/",
-   "tarih": "2026-11-07T12:06:12+00:00",
-   "ozet": "",
-   "kaynak": "Confectionery Production",
-   "grup": "Confectionery Production",
-   "alan": "confectioneryproduction.com",
-   "w": 0.8,
-   "kaynakUyari": "",
-   "baslikTR": "Audrey çikolata imalatçılarına yapılan temel yatırım üretimi artırıyor",
-   "okunur": true
-  },
-  {
    "baslik": "Tackling deforestation at its roots",
    "link": "https://worldcocoafoundation.org/news-and-resources/article/from-data-to-impact-tackling-deforestation-at-its-roots",
    "tarih": "2026-10-26T14:13:27+01:00",
@@ -1232,7 +1219,7 @@
   [
    "ICCO",
    "10 haber",
-   840,
+   1111,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1241,7 +1228,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   908,
+   1462,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1250,7 +1237,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 kayit var ama hepsi 60 gunden eski",
-   14699,
+   18578,
    "",
    "",
    null,
@@ -1259,7 +1246,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   57881,
+   60159,
    "",
    "",
    null,
@@ -1268,7 +1255,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   149,
+   96,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1277,7 +1264,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   379,
+   585,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1286,7 +1273,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8938,
+   9320,
    "",
    "",
    null,
@@ -1295,7 +1282,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   192,
+   235,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1304,7 +1291,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   41293,
+   41670,
    "",
    "",
    null,
@@ -1313,7 +1300,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   112,
+   231,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1322,7 +1309,7 @@
   [
    "ConfectioneryNews",
    "7 haber",
-   242,
+   311,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1331,7 +1318,7 @@
   [
    "FoodNavigator",
    "3 haber",
-   253,
+   185,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1340,7 +1327,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8444,
+   8025,
    "",
    "",
    null,
@@ -1349,7 +1336,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   197,
+   767,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1358,7 +1345,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   1797,
+   2172,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1367,7 +1354,7 @@
   [
    "MyJoyOnline · GH",
    "14 haber",
-   255,
+   1112,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1376,7 +1363,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   8022,
+   12612,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1384,8 +1371,8 @@
   ],
   [
    "Sika Finance · CI",
-   "besleme tanimsiz (17492 bayt, vekil)",
-   42995,
+   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
+   63642,
    "",
    "",
    null,
@@ -1394,7 +1381,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   433,
+   862,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1402,8 +1389,8 @@
   ],
   [
    "Investir au Cameroun",
-   "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   34391,
+   "besleme tanimsiz (5 bayt, vekil)",
+   11778,
    "",
    "",
    null,
@@ -1411,8 +1398,8 @@
   ],
   [
    "BusinessDay · NG",
-   "besleme tanimsiz (88299 bayt, vekil)",
-   22441,
+   "besleme tanimsiz (88301 bayt, vekil)",
+   55663,
    "",
    "",
    null,
@@ -1421,7 +1408,7 @@
   [
    "Anecacao · EC",
    "1 haber",
-   1396,
+   1394,
    "https://anecacao.com/feed/",
    "onbellek",
    null,
@@ -1430,7 +1417,7 @@
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   589,
+   663,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1439,7 +1426,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   29273,
+   32851,
    "",
    "",
    null,
@@ -1448,7 +1435,7 @@
   [
    "3News · GH",
    "1 haber",
-   1399,
+   2217,
    "https://3news.com/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1456,8 +1443,8 @@
   ],
   [
    "Asaase Radio · GH",
-   "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   58150,
+   "besleme tanimsiz (5756 bayt, vekil)",
+   35543,
    "",
    "",
    null,
@@ -1466,7 +1453,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   3845,
+   3813,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
