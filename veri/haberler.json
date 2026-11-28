@@ -1,10 +1,23 @@
 {
- "uretim": "2026-11-27T21:08:39.422614+00:00",
+ "uretim": "2026-11-28T03:17:24.428089+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 17,
- "haberSayisi": 95,
+ "calisanKaynak": 16,
+ "haberSayisi": 93,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production",
+   "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md-2/",
+   "tarih": "2026-11-27T21:25:19+00:00",
+   "ozet": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine cocoa production.",
+   "kaynak": "MyJoyOnline · GH",
+   "grup": "MyJoyOnline · GH",
+   "alan": "myjoyonline.com",
+   "w": 0.9,
+   "kaynakUyari": "",
+   "baslikTR": "Galamsey, düzensiz hava koşulları Gana'nın kakao üretiminde benzeri görülmemiş bir düşüşe neden oluyor",
+   "okunur": true
+  },
   {
    "baslik": "Supply Woes Push Cocoa Prices to 3-Week Highs",
    "link": "https://www.barchart.com/story/news/9036457/supply-woes-push-cocoa-prices-to-3-week-highs",
@@ -17,19 +30,6 @@
    "kaynakUyari": "",
    "baslikTR": "Arzdaki Sıkıntılar Kakao Fiyatlarını 3 Haftanın En Yüksek Seviyesine Taştı",
    "okunur": false
-  },
-  {
-   "baslik": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production",
-   "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md/",
-   "tarih": "2026-11-27T18:35:09+00:00",
-   "ozet": "Concerns over the future of Ghana's cocoa industry are growing, as farmers warn that the destruction of forest reserves, illegal mining and changing climate patterns could further undermine cocoa production.",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Galamsey, düzensiz hava koşulları Gana'nın kakao üretiminde benzeri görülmemiş bir düşüşe neden oluyor",
-   "okunur": true
   },
   {
    "baslik": "Cocoa Prices Edge Up to 3-Week Highs on Supply Woes",
@@ -903,19 +903,6 @@
    "okunur": true
   },
   {
-   "baslik": "Dangote’s bold Agri-Push signals a new era for West African trade",
-   "link": "https://www.myjoyonline.com/dangotes-bold-agri-push-signals-a-new-era-for-west-african-trade-borderless-alliance-president/",
-   "tarih": "2026-11-17T16:03:25+00:00",
-   "ozet": "Africa’s richest man, Aliko Dangote, has set his sights on transforming Ghana’s agricultural sector with massive investments in sugar, cocoa, and rice processing—a move that regional trade advocate Ziad Hamoui believes could finally shift West Africa away from",
-   "kaynak": "MyJoyOnline · GH",
-   "grup": "MyJoyOnline · GH",
-   "alan": "myjoyonline.com",
-   "w": 0.9,
-   "kaynakUyari": "",
-   "baslikTR": "Dangote'un cesur Agri-Push'ı Batı Afrika ticaretinde yeni bir döneme işaret ediyor",
-   "okunur": true
-  },
-  {
    "baslik": "West Africa’s Cocoa Squeeze Tests Ghana’s Processing Ambitions",
    "link": "https://cocoaradar.com/west-africas-cocoa-squeeze-tests-ghanas-processing-ambitions/",
    "tarih": "2026-11-17T14:45:00+00:00",
@@ -1226,26 +1213,13 @@
    "kaynakUyari": "",
    "baslikTR": "İkinci ExpoCacau rekor katılımla yönetim ve işbirlikçi gelişim çağrıları yaptı",
    "okunur": true
-  },
-  {
-   "baslik": "El mercado del cacao después de la tormenta: Lecciones de la más grande crisis global.",
-   "link": "https://anecacao.com/el-mercado-del-cacao-despues-de-la-tormenta-lecciones-de-la-mas-grande-crisis-global/",
-   "tarih": "2026-09-01T19:41:25+00:00",
-   "ozet": "",
-   "kaynak": "Anecacao · EC",
-   "grup": "Anecacao · EC",
-   "alan": "anecacao.com",
-   "w": 0.95,
-   "kaynakUyari": "Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, geriye bakis 180 gun.",
-   "baslikTR": "Fırtınadan sonra kakao pazarı: En büyük küresel krizden dersler.",
-   "okunur": true
   }
  ],
  "rapor": [
   [
    "ICCO",
    "10 haber",
-   986,
+   825,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1254,7 +1228,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1493,
+   1516,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1263,7 +1237,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 kayit var ama hepsi 60 gunden eski",
-   19010,
+   14835,
    "",
    "",
    null,
@@ -1272,7 +1246,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58380,
+   58175,
    "",
    "",
    null,
@@ -1281,7 +1255,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   152,
+   138,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1290,7 +1264,7 @@
   [
    "World Cocoa Foundation",
    "3 haber",
-   492,
+   517,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
@@ -1299,7 +1273,7 @@
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   8835,
+   9892,
    "",
    "",
    null,
@@ -1308,7 +1282,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   291,
+   161,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1317,7 +1291,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   28089,
+   33433,
    "",
    "",
    null,
@@ -1326,7 +1300,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   189,
+   176,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1335,7 +1309,7 @@
   [
    "ConfectioneryNews",
    "8 haber",
-   599,
+   180,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1344,7 +1318,7 @@
   [
    "FoodNavigator",
    "4 haber",
-   298,
+   247,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1353,7 +1327,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8360,
+   8253,
    "",
    "",
    null,
@@ -1362,7 +1336,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   623,
+   849,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1371,7 +1345,7 @@
   [
    "Confectionery Production",
    "8 haber",
-   1967,
+   1980,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1380,7 +1354,7 @@
   [
    "MyJoyOnline · GH",
    "15 haber",
-   920,
+   824,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1389,7 +1363,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   18299,
+   11004,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1397,8 +1371,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: The read operation tim",
-   62859,
+   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
+   47066,
    "",
    "",
    null,
@@ -1407,7 +1381,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   654,
+   1470,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1416,7 +1390,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   35627,
+   34098,
    "",
    "",
    null,
@@ -1424,8 +1398,8 @@
   ],
   [
    "BusinessDay · NG",
-   "besleme tanimsiz (88253 bayt, vekil)",
-   25573,
+   "besleme tanimsiz (88256 bayt, vekil)",
+   21811,
    "",
    "",
    null,
@@ -1433,17 +1407,17 @@
   ],
   [
    "Anecacao · EC",
-   "1 haber",
-   1483,
-   "https://anecacao.com/feed/",
-   "onbellek",
+   "worker: The read operation timed out | allorigins: HTTP Error 500: Int",
+   141375,
+   "",
+   "",
    null,
-   9
+   0
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   693,
+   518,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1452,7 +1426,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   21937,
+   25254,
    "",
    "",
    null,
@@ -1461,7 +1435,7 @@
   [
    "3News · GH",
    "1 haber",
-   1882,
+   1921,
    "https://3news.com/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1470,7 +1444,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61215,
+   61028,
    "",
    "",
    null,
@@ -1479,7 +1453,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   4391,
+   3995,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
