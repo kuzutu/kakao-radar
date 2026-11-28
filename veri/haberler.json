@@ -1,10 +1,23 @@
 {
- "uretim": "2026-11-28T03:17:24.428089+00:00",
+ "uretim": "2026-11-28T12:18:50.452077+00:00",
  "kaynakSayisi": 27,
- "calisanKaynak": 16,
- "haberSayisi": 93,
+ "calisanKaynak": 17,
+ "haberSayisi": 94,
  "cevirili": true,
  "haberler": [
+  {
+   "baslik": "Ghana agri group welcomes free cocoa crop fertiliser campaign",
+   "link": "https://www.confectioneryproduction.com/news/60466/ghana-group-welcomes-vital-free-cocoa-crop-fertiliser-campaign/",
+   "tarih": "2026-11-28T10:14:12+00:00",
+   "ozet": "",
+   "kaynak": "Confectionery Production",
+   "grup": "Confectionery Production",
+   "alan": "confectioneryproduction.com",
+   "w": 0.8,
+   "kaynakUyari": "",
+   "baslikTR": "Gana tarım grubu ücretsiz kakao mahsulü gübre kampanyasını memnuniyetle karşıladı",
+   "okunur": true
+  },
   {
    "baslik": "Galamsey, erratic weather cause unprecedented decline in Ghana’s cocoa production",
    "link": "https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md-2/",
@@ -1202,16 +1215,16 @@
    "okunur": true
   },
   {
-   "baslik": "Second ExpoCacau has record attendance and calls for management and cooperative development",
-   "link": "https://worldcocoafoundation.org/news-and-resources/article/second-expocacau-has-record-attendance-and-calls-for-management-and-cooperative-development",
-   "tarih": "2026-09-29T12:50:36+02:00",
-   "ozet": "With record attendance, ExpoCacau closed on August 27 drawing 7,000 people to the Convention Center in Ilheús, state of Bahia, over the course of three days.",
-   "kaynak": "World Cocoa Foundation",
-   "grup": "World Cocoa Foundation",
-   "alan": "worldcocoafoundation.org",
-   "w": 0.85,
-   "kaynakUyari": "",
-   "baslikTR": "İkinci ExpoCacau rekor katılımla yönetim ve işbirlikçi gelişim çağrıları yaptı",
+   "baslik": "El mercado del cacao después de la tormenta: Lecciones de la más grande crisis global.",
+   "link": "https://anecacao.com/el-mercado-del-cacao-despues-de-la-tormenta-lecciones-de-la-mas-grande-crisis-global/",
+   "tarih": "2026-09-01T19:41:25+00:00",
+   "ozet": "",
+   "kaynak": "Anecacao · EC",
+   "grup": "Anecacao · EC",
+   "alan": "anecacao.com",
+   "w": 0.95,
+   "kaynakUyari": "Anecacao — Ekvador kakao ihracatcilari birligi. Seyrek yayin yapiyor, geriye bakis 180 gun.",
+   "baslikTR": "Fırtınadan sonra kakao pazarı: En büyük küresel krizden dersler.",
    "okunur": true
   }
  ],
@@ -1219,7 +1232,7 @@
   [
    "ICCO",
    "10 haber",
-   825,
+   958,
    "https://www.icco.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1228,7 +1241,7 @@
   [
    "CIGHCI · Fildişi-Gana",
    "2 haber",
-   1516,
+   1386,
    "https://www.cighci.org/wp-json/wp/v2/posts?per_page=20&orderby=date&order=desc&_fields=title,link,date,excerpt",
    "dogrudan",
    null,
@@ -1237,7 +1250,7 @@
   [
    "ECA · Avrupa öğütme",
    "3 kayit var ama hepsi 60 gunden eski",
-   14835,
+   14297,
    "",
    "",
    null,
@@ -1246,7 +1259,7 @@
   [
    "CAOBISCO · AB sanayi",
    "konuya uyan haber yok (20 kayit tarandi)",
-   58175,
+   57578,
    "",
    "",
    null,
@@ -1255,7 +1268,7 @@
   [
    "CocoaRadar",
    "15 haber",
-   138,
+   125,
    "https://cocoaradar.com/archive/rss/",
    "dogrudan",
    null,
@@ -1263,17 +1276,17 @@
   ],
   [
    "World Cocoa Foundation",
-   "3 haber",
-   517,
+   "2 haber",
+   513,
    "https://worldcocoafoundation.org/news-and-resources/resources-feed.xml",
    "onbellek",
    null,
-   7
+   8
   ],
   [
    "The Cocoa Post",
    "25 kayit var ama hepsi 60 gunden eski",
-   9892,
+   7682,
    "",
    "",
    null,
@@ -1282,7 +1295,7 @@
   [
    "CocoaIntel",
    "15 haber",
-   161,
+   170,
    "https://www.cocoaintel.com/feed/",
    "dogrudan",
    null,
@@ -1291,7 +1304,7 @@
   [
    "Panamir",
    "besleme tanimsiz (988 bayt, vekil)",
-   33433,
+   39076,
    "",
    "",
    null,
@@ -1300,7 +1313,7 @@
   [
    "Barchart · Softs",
    "4 haber",
-   176,
+   119,
    "https://www.barchart.com/news/rss/commodities/softs",
    "dogrudan",
    null,
@@ -1309,7 +1322,7 @@
   [
    "ConfectioneryNews",
    "8 haber",
-   180,
+   270,
    "https://www.confectionerynews.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1318,7 +1331,7 @@
   [
    "FoodNavigator",
    "4 haber",
-   247,
+   160,
    "https://www.foodnavigator.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1327,7 +1340,7 @@
   [
    "Food Manufacture",
    "konuya uyan haber yok (20 kayit tarandi)",
-   8253,
+   6945,
    "",
    "",
    null,
@@ -1336,7 +1349,7 @@
   [
    "Bakery & Snacks",
    "1 haber",
-   849,
+   247,
    "https://www.bakeryandsnacks.com/arc/outboundfeeds/rss/",
    "dogrudan",
    null,
@@ -1344,8 +1357,8 @@
   ],
   [
    "Confectionery Production",
-   "8 haber",
-   1980,
+   "9 haber",
+   1508,
    "https://www.confectioneryproduction.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1354,7 +1367,7 @@
   [
    "MyJoyOnline · GH",
    "15 haber",
-   824,
+   771,
    "https://www.myjoyonline.com/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
@@ -1363,7 +1376,7 @@
   [
    "AIP · CI resmî ajans",
    "4 haber",
-   11004,
+   15549,
    "https://www.aip.ci/?s=cacao&feed=rss2",
    "dogrudan",
    null,
@@ -1371,8 +1384,8 @@
   ],
   [
    "Sika Finance · CI",
-   "worker: HTTP Error 404: Not Found | allorigins: HTTP Error 500: Intern",
-   47066,
+   "besleme tanimsiz (17492 bayt, vekil)",
+   33165,
    "",
    "",
    null,
@@ -1381,7 +1394,7 @@
   [
    "Business in Cameroon",
    "1 haber",
-   1470,
+   402,
    "https://www.businessincameroon.com/index.php/component/obrss/fullrss",
    "onbellek",
    null,
@@ -1390,7 +1403,7 @@
   [
    "Investir au Cameroun",
    "worker: HTTP Error 500: Internal Server Err | allorigins: The read ope",
-   34098,
+   34510,
    "",
    "",
    null,
@@ -1398,8 +1411,8 @@
   ],
   [
    "BusinessDay · NG",
-   "besleme tanimsiz (88256 bayt, vekil)",
-   21811,
+   "besleme tanimsiz (88074 bayt, vekil)",
+   22298,
    "",
    "",
    null,
@@ -1407,17 +1420,17 @@
   ],
   [
    "Anecacao · EC",
-   "worker: The read operation timed out | allorigins: HTTP Error 500: Int",
-   141375,
-   "",
-   "",
+   "1 haber",
+   2078,
+   "https://www.anecacao.com/feed/",
+   "dogrudan",
    null,
-   0
+   9
   ],
   [
    "Intl Cocoa Initiative",
    "8 haber",
-   518,
+   597,
    "https://www.cocoainitiative.org/rss.xml",
    "onbellek",
    null,
@@ -1426,7 +1439,7 @@
   [
    "Bank of Ghana",
    "konuya uyan haber yok (3 kayit tarandi)",
-   25254,
+   30511,
    "",
    "",
    null,
@@ -1435,7 +1448,7 @@
   [
    "3News · GH",
    "1 haber",
-   1921,
+   1389,
    "https://3news.com/tag/cocoa/feed/",
    "dogrudan",
    null,
@@ -1444,7 +1457,7 @@
   [
    "Asaase Radio · GH",
    "worker: HTTP Error 403: Forbidden | allorigins: The read operation tim",
-   61028,
+   60924,
    "",
    "",
    null,
@@ -1453,7 +1466,7 @@
   [
    "Ghanaian Times",
    "1 haber",
-   3995,
+   3819,
    "https://www.ghanaiantimes.com.gh/?s=cocoa&feed=rss2",
    "dogrudan",
    null,
